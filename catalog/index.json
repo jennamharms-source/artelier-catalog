@@ -1,0 +1,18 @@
+{
+  "source": "Art Institute of Chicago open data",
+  "source_repo": "https://github.com/art-institute-of-chicago/api-data",
+  "license": "CC0 / Public Domain works only (is_public_domain=true)",
+  "records": 38227,
+  "artists": 5751,
+  "shards": 8,
+  "shard_files": [
+    "aic-0000.json",
+    "aic-0001.json",
+    "aic-0002.json",
+    "aic-0003.json",
+    "aic-0004.json",
+    "aic-0005.json",
+    "aic-0006.json",
+    "aic-0007.json"
+  ]
+}

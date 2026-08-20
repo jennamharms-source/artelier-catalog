@@ -1,0 +1,21 @@
+{
+  "source": "National Gallery of Art open data",
+  "source_repo": "https://github.com/NationalGalleryOfArt/opendata",
+  "license": "CC0; open-access images only (published_images.openaccess)",
+  "records": 52731,
+  "artists": 5988,
+  "shards": 11,
+  "shard_files": [
+    "nga-0000.json",
+    "nga-0001.json",
+    "nga-0002.json",
+    "nga-0003.json",
+    "nga-0004.json",
+    "nga-0005.json",
+    "nga-0006.json",
+    "nga-0007.json",
+    "nga-0008.json",
+    "nga-0009.json",
+    "nga-0010.json"
+  ]
+}
