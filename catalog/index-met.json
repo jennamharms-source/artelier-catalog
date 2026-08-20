@@ -1,11 +1,28 @@
 {
-  "source": "The Metropolitan Museum of Art open access (highlights)",
+  "source": "The Metropolitan Museum of Art open access",
   "source_repo": "https://github.com/metmuseum/openaccess",
-  "license": "CC0; public-domain highlights with images",
-  "records": 81,
-  "artists": 62,
-  "shards": 1,
+  "image_index": "https://github.com/graslowsnail/metmuseum-api-dump-enhanced (CC0)",
+  "license": "CC0; public-domain works per the official Met dataset, restricted images excluded",
+  "records": 82954,
+  "artists": 14793,
+  "shards": 17,
   "shard_files": [
-    "met-0000.json"
+    "met-0000.json",
+    "met-0001.json",
+    "met-0002.json",
+    "met-0003.json",
+    "met-0004.json",
+    "met-0005.json",
+    "met-0006.json",
+    "met-0007.json",
+    "met-0008.json",
+    "met-0009.json",
+    "met-0010.json",
+    "met-0011.json",
+    "met-0012.json",
+    "met-0013.json",
+    "met-0014.json",
+    "met-0015.json",
+    "met-0016.json"
   ]
 }
