@@ -1,0 +1,41 @@
+name: Build Artelier catalog from AIC open data
+
+on:
+  workflow_dispatch: {}        # run manually from the Actions tab
+  schedule:
+    - cron: "0 6 3 * *"        # monthly: 3rd of each month, 06:00 UTC (AIC refreshes monthly)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download AIC data dump (~115MB)
+        run: curl -sSL -o artic.tar.bz2 https://artic-api-data.s3.amazonaws.com/artic-api-data.tar.bz2
+
+      - name: Transform AIC to Artelier catalog shards
+        run: python3 scripts/transform_aic.py artic.tar.bz2 catalog
+
+      - name: Download NGA open data CSVs
+        run: |
+          mkdir -p nga
+          for f in objects.csv published_images.csv constituents.csv objects_constituents.csv; do
+            curl -sSL -o "nga/$f" "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/$f"
+          done
+
+      - name: Transform NGA to Artelier catalog shards
+        run: python3 scripts/transform_nga.py nga catalog
+
+      - name: Commit dataset
+        run: |
+          rm -rf artic.tar.bz2 nga
+          git config user.name "artelier-catalog-bot"
+          git config user.email "actions@github.com"
+          git add catalog/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Rebuild catalog shards ($(date -u +%Y-%m-%d))"
+          git push
