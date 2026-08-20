@@ -30,15 +30,18 @@ jobs:
       - name: Transform NGA to Artelier catalog shards
         run: python3 scripts/transform_nga.py nga catalog
 
-      - name: Download Met open access CSV (LFS, ~300MB)
+      - name: Download Met official CSV (LFS, ~300MB)
         run: curl -sSL -o MetObjects.csv https://media.githubusercontent.com/media/metmuseum/openaccess/master/MetObjects.csv
 
-      - name: Transform Met highlights to Artelier catalog shards
-        run: python3 scripts/transform_met.py MetObjects.csv catalog
+      - name: Download Met community image index (LFS)
+        run: curl -sSL -o BetterMetObjects.csv https://media.githubusercontent.com/media/graslowsnail/metmuseum-api-dump-enhanced/main/BetterMetObjects.csv
+
+      - name: Transform Met to Artelier catalog shards (official rights + image join)
+        run: python3 scripts/transform_met_v2.py MetObjects.csv BetterMetObjects.csv catalog
 
       - name: Commit dataset
         run: |
-          rm -rf artic.tar.bz2 nga MetObjects.csv
+          rm -rf artic.tar.bz2 nga MetObjects.csv BetterMetObjects.csv
           git config user.name "artelier-catalog-bot"
           git config user.email "actions@github.com"
           git add catalog/
