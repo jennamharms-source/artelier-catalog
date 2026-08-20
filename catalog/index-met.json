@@ -1,0 +1,11 @@
+{
+  "source": "The Metropolitan Museum of Art open access (highlights)",
+  "source_repo": "https://github.com/metmuseum/openaccess",
+  "license": "CC0; public-domain highlights with images",
+  "records": 81,
+  "artists": 62,
+  "shards": 1,
+  "shard_files": [
+    "met-0000.json"
+  ]
+}
