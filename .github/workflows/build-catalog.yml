@@ -3,7 +3,7 @@ name: Build Artelier catalog from AIC open data
 on:
   workflow_dispatch: {}        # run manually from the Actions tab
   schedule:
-    - cron: "0 6 3 * *"        # monthly: 3rd of each month, 06:00 UTC (AIC refreshes monthly)
+    - cron: "0 6 3 * *"        # monthly: 3rd of each month, 06:00 UTC
 
 permissions:
   contents: write
@@ -30,9 +30,15 @@ jobs:
       - name: Transform NGA to Artelier catalog shards
         run: python3 scripts/transform_nga.py nga catalog
 
+      - name: Download Met open access CSV (LFS, ~300MB)
+        run: curl -sSL -o MetObjects.csv https://media.githubusercontent.com/media/metmuseum/openaccess/master/MetObjects.csv
+
+      - name: Transform Met highlights to Artelier catalog shards
+        run: python3 scripts/transform_met.py MetObjects.csv catalog
+
       - name: Commit dataset
         run: |
-          rm -rf artic.tar.bz2 nga
+          rm -rf artic.tar.bz2 nga MetObjects.csv
           git config user.name "artelier-catalog-bot"
           git config user.email "actions@github.com"
           git add catalog/
