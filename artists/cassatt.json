@@ -1,0 +1,27 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q173223",
+ "gallery": "Paintings by Mary Cassatt",
+ "artist": "Mary Cassatt",
+ "artist_re": "cassatt",
+ "country": "United States",
+ "years": [
+  1860,
+  1926
+ ],
+ "slug": "cassatt"
+}

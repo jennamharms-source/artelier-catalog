@@ -1,0 +1,27 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q82445",
+ "gallery": "Paintings by Henri de Toulouse-Lautrec",
+ "artist": "Henri de Toulouse-Lautrec",
+ "artist_re": "toulouse",
+ "country": "France",
+ "years": [
+  1878,
+  1901
+ ],
+ "slug": "lautrec"
+}

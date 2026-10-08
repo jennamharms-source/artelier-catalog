@@ -1,0 +1,29 @@
+{
+ "qid": "Q40599",
+ "gallery": "Paintings by Édouard Manet",
+ "artist": "Édouard Manet",
+ "artist_re": "douard manet|^manet",
+ "country": "France",
+ "years": [
+  1850,
+  1883
+ ],
+ "slug": "manet",
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "exact_any_year": true,
+ "exclude": [
+  "Q26250",
+  "Q72650",
+  "Q19312209"
+ ]
+}

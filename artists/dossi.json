@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 3,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q356777",
+ "gallery": "Paintings by Dosso Dossi",
+ "artist": "Dosso Dossi",
+ "artist_re": "dosso",
+ "country": "Italy",
+ "years": [
+  1500,
+  1542
+ ],
+ "slug": "dossi",
+ "exact_any_year": true
+}

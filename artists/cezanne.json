@@ -1,0 +1,27 @@
+{
+ "qid": "Q35548",
+ "gallery": "Paintings by Paul Cézanne",
+ "artist": "Paul Cézanne",
+ "artist_re": "zanne",
+ "country": "France",
+ "years": [
+  1855,
+  1906
+ ],
+ "slug": "cezanne",
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true
+}

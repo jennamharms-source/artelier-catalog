@@ -1,0 +1,14 @@
+{
+ "qid": "Q296",
+ "gallery": "Claude Monet",
+ "artist": "Claude Monet",
+ "artist_re": "^Claude Monet",
+ "country": "France",
+ "years": [
+  1855,
+  1926
+ ],
+ "slug": "monet",
+ "ytol": 1,
+ "stol": 1
+}

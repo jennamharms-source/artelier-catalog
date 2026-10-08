@@ -1,0 +1,27 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q156386",
+ "gallery": "Paintings by Henri Rousseau",
+ "artist": "Henri Rousseau",
+ "artist_re": "^henri rousseau",
+ "country": "France",
+ "years": [
+  1877,
+  1910
+ ],
+ "slug": "rousseau"
+}

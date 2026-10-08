@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q443779",
+ "gallery": "Category:Paintings by Maria Blanchard",
+ "artist": "Maria Blanchard",
+ "artist_re": "blanchard",
+ "country": "Spain",
+ "years": [
+  1900,
+  1930
+ ],
+ "slug": "blanchard",
+ "pd_cutoff": 1930
+}

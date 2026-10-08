@@ -1,0 +1,28 @@
+{
+ "qid": "Q5598",
+ "gallery": "Paintings by Rembrandt",
+ "artist": "Rembrandt",
+ "artist_re": "rembrandt",
+ "country": "Netherlands",
+ "years": [
+  1620,
+  1669
+ ],
+ "slug": "rembrandt",
+ "ytol": 1,
+ "stol": 3,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "exact_any_year": true,
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true
+}

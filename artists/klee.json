@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q44007",
+ "gallery": "Paintings by Paul Klee",
+ "artist": "Paul Klee",
+ "artist_re": "^paul klee",
+ "country": "Germany",
+ "years": [
+  1895,
+  1930
+ ],
+ "slug": "klee",
+ "pd_cutoff": 1930
+}

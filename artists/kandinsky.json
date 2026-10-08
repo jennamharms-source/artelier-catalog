@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q61064",
+ "gallery": "Paintings by Wassily Kandinsky",
+ "artist": "Wassily Kandinsky",
+ "artist_re": "kandinsky",
+ "country": "Russia",
+ "years": [
+  1890,
+  1930
+ ],
+ "slug": "kandinsky",
+ "pd_cutoff": 1930
+}

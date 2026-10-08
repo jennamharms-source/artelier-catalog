@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 3,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q301",
+ "gallery": "Paintings by El Greco",
+ "artist": "El Greco",
+ "artist_re": "el greco",
+ "country": "Spain",
+ "years": [
+  1560,
+  1614
+ ],
+ "slug": "elgreco",
+ "exact_any_year": true
+}

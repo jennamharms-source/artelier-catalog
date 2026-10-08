@@ -1,0 +1,19 @@
+{
+ "qid": "Q159758",
+ "gallery": "J. M. W. Turner",
+ "artist": "J.M.W. Turner",
+ "artist_re": "turner",
+ "country": "United Kingdom",
+ "years": [
+  1785,
+  1851
+ ],
+ "slug": "turner",
+ "ytol": 2,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "qid": "Q42207",
+ "gallery": "Michelangelo Merisi da Caravaggio",
+ "artist": "Caravaggio",
+ "artist_re": "^(Caravaggio|Michelangelo Merisi da Caravaggio)$",
+ "country": "Italy",
+ "years": [
+  1585,
+  1615
+ ],
+ "slug": "carav",
+ "ytol": 3,
+ "stol": 99,
+ "exclude": [
+  "Q2734111",
+  "Q131613900",
+  "Q107443198"
+ ],
+ "jac": 1.01
+}

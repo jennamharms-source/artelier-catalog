@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 3,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q5592",
+ "gallery": "Paintings by Michelangelo Buonarroti",
+ "artist": "Michelangelo",
+ "artist_re": "^michelangelo( buonarroti)?$",
+ "country": "Italy",
+ "years": [
+  1488,
+  1564
+ ],
+ "slug": "michelangelo",
+ "exact_any_year": true
+}

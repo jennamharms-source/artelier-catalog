@@ -1,0 +1,18 @@
+{
+ "slug": "stieglitz",
+ "artist": "Alfred Stieglitz",
+ "artist_re": "stieglitz",
+ "creator_re": "stieglitz",
+ "categories": [
+  "Photographs by Alfred Stieglitz"
+ ],
+ "depth": 1,
+ "pd_cutoff": 1930,
+ "medium": "Photograph",
+ "country": "United States",
+ "title_fix": {
+  "Italian: Giorno di pioggia a Parigi Rainy day in Paris": "A Rainy Day in Paris",
+  "The Flatiron Building": "The Flatiron",
+  "The Flat-iron": "The Flatiron"
+ }
+}

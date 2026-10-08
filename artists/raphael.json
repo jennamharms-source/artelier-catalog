@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 3,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q5597",
+ "gallery": "Paintings by Raffaello Sanzio",
+ "artist": "Raphael",
+ "artist_re": "^raphael$|raffaello sanzio",
+ "country": "Italy",
+ "years": [
+  1498,
+  1520
+ ],
+ "slug": "raphael",
+ "exact_any_year": true
+}

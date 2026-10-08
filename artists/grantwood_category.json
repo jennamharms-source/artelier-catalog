@@ -1,0 +1,13 @@
+{
+ "slug": "grantwood",
+ "artist": "Grant Wood",
+ "artist_re": "grant wood",
+ "creator_re": "grant wood|wood, grant",
+ "categories": [
+  "Paintings by Grant Wood"
+ ],
+ "depth": 0,
+ "pd_cutoff": 1930,
+ "medium": "Painting",
+ "country": "United States"
+}

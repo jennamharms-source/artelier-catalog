@@ -1,0 +1,28 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q217434",
+ "gallery": "Category:Paintings by Grant Wood",
+ "artist": "Grant Wood",
+ "artist_re": "grant wood",
+ "country": "United States",
+ "years": [
+  1905,
+  1930
+ ],
+ "slug": "grantwood",
+ "pd_cutoff": 1930
+}

@@ -1,0 +1,15 @@
+{
+ "qid": "Q436267",
+ "gallery": "Paintings by Hilma af Klint",
+ "artist": "Hilma af Klint",
+ "artist_re": "af klint",
+ "country": "Sweden",
+ "years": [
+  1878,
+  1944
+ ],
+ "slug": "klint",
+ "ytol": 1,
+ "stol": 1,
+ "no_creates": true
+}

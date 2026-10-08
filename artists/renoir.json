@@ -1,0 +1,27 @@
+{
+ "qid": "Q39931",
+ "gallery": "Paintings by Pierre-Auguste Renoir",
+ "artist": "Pierre-Auguste Renoir",
+ "artist_re": "renoir",
+ "country": "France",
+ "years": [
+  1855,
+  1919
+ ],
+ "slug": "renoir",
+ "ytol": 1,
+ "stol": 1,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true
+}

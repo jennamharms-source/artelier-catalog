@@ -1,0 +1,13 @@
+{
+ "slug": "blanchard",
+ "artist": "Maria Blanchard",
+ "artist_re": "blanchard",
+ "creator_re": "blanchard",
+ "categories": [
+  "Paintings by Maria Blanchard"
+ ],
+ "depth": 1,
+ "pd_cutoff": 1930,
+ "medium": "Painting",
+ "country": "Spain"
+}

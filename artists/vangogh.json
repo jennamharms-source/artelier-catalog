@@ -1,0 +1,27 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q5582",
+ "gallery": "Paintings by Vincent van Gogh",
+ "artist": "Vincent van Gogh",
+ "artist_re": "van gogh",
+ "country": "Netherlands",
+ "years": [
+  1878,
+  1890
+ ],
+ "slug": "vangogh"
+}

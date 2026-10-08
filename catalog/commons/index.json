@@ -1,0 +1,188 @@
+{
+ "generated": "2026-10-08T16:41Z",
+ "artists": [
+  {
+   "file": "blanchard.json",
+   "artist": "Maria Blanchard",
+   "works": 6,
+   "sensitive": 0,
+   "with_genre": 2
+  },
+  {
+   "file": "blanchard_category.json",
+   "artist": "Maria Blanchard",
+   "works": 10,
+   "sensitive": 1,
+   "with_genre": 0
+  },
+  {
+   "file": "caravaggio.json",
+   "artist": "Caravaggio",
+   "works": 99,
+   "sensitive": 3,
+   "with_genre": 90
+  },
+  {
+   "file": "cassatt.json",
+   "artist": "Mary Cassatt",
+   "works": 251,
+   "sensitive": 6,
+   "with_genre": 67
+  },
+  {
+   "file": "cezanne.json",
+   "artist": "Paul Cézanne",
+   "works": 780,
+   "sensitive": 91,
+   "with_genre": 587
+  },
+  {
+   "file": "dossi.json",
+   "artist": "Dosso Dossi",
+   "works": 79,
+   "sensitive": 7,
+   "with_genre": 64
+  },
+  {
+   "file": "elgreco.json",
+   "artist": "El Greco",
+   "works": 491,
+   "sensitive": 3,
+   "with_genre": 479
+  },
+  {
+   "file": "gauguin.json",
+   "artist": "Paul Gauguin",
+   "works": 723,
+   "sensitive": 56,
+   "with_genre": 226
+  },
+  {
+   "file": "grantwood.json",
+   "artist": "Grant Wood",
+   "works": 14,
+   "sensitive": 0,
+   "with_genre": 3
+  },
+  {
+   "file": "grantwood_category.json",
+   "artist": "Grant Wood",
+   "works": 12,
+   "sensitive": 0,
+   "with_genre": 0
+  },
+  {
+   "file": "kandinsky.json",
+   "artist": "Wassily Kandinsky",
+   "works": 368,
+   "sensitive": 0,
+   "with_genre": 188
+  },
+  {
+   "file": "klee.json",
+   "artist": "Paul Klee",
+   "works": 373,
+   "sensitive": 1,
+   "with_genre": 185
+  },
+  {
+   "file": "klimt.json",
+   "artist": "Gustav Klimt",
+   "works": 238,
+   "sensitive": 22,
+   "with_genre": 80
+  },
+  {
+   "file": "klint.json",
+   "artist": "Hilma af Klint",
+   "works": 15,
+   "sensitive": 0,
+   "with_genre": 2
+  },
+  {
+   "file": "lautrec.json",
+   "artist": "Henri de Toulouse-Lautrec",
+   "works": 532,
+   "sensitive": 15,
+   "with_genre": 84
+  },
+  {
+   "file": "manet.json",
+   "artist": "Édouard Manet",
+   "works": 431,
+   "sensitive": 13,
+   "with_genre": 225
+  },
+  {
+   "file": "marc.json",
+   "artist": "Franz Marc",
+   "works": 267,
+   "sensitive": 8,
+   "with_genre": 40
+  },
+  {
+   "file": "michelangelo.json",
+   "artist": "Michelangelo",
+   "works": 113,
+   "sensitive": 30,
+   "with_genre": 64
+  },
+  {
+   "file": "monet.json",
+   "artist": "Claude Monet",
+   "works": 1263,
+   "sensitive": 2,
+   "with_genre": 322
+  },
+  {
+   "file": "raphael.json",
+   "artist": "Raphael",
+   "works": 298,
+   "sensitive": 14,
+   "with_genre": 222
+  },
+  {
+   "file": "rembrandt.json",
+   "artist": "Rembrandt",
+   "works": 1216,
+   "sensitive": 20,
+   "with_genre": 717
+  },
+  {
+   "file": "renoir.json",
+   "artist": "Pierre-Auguste Renoir",
+   "works": 1794,
+   "sensitive": 208,
+   "with_genre": 534
+  },
+  {
+   "file": "rousseau.json",
+   "artist": "Henri Rousseau",
+   "works": 131,
+   "sensitive": 6,
+   "with_genre": 94
+  },
+  {
+   "file": "stieglitz_category.json",
+   "artist": "Alfred Stieglitz",
+   "works": 77,
+   "sensitive": 6,
+   "with_genre": 0
+  },
+  {
+   "file": "turner.json",
+   "artist": "J.M.W. Turner",
+   "works": 1035,
+   "sensitive": 8,
+   "with_genre": 178
+  },
+  {
+   "file": "vangogh.json",
+   "artist": "Vincent van Gogh",
+   "works": 1055,
+   "sensitive": 35,
+   "with_genre": 632
+  }
+ ],
+ "total": 11671
+}
