@@ -68,6 +68,20 @@ def wikidata_inventory_map(collection_qid):
     return {}
 
 
+def wikidata_labels(qids, lang="en"):
+    """Wikidata item -> label in `lang`, for items that have one."""
+    out, qids = {}, sorted(set(qids))
+    for i in range(0, len(qids), 50):
+        d = get_json("https://www.wikidata.org/w/api.php", {
+            "action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": "labels",
+            "languages": lang, "format": "json"}) or {}
+        for q, e in (d.get("entities") or {}).items():
+            v = ((e.get("labels") or {}).get(lang) or {}).get("value")
+            if v:
+                out[q] = v
+    return out
+
+
 def is_nude(*texts):
     return any(NUDE_W.search(t or "") for t in texts)
 

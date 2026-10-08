@@ -9,7 +9,7 @@ Usage: python3 scripts/transform_smk.py catalog
 import re
 import sys
 
-from museum_common import dedupe, get_json, is_nude, wikidata_inventory_map, write_shards
+from museum_common import dedupe, get_json, is_nude, wikidata_inventory_map, wikidata_labels, write_shards
 
 API = "https://api.smk.dk/api/v1/art/search/"
 PAGE = 2000
@@ -20,15 +20,16 @@ OK_RIGHTS = ("creativecommons.org/publicdomain/mark", "creativecommons.org/publi
 
 
 def title_of(w):
+    """(title, language): SMK's English title when it has one, else its Danish title."""
     ts = w.get("titles") or []
     for want in ("engelsk", "english"):
         for t in ts:
             if (t.get("language") or "").lower() == want and t.get("title"):
-                return t["title"]
+                return t["title"], "en"
     for t in ts:
         if (t.get("type") or "").lower() == "museumstitel" and t.get("title"):
-            return t["title"]
-    return next((t["title"] for t in ts if t.get("title")), "")
+            return t["title"], "da"
+    return next(((t["title"], "da") for t in ts if t.get("title")), ("", "da"))
 
 
 def artist_of(w):
@@ -63,7 +64,8 @@ def main():
             if not w.get("public_domain") or not any(r in (w.get("rights") or "") for r in OK_RIGHTS):
                 continue
             img = w.get("image_thumbnail")
-            title = (title_of(w) or "").strip()
+            title, lang = title_of(w)
+            title = (title or "").strip()
             artist, death = artist_of(w)
             if not (img and title and artist):
                 continue
@@ -87,6 +89,7 @@ def main():
             }
             if objno in wd:
                 rec["same_as"] = [f"wikidata:{wd[objno]}"]
+            rec["title_language"] = lang
             if death:
                 rec["artist_death_year"] = death
             if is_nude(title, *names):
@@ -95,6 +98,17 @@ def main():
         offset += PAGE
         if len(items) < PAGE:
             break
+    # Danish-titled works: use Wikidata's English title when there is one, keep the Danish original.
+    need = [r["same_as"][0].split(":", 1)[1] for r in records if r["title_language"] != "en" and r.get("same_as")]
+    en = wikidata_labels(need)
+    for r in records:
+        q = r["same_as"][0].split(":", 1)[1] if r.get("same_as") else None
+        if r["title_language"] != "en" and q in en and en[q].strip().lower() != r["title"].strip().lower():
+            r["title_original"], r["title"], r["title_language"] = r["title"], en[q], "en"
+        elif r["title_language"] != "en":
+            r["title_original"] = r["title"]
+    print(f"English titles from Wikidata: {sum(1 for r in records if r.get('title_original') and r['title_language'] == 'en')}; "
+          f"still Danish: {sum(1 for r in records if r['title_language'] != 'en')}")
     write_shards(dedupe(records), out_dir, "smk", {
         "source": "SMK – National Gallery of Denmark (SMK Open)",
         "source_api": API,

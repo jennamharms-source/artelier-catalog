@@ -94,7 +94,9 @@ The same paths also work under `https://raw.githubusercontent.com/jennamharms-so
   by `.github/workflows/build-museums.yml`. Their records add three optional fields: `same_as`
   (e.g. `wikidata:Q…`, matched through the museum's inventory number, so an import can skip a work
   already held from Wikimedia Commons), `artist_death_year` (from the museum's own artist record),
-  and `is_age_restricted` (title names nudity). Works with no named maker are left out for now.
+  and `is_age_restricted` (title names nudity). SMK records also carry `title_language`, and when their
+  title is Danish, `title_original` (Wikidata's English title is used where one exists). Works with no
+  named maker are left out for now.
 - `catalog/index.json` lists record counts, artist counts, and shards.
 
 The app imports shards through its `importFromCatalog` admin function. It matches on each record's
