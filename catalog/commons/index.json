@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-08T17:54Z",
+ "generated": "2026-10-08T18:46Z",
  "artists": [
   {
    "file": "blanchard.json",
    "artist": "Maria Blanchard",
-   "works": 6,
+   "works": 8,
    "sensitive": 0,
    "with_genre": 2
   },
@@ -74,9 +74,9 @@
   {
    "file": "grantwood.json",
    "artist": "Grant Wood",
-   "works": 14,
+   "works": 25,
    "sensitive": 0,
-   "with_genre": 3
+   "with_genre": 9
   },
   {
    "file": "grantwood_category.json",
@@ -88,16 +88,16 @@
   {
    "file": "kandinsky.json",
    "artist": "Wassily Kandinsky",
-   "works": 368,
+   "works": 439,
    "sensitive": 0,
-   "with_genre": 188
+   "with_genre": 229
   },
   {
    "file": "klee.json",
    "artist": "Paul Klee",
-   "works": 373,
+   "works": 512,
    "sensitive": 1,
-   "with_genre": 185
+   "with_genre": 266
   },
   {
    "file": "klimt.json",
@@ -140,6 +140,13 @@
    "works": 113,
    "sensitive": 30,
    "with_genre": 64
+  },
+  {
+   "file": "mondrian.json",
+   "artist": "Piet Mondrian",
+   "works": 573,
+   "sensitive": 2,
+   "with_genre": 394
   },
   {
    "file": "monet.json",
@@ -198,5 +205,5 @@
    "with_genre": 632
   }
  ],
- "total": 12221
+ "total": 13017
 }

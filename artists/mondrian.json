@@ -11,17 +11,16 @@
   "Engraving",
   "Lithograph",
   "Drawing",
-  "Watercolor",
   "Sculpture"
  ],
- "qid": "Q61064",
- "gallery": "Paintings by Wassily Kandinsky",
- "artist": "Wassily Kandinsky",
- "artist_re": "kandinsky",
- "country": "Russia",
+ "qid": "Q151803",
+ "gallery": "Category talk:Paintings by Piet Mondrian",
+ "artist": "Piet Mondrian",
+ "artist_re": "mondria",
+ "country": "Netherlands",
  "years": [
-  1890,
+  1888,
   1944
  ],
- "slug": "kandinsky"
+ "slug": "mondrian"
 }

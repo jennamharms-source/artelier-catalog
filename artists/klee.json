@@ -21,8 +21,7 @@
  "country": "Germany",
  "years": [
   1895,
-  1930
+  1940
  ],
- "slug": "klee",
- "pd_cutoff": 1930
+ "slug": "klee"
 }

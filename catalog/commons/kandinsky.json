@@ -13,6 +13,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709491",
   "genre": "Marine",
+  "license_basis": "PD-Art",
   "qid": "Q18709491",
   "collection": "Tretyakov Gallery"
  },
@@ -30,6 +31,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3674458",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q3674458",
   "collection": "Russian Museum"
  },
@@ -47,6 +49,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386220",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q75386220",
   "collection": "Lenbachhaus"
  },
@@ -64,6 +67,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709518",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q18709518",
   "collection": "Lenbachhaus"
  },
@@ -80,6 +84,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137597590",
+  "license_basis": "PD-old-80",
   "qid": "Q137597590",
   "collection": "Christie's"
  },
@@ -96,6 +101,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705406",
+  "license_basis": "PD-old-80",
   "qid": "Q18705406",
   "collection": "Musée National d'Art Moderne"
  },
@@ -113,6 +119,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705399",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705399",
   "collection": "Musée National d'Art Moderne"
  },
@@ -129,6 +136,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882619",
+  "license_basis": "PD-old-100",
   "qid": "Q19882619",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -145,6 +153,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386623",
+  "license_basis": "PD-old",
   "qid": "Q75386623",
   "collection": "Lenbachhaus"
  },
@@ -161,6 +170,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386450",
+  "license_basis": "PD-old-80",
   "qid": "Q75386450",
   "collection": "Lenbachhaus"
  },
@@ -178,6 +188,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705407",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705407",
   "collection": "Musée National d'Art Moderne"
  },
@@ -195,6 +206,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705400",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705400",
   "collection": "Musée National d'Art Moderne"
  },
@@ -212,6 +224,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3746240",
   "genre": "Landscape",
+  "license_basis": "PD-old-70",
   "qid": "Q3746240",
   "collection": "Russian Museum"
  },
@@ -228,6 +241,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q24056612",
+  "license_basis": "PD-old-80",
   "qid": "Q24056612",
   "collection": "Stedelijk Museum Amsterdam"
  },
@@ -244,6 +258,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386729",
+  "license_basis": "PD-old-80",
   "qid": "Q75386729",
   "collection": "Lenbachhaus"
  },
@@ -261,6 +276,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705454",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705454",
   "collection": "Musée National d'Art Moderne"
  },
@@ -278,6 +294,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705456",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705456",
   "collection": "Musée National d'Art Moderne"
  },
@@ -295,6 +312,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705402",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705402",
   "collection": "Musée National d'Art Moderne"
  },
@@ -312,6 +330,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705403",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705403",
   "collection": "Musée National d'Art Moderne"
  },
@@ -329,6 +348,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705437",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705437",
   "collection": "Musée National d'Art Moderne"
  },
@@ -346,6 +366,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75391092",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q75391092",
   "collection": "Lenbachhaus"
  },
@@ -363,6 +384,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009173",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q4009173",
   "collection": "Musée National d'Art Moderne"
  },
@@ -380,6 +402,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705404",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705404",
   "collection": "Musée National d'Art Moderne"
  },
@@ -396,6 +419,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386110",
+  "license_basis": "PD-old",
   "qid": "Q75386110",
   "collection": "Lenbachhaus"
  },
@@ -413,6 +437,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705457",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705457",
   "collection": "Musée National d'Art Moderne"
  },
@@ -429,6 +454,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105296717",
+  "license_basis": "PD-old-80",
   "qid": "Q105296717",
   "collection": "National Museum in Wrocław"
  },
@@ -446,6 +472,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705428",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705428",
   "collection": "Musée National d'Art Moderne"
  },
@@ -463,6 +490,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705401",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705401",
   "collection": "Musée National d'Art Moderne"
  },
@@ -480,6 +508,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3756646",
   "genre": "Portrait",
+  "license_basis": "PD-old-80",
   "qid": "Q3756646",
   "collection": "Lenbachhaus"
  },
@@ -496,6 +525,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386338",
+  "license_basis": "PD-old",
   "qid": "Q75386338",
   "collection": "Lenbachhaus"
  },
@@ -512,6 +542,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386837",
+  "license_basis": "PD-old",
   "qid": "Q75386837",
   "collection": "Lenbachhaus"
  },
@@ -529,6 +560,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137603467",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q137603467",
   "collection": "Musée National d'Art Moderne"
  },
@@ -546,6 +578,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705461",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705461",
   "collection": "Musée National d'Art Moderne"
  },
@@ -562,6 +595,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705409",
+  "license_basis": "PD-old-80",
   "qid": "Q18705409",
   "collection": "Musée National d'Art Moderne"
  },
@@ -579,6 +613,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705414",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705414",
   "collection": "Musée National d'Art Moderne"
  },
@@ -596,8 +631,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705419",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705419",
   "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Oberpfalz – Waldlichtung mit Kirche",
+  "artist": "Wassily Kandinsky",
+  "year": "1903",
+  "medium": "Painting",
+  "gallery": "Museum Ludwig",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Oberpfalz_%E2%80%93_Waldlichtung_mit_Kirche%2C_1903%2C_ML_10349.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Oberpfalz_%E2%80%93_Waldlichtung_mit_Kirche,_1903,_ML_10349.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q133046377",
+  "license_basis": "PD-old-80",
+  "qid": "Q133046377",
+  "collection": "Museum Ludwig"
  },
  {
   "title": "Promenade (Sketch)",
@@ -612,24 +665,9 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106771125",
+  "license_basis": "PD-old-80",
   "qid": "Q106771125",
   "collection": "Princeton Art Museum"
- },
- {
-  "title": "Q133046377",
-  "artist": "Wassily Kandinsky",
-  "year": "1903",
-  "medium": "Painting",
-  "gallery": "Museum Ludwig",
-  "country": "Russia",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Oberpfalz_%E2%80%93_Waldlichtung_mit_Kirche%2C_1903%2C_ML_10349.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Oberpfalz_%E2%80%93_Waldlichtung_mit_Kirche,_1903,_ML_10349.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q133046377",
-  "qid": "Q133046377",
-  "collection": "Museum Ludwig"
  },
  {
   "title": "Shore",
@@ -644,6 +682,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705422",
+  "license_basis": "PD-old-80",
   "qid": "Q18705422",
   "collection": "Musée National d'Art Moderne"
  },
@@ -661,6 +700,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3793374",
   "genre": "Mythological",
+  "license_basis": "PD-old-80",
   "qid": "Q3793374",
   "collection": ""
  },
@@ -677,6 +717,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705468",
+  "license_basis": "PD-old-80",
   "qid": "Q18705468",
   "collection": "Musée National d'Art Moderne"
  },
@@ -693,6 +734,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882618",
+  "license_basis": "PD-old-100",
   "qid": "Q19882618",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -709,6 +751,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705460",
+  "license_basis": "PD-old-80",
   "qid": "Q18705460",
   "collection": "Musée National d'Art Moderne"
  },
@@ -725,6 +768,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705462",
+  "license_basis": "PD-old-80",
   "qid": "Q18705462",
   "collection": "Musée National d'Art Moderne"
  },
@@ -741,6 +785,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75386980",
+  "license_basis": "PD-old",
   "qid": "Q75386980",
   "collection": "Lenbachhaus"
  },
@@ -757,6 +802,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390870",
+  "license_basis": "PD-old-80",
   "qid": "Q75390870",
   "collection": "Lenbachhaus"
  },
@@ -773,6 +819,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705469",
+  "license_basis": "PD-old-80",
   "qid": "Q18705469",
   "collection": "Musée National d'Art Moderne"
  },
@@ -789,6 +836,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705470",
+  "license_basis": "PD-old-80",
   "qid": "Q18705470",
   "collection": "Musée National d'Art Moderne"
  },
@@ -805,6 +853,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20891261",
+  "license_basis": "PD-old-70",
   "qid": "Q20891261",
   "collection": "Minneapolis Institute of Art"
  },
@@ -821,6 +870,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q24046479",
+  "license_basis": "PD-old",
   "qid": "Q24046479",
   "collection": "Kunstmuseum Den Haag"
  },
@@ -837,6 +887,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705467",
+  "license_basis": "PD-old-80",
   "qid": "Q18705467",
   "collection": "Musée National d'Art Moderne"
  },
@@ -853,6 +904,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137605720",
+  "license_basis": "PD-old-80",
   "qid": "Q137605720",
   "collection": "Musée National d'Art Moderne"
  },
@@ -869,6 +921,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705466",
+  "license_basis": "PD-old-80",
   "qid": "Q18705466",
   "collection": "Musée National d'Art Moderne"
  },
@@ -886,6 +939,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19930188",
   "genre": "Cityscape",
+  "license_basis": "PD-old",
   "qid": "Q19930188",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -902,6 +956,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390977",
+  "license_basis": "PD-old",
   "qid": "Q75390977",
   "collection": "Lenbachhaus"
  },
@@ -918,6 +973,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705459",
+  "license_basis": "PD-old-80",
   "qid": "Q18705459",
   "collection": "Musée National d'Art Moderne"
  },
@@ -935,6 +991,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3867001",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q3867001",
   "collection": "Musée National d'Art Moderne"
  },
@@ -952,6 +1009,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705476",
   "genre": "Cityscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705476",
   "collection": "Musée National d'Art Moderne"
  },
@@ -968,6 +1026,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882620",
+  "license_basis": "PD-old-100",
   "qid": "Q19882620",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -985,6 +1044,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3756647",
   "genre": "Portrait",
+  "license_basis": "PD-old-80",
   "qid": "Q3756647",
   "collection": "Lenbachhaus"
  },
@@ -1002,24 +1062,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387082",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q75387082",
   "collection": "Lenbachhaus"
- },
- {
-  "title": "Q133046381",
-  "artist": "Wassily Kandinsky",
-  "year": "1905",
-  "medium": "Painting",
-  "gallery": "Museum Ludwig",
-  "country": "Russia",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Tunis_%E2%80%93_Heller_Park%2C_1905%2C_ML_10351.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Tunis_%E2%80%93_Heller_Park,_1905,_ML_10351.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q133046381",
-  "qid": "Q133046381",
-  "collection": "Museum Ludwig"
  },
  {
   "title": "Russian beauty in a landscape",
@@ -1034,8 +1079,26 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116767185",
+  "license_basis": "PD-old-80",
   "qid": "Q116767185",
   "collection": ""
+ },
+ {
+  "title": "Tunis – Heller Park",
+  "artist": "Wassily Kandinsky",
+  "year": "1905",
+  "medium": "Painting",
+  "gallery": "Museum Ludwig",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Tunis_%E2%80%93_Heller_Park%2C_1905%2C_ML_10351.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Tunis_%E2%80%93_Heller_Park,_1905,_ML_10351.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q133046381",
+  "license_basis": "PD-old-80",
+  "qid": "Q133046381",
+  "collection": "Museum Ludwig"
  },
  {
   "title": "Tunis, Coastal Landscape I",
@@ -1051,6 +1114,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705473",
   "genre": "Marine",
+  "license_basis": "PD-old-80",
   "qid": "Q18705473",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1068,6 +1132,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705474",
   "genre": "Marine",
+  "license_basis": "PD-old-80",
   "qid": "Q18705474",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1085,6 +1150,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705475",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705475",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1101,6 +1167,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137596027",
+  "license_basis": "PD-old-100",
   "qid": "Q137596027",
   "collection": "Sotheby's"
  },
@@ -1118,6 +1185,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705472",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705472",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1134,6 +1202,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705471",
+  "license_basis": "PD-old-80",
   "qid": "Q18705471",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1150,6 +1219,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387404",
+  "license_basis": "PD-old-80",
   "qid": "Q75387404",
   "collection": "Lenbachhaus"
  },
@@ -1166,6 +1236,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387296",
+  "license_basis": "PD-old",
   "qid": "Q75387296",
   "collection": "Lenbachhaus"
  },
@@ -1182,6 +1253,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705480",
+  "license_basis": "PD-old-80",
   "qid": "Q18705480",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1199,6 +1271,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705479",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705479",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1215,6 +1288,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882622",
+  "license_basis": "PD-old-100",
   "qid": "Q19882622",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1231,6 +1305,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387189",
+  "license_basis": "PD-old",
   "qid": "Q75387189",
   "collection": "Lenbachhaus"
  },
@@ -1248,6 +1323,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705481",
   "genre": "Marine",
+  "license_basis": "PD-old-80",
   "qid": "Q18705481",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1265,6 +1341,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709548",
   "genre": "Marine",
+  "license_basis": "PD-old-80",
   "qid": "Q18709548",
   "collection": ""
  },
@@ -1281,6 +1358,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705478",
+  "license_basis": "PD-old-80",
   "qid": "Q18705478",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1297,6 +1375,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3825010",
+  "license_basis": "PD-old-80",
   "qid": "Q3825010",
   "collection": "Lenbachhaus"
  },
@@ -1314,6 +1393,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705477",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705477",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1330,6 +1410,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q68315434",
+  "license_basis": "PD-old-80",
   "qid": "Q68315434",
   "collection": "Blanton Museum of Art"
  },
@@ -1347,6 +1428,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709469",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709469",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -1364,6 +1446,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705484",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705484",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1380,6 +1463,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709522",
+  "license_basis": "PD-old-80",
   "qid": "Q18709522",
   "collection": ""
  },
@@ -1397,6 +1481,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882624",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q19882624",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1413,6 +1498,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111798792",
+  "license_basis": "PD-old-80",
   "qid": "Q111798792",
   "collection": "\"degenerate art\" collection"
  },
@@ -1430,6 +1516,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709507",
   "genre": "Cityscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709507",
   "collection": "Von der Heydt Museum"
  },
@@ -1446,6 +1533,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709508",
+  "license_basis": "PD-old-80",
   "qid": "Q18709508",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -1462,6 +1550,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131587069",
+  "license_basis": "PD-old-80",
   "qid": "Q131587069",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -1478,6 +1567,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709479",
+  "license_basis": "PD-old-80",
   "qid": "Q18709479",
   "collection": "Tretyakov Gallery"
  },
@@ -1494,6 +1584,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131585957",
+  "license_basis": "PD-old-80",
   "qid": "Q131585957",
   "collection": "Kunsthaus Zürich"
  },
@@ -1511,6 +1602,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709539",
   "genre": "Cityscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709539",
   "collection": "Lenbachhaus"
  },
@@ -1527,6 +1619,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124282677",
+  "license_basis": "PD-old-80",
   "qid": "Q124282677",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -1543,6 +1636,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387660",
+  "license_basis": "PD-old-80",
   "qid": "Q75387660",
   "collection": "Lenbachhaus"
  },
@@ -1560,6 +1654,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387553",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q75387553",
   "collection": "Lenbachhaus"
  },
@@ -1576,6 +1671,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124282676",
+  "license_basis": "PD-old-80",
   "qid": "Q124282676",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -1593,6 +1689,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709509",
   "genre": "Cityscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709509",
   "collection": ""
  },
@@ -1610,6 +1707,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18665648",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18665648",
   "collection": "Dallas Museum of Art"
  },
@@ -1627,6 +1725,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3888850",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q3888850",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1643,6 +1742,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709510",
+  "license_basis": "PD-old-80",
   "qid": "Q18709510",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -1659,6 +1759,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119162585",
+  "license_basis": "PD-old-80",
   "qid": "Q119162585",
   "collection": "Ashmolean Museum"
  },
@@ -1675,6 +1776,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709500",
+  "license_basis": "PD-old-80",
   "qid": "Q18709500",
   "collection": "Lenbachhaus"
  },
@@ -1691,6 +1793,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709535",
+  "license_basis": "PD-old-80",
   "qid": "Q18709535",
   "collection": ""
  },
@@ -1708,6 +1811,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21713116",
   "genre": "Abstract",
+  "license_basis": "CC0",
   "qid": "Q21713116",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -1724,6 +1828,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705482",
+  "license_basis": "PD-old-80",
   "qid": "Q18705482",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1740,6 +1845,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709550",
+  "license_basis": "PD-old-80",
   "qid": "Q18709550",
   "collection": "Hermitage Museum"
  },
@@ -1757,6 +1863,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709504",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709504",
   "collection": "Hamburger Kunsthalle"
  },
@@ -1773,6 +1880,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709473",
+  "license_basis": "PD-old-80",
   "qid": "Q18709473",
   "collection": "Lenbachhaus"
  },
@@ -1789,6 +1897,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105306031",
+  "license_basis": "PD-old-80",
   "qid": "Q105306031",
   "collection": "Museum of Modern Art"
  },
@@ -1805,6 +1914,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882625",
+  "license_basis": "PD-old-100",
   "qid": "Q19882625",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1822,6 +1932,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20263571",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q20263571",
   "collection": "Art Institute of Chicago"
  },
@@ -1839,6 +1950,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705486",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705486",
   "collection": "Musée National d'Art Moderne"
  },
@@ -1855,6 +1967,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3606261",
+  "license_basis": "PD-old-80",
   "qid": "Q3606261",
   "collection": "Lenbachhaus"
  },
@@ -1871,6 +1984,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388407",
+  "license_basis": "PD-old",
   "qid": "Q75388407",
   "collection": "Lenbachhaus"
  },
@@ -1887,6 +2001,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388514",
+  "license_basis": "PD-old",
   "qid": "Q75388514",
   "collection": "Lenbachhaus"
  },
@@ -1903,6 +2018,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388052",
+  "license_basis": "PD-old",
   "qid": "Q75388052",
   "collection": "Lenbachhaus"
  },
@@ -1919,6 +2035,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387946",
+  "license_basis": "PD-old-80",
   "qid": "Q75387946",
   "collection": "Lenbachhaus"
  },
@@ -1936,6 +2053,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709497",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709497",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1952,6 +2070,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3861061",
+  "license_basis": "PD-old-80",
   "qid": "Q3861061",
   "collection": "Lenbachhaus"
  },
@@ -1968,6 +2087,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105513618",
+  "license_basis": "PD-old-80",
   "qid": "Q105513618",
   "collection": ""
  },
@@ -1984,6 +2104,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75387774",
+  "license_basis": "PD-old",
   "qid": "Q75387774",
   "collection": "Lenbachhaus"
  },
@@ -2001,6 +2122,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3867419",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q3867419",
   "collection": "Lenbachhaus"
  },
@@ -2018,6 +2140,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709506",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709506",
   "collection": "Lenbachhaus"
  },
@@ -2035,6 +2158,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709540",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709540",
   "collection": "Lenbachhaus"
  },
@@ -2051,6 +2175,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709494",
+  "license_basis": "PD-old-80",
   "qid": "Q18709494",
   "collection": "Lenbachhaus"
  },
@@ -2067,6 +2192,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q24056619",
+  "license_basis": "PD-US-unpublished",
   "qid": "Q24056619",
   "collection": "Stedelijk Museum Amsterdam"
  },
@@ -2083,6 +2209,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709528",
+  "license_basis": "PD-old-80",
   "qid": "Q18709528",
   "collection": ""
  },
@@ -2100,6 +2227,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137167138",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137167138",
   "collection": "Musée National d'Art Moderne"
  },
@@ -2116,6 +2244,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3888855",
+  "license_basis": "PD-old-70",
   "qid": "Q3888855",
   "collection": "Russian Museum"
  },
@@ -2132,6 +2261,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q49203780",
+  "license_basis": "PD-old-80",
   "qid": "Q49203780",
   "collection": "Yale University Art Gallery"
  },
@@ -2148,6 +2278,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131587023",
+  "license_basis": "PD-old-80",
   "qid": "Q131587023",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -2165,6 +2296,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27966313",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q27966313",
   "collection": "Hermitage Museum"
  },
@@ -2182,6 +2314,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2933825",
   "genre": "Cityscape",
+  "license_basis": "PD-old-80",
   "qid": "Q2933825",
   "collection": "Van Abbemuseum"
  },
@@ -2199,6 +2332,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3958630",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3958630",
   "collection": "National Gallery"
  },
@@ -2215,6 +2349,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111798796",
+  "license_basis": "PD-old-80",
   "qid": "Q111798796",
   "collection": "\"degenerate art\" collection"
  },
@@ -2231,6 +2366,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3797024",
+  "license_basis": "PD-old-80",
   "qid": "Q3797024",
   "collection": "Russian Museum"
  },
@@ -2247,6 +2383,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30070876",
+  "license_basis": "PD-old-80",
   "qid": "Q30070876",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2264,6 +2401,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104521953",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q104521953",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -2280,6 +2418,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q16038564",
+  "license_basis": "PD-old-80",
   "qid": "Q16038564",
   "collection": "Musée National d'Art Moderne"
  },
@@ -2296,6 +2435,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709486",
+  "license_basis": "PD-old-80",
   "qid": "Q18709486",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -2313,6 +2453,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49203911",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q49203911",
   "collection": "Yale University Art Gallery"
  },
@@ -2329,6 +2470,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709488",
+  "license_basis": "PD-old-80",
   "qid": "Q18709488",
   "collection": "Tretyakov Gallery"
  },
@@ -2346,6 +2488,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882626",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q19882626",
   "collection": "\"degenerate art\" collection"
  },
@@ -2363,6 +2506,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882627",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q19882627",
   "collection": "\"degenerate art\" collection"
  },
@@ -2379,6 +2523,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388157",
+  "license_basis": "PD-old-80",
   "qid": "Q75388157",
   "collection": "Lenbachhaus"
  },
@@ -2395,6 +2540,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75389024",
+  "license_basis": "PD-old-80",
   "qid": "Q75389024",
   "collection": "Lenbachhaus"
  },
@@ -2411,6 +2557,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124282679",
+  "license_basis": "PD-old-80",
   "qid": "Q124282679",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -2428,6 +2575,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137602611",
   "genre": "Religious",
+  "license_basis": "PD-old-80",
   "qid": "Q137602611",
   "collection": "Franz Marc Museum"
  },
@@ -2444,6 +2592,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131587074",
+  "license_basis": "PD-old-80",
   "qid": "Q131587074",
   "collection": "Kunsthaus Zürich"
  },
@@ -2460,6 +2609,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3976313",
+  "license_basis": "PD-old-100",
   "qid": "Q3976313",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2476,6 +2626,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20891060",
+  "license_basis": "PD-old-80",
   "qid": "Q20891060",
   "collection": "Minneapolis Institute of Art"
  },
@@ -2492,6 +2643,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137597635",
+  "license_basis": "PD-old-80",
   "qid": "Q137597635",
   "collection": "Christie's"
  },
@@ -2509,6 +2661,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709532",
   "genre": "Animal",
+  "license_basis": "PD-old-80",
   "qid": "Q18709532",
   "collection": "Lenbachhaus"
  },
@@ -2525,6 +2678,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q128908936",
+  "license_basis": "PD-old-80",
   "qid": "Q128908936",
   "collection": "Tretyakov Gallery"
  },
@@ -2541,6 +2695,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388918",
+  "license_basis": "PD-old-80",
   "qid": "Q75388918",
   "collection": "Lenbachhaus"
  },
@@ -2557,6 +2712,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106878987",
+  "license_basis": "PD-old-80",
   "qid": "Q106878987",
   "collection": "Busch–Reisinger Museum"
  },
@@ -2573,6 +2729,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882628",
+  "license_basis": "PD-old-100",
   "qid": "Q19882628",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2589,6 +2746,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388256",
+  "license_basis": "PD-old",
   "qid": "Q75388256",
   "collection": "Lenbachhaus"
  },
@@ -2605,6 +2763,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709514",
+  "license_basis": "PD-old-80",
   "qid": "Q18709514",
   "collection": "National Art Museum of Azerbaijan"
  },
@@ -2621,6 +2780,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75389139",
+  "license_basis": "PD-old-80",
   "qid": "Q75389139",
   "collection": "Lenbachhaus"
  },
@@ -2637,6 +2797,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709503",
+  "license_basis": "PD-old-80",
   "qid": "Q18709503",
   "collection": "Lenbachhaus"
  },
@@ -2654,6 +2815,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q8348832",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q8348832",
   "collection": "Kunstsammlung Nordrhein-Westfalen"
  },
@@ -2670,6 +2832,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709552",
+  "license_basis": "PD-old-80",
   "qid": "Q18709552",
   "collection": ""
  },
@@ -2687,6 +2850,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709501",
   "genre": "Genre scene",
+  "license_basis": "PD-US",
   "qid": "Q18709501",
   "collection": "National Gallery of Armenia"
  },
@@ -2703,6 +2867,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390650",
+  "license_basis": "PD-old",
   "qid": "Q75390650",
   "collection": "Lenbachhaus"
  },
@@ -2719,6 +2884,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q16038562",
+  "license_basis": "PD-old-80",
   "qid": "Q16038562",
   "collection": "Musée National d'Art Moderne"
  },
@@ -2735,6 +2901,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75388817",
+  "license_basis": "PD-old-80",
   "qid": "Q75388817",
   "collection": "Lenbachhaus"
  },
@@ -2752,6 +2919,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3797004",
   "genre": "Abstract",
+  "license_basis": "PD-Art",
   "qid": "Q3797004",
   "collection": "Lenbachhaus"
  },
@@ -2768,6 +2936,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390075",
+  "license_basis": "PD-old-80",
   "qid": "Q75390075",
   "collection": "Lenbachhaus"
  },
@@ -2785,6 +2954,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3797022",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3797022",
   "collection": "Lenbachhaus"
  },
@@ -2801,6 +2971,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390526",
+  "license_basis": "PD-old",
   "qid": "Q75390526",
   "collection": "Lenbachhaus"
  },
@@ -2818,6 +2989,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130253146",
   "genre": "Animal",
+  "license_basis": "PD-old-80",
   "qid": "Q130253146",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -2834,6 +3006,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3797025",
+  "license_basis": "PD-old",
   "qid": "Q3797025",
   "collection": "Lenbachhaus"
  },
@@ -2850,6 +3023,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390374",
+  "license_basis": "PD-old-80",
   "qid": "Q75390374",
   "collection": "Lenbachhaus"
  },
@@ -2866,6 +3040,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882630",
+  "license_basis": "PD-old-70",
   "qid": "Q19882630",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2883,6 +3058,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2371035",
   "genre": "Abstract",
+  "license_basis": "PD-old-70",
   "qid": "Q2371035",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -2899,6 +3075,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q78687864",
+  "license_basis": "PD-old-100",
   "qid": "Q78687864",
   "collection": "Saint Louis Art Museum"
  },
@@ -2916,6 +3093,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268022",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q20268022",
   "collection": "Art Institute of Chicago"
  },
@@ -2933,6 +3111,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882631",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q19882631",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2950,6 +3129,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137596178",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137596178",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2966,6 +3146,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133235772",
+  "license_basis": "PD-old-80",
   "qid": "Q133235772",
   "collection": "Museum Ludwig"
  },
@@ -2983,6 +3164,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709498",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q18709498",
   "collection": "Lenbachhaus"
  },
@@ -2999,6 +3181,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882633",
+  "license_basis": "PD-old-70",
   "qid": "Q19882633",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3015,6 +3198,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q27966297",
+  "license_basis": "PD-old-100",
   "qid": "Q27966297",
   "collection": "Hermitage Museum"
  },
@@ -3031,6 +3215,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390268",
+  "license_basis": "PD-old",
   "qid": "Q75390268",
   "collection": "Lenbachhaus"
  },
@@ -3047,6 +3232,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3947216",
+  "license_basis": "PD-old-70",
   "qid": "Q3947216",
   "collection": "Russian Museum"
  },
@@ -3063,6 +3249,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137613931",
+  "license_basis": "PD-old-80",
   "qid": "Q137613931",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3079,6 +3266,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137605899",
+  "license_basis": "PD-old-80",
   "qid": "Q137605899",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3095,6 +3283,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137606594",
+  "license_basis": "PD-old-80",
   "qid": "Q137606594",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3112,6 +3301,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23946768",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q23946768",
   "collection": "The Phillips Collection"
  },
@@ -3128,6 +3318,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3842005",
+  "license_basis": "PD-old-70",
   "qid": "Q3842005",
   "collection": "Russian Museum"
  },
@@ -3145,6 +3336,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3797026",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3797026",
   "collection": "Lenbachhaus"
  },
@@ -3162,6 +3354,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19919146",
   "genre": "Abstract",
+  "license_basis": "CC0",
   "qid": "Q19919146",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3179,6 +3372,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882634",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q19882634",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3196,6 +3390,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705496",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705496",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3213,6 +3408,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709542",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18709542",
   "collection": "Art Institute of Chicago"
  },
@@ -3230,6 +3426,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705494",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705494",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3247,6 +3444,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3708870",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3708870",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3264,6 +3462,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705490",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705490",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3280,6 +3479,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28042427",
+  "license_basis": "PD-old-80",
   "qid": "Q28042427",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -3297,6 +3497,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3701196",
   "genre": "Portrait",
+  "license_basis": "PD-old-80",
   "qid": "Q3701196",
   "collection": "Lenbachhaus"
  },
@@ -3313,6 +3514,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709516",
+  "license_basis": "PD-old-80",
   "qid": "Q18709516",
   "collection": ""
  },
@@ -3330,6 +3532,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3997942",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3997942",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3346,6 +3549,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709483",
+  "license_basis": "PD-old-80",
   "qid": "Q18709483",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3362,6 +3566,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q16543389",
+  "license_basis": "PD-old-80",
   "qid": "Q16543389",
   "collection": "Hermitage Museum"
  },
@@ -3378,6 +3583,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2990634",
+  "license_basis": "PD-old-80",
   "qid": "Q2990634",
   "collection": "Tretyakov Gallery"
  },
@@ -3394,6 +3600,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77477248",
+  "license_basis": "PD-old-80",
   "qid": "Q77477248",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -3411,6 +3618,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75389229",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q75389229",
   "collection": "Lenbachhaus"
  },
@@ -3427,6 +3635,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30079772",
+  "license_basis": "PD-old-80",
   "qid": "Q30079772",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3444,6 +3653,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75389375",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q75389375",
   "collection": "Lenbachhaus"
  },
@@ -3461,6 +3671,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130253596",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q130253596",
   "collection": "Primorye State Art Gallery"
  },
@@ -3477,6 +3688,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20191741",
+  "license_basis": "PD-old-80",
   "qid": "Q20191741",
   "collection": "National Gallery of Art"
  },
@@ -3493,6 +3705,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q24056608",
+  "license_basis": "PD-old-100",
   "qid": "Q24056608",
   "collection": "Stedelijk Museum Amsterdam"
  },
@@ -3510,6 +3723,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268654",
   "genre": "Abstract",
+  "license_basis": "CC0",
   "qid": "Q20268654",
   "collection": "Art Institute of Chicago"
  },
@@ -3527,6 +3741,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27966370",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q27966370",
   "collection": "Hermitage Museum"
  },
@@ -3544,6 +3759,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882635",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19882635",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3561,6 +3777,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709496",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18709496",
   "collection": "Museum Folkwang"
  },
@@ -3578,6 +3795,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882636",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q19882636",
   "collection": "Peggy Guggenheim Collection"
  },
@@ -3595,6 +3813,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20260908",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q20260908",
   "collection": "Art Institute of Chicago"
  },
@@ -3612,6 +3831,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3926626",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3926626",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3628,6 +3848,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64576617",
+  "license_basis": "PD-old-100",
   "qid": "Q64576617",
   "collection": "Detroit Institute of Arts"
  },
@@ -3645,6 +3866,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3902600",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q3902600",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3662,6 +3884,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137641041",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137641041",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3679,6 +3902,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137640490",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137640490",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3695,6 +3919,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709526",
+  "license_basis": "PD-Art",
   "qid": "Q18709526",
   "collection": "Lenbachhaus"
  },
@@ -3711,6 +3936,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709480",
+  "license_basis": "PD-old-80",
   "qid": "Q18709480",
   "collection": "Beyeler Foundation"
  },
@@ -3727,6 +3953,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3696992",
+  "license_basis": "PD-old-80",
   "qid": "Q3696992",
   "collection": "Lenbachhaus"
  },
@@ -3743,6 +3970,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75389963",
+  "license_basis": "PD-old",
   "qid": "Q75389963",
   "collection": "Lenbachhaus"
  },
@@ -3760,6 +3988,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137616136",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137616136",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3777,6 +4006,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55419723",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q55419723",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -3793,6 +4023,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75389853",
+  "license_basis": "PD-old-80",
   "qid": "Q75389853",
   "collection": "Lenbachhaus"
  },
@@ -3810,6 +4041,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20816532",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q20816532",
   "collection": "Philadelphia Museum of Art"
  },
@@ -3826,6 +4058,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709502",
+  "license_basis": "PD-old-80",
   "qid": "Q18709502",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -3843,6 +4076,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705498",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705498",
   "collection": "Musée National d'Art Moderne"
  },
@@ -3859,6 +4093,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883716",
+  "license_basis": "PD-old-100",
   "qid": "Q19883716",
   "collection": "Museum of Modern Art"
  },
@@ -3875,6 +4110,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883717",
+  "license_basis": "PD-old-100",
   "qid": "Q19883717",
   "collection": "Museum of Modern Art"
  },
@@ -3892,6 +4128,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883715",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q19883715",
   "collection": "Museum of Modern Art"
  },
@@ -3908,6 +4145,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883718",
+  "license_basis": "PD-old-100",
   "qid": "Q19883718",
   "collection": "Museum of Modern Art"
  },
@@ -3925,6 +4163,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20881767",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q20881767",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -3942,6 +4181,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3685299",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3685299",
   "collection": "Museo del Novecento"
  },
@@ -3958,6 +4198,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q112111638",
+  "license_basis": "PD-old-80",
   "qid": "Q112111638",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -3974,6 +4215,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3865997",
+  "license_basis": "PD-old-80",
   "qid": "Q3865997",
   "collection": "Tretyakov Gallery"
  },
@@ -3990,6 +4232,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709490",
+  "license_basis": "PD-old-80",
   "qid": "Q18709490",
   "collection": "Tretyakov Gallery"
  },
@@ -4006,6 +4249,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133046347",
+  "license_basis": "PD-old-80",
   "qid": "Q133046347",
   "collection": "Museum Ludwig"
  },
@@ -4023,6 +4267,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q112684840",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q112684840",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4040,6 +4285,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3955106",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3955106",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4057,6 +4303,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130262224",
   "genre": "Abstract",
+  "license_basis": "PD-old",
   "qid": "Q130262224",
   "collection": "Kovalenko Krasnodar Regional Art Museum"
  },
@@ -4074,6 +4321,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24050845",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q24050845",
   "collection": "Kunstmuseum Den Haag"
  },
@@ -4091,6 +4339,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709515",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18709515",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4107,6 +4356,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75390759",
+  "license_basis": "PD-old-80",
   "qid": "Q75390759",
   "collection": "Lenbachhaus"
  },
@@ -4123,6 +4373,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111798795",
+  "license_basis": "PD-old-80",
   "qid": "Q111798795",
   "collection": "\"degenerate art\" collection"
  },
@@ -4140,6 +4391,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705501",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705501",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4157,6 +4409,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705506",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705506",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4174,6 +4427,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705503",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705503",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4191,6 +4445,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705511",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705511",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4207,6 +4462,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705505",
+  "license_basis": "PD-old-80",
   "qid": "Q18705505",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4224,6 +4480,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705504",
   "genre": "Landscape",
+  "license_basis": "PD-old-80",
   "qid": "Q18705504",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4240,6 +4497,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709520",
+  "license_basis": "PD-old-80",
   "qid": "Q18709520",
   "collection": "Russian Museum"
  },
@@ -4257,6 +4515,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3621758",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3621758",
   "collection": "Russian Museum"
  },
@@ -4273,6 +4532,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709468",
+  "license_basis": "PD-old-80",
   "qid": "Q18709468",
   "collection": "Yekaterinburg Museum of Fine Arts"
  },
@@ -4289,6 +4549,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q112195133",
+  "license_basis": "PD-old-80",
   "qid": "Q112195133",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -4305,6 +4566,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709530",
+  "license_basis": "PD-old-80",
   "qid": "Q18709530",
   "collection": ""
  },
@@ -4321,6 +4583,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q112607731",
+  "license_basis": "PD-old-80",
   "qid": "Q112607731",
   "collection": ""
  },
@@ -4337,6 +4600,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3874360",
+  "license_basis": "PD-old-80",
   "qid": "Q3874360",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4354,6 +4618,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3716012",
   "genre": "Abstract",
+  "license_basis": "PD-old-70",
   "qid": "Q3716012",
   "collection": "Russian Museum"
  },
@@ -4371,6 +4636,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3693176",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3693176",
   "collection": "Ohara Museum of Art"
  },
@@ -4388,6 +4654,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3887612",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3887612",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4405,6 +4672,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3997946",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3997946",
   "collection": "Museum Ludwig"
  },
@@ -4422,6 +4690,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104537615",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q104537615",
   "collection": "Kunsthaus Zürich"
  },
@@ -4438,6 +4707,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709546",
+  "license_basis": "PD-old-80",
   "qid": "Q18709546",
   "collection": ""
  },
@@ -4454,6 +4724,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882637",
+  "license_basis": "PD-old-80",
   "qid": "Q19882637",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4471,6 +4742,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49203876",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q49203876",
   "collection": "Yale University Art Gallery"
  },
@@ -4487,6 +4759,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3842006",
+  "license_basis": "PD-old-80",
   "qid": "Q3842006",
   "collection": "Lenbachhaus"
  },
@@ -4503,6 +4776,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709527",
+  "license_basis": "PD-old-80",
   "qid": "Q18709527",
   "collection": ""
  },
@@ -4520,6 +4794,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705518",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705518",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4536,6 +4811,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709543",
+  "license_basis": "PD-old-80",
   "qid": "Q18709543",
   "collection": ""
  },
@@ -4552,6 +4828,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709544",
+  "license_basis": "PD-old-80",
   "qid": "Q18709544",
   "collection": ""
  },
@@ -4568,6 +4845,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105417969",
+  "license_basis": "PD-old-70",
   "qid": "Q105417969",
   "collection": ""
  },
@@ -4585,6 +4863,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709475",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18709475",
   "collection": "Peggy Guggenheim Collection"
  },
@@ -4602,6 +4881,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q135996213",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q135996213",
   "collection": "Neue Galerie"
  },
@@ -4618,6 +4898,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709541",
+  "license_basis": "PD-old-80",
   "qid": "Q18709541",
   "collection": ""
  },
@@ -4635,6 +4916,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709472",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18709472",
   "collection": "Philadelphia Museum of Art"
  },
@@ -4652,6 +4934,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q110949126",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q110949126",
   "collection": "Hamburger Kunsthalle"
  },
@@ -4669,6 +4952,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19609199",
   "genre": "Abstract",
+  "license_basis": "CC0",
   "qid": "Q19609199",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4685,6 +4969,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709533",
+  "license_basis": "PD-old-80",
   "qid": "Q18709533",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -4702,6 +4987,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q132622746",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q132622746",
   "collection": "Sprengel Museum"
  },
@@ -4719,6 +5005,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136747998",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q136747998",
   "collection": "Kunstsammlung Nordrhein-Westfalen"
  },
@@ -4735,6 +5022,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709477",
+  "license_basis": "PD-old-80",
   "qid": "Q18709477",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4752,6 +5040,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705520",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705520",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4768,6 +5057,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q127783745",
+  "license_basis": "PD-old",
   "qid": "Q127783745",
   "collection": ""
  },
@@ -4784,6 +5074,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q27658751",
+  "license_basis": "PD",
   "qid": "Q27658751",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -4800,6 +5091,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882640",
+  "license_basis": "PD-old-80",
   "qid": "Q19882640",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4817,6 +5109,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q105045490",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q105045490",
   "collection": "Strasbourg Museum of Modern and Contemporary Art"
  },
@@ -4834,6 +5127,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705521",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705521",
   "collection": "Musée National d'Art Moderne"
  },
@@ -4851,6 +5145,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115098329",
   "genre": "Abstract",
+  "license_basis": "PD-old",
   "qid": "Q115098329",
   "collection": "Paul G. Allen Collection"
  },
@@ -4868,25 +5163,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q105417946",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q105417946",
   "collection": "Christie's"
- },
- {
-  "title": "Fall Silent",
-  "artist": "Wassily Kandinsky",
-  "year": "1924",
-  "medium": "Painting",
-  "gallery": "Museum Boijmans Van Beuningen",
-  "country": "Russia",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1937_-_Silent.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1937_-_Silent.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q55418012",
-  "genre": "Abstract",
-  "qid": "Q55418012",
-  "collection": "Museum Boijmans Van Beuningen"
  },
  {
   "title": "Hornform",
@@ -4902,6 +5181,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q107450198",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q107450198",
   "collection": "Neue Nationalgalerie"
  },
@@ -4918,6 +5198,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q95716809",
+  "license_basis": "PD-old-80",
   "qid": "Q95716809",
   "collection": "Museum Kunstpalast"
  },
@@ -4934,6 +5215,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709545",
+  "license_basis": "PD-old-80",
   "qid": "Q18709545",
   "collection": "The Nelson-Atkins Museum of Art"
  },
@@ -4950,6 +5232,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709513",
+  "license_basis": "PD-old-80",
   "qid": "Q18709513",
   "collection": "Museum Ludwig"
  },
@@ -4967,6 +5250,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882642",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q19882642",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4984,6 +5268,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49203846",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q49203846",
   "collection": "Yale University Art Gallery"
  },
@@ -5001,6 +5286,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q134325747",
   "genre": "Abstract",
+  "license_basis": "PD-US-expired",
   "qid": "Q134325747",
   "collection": ""
  },
@@ -5018,6 +5304,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55415176",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q55415176",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5034,6 +5321,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882643",
+  "license_basis": "PD-old-100",
   "qid": "Q19882643",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5051,6 +5339,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709476",
   "genre": "Abstract",
+  "license_basis": "PD-old",
   "qid": "Q18709476",
   "collection": "Kunstsammlung Nordrhein-Westfalen"
  },
@@ -5068,6 +5357,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21713179",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q21713179",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -5085,6 +5375,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705529",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705529",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5102,6 +5393,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705532",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705532",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5119,6 +5411,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882644",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q19882644",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5136,6 +5429,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20881921",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q20881921",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -5153,6 +5447,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3978818",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3978818",
   "collection": "Tate"
  },
@@ -5170,6 +5465,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q47512127",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q47512127",
   "collection": "Strasbourg Museum of Modern and Contemporary Art"
  },
@@ -5187,6 +5483,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705525",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705525",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5204,6 +5501,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3604080",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q3604080",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5221,6 +5519,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q111798798",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q111798798",
   "collection": "\"degenerate art\" collection"
  },
@@ -5238,6 +5537,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705535",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705535",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5255,6 +5555,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q111798788",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q111798788",
   "collection": "\"degenerate art\" collection"
  },
@@ -5272,6 +5573,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705536",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705536",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5288,6 +5590,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882645",
+  "license_basis": "PD-old-100",
   "qid": "Q19882645",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5304,6 +5607,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3609042",
+  "license_basis": "PD-old-80",
   "qid": "Q3609042",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5321,6 +5625,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49203814",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q49203814",
   "collection": "Yale University Art Gallery"
  },
@@ -5337,6 +5642,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111798784",
+  "license_basis": "PD-old-80",
   "qid": "Q111798784",
   "collection": "\"degenerate art\" collection"
  },
@@ -5353,6 +5659,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882646",
+  "license_basis": "PD-old-80",
   "qid": "Q19882646",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5370,6 +5677,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705533",
   "genre": "Genre scene",
+  "license_basis": "PD-old-80",
   "qid": "Q18705533",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5387,6 +5695,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137597912",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137597912",
   "collection": "Christie's"
  },
@@ -5404,6 +5713,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55417319",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q55417319",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5420,6 +5730,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q27658683",
+  "license_basis": "PD",
   "qid": "Q27658683",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -5436,6 +5747,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709524",
+  "license_basis": "PD-old-80",
   "qid": "Q18709524",
   "collection": "Norton Simon Museum"
  },
@@ -5452,6 +5764,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137597673",
+  "license_basis": "PD-old-80",
   "qid": "Q137597673",
   "collection": "Christie's"
  },
@@ -5469,6 +5782,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705538",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705538",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5485,6 +5799,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18709536",
+  "license_basis": "PD-old-80",
   "qid": "Q18709536",
   "collection": ""
  },
@@ -5502,6 +5817,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19928594",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q19928594",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5519,6 +5835,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q135246613",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q135246613",
   "collection": "Yokohama Museum of Art"
  },
@@ -5535,6 +5852,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133236162",
+  "license_basis": "PD-old-80",
   "qid": "Q133236162",
   "collection": "Museum Ludwig"
  },
@@ -5552,6 +5870,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131613140",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q131613140",
   "collection": "Von der Heydt Museum"
  },
@@ -5569,6 +5888,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705543",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705543",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5585,6 +5905,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882647",
+  "license_basis": "PD-old-100",
   "qid": "Q19882647",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5602,6 +5923,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137602756",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137602756",
   "collection": "Sotheby's"
  },
@@ -5619,6 +5941,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705540",
   "genre": "Abstract",
+  "license_basis": "PD-old",
   "qid": "Q18705540",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5636,6 +5959,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705542",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705542",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5653,8 +5977,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137153736",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137153736",
   "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "At Rest",
+  "artist": "Wassily Kandinsky",
+  "year": "1928–1942",
+  "medium": "Painting",
+  "gallery": "\"degenerate art\" collection",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_860.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_860.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709521",
+  "license_basis": "PD-old",
+  "qid": "Q18709521",
+  "collection": "\"degenerate art\" collection"
  },
  {
   "title": "Circle (with brown)",
@@ -5670,6 +6012,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27951187",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q27951187",
   "collection": "National Museum of Fine Arts, Argentina"
  },
@@ -5687,6 +6030,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705544",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705544",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5704,6 +6048,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705545",
   "genre": "Abstract",
+  "license_basis": "PD-old",
   "qid": "Q18705545",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5721,6 +6066,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115104021",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q115104021",
   "collection": "Nantes Museum of Arts"
  },
@@ -5737,6 +6083,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q66474020",
+  "license_basis": "PD-old-80",
   "qid": "Q66474020",
   "collection": "Albertina"
  },
@@ -5753,6 +6100,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106866309",
+  "license_basis": "PD-old-80",
   "qid": "Q106866309",
   "collection": "Busch–Reisinger Museum"
  },
@@ -5770,6 +6118,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3901947",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q3901947",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -5786,6 +6135,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19924931",
+  "license_basis": "PD-old-80",
   "qid": "Q19924931",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5803,11 +6153,12 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55419736",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q55419736",
   "collection": "Museum Boijmans Van Beuningen"
  },
  {
-  "title": "Q137602708",
+  "title": "Scharf im dumpf - Wassily",
   "artist": "Wassily Kandinsky",
   "year": "1929",
   "medium": "Painting",
@@ -5820,6 +6171,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137602708",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137602708",
   "collection": "Sotheby's"
  },
@@ -5836,6 +6188,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q4010255",
+  "license_basis": "PD-old-80",
   "qid": "Q4010255",
   "collection": "Peggy Guggenheim Collection"
  },
@@ -5853,6 +6206,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q105426826",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q105426826",
   "collection": ""
  },
@@ -5869,6 +6223,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q126094213",
+  "license_basis": "PD-old",
   "qid": "Q126094213",
   "collection": "Albertina"
  },
@@ -5886,6 +6241,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705551",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705551",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5903,6 +6259,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q114805272",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q114805272",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5920,6 +6277,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705549",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705549",
   "collection": "Musée National d'Art Moderne"
  },
@@ -5937,6 +6295,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19928612",
   "genre": "Abstract",
+  "license_basis": "PD-old-70",
   "qid": "Q19928612",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5954,6 +6313,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q105437819",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q105437819",
   "collection": "Christie's"
  },
@@ -5971,6 +6331,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137652606",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137652606",
   "collection": "Sotheby's"
  },
@@ -5988,6 +6349,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705550",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705550",
   "collection": "Musée National d'Art Moderne"
  },
@@ -6005,6 +6367,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18705548",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q18705548",
   "collection": "Musée National d'Art Moderne"
  },
@@ -6022,6 +6385,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137675068",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q137675068",
   "collection": "Sotheby's"
  },
@@ -6039,6 +6403,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55413097",
   "genre": "Abstract",
+  "license_basis": "PD-old",
   "qid": "Q55413097",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -6056,8 +6421,1224 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20882096",
   "genre": "Abstract",
+  "license_basis": "PD-old-80",
   "qid": "Q20882096",
   "collection": "Los Angeles County Museum of Art"
+ },
+ {
+  "title": "Brownish",
+  "artist": "Wassily Kandinsky",
+  "year": "1931",
+  "medium": "Painting",
+  "gallery": "San Francisco Museum of Modern Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Brownish%2C_1931.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Brownish,_1931.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q50315590",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q50315590",
+  "collection": "San Francisco Museum of Modern Art"
+ },
+ {
+  "title": "Fragile",
+  "artist": "Wassily Kandinsky",
+  "year": "1931",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Fragil%2C_1931%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Fragil,_1931,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705554",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705554",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Slowed Release",
+  "artist": "Wassily Kandinsky",
+  "year": "1931",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Langsam_heraus%2C_1931%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Langsam_heraus,_1931,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705552",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705552",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Soft Pressure",
+  "artist": "Wassily Kandinsky",
+  "year": "1931",
+  "medium": "Painting",
+  "gallery": "Museum of Modern Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Soft_Pressure%2C_1931.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Soft_Pressure,_1931.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19884061",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19884061",
+  "collection": "Museum of Modern Art"
+ },
+ {
+  "title": "Centre Circles",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "Museo Nacional Centro de Arte Reina Sofía",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_MNCARS_2.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_MNCARS_2.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q27658691",
+  "license_basis": "PD",
+  "qid": "Q27658691",
+  "collection": "Museo Nacional Centro de Arte Reina Sofía"
+ },
+ {
+  "title": "Cold Remoteness",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BChle_Entfernung_-_Wassily_Kandinsky.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%BChle_Entfernung_-_Wassily_Kandinsky.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705555",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705555",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Decisive Rose",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Decisive_Rose%2C_1932.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Decisive_Rose,_1932.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882651",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882651",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Fixed Flight",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_kandinsky%2C_1932_-_Fixed_Flight.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_kandinsky,_1932_-_Fixed_Flight.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709549",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709549",
+  "collection": ""
+ },
+ {
+  "title": "Four Parts",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "Metropolitan Museum of Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Four_Parts_MET_sf1991.402.9.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Four_Parts_MET_sf1991.402.9.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "CC0",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19917728",
+  "license_basis": "CC0",
+  "qid": "Q19917728",
+  "collection": "Metropolitan Museum of Art"
+ },
+ {
+  "title": "Unequal",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "Norton Simon Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1932_-_Unequal.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1932_-_Unequal.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709531",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709531",
+  "collection": "Norton Simon Museum"
+ },
+ {
+  "title": "White - Soft and Hard",
+  "artist": "Wassily Kandinsky",
+  "year": "1932",
+  "medium": "Painting",
+  "gallery": "Museum of Modern Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_White_-_Soft_and_Hard%2C_March_1932.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_White_-_Soft_and_Hard,_March_1932.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19884086",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19884086",
+  "collection": "Museum of Modern Art"
+ },
+ {
+  "title": "Development in Brown",
+  "artist": "Wassily Kandinsky",
+  "year": "1933",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1933_-_D%C3%A9veloppement_en_brun.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1933_-_D%C3%A9veloppement_en_brun.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705557",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705557",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Even More",
+  "artist": "Wassily Kandinsky",
+  "year": "1933",
+  "medium": "Painting",
+  "gallery": "Israel Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Umsomehr_%28Even_More%29%2C_1933%2C_B97.0075.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Umsomehr_(Even_More),_1933,_B97.0075.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q76625674",
+  "license_basis": "PD-old",
+  "qid": "Q76625674",
+  "collection": "Israel Museum"
+ },
+ {
+  "title": "Pink Compensation",
+  "artist": "Wassily Kandinsky",
+  "year": "1933",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Ausgleichrosa%2C_1933%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Ausgleichrosa,_1933,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705556",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705556",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Formes noires sur blanc",
+  "artist": "Wassily Kandinsky",
+  "year": "1934",
+  "medium": "Painting",
+  "gallery": "Musée Zervos",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Formes_noires_sur_blanc.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Formes_noires_sur_blanc.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q133835508",
+  "license_basis": "PD-old-80",
+  "qid": "Q133835508",
+  "collection": "Musée Zervos"
+ },
+ {
+  "title": "Graceful Ascent",
+  "artist": "Wassily Kandinsky",
+  "year": "1934",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Graceful_Ascent%2C_1934.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Graceful_Ascent,_1934.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3712599",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q3712599",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Reunited Surfaces",
+  "artist": "Wassily Kandinsky",
+  "year": "1934",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Reunited_Surfaces%2C_1934%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Reunited_Surfaces,_1934,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q137270417",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q137270417",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Striped",
+  "artist": "Wassily Kandinsky",
+  "year": "1934",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Striped_by_Wassily_Kandinsky%2C_1934.JPG?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Striped_by_Wassily_Kandinsky,_1934.JPG",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882652",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q19882652",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Two Surroundings",
+  "artist": "Wassily Kandinsky",
+  "year": "1934",
+  "medium": "Painting",
+  "gallery": "Cultural Heritage Agency of the Netherlands Art Collection",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_1046.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_1046.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q24056614",
+  "license_basis": "PD-old",
+  "qid": "Q24056614",
+  "collection": "Cultural Heritage Agency of the Netherlands Art Collection"
+ },
+ {
+  "title": "Accompanied Contrast",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Accompanied_Contrast%2C_1935.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Accompanied_Contrast,_1935.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882653",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882653",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Brown with Supplement",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Museum Boijmans Van Beuningen",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Brun_suppl%C3%A9ment%C3%A9.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Brun_suppl%C3%A9ment%C3%A9.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709523",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709523",
+  "collection": "Museum Boijmans Van Beuningen"
+ },
+ {
+  "title": "Green Accent",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Green_Accent%2C_1935.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Green_Accent,_1935.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882654",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882654",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Movement I",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Tretyakov Gallery",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1935_-_Mouvement_1.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1935_-_Mouvement_1.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709538",
+  "license_basis": "PD-old-70",
+  "qid": "Q18709538",
+  "collection": "Tretyakov Gallery"
+ },
+ {
+  "title": "Orange Violet",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1935_-_Orange_Violet.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1935_-_Orange_Violet.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709493",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709493",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Rigid and Curved",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "National Museum of Art, Architecture and Design",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasilij_Kandinskij_-_Rigid_and_Curved_-_NMK.LAAN.2023.0501_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vasilij_Kandinskij_-_Rigid_and_Curved_-_NMK.LAAN.2023.0501_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q138343104",
+  "license_basis": "PD-old-80",
+  "qid": "Q138343104",
+  "collection": "National Museum of Art, Architecture and Design"
+ },
+ {
+  "title": "Succession",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "The Phillips Collection",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Succession%2C_1935.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Succession,_1935.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q23940265",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q23940265",
+  "collection": "The Phillips Collection"
+ },
+ {
+  "title": "Two Figures",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Georgia Museum of Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Two_Figures%2C_1935%2C_1946.123.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Two_Figures,_1935,_1946.123.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q77599619",
+  "license_basis": "PD-old",
+  "qid": "Q77599619",
+  "collection": "Georgia Museum of Art"
+ },
+ {
+  "title": "Two Green Points",
+  "artist": "Wassily Kandinsky",
+  "year": "1935",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Two_Green_Points%2C_1935%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Two_Green_Points,_1935,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705559",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705559",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Composition IX",
+  "artist": "Wassily Kandinsky",
+  "year": "1936",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1936_-_Composition_9.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1936_-_Composition_9.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705560",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705560",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Dominant Curve",
+  "artist": "Wassily Kandinsky",
+  "year": "1936",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1936_-_Courbe_dominante.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1936_-_Courbe_dominante.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709474",
+  "genre": "Abstract",
+  "license_basis": "PD-old-70",
+  "qid": "Q18709474",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Figure verte",
+  "artist": "Wassily Kandinsky",
+  "year": "1936",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gr%C3%BCne_Figur.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCne_Figur.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q112684988",
+  "license_basis": "PD-old-80",
+  "qid": "Q112684988",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Shapes in Tension",
+  "artist": "Wassily Kandinsky",
+  "year": "1936",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Shapes_in_Tension%2C_1936%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Shapes_in_Tension,_1936,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705561",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705561",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Untitled, No. 629",
+  "artist": "Wassily Kandinsky",
+  "year": "1936",
+  "medium": "Painting",
+  "gallery": "Worcester Art Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Untitled%2C_No._629%2C_1936.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Untitled,_No._629,_1936.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q79027592",
+  "license_basis": "PD-old",
+  "qid": "Q79027592",
+  "collection": "Worcester Art Museum"
+ },
+ {
+  "title": "White Line",
+  "artist": "Wassily Kandinsky",
+  "year": "1936",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/White_Line_-_Wassily_Kandinsky%2C_1936.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:White_Line_-_Wassily_Kandinsky,_1936.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q137053189",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q137053189",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Capricious Forms",
+  "artist": "Wassily Kandinsky",
+  "year": "1937",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Capricious_Forms%2C_1937.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Capricious_Forms,_1937.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882655",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882655",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Silent",
+  "artist": "Wassily Kandinsky",
+  "year": "1937",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1937_-_Silent.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1937_-_Silent.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709547",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709547",
+  "collection": ""
+ },
+ {
+  "title": "Sweet trifles",
+  "artist": "Wassily Kandinsky",
+  "year": "1937",
+  "medium": "Watercolor",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Bagatelles_douces.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Bagatelles_douces.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q47512188",
+  "license_basis": "PD-old-80",
+  "qid": "Q47512188",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Tensions Claires",
+  "artist": "Wassily Kandinsky",
+  "year": "1937",
+  "medium": "Painting",
+  "gallery": "Tehran Museum of Contemporary Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tensions_Claires.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tensions_Claires.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q105103211",
+  "license_basis": "PD-old-70",
+  "qid": "Q105103211",
+  "collection": "Tehran Museum of Contemporary Art"
+ },
+ {
+  "title": "The Fat and the Thin",
+  "artist": "Wassily Kandinsky",
+  "year": "1937",
+  "medium": "Painting",
+  "gallery": "Bavarian State Painting Collections",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WASSILY-KANDINSKY_LE-GROS-ET-LE-MINCE_CC-BY-SA_BSTGS_12802.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:WASSILY-KANDINSKY_LE-GROS-ET-LE-MINCE_CC-BY-SA_BSTGS_12802.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q30073708",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q30073708",
+  "collection": "Bavarian State Painting Collections"
+ },
+ {
+  "title": "Thirty",
+  "artist": "Wassily Kandinsky",
+  "year": "1937",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Thirty%2C_1937%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Thirty,_1937,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705562",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705562",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Colourful Ensemble",
+  "artist": "Wassily Kandinsky",
+  "year": "1938",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Entassement_r%C3%A9gl%C3%A9.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Entassement_r%C3%A9gl%C3%A9.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3799157",
+  "license_basis": "PD-old-70",
+  "qid": "Q3799157",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Penetrating Green",
+  "artist": "Wassily Kandinsky",
+  "year": "1938",
+  "medium": "Painting",
+  "gallery": "Baltimore Museum of Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Penetrating_Green%2C_1938.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Penetrating_Green,_1938.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q95253098",
+  "license_basis": "PD-old",
+  "qid": "Q95253098",
+  "collection": "Baltimore Museum of Art"
+ },
+ {
+  "title": "Red Form",
+  "artist": "Wassily Kandinsky",
+  "year": "1938",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WassilyKandinsky-LaFormeRouge-1938-abstractpainting.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:WassilyKandinsky-LaFormeRouge-1938-abstractpainting.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q62589008",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q62589008",
+  "collection": ""
+ },
+ {
+  "title": "Yellow Painting",
+  "artist": "Wassily Kandinsky",
+  "year": "1938",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Yellow_Painting%2C_1938.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Yellow_Painting,_1938.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882656",
+  "license_basis": "PD-old",
+  "qid": "Q19882656",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Complex-Simple",
+  "artist": "Wassily Kandinsky",
+  "year": "1939",
+  "medium": "Painting",
+  "gallery": "Museum of Grenoble",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Complexit%C3%A9_simple.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Complexit%C3%A9_simple.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705565",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705565",
+  "collection": "Museum of Grenoble"
+ },
+ {
+  "title": "Composition X",
+  "artist": "Wassily Kandinsky",
+  "year": "1939",
+  "medium": "Painting",
+  "gallery": "Kunstsammlung Nordrhein-Westfalen",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1939_-_Composition_10.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1939_-_Composition_10.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3685303",
+  "genre": "Abstract",
+  "license_basis": "PD-old-70",
+  "qid": "Q3685303",
+  "collection": "Kunstsammlung Nordrhein-Westfalen"
+ },
+ {
+  "title": "To the Blue",
+  "artist": "Wassily Kandinsky",
+  "year": "1939",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_To_the_Blue%2C_1939%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_To_the_Blue,_1939,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705566",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705566",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "316",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1940_-_316.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1940_-_316.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709517",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709517",
+  "collection": ""
+ },
+ {
+  "title": "Around the Circle",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1940_-_Around_the_circle.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1940_-_Around_the_circle.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709471",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709471",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Little Accents",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Little_Accents%2C_1940.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Little_Accents,_1940.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882657",
+  "license_basis": "PD-old",
+  "qid": "Q19882657",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Moderation",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Moderation%2C_1940.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Moderation,_1940.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882659",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882659",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Parties diverses",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "Lenbachhaus",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Parties_diverses%2C_1940.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Parties_diverses,_1940.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q75389732",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q75389732",
+  "collection": "Lenbachhaus"
+ },
+ {
+  "title": "Sky Blue",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wassily_Kandinsky_-_Sky_Blue%2C_1940.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky_-_Sky_Blue,_1940.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3641124",
+  "license_basis": "PD-1996",
+  "qid": "Q3641124",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "The Whole",
+  "artist": "Wassily Kandinsky",
+  "year": "1940",
+  "medium": "Painting",
+  "gallery": "The National Museum of Modern Art",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22The_Whole%22_by_Wassily_Kandinsky_1940.tif?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%22The_Whole%22_by_Wassily_Kandinsky_1940.tif",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q104696699",
+  "license_basis": "PD",
+  "qid": "Q104696699",
+  "collection": "The National Museum of Modern Art"
+ },
+ {
+  "title": "Various Actions",
+  "artist": "Wassily Kandinsky",
+  "year": "1941",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Various_Actions%2C_1941.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Various_Actions,_1941.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882660",
+  "genre": "Abstract",
+  "license_basis": "PD-old-70",
+  "qid": "Q19882660",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Intimate Celebration",
+  "artist": "Wassily Kandinsky",
+  "year": "1942",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_An_Intimate_Party%2C_1942%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_An_Intimate_Party,_1942,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705578",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705578",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Reciprocal Accords",
+  "artist": "Wassily Kandinsky",
+  "year": "1942",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Accord_r%C3%A9ciproque.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Accord_r%C3%A9ciproque.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705575",
+  "license_basis": "PD-old-70",
+  "qid": "Q18705575",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "The Net",
+  "artist": "Wassily Kandinsky",
+  "year": "1942",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_The_Net%2C_1942%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_The_Net,_1942,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q137273061",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q137273061",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Vertical Accents",
+  "artist": "Wassily Kandinsky",
+  "year": "1942",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Vertical_Accents%2C_1942.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Vertical_Accents,_1942.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882662",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882662",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Around the Line",
+  "artist": "Wassily Kandinsky",
+  "year": "1943",
+  "medium": "Painting",
+  "gallery": "Thyssen-Bornemisza Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Alrededor_de_la_l%C3%ADnea%2C_1943.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Alrededor_de_la_l%C3%ADnea,_1943.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q21713307",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q21713307",
+  "collection": "Thyssen-Bornemisza Museum"
+ },
+ {
+  "title": "Conglomerate",
+  "artist": "Wassily Kandinsky",
+  "year": "1943",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Conglomerate_-_Wassily_Kandinsky_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Conglomerate_-_Wassily_Kandinsky_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705595",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705595",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Fragments",
+  "artist": "Wassily Kandinsky",
+  "year": "1943",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Fragments%2C_1943.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Fragments,_1943.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882663",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882663",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "White Figure",
+  "artist": "Wassily Kandinsky",
+  "year": "1943",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1943_-_White_Figure.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1943_-_White_Figure.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709505",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709505",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Composition (1944)",
+  "artist": "Wassily Kandinsky",
+  "year": "1944",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Composition%2C_1944%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Composition,_1944,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18709525",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18709525",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Ribbon with Squares",
+  "artist": "Wassily Kandinsky",
+  "year": "1944",
+  "medium": "Painting",
+  "gallery": "Solomon R. Guggenheim Museum",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky_-_Ribbon_with_Squares%2C_1944.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Ribbon_with_Squares,_1944.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q19882664",
+  "genre": "Abstract",
+  "license_basis": "PD-old",
+  "qid": "Q19882664",
+  "collection": "Solomon R. Guggenheim Museum"
+ },
+ {
+  "title": "Tempered Elan",
+  "artist": "Wassily Kandinsky",
+  "year": "1944",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27%C3%89lan_temp%C3%A9r%C3%A9%2C_Kandinsky_%281944%29.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:L%27%C3%89lan_temp%C3%A9r%C3%A9,_Kandinsky_(1944).jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3962697",
+  "license_basis": "PD-old-70",
+  "qid": "Q3962697",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "The Red Little Circle",
+  "artist": "Wassily Kandinsky",
+  "year": "1944",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_The_Little_Red_Circle%2C_1944%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_The_Little_Red_Circle,_1944,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705597",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705597",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Unfinished Painting",
+  "artist": "Wassily Kandinsky",
+  "year": "1944",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Unfinished_Painting%2C_AM_81-65-77%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Unfinished_Painting,_AM_81-65-77,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705602",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705602",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Unfinished Painting",
+  "artist": "Wassily Kandinsky",
+  "year": "1944",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C_Wassily_-_Unfinished_Painting%2C_1944%2C_GAC.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Unfinished_Painting,_1944,_GAC.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q18705604",
+  "genre": "Abstract",
+  "license_basis": "PD-old-80",
+  "qid": "Q18705604",
+  "collection": "Musée National d'Art Moderne"
  },
  {
   "title": "Church of the Nativity of the Virgin in Moscow",
@@ -6072,7 +7653,42 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3669095",
+  "license_basis": "PD-old-80",
   "qid": "Q3669095",
   "collection": "Musée National d'Art Moderne"
+ },
+ {
+  "title": "Madonna and Child",
+  "artist": "Wassily Kandinsky",
+  "year": "",
+  "medium": "Watercolor",
+  "gallery": "",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MADONNA_UND_KIND_%28MADONNA_AND_CHILD%29_%29.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:MADONNA_UND_KIND_(MADONNA_AND_CHILD)_).jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q105534072",
+  "license_basis": "PD-old-80",
+  "qid": "Q105534072",
+  "collection": ""
+ },
+ {
+  "title": "Untitled (Composition)",
+  "artist": "Wassily Kandinsky",
+  "year": "",
+  "medium": "Watercolor",
+  "gallery": "",
+  "country": "Russia",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OHNE_TITEL_%28KOMPOSITION%29_%28UNTITLED_%28COMPOSITION%29%29_.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:OHNE_TITEL_(KOMPOSITION)_(UNTITLED_(COMPOSITION))_.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q105513717",
+  "license_basis": "PD-old-80",
+  "qid": "Q105513717",
+  "collection": ""
  }
 ]

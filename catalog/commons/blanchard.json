@@ -1,6 +1,6 @@
 [
  {
-  "title": "Q125967116",
+  "title": "Mujer con abanico",
   "artist": "Maria Blanchard",
   "year": "1913–1915",
   "medium": "Painting",
@@ -12,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q125967116",
+  "license_basis": "CC0",
   "qid": "Q125967116",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -28,6 +29,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q27655853",
+  "license_basis": "PD-old-80",
   "qid": "Q27655853",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -44,6 +46,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q27655814",
+  "license_basis": "PD-old-80",
   "qid": "Q27655814",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -60,6 +63,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q27655823",
+  "license_basis": "PD-old-80",
   "qid": "Q27655823",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -77,6 +81,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q110196728",
   "genre": "Still life",
+  "license_basis": "PD-old-80",
   "qid": "Q110196728",
   "collection": "Museo Nacional Centro de Arte Reina Sofía"
  },
@@ -94,7 +99,42 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q133672803",
   "genre": "Still life",
+  "license_basis": "PD-old-80",
   "qid": "Q133672803",
   "collection": "Kunstbesitz der Landeshauptstadt Hannover"
+ },
+ {
+  "title": "La Bretonne (Woman from Brittany)",
+  "artist": "Maria Blanchard",
+  "year": "",
+  "medium": "Painting",
+  "gallery": "Museo Nacional Centro de Arte Reina Sofía",
+  "country": "Spain",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa_blanchard-la_bretonne-1928-mncars.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_blanchard-la_bretonne-1928-mncars.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q27655884",
+  "license_basis": "PD-old-70",
+  "qid": "Q27655884",
+  "collection": "Museo Nacional Centro de Arte Reina Sofía"
+ },
+ {
+  "title": "La brodeuse (The Embroiderer)",
+  "artist": "Maria Blanchard",
+  "year": "",
+  "medium": "Painting",
+  "gallery": "Museo Nacional Centro de Arte Reina Sofía",
+  "country": "Spain",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa_Blanchard_en_el_Museo_Reina_Sof%C3%ADa_Madrid.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Blanchard_en_el_Museo_Reina_Sof%C3%ADa_Madrid.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q27655902",
+  "license_basis": "PD",
+  "qid": "Q27655902",
+  "collection": "Museo Nacional Centro de Arte Reina Sofía"
  }
 ]
