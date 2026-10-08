@@ -1,0 +1,27 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Watercolor",
+  "Sculpture"
+ ],
+ "qid": "Q182664",
+ "gallery": "Paintings by Giovanni Antonio Canal",
+ "artist": "Canaletto",
+ "artist_re": "canal",
+ "country": "Italy",
+ "years": [
+  1715,
+  1768
+ ],
+ "slug": "canaletto"
+}

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T16:41Z",
+ "generated": "2026-10-08T17:54Z",
  "artists": [
   {
    "file": "blanchard.json",
@@ -16,9 +16,16 @@
    "with_genre": 0
   },
   {
+   "file": "canaletto.json",
+   "artist": "Canaletto",
+   "works": 383,
+   "sensitive": 0,
+   "with_genre": 297
+  },
+  {
    "file": "caravaggio.json",
    "artist": "Caravaggio",
-   "works": 99,
+   "works": 97,
    "sensitive": 3,
    "with_genre": 90
   },
@@ -37,18 +44,25 @@
    "with_genre": 587
   },
   {
+   "file": "david.json",
+   "artist": "Jacques-Louis David",
+   "works": 289,
+   "sensitive": 17,
+   "with_genre": 111
+  },
+  {
    "file": "dossi.json",
    "artist": "Dosso Dossi",
-   "works": 79,
+   "works": 78,
    "sensitive": 7,
    "with_genre": 64
   },
   {
    "file": "elgreco.json",
    "artist": "El Greco",
-   "works": 491,
+   "works": 488,
    "sensitive": 3,
-   "with_genre": 479
+   "with_genre": 476
   },
   {
    "file": "gauguin.json",
@@ -109,9 +123,9 @@
   {
    "file": "manet.json",
    "artist": "Édouard Manet",
-   "works": 431,
+   "works": 430,
    "sensitive": 13,
-   "with_genre": 225
+   "with_genre": 224
   },
   {
    "file": "marc.json",
@@ -137,21 +151,21 @@
   {
    "file": "raphael.json",
    "artist": "Raphael",
-   "works": 298,
-   "sensitive": 14,
-   "with_genre": 222
+   "works": 252,
+   "sensitive": 12,
+   "with_genre": 193
   },
   {
    "file": "rembrandt.json",
    "artist": "Rembrandt",
-   "works": 1216,
+   "works": 1172,
    "sensitive": 20,
-   "with_genre": 717
+   "with_genre": 687
   },
   {
    "file": "renoir.json",
    "artist": "Pierre-Auguste Renoir",
-   "works": 1794,
+   "works": 1793,
    "sensitive": 208,
    "with_genre": 534
   },
@@ -172,9 +186,9 @@
   {
    "file": "turner.json",
    "artist": "J.M.W. Turner",
-   "works": 1035,
+   "works": 1011,
    "sensitive": 8,
-   "with_genre": 178
+   "with_genre": 172
   },
   {
    "file": "vangogh.json",
@@ -184,5 +198,5 @@
    "with_genre": 632
   }
  ],
- "total": 11671
+ "total": 12221
 }

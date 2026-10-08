@@ -1,9 +1,10 @@
 # Writes catalog/commons/index.json: one entry per artist file with counts, so clients
 # (the Artelier app, or anyone using the static API) can discover what is available.
 # Guard: the public catalog may only contain public-domain / CC0 images from Wikimedia Commons
-# or museum open-access hosts - never WikiArt or user uploads stored on Artelier (base44).
+# or museum open-access hosts - never WikiArt, user uploads stored on Artelier (base44), or Harvard Art
+# Museums images (their API terms allow non-commercial use only).
 import json,glob,os,datetime,sys
-BANNED=('wikiart.org','base44')
+BANNED=('wikiart.org','base44','harvard.edu')
 ALLOWED_LICENSES={'Public domain','CC0'}
 out=[]; bad=[]
 for f in sorted(glob.glob('catalog/commons/*.json')):

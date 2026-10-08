@@ -1,67 +1,50 @@
 # Artelier Catalog
 
-The canonical, rights-clean artwork dataset for [Artelier](https://artelierapp.com).
+The public, rights-clean artwork dataset behind [Artelier](https://artelierapp.com).
 
-Every record in `catalog/` comes from a museum open-access program, filtered to
-**public-domain works only**, and carries its license, attribution, and a link
-back to the providing institution. This repo is the provenance record for
-Artelier's editorial catalog: what's in the app, where it came from, and under
-what rights.
+Every record here is a **public-domain or CC0 artwork image** from a museum open-access program
+or from Wikimedia Commons. Each one carries its license, attribution, and a link back to its
+source. This repo is the provenance record for Artelier's editorial catalog: what's in the app,
+where it came from, and under what rights.
 
-## How it works
+## Disclosures
 
-- `scripts/transform_aic.py` — converts the Art Institute of Chicago
-  [open data dump](https://github.com/art-institute-of-chicago/api-data) into
-  Artelier-schema shards (`catalog/aic-####.json`, 5,000 records each).
-- `.github/workflows/build-catalog.yml` — runs the transform on GitHub's
-  infrastructure monthly (AIC refreshes their dump monthly) and commits the
-  result. No local machine needed.
-- `catalog/index.json` — record counts, artist counts, and shard list.
+**What's included**
+- Museum open-access records (Art Institute of Chicago, National Gallery of Art, The Met), limited
+  to works the museum itself marks as public domain / CC0.
+- Wikimedia Commons files that Commons licenses as **Public domain** or **CC0**, matched to the
+  artwork through Wikidata.
+- Images are not copied into this repo. Each record links to the image on Wikimedia Commons or on
+  the museum's own server, plus the page it came from (`source_url`).
 
-The app imports these shards via its `importFromCatalog` admin function, which
-matches on each record's stable `source_key` so re-imports are idempotent and
-duplicates are impossible.
+**What's never included**
+- WikiArt images.
+- Images uploaded to Artelier, including artists' own uploads. Artists who post their work on
+  Artelier keep their rights, and that work is never part of this dataset.
+- Harvard Art Museums images. Their API terms allow non-commercial use only.
+- Files under CC BY, CC BY-SA, or any other license that restricts reuse.
+- Copies by an artist's followers, workshop, school, or imitators ("after Turner", "studio of",
+  "Nachfolger", …), even when Wikidata lists them under the artist.
+- `scripts/build_commons_index.py` refuses to publish if a WikiArt, Artelier-upload, or Harvard link,
+  or a non-PD/CC0 license, ever slips in.
 
-## Wikimedia Commons artist catalog (`catalog/commons/`)
+**Rights notes**
+- Commons treats faithful photographs of public-domain paintings and drawings as public domain
+  (PD-Art). For photographs of sculptures and other 3D objects, the photographer can hold rights, so
+  only photos Commons itself licenses as PD or CC0 are used.
+- Copyright terms differ by country. `rights/copyright_rules.json` records the term for each
+  country. Artelier uses it to hide an image wherever the work may still be protected.
+- This is a good-faith research compilation, not legal advice.
 
-Per-artist catalogs built from **Wikidata + Wikimedia Commons**, for artists whose
-work is better covered there than in museum dumps (Renoir, Rembrandt, Cézanne,
-Van Gogh, Gauguin, …).
+**Sensitive content**
+- `is_age_restricted` marks nudity. It is set automatically from Wikidata (genre / depicts), Commons
+  categories, and whole-word title matches ("nude", "Akt", "baigneuse", …), so it can be wrong in
+  either direction.
 
-- `artists/<artist>.json`: one config per artist (Wikidata ID, Commons page, date range,
-  optional `pd_cutoff` year for artists who died after 1930).
-- `scripts/commons_sync.py catalog artists/<artist>.json catalog/commons/<artist>.json`
-  builds the catalog. Only files Commons licenses as **Public domain or CC0** are
-  kept (CC BY / BY-SA are skipped). Each record carries `license`, `attribution`,
-  `source_url` (Commons file page), `source_key` (`wikidata:Q…`), `genre` (Wikidata P136),
-  `collection`, and `is_age_restricted` (nudity, from Wikidata genre/depicts + Commons categories).
-- `scripts/commons_category.py` covers artists that Wikidata barely covers, such as
-  Stieglitz's photographs, by reading a Commons category directly. It keeps only files
-  whose creator is the artist.
-- `.github/workflows/build-commons.yml` rebuilds everything monthly (5th, 06:00 UTC) or on demand.
-
-## Rights rules (`rights/copyright_rules.json`)
-
-Copyright terms for 219 jurisdictions, each cited to Wikipedia and the Wikimedia Commons
-"Copyright rules by territory" pages, grouped into regions (`US`, `EU_EEA_UK_CH`,
-`LIFE80`, `MX`, `LIFE50`, …). A work by an artist who died in year D is public domain in
-group G in year Y when `D <= max(Y - pma - 1, cutoff)`. The US is decided by publication
-year instead: published before Y − 95 means public domain. Artelier uses this to hide images
-in regions where a work is still protected. This is a research compilation, not legal advice.
-
-## Static API
-
-The repo is public, so every file is directly fetchable as JSON:
-
-| What | URL |
-|---|---|
-| Commons catalog index | `https://raw.githubusercontent.com/jennamharms-source/artelier-catalog/main/catalog/commons/index.json` |
-| One artist | `https://raw.githubusercontent.com/jennamharms-source/artelier-catalog/main/catalog/commons/renoir.json` |
-| Rights rules | `https://raw.githubusercontent.com/jennamharms-source/artelier-catalog/main/rights/copyright_rules.json` |
-| Museum shards | `https://raw.githubusercontent.com/jennamharms-source/artelier-catalog/main/catalog/index.json` |
-
-With GitHub Pages turned on (Settings → Pages → Deploy from branch `main`, folder `/`), the same files are also
-served at `https://jennamharms-source.github.io/artelier-catalog/…`.
+**Corrections and removal requests**
+- If you think a record shouldn't be here, or the credit is wrong, email
+  **artelier@artelierapp.co** with the record's `source_url` or `source_key`. We'll review it and
+  remove it if it shouldn't be here.
 
 ## Sources
 
@@ -70,16 +53,66 @@ served at `https://jennamharms-source.github.io/artelier-catalog/…`.
 | Art Institute of Chicago | CC0 / public domain works (`is_public_domain`) | 38,227 | active: monthly (`catalog/aic-*.json`) |
 | National Gallery of Art | CC0 / open-access images only | 53,138 | active: monthly (`catalog/nga-*.json`) |
 | The Met | CC0; public-domain works per the official Met dataset, restricted images excluded | 82,954 | active: monthly (`catalog/met-*.json`) |
-| Wikidata + Wikimedia Commons | Public domain / CC0 files only (CC BY and BY-SA skipped); 1930 cutoff for artists who died after 1930 | per artist, see `catalog/commons/index.json` | active: monthly (`catalog/commons/*.json`) |
+| Wikidata + Wikimedia Commons | Public domain / CC0 files only (CC BY and BY-SA skipped); 1930 cutoff for artists who died after 1930 | 12,221 works by 28 artists (see `catalog/commons/index.json`) | active: monthly (`catalog/commons/*.json`) |
 | Cleveland Museum of Art | CC0 | — | planned (some CMA images already arrive through Commons) |
 | Europeana | Public domain / CC0 only | — | planned (API key pending) |
+| Harvard Art Museums | API terms: non-commercial use only | — | **not used** |
+| WikiArt | no license granted to third parties | — | **not used** |
 
-**Never included:** WikiArt images, images uploaded to Artelier, and any file under CC BY, BY-SA or
-another license that restricts reuse. `scripts/build_commons_index.py` refuses to publish the catalog if one slips in.
+## Static API
 
-## Setup (one time)
+The repo is public, so every file can be fetched directly as JSON, from GitHub Pages or from raw GitHub:
 
-1. Create this repo on GitHub (private is fine).
-2. Upload these files (or push them).
-3. Actions tab → "Build Artelier catalog from AIC open data" → Run workflow.
-4. ~10 minutes later, `catalog/` contains the dataset.
+| What | URL |
+|---|---|
+| Commons catalog index | `https://jennamharms-source.github.io/artelier-catalog/catalog/commons/index.json` |
+| One artist | `https://jennamharms-source.github.io/artelier-catalog/catalog/commons/renoir.json` |
+| Rights rules | `https://jennamharms-source.github.io/artelier-catalog/rights/copyright_rules.json` |
+| Museum shards | `https://jennamharms-source.github.io/artelier-catalog/catalog/index.json` |
+
+The same paths also work under `https://raw.githubusercontent.com/jennamharms-source/artelier-catalog/main/…`.
+
+## How it works
+
+### Museum shards (`catalog/*.json`)
+
+- `scripts/transform_aic.py` converts the Art Institute of Chicago
+  [open data dump](https://github.com/art-institute-of-chicago/api-data) into Artelier-schema shards
+  (`catalog/aic-####.json`, 5,000 records each). `transform_nga.py` (NGA open data) and
+  `transform_met_v2.py` (the Met's official open-access CSV) produce `nga-*` and `met-*` shards in the
+  same schema.
+- `.github/workflows/build-catalog.yml` rebuilds the shards monthly on GitHub's servers and commits the
+  result.
+- `catalog/index.json` lists record counts, artist counts, and shards.
+
+The app imports shards through its `importFromCatalog` admin function. It matches on each record's
+stable `source_key`, so re-imports never create duplicates.
+
+### Wikimedia Commons artist catalog (`catalog/commons/`)
+
+Per-artist catalogs built from **Wikidata + Wikimedia Commons**, for artists whose work Commons covers
+better than museum dumps do (Renoir, Rembrandt, Canaletto, Jacques-Louis David, Van Gogh, …).
+
+- `artists/<artist>.json`: one config per artist (Wikidata ID, Commons page, date range, and an
+  optional `pd_cutoff` year for artists who died after 1930).
+- `scripts/commons_sync.py catalog artists/<artist>.json catalog/commons/<artist>.json` builds one
+  catalog. Each record carries `license`, `attribution`, `source_url` (Commons file page), `source_key`
+  (`wikidata:Q…`), `genre` (Wikidata P136), `collection`, `license_basis`, and `is_age_restricted`.
+- `scripts/commons_category.py` covers artists Wikidata barely covers (for example Stieglitz's
+  photographs) by reading a Commons category directly, keeping only files whose creator is the artist.
+- `.github/workflows/build-commons.yml` rebuilds everything monthly (on the 5th, 06:00 UTC), or on
+  demand from the Actions tab.
+
+### Rights rules (`rights/copyright_rules.json`)
+
+Copyright terms for 219 jurisdictions, each cited to Wikipedia and to the Wikimedia Commons
+"Copyright rules by territory" pages, grouped into regions (`US`, `EU_EEA_UK_CH`, `LIFE80`, `MX`,
+`LIFE50`, …). A work by an artist who died in year D is public domain in group G in year Y when
+`D <= max(Y - pma - 1, cutoff)`. The US goes by publication date instead: a work published before
+Y − 95 is public domain.
+
+## Maintenance
+
+Both workflows run on their own schedule. To refresh early, open the **Actions** tab, pick
+"Build Artelier catalog from AIC open data" or "Build Commons artist catalog", and click
+**Run workflow**.

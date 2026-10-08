@@ -3,12 +3,13 @@
 # usage: commons_sync.py catalog <artists/x.json> <out.json>                -> every rights-clean work for the artist
 #        commons_sync.py plan    <artists/x.json> <db.json>                 -> match against an Artelier DB snapshot; writes <slug>_create.txt / <slug>_upd.txt
 #        commons_sync.py build   <artists/x.json> <create.txt> <upd.txt> <out.json> -> rebuild a plan from live data and print its md5
-import json,re,html,urllib.request,urllib.parse,hashlib,sys,time,difflib,os
+import json,re,html,urllib.request,urllib.error,urllib.parse,hashlib,sys,time,difflib,os
 from urllib.parse import quote,unquote
 UA={'User-Agent':'ArtelierCatalogBot/1.0 (artelier@artelierapp.co)','Accept':'application/sparql-results+json'}
 def get(u):
-    for t in range(5):
+    for t in range(6):
         try: return json.load(urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=180))
+        except urllib.error.HTTPError as e: last=e; time.sleep(65 if e.code==429 else 4*(t+1))  # 429: Wikidata rate limit
         except Exception as e: last=e; time.sleep(4*(t+1))
     raise last
 def nice(t):
@@ -61,7 +62,8 @@ OK={'Public domain':'Public domain','CC0':'CC0','PDM-owner':'Public domain'}
 SKIP_TYPES={'artwork series','chapel','group of paintings','cycle of paintings'}
 NUDEQ={'Q40446','Q10791','Q114548070','Q9103'}
 NUDE_CAT=('nude','naked','odalisque','bathers','erotic')
-NUDE_T=('nude','nu ','nue','naked','odalisque','bather','baigneuse','bathers','nudo','venus','amor ','cupid','masturbat','erotic','akt ',' akt','nackt','halbakt','danaë','danae','leda','lovers','liebespaar')
+# whole words only: 'nue' must not fire on 'Emmanuel', 'nu' not on 'reconnu'
+NUDE_W=re.compile(r'\b(nudes?|nus?|nues?|naked|odalisques?|bathers?|baigneuses?|nudo|nudi|venus|amor|cupid|masturbat\w*|erotic\w*|akt|nackt\w*|halbakt|dana[eë]|leda|lovers|liebespaar)\b',re.I)
 Y0,Y1=cfg['years']
 def yrs(s):
     ys=[int(y) for y in re.findall(r'(1[0-9]\d\d)',str(s or '')) if Y0<=int(y)<=Y1]; return (min(ys),max(ys)) if ys else None
@@ -88,7 +90,7 @@ def license_basis(cats,lic,year=None):
         if re.search(pat,T,re.I): return name
     return 'CC0' if lic=='CC0' else ('PD' if lic else None)
 def isnude(lab,cats,q=()):
-    return bool(NUDEQ&set(q)) or any(w in c.lower() for c in cats for w in NUDE_CAT) or any(w in (' '+lab.lower()+' ') for w in NUDE_T)
+    return bool(NUDEQ&set(q)) or any(w in c.lower() for c in cats for w in NUDE_CAT) or bool(NUDE_W.search(lab or ''))
 cands=[]; used=set()
 for it in sorted(items,key=lambda i:('painting' not in i['types'],i['qid'])):
     if set(it['types'])&SKIP_TYPES and not set(it['types'])-SKIP_TYPES: continue
@@ -129,8 +131,13 @@ def sigs(creates,updates):
     s=sorted(f"{c['title']}|{c['year']}|{c['image_url']}|{c['source_url']}|{int(c['is_age_restricted'])}|{c.get('genre','')}" for c in creates)+sorted(f"{u['id']}|{u.get('swap',{}).get('image_url','')}|{u.get('is_age_restricted','')}|{u.get('title','')}|{u.get('genre','')}" for u in updates)
     return hashlib.md5('\n'.join(s).encode()).hexdigest()
 print('cands',len(cands),flush=True)
+# copies by followers, workshops and imitators are not the artist's work: the label or the Commons file name says so
+_sur=re.escape(cfg['artist'].split()[-1])
+COPY_RE=re.compile(r'kopie nach|copy after '+_sur+r'|copy of|\bafter '+_sur+r'|nach '+_sur[:5]+r'|workshop of|school of '+_sur+r'|circle of|follower of|imitator of|werkstatt|schule des|nachfolger',re.I)
+FILE_COPY_RE=re.compile(r'^after '+_sur+r'\b|\((after|studio of|school of|follower of|imitator of|circle of|workshop of|manner of|style of)\)|\b(nachahmer|nachfolger|werkstatt|umkreis)\b',re.I)
+def is_copy(c): return bool(COPY_RE.search(c['title']) or FILE_COPY_RE.search(c['file']) or FILE_COPY_RE.search(c['title']))
 if mode=='catalog':
-    out=[dict(rec(c),qid=c['qid'],collection=c['gallery']) for c in cands]
+    out=[dict(rec(c),qid=c['qid'],collection=c['gallery']) for c in cands if not is_copy(c)]
     os.makedirs(os.path.dirname(sys.argv[3]) or '.',exist_ok=True)
     json.dump(sorted(out,key=lambda r:(r['year'] or '9999',r['title'])),open(sys.argv[3],'w'),ensure_ascii=False,indent=1); print('catalog',len(out)); sys.exit()
 if mode=='build':
@@ -174,6 +181,16 @@ def toks(t):
                 x=re.sub(r'(ing|ed)$','',x) if len(x)>5 else x
                 out.append(x[:-1] if x.endswith('s') and len(x)>3 else x)
     return set(out)
+_ROM={'I':1,'V':5,'X':10}
+def _nums(t):
+    out=set()
+    for m in re.findall(r'\b(?:[IVX]{1,4}|\d{1,3})\b',str(t or '')):
+        if m.isdigit(): out.add(int(m)); continue
+        v=0; prev=0
+        for ch in reversed(m):
+            x=_ROM[ch]; v=v-x if x<prev else v+x; prev=max(prev,x)
+        out.add(v)
+    return out
 def jac(a,b): return len(a&b)/len(a|b) if a and b else 0
 GT={'portrait','still','life','painting','picture','reverend','madame','monsieur','mme','mlle','mademoiselle','mr','mrs','m'}
 def cont(a,b):
@@ -184,7 +201,7 @@ for e in db: e['v']=variants(e['title']); e['yr']=yrs(e.get('year')); e['t']=tok
 for c in cands: c['t']=toks(c['title'])
 def host(u):
     u=u or ''
-    return 'wikiart' if 'wikiart.org' in u else 'artelier' if 'base44' in u else 'none' if not u.strip() else 'keep'
+    return 'wikiart' if 'wikiart.org' in u else 'artelier' if 'base44' in u else 'harvard' if 'harvard.edu' in u else 'none' if not u.strip() else 'keep'
 match={}; used_c=set()
 for e in db:
     if e['id'] in cfg.get('force_match',{}):
@@ -216,6 +233,9 @@ for c in cands:
     if key(c) in present: continue
     for e in db:
         if cfg.get('exact_any_year') and (c['v']&e['v']): present.add(key(c)); break
+        _na=_nums(c['title']); _nb=_nums(e.get('title'))
+        if _na!=_nb and _na and _nb: continue
+        if _na and not _nb and not (c['v']&e['v']): continue
         if (ovl(c['yr'],e['yr'],cfg.get('stol',1)) or not e['yr'] or not c['yr']) and (c['v']&e['v'] or jac(c['t'],e['t'])>=cfg.get('jac',0.6) or (cfg.get('jac',0.6)<=1 and cont(c['t'],e['t'])) or max(difflib.SequenceMatcher(None,a,b).ratio() for a in e['v'] for b in c['v'])>=0.85):
             present.add(key(c)); break
     if not c['yr']:  # undated: only add if no record anywhere shares its title
@@ -224,26 +244,28 @@ GENERIC=re.compile(r'^(paysage|landscape|portrait|nature morte|still life|fleurs
 def vague(c): return c['title'].upper()==c['title'] or bool(GENERIC.match(c['title']) and len(c['title'].split())<=4)
 creates=[] if cfg.get('no_creates') else [c for c in cands if key(c) not in present and c['medium'] not in cfg.get('skip_media',[]) and not (cfg.get('quality') and vague(c) and not c['gallery'])]
 if cfg.get('no_gallery'): creates=[c for c in creates if c['qid']]
-COPY_RE=re.compile(r'kopie nach|copy after|copy of|\bafter (raphael|rembrandt|el greco|michelangelo)|nach raffael|workshop of|school of|circle of|follower of|imitator of|werkstatt|schule des|nachfolger',re.I)
-creates=[c for c in creates if not COPY_RE.search(c['title'])]
+creates=[c for c in creates if not is_copy(c)]
 def _dup(a,b):
     if not ((a['yr'] and b['yr'] and ovl(a['yr'],b['yr'],cfg.get('ytol',1))) or (not a['yr'] and not b['yr'])): return False
-    na=set(re.findall(r'\b(?:[IVX]{1,4}|\d{1,3})\b',a['title'])); nb=set(re.findall(r'\b(?:[IVX]{1,4}|\d{1,3})\b',b['title']))
+    na=_nums(a['title']); nb=_nums(b['title'])
     if na!=nb: return False
     if a['gallery'] and b['gallery'] and a['gallery']!=b['gallery']: return False
-    return jac(a['t'],b['t'])>=0.75 or cont(a['t'],b['t'])
+    if ' '.join(a['title'].lower().split())==' '.join(b['title'].lower().split()): return not (a['gallery'] and b['gallery']) and bool(a['yr'] and b['yr'])
+    st=re.compile(r'\b(study|studie|sketch|esquisse|[eé]tude|skizze|detail)\b',re.I)
+    if bool(st.search(a['title']))!=bool(st.search(b['title'])): return False
+    return jac(a['t'],b['t'])>=0.75
 kept=[]; idup=[]
-for c in sorted(creates,key=lambda c:(not c['gallery'],c['qid']=='',c['qid'])):
+for c in ([] if cfg.get('no_idup') else sorted(creates,key=lambda c:(not c['gallery'],c['qid']=='',c['qid']))):
     d=next((k for k in kept if _dup(c,k)),None)
     if d: idup.append(f"{c['title']} ({c['year']})  ==  {d['title']} ({d['year']})")
     else: kept.append(c)
-creates=[c for c in creates if c in kept]
+creates=creates if cfg.get('no_idup') else [c for c in creates if c in kept]
 open(cfg['slug']+'_idup.txt','w',encoding='utf-8').write('\n'.join(idup)+'\n'); print('internal dups dropped',len(idup),flush=True)
 ul=[]; st={'swap':0,'nude':0}
 for e in db:
     k=match.get(e['id']); 
     if not k: continue
-    c=ck[k]; sw=host(e.get('image_url')) in ('wikiart','artelier','none'); nd=c['nude'] and not e.get('is_age_restricted')
+    c=ck[k]; sw=host(e.get('image_url')) in ('wikiart','artelier','harvard','none'); nd=c['nude'] and not e.get('is_age_restricted')
     t=cfg.get('title_fix',{}).get(e['id'],'')
     if cfg.get('v2'):
         gf=bool(c.get('genre')) and not e.get('genre')

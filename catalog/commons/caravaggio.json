@@ -1593,22 +1593,6 @@
   "collection": "Department of Prints and Drawings of the Louvre"
  },
  {
-  "title": "Prophet with book",
-  "artist": "Caravaggio",
-  "year": "",
-  "medium": "Painting",
-  "gallery": "Staatliche Kunsthalle Karlsruhe",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_%28Nachfolger%29_-_Prophet_mit_Buch_-_467_-_Staatliche_Kunsthalle_Karlsruhe.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Caravaggio_(Nachfolger)_-_Prophet_mit_Buch_-_467_-_Staatliche_Kunsthalle_Karlsruhe.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q104528133",
-  "qid": "Q104528133",
-  "collection": "Staatliche Kunsthalle Karlsruhe"
- },
- {
   "title": "Salome with the head of John the Baptist",
   "artist": "Caravaggio",
   "year": "",
@@ -1624,22 +1608,6 @@
   "genre": "Religious",
   "qid": "Q28108359",
   "collection": "Cultural Heritage Agency of the Netherlands Art Collection"
- },
- {
-  "title": "The Calling of Saints Peter and Andrew",
-  "artist": "Caravaggio",
-  "year": "",
-  "medium": "Painting",
-  "gallery": "Weston Park",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_%281571-1610%29_%28after%29_-_The_Calling_of_Saints_Peter_and_Andrew_-_101.0115_-_Weston_Park.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Caravaggio_(1571-1610)_(after)_-_The_Calling_of_Saints_Peter_and_Andrew_-_101.0115_-_Weston_Park.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q120035767",
-  "qid": "Q120035767",
-  "collection": "Weston Park"
  },
  {
   "title": "The Lute Player",
