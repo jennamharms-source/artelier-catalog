@@ -1,0 +1,26 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Sculpture"
+ ],
+ "qid": "Q44032",
+ "gallery": "Paintings by Egon Schiele",
+ "artist": "Egon Schiele",
+ "artist_re": "schiele",
+ "country": "Austria",
+ "years": [
+  1904,
+  1918
+ ],
+ "slug": "schiele"
+}

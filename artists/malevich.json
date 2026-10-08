@@ -1,0 +1,26 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Sculpture"
+ ],
+ "qid": "Q130777",
+ "gallery": "Paintings by Kazimir Malevich",
+ "artist": "Kazimir Malevich",
+ "artist_re": "malevi",
+ "country": "Russia",
+ "years": [
+  1898,
+  1935
+ ],
+ "slug": "malevich"
+}

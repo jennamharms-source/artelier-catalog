@@ -1,0 +1,26 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Sculpture"
+ ],
+ "qid": "Q157183",
+ "gallery": "Category:Paintings by Fernand Léger",
+ "artist": "Fernand Léger",
+ "artist_re": "l[eé]ger",
+ "country": "France",
+ "years": [
+  1900,
+  1955
+ ],
+ "slug": "leger"
+}

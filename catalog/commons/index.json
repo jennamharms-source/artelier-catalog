@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T18:46Z",
+ "generated": "2026-10-08T18:55Z",
  "artists": [
   {
    "file": "blanchard.json",
@@ -86,6 +86,13 @@
    "with_genre": 0
   },
   {
+   "file": "hopper.json",
+   "artist": "Edward Hopper",
+   "works": 36,
+   "sensitive": 0,
+   "with_genre": 14
+  },
+  {
    "file": "kandinsky.json",
    "artist": "Wassily Kandinsky",
    "works": 439,
@@ -119,6 +126,20 @@
    "works": 532,
    "sensitive": 15,
    "with_genre": 84
+  },
+  {
+   "file": "leger.json",
+   "artist": "Fernand Léger",
+   "works": 345,
+   "sensitive": 6,
+   "with_genre": 247
+  },
+  {
+   "file": "malevich.json",
+   "artist": "Kazimir Malevich",
+   "works": 161,
+   "sensitive": 8,
+   "with_genre": 41
   },
   {
    "file": "manet.json",
@@ -184,6 +205,13 @@
    "with_genre": 94
   },
   {
+   "file": "schiele.json",
+   "artist": "Egon Schiele",
+   "works": 158,
+   "sensitive": 41,
+   "with_genre": 84
+  },
+  {
    "file": "stieglitz_category.json",
    "artist": "Alfred Stieglitz",
    "works": 77,
@@ -205,5 +233,5 @@
    "with_genre": 632
   }
  ],
- "total": 13017
+ "total": 13717
 }
