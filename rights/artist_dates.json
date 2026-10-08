@@ -1,0 +1,4053 @@
+{
+ "generated": "2026-10-08",
+ "source": "Wikidata (P569 birth, P570 death), matched by exact English label/alias or search, artist occupation preferred, dates checked against the works",
+ "note": "Used by Artelier to decide where a work is still under copyright when the app has no death year for its artist. living=true means no death date on Wikidata and born 1910 or later.",
+ "artists": [
+  {
+   "name": "A. Dickson Patterson",
+   "wikidata": "Q55217633",
+   "birth": 1854,
+   "death": 1930,
+   "living": false
+  },
+  {
+   "name": "Abbott Handerson Thayer",
+   "wikidata": "Q306759",
+   "birth": 1849,
+   "death": 1921,
+   "living": false
+  },
+  {
+   "name": "Ad Reinhardt",
+   "wikidata": "Q345569",
+   "birth": 1913,
+   "death": 1967,
+   "living": false
+  },
+  {
+   "name": "Adolfo Farsari",
+   "wikidata": "Q365078",
+   "birth": 1841,
+   "death": 1898,
+   "living": false
+  },
+  {
+   "name": "Adolphe-Pierre Riffaut",
+   "wikidata": "Q30278106",
+   "birth": 1821,
+   "death": 1859,
+   "living": false
+  },
+  {
+   "name": "Agnes Martin",
+   "wikidata": "Q275610",
+   "birth": 1912,
+   "death": 2004,
+   "living": false
+  },
+  {
+   "name": "Ai Weiwei",
+   "wikidata": "Q160115",
+   "birth": 1957,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Albert Gallatin Hoit",
+   "wikidata": "Q4710280",
+   "birth": 1809,
+   "death": 1856,
+   "living": false
+  },
+  {
+   "name": "Albert Joseph Moore",
+   "wikidata": "Q1399837",
+   "birth": 1841,
+   "death": 1893,
+   "living": false
+  },
+  {
+   "name": "Albert Marquet",
+   "wikidata": "Q267858",
+   "birth": 1875,
+   "death": 1947,
+   "living": false
+  },
+  {
+   "name": "Albin Egger-Lienz",
+   "wikidata": "Q639706",
+   "birth": 1868,
+   "death": 1926,
+   "living": false
+  },
+  {
+   "name": "Aleksandr Deyneka",
+   "wikidata": "Q620483",
+   "birth": 1899,
+   "death": 1969,
+   "living": false
+  },
+  {
+   "name": "Aleksandra Ekster",
+   "wikidata": "Q242121",
+   "birth": 1882,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "Alexander Calder",
+   "wikidata": "Q151580",
+   "birth": 1898,
+   "death": 1976,
+   "living": false
+  },
+  {
+   "name": "Alexander Gardner",
+   "wikidata": "Q661176",
+   "birth": 1821,
+   "death": 1882,
+   "living": false
+  },
+  {
+   "name": "Alexandra Bell",
+   "wikidata": "Q50313522",
+   "birth": 1983,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Alexandre Bougault",
+   "wikidata": "Q18507724",
+   "birth": 1851,
+   "death": 1911,
+   "living": false
+  },
+  {
+   "name": "Alexei von Jawlensky",
+   "wikidata": "Q156426",
+   "birth": 1864,
+   "death": 1941,
+   "living": false
+  },
+  {
+   "name": "Alfred Mahlau",
+   "wikidata": "Q1720138",
+   "birth": 1894,
+   "death": 1967,
+   "living": false
+  },
+  {
+   "name": "Alfred Sisley",
+   "wikidata": "Q175130",
+   "birth": 1839,
+   "death": 1899,
+   "living": false
+  },
+  {
+   "name": "Alice Bailly",
+   "wikidata": "Q2836533",
+   "birth": 1872,
+   "death": 1938,
+   "living": false
+  },
+  {
+   "name": "Allan McCollum",
+   "wikidata": "Q2837749",
+   "birth": 1944,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Alphonse Allais",
+   "wikidata": "Q371905",
+   "birth": 1854,
+   "death": 1905,
+   "living": false
+  },
+  {
+   "name": "Alphonse Mucha",
+   "wikidata": "Q146691",
+   "birth": 1860,
+   "death": 1939,
+   "living": false
+  },
+  {
+   "name": "Amadeo de Souza-Cardoso",
+   "wikidata": "Q451771",
+   "birth": 1887,
+   "death": 1918,
+   "living": false
+  },
+  {
+   "name": "Amy Sillman",
+   "wikidata": "Q481952",
+   "birth": 1954,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "An Chung-sik",
+   "wikidata": "Q10310975",
+   "birth": 1861,
+   "death": 1919,
+   "living": false
+  },
+  {
+   "name": "Andre Derain",
+   "wikidata": "Q156272",
+   "birth": 1880,
+   "death": 1954,
+   "living": false
+  },
+  {
+   "name": "Andrew Raftery",
+   "wikidata": "Q20011451",
+   "birth": 1962,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Andrew Wyeth",
+   "wikidata": "Q316325",
+   "birth": 1917,
+   "death": 2009,
+   "living": false
+  },
+  {
+   "name": "André Adolphe Eugène Disdéri",
+   "wikidata": "Q515461",
+   "birth": 1819,
+   "death": 1889,
+   "living": false
+  },
+  {
+   "name": "André Breton",
+   "wikidata": "Q161955",
+   "birth": 1896,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Anna Eliza Hardy",
+   "wikidata": "Q22752637",
+   "birth": 1839,
+   "death": 1934,
+   "living": false
+  },
+  {
+   "name": "Anna Lea Merritt",
+   "wikidata": "Q2850565",
+   "birth": 1844,
+   "death": 1930,
+   "living": false
+  },
+  {
+   "name": "Anneliese Hager",
+   "wikidata": "Q566146",
+   "birth": 1904,
+   "death": 1997,
+   "living": false
+  },
+  {
+   "name": "Annette Lemieux",
+   "wikidata": "Q16148576",
+   "birth": 1957,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Anni Albers",
+   "wikidata": "Q86078",
+   "birth": 1899,
+   "death": 1994,
+   "living": false
+  },
+  {
+   "name": "Annu Palakunnathu Matthew",
+   "wikidata": "Q20675597",
+   "birth": 1964,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Anselm Kiefer",
+   "wikidata": "Q170344",
+   "birth": 1945,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Antonio Beato",
+   "wikidata": "Q2742241",
+   "birth": 1820,
+   "death": 1903,
+   "living": false
+  },
+  {
+   "name": "Archibald Motley",
+   "wikidata": "Q4786462",
+   "birth": 1891,
+   "death": 1981,
+   "living": false
+  },
+  {
+   "name": "Arkhyp Kuindzhi",
+   "wikidata": "Q353628",
+   "birth": 1841,
+   "death": 1910,
+   "living": false
+  },
+  {
+   "name": "Armand Guillaumin",
+   "wikidata": "Q436844",
+   "birth": 1841,
+   "death": 1927,
+   "living": false
+  },
+  {
+   "name": "Arthur Beecher Carles",
+   "wikidata": "Q4797967",
+   "birth": 1882,
+   "death": 1952,
+   "living": false
+  },
+  {
+   "name": "Arthur Dove",
+   "wikidata": "Q709461",
+   "birth": 1880,
+   "death": 1946,
+   "living": false
+  },
+  {
+   "name": "Arthur G. Dove",
+   "wikidata": "Q709461",
+   "birth": 1880,
+   "death": 1946,
+   "living": false
+  },
+  {
+   "name": "Arthur Rackham",
+   "wikidata": "Q314938",
+   "birth": 1867,
+   "death": 1939,
+   "living": false
+  },
+  {
+   "name": "Arthur Segal",
+   "wikidata": "Q215049",
+   "birth": 1875,
+   "death": 1944,
+   "living": false
+  },
+  {
+   "name": "Aubrey Vincent Beardsley",
+   "wikidata": "Q272566",
+   "birth": 1872,
+   "death": 1898,
+   "living": false
+  },
+  {
+   "name": "Audrey Flack",
+   "wikidata": "Q537578",
+   "birth": 1931,
+   "death": 2024,
+   "living": false
+  },
+  {
+   "name": "Auguste Rodin",
+   "wikidata": "Q30755",
+   "birth": 1840,
+   "death": 1917,
+   "living": false
+  },
+  {
+   "name": "Augustus Vincent Tack",
+   "wikidata": "Q4821560",
+   "birth": 1870,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "Augustus Welby Northmore Pugin",
+   "wikidata": "Q313288",
+   "birth": 1812,
+   "death": 1852,
+   "living": false
+  },
+  {
+   "name": "Banksy",
+   "wikidata": "Q133600",
+   "birth": 1973,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Barbara Kruger",
+   "wikidata": "Q262284",
+   "birth": 1945,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Barnett Newman",
+   "wikidata": "Q374504",
+   "birth": 1905,
+   "death": 1970,
+   "living": false
+  },
+  {
+   "name": "Bela Kadar",
+   "wikidata": "Q347920",
+   "birth": 1877,
+   "death": 1956,
+   "living": false
+  },
+  {
+   "name": "Bela Lyon Pratt",
+   "wikidata": "Q4881787",
+   "birth": 1867,
+   "death": 1917,
+   "living": false
+  },
+  {
+   "name": "Benjamin Paul Akers",
+   "wikidata": "Q955998",
+   "birth": 1825,
+   "death": 1861,
+   "living": false
+  },
+  {
+   "name": "Berenice Abbott",
+   "wikidata": "Q231861",
+   "birth": 1898,
+   "death": 1991,
+   "living": false
+  },
+  {
+   "name": "Bernard Newman",
+   "wikidata": "Q4893469",
+   "birth": 1903,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Bernardo Marques",
+   "wikidata": "Q4893931",
+   "birth": 1898,
+   "death": 1962,
+   "living": false
+  },
+  {
+   "name": "Bettina Rheims",
+   "wikidata": "Q338612",
+   "birth": 1952,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Bill Traylor",
+   "wikidata": "Q862623",
+   "birth": 1854,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "Boris Grigoryev",
+   "wikidata": "Q432523",
+   "birth": 1886,
+   "death": 1939,
+   "living": false
+  },
+  {
+   "name": "Boris Kustodiev",
+   "wikidata": "Q313275",
+   "birth": 1878,
+   "death": 1927,
+   "living": false
+  },
+  {
+   "name": "Bronlyn Jones",
+   "wikidata": "Q105090475",
+   "birth": 1954,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Bruce Cratsley",
+   "wikidata": "Q34639477",
+   "birth": 1944,
+   "death": 1998,
+   "living": false
+  },
+  {
+   "name": "Bruno Goller",
+   "wikidata": "Q993285",
+   "birth": 1901,
+   "death": 1998,
+   "living": false
+  },
+  {
+   "name": "C. Bennette Moore",
+   "wikidata": "Q52156297",
+   "birth": 1879,
+   "death": 1939,
+   "living": false
+  },
+  {
+   "name": "C. C. Wang",
+   "wikidata": "Q5006342",
+   "birth": 1907,
+   "death": 2003,
+   "living": false
+  },
+  {
+   "name": "C. R. W. Nevinson",
+   "wikidata": "Q185850",
+   "birth": 1889,
+   "death": 1946,
+   "living": false
+  },
+  {
+   "name": "Camille Pissarro",
+   "wikidata": "Q134741",
+   "birth": 1830,
+   "death": 1903,
+   "living": false
+  },
+  {
+   "name": "Carl Chiarenza",
+   "wikidata": "Q55218368",
+   "birth": 1935,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Carl Grossberg",
+   "wikidata": "Q566849",
+   "birth": 1894,
+   "death": 1940,
+   "living": false
+  },
+  {
+   "name": "Carl Otto Czeschka",
+   "wikidata": "Q1039975",
+   "birth": 1874,
+   "death": 1960,
+   "living": false
+  },
+  {
+   "name": "Carleton E. Watkins",
+   "wikidata": "Q2939083",
+   "birth": 1829,
+   "death": 1916,
+   "living": false
+  },
+  {
+   "name": "Carlo Carra",
+   "wikidata": "Q168496",
+   "birth": 1881,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Carlos Amorales",
+   "wikidata": "Q5041755",
+   "birth": 1970,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Carlos Saenz de Tejada",
+   "wikidata": "Q5751865",
+   "birth": 1897,
+   "death": 1958,
+   "living": false
+  },
+  {
+   "name": "Carmen Herrera",
+   "wikidata": "Q522662",
+   "birth": 1915,
+   "death": 2022,
+   "living": false
+  },
+  {
+   "name": "Cecilia Beaux",
+   "wikidata": "Q466677",
+   "birth": 1855,
+   "death": 1942,
+   "living": false
+  },
+  {
+   "name": "Chandler Seaver Jr.",
+   "wikidata": "Q106712801",
+   "birth": 1824,
+   "death": 1902,
+   "living": false
+  },
+  {
+   "name": "Chargesheimer",
+   "wikidata": "Q96752",
+   "birth": 1924,
+   "death": 1971,
+   "living": false
+  },
+  {
+   "name": "Charles Alston",
+   "wikidata": "Q1906150",
+   "birth": 1907,
+   "death": 1977,
+   "living": false
+  },
+  {
+   "name": "Charles Cottet",
+   "wikidata": "Q1574250",
+   "birth": 1863,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "Charles Demuth",
+   "wikidata": "Q380494",
+   "birth": 1883,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "Charles E. Burchfield",
+   "wikidata": "Q3349279",
+   "birth": 1893,
+   "death": 1967,
+   "living": false
+  },
+  {
+   "name": "Charles Harold Davis",
+   "wikidata": "Q5078781",
+   "birth": 1856,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "Charles Herbert Moore",
+   "wikidata": "Q15971521",
+   "birth": 1840,
+   "death": 1930,
+   "living": false
+  },
+  {
+   "name": "Charles Maurin",
+   "wikidata": "Q371549",
+   "birth": 1856,
+   "death": 1914,
+   "living": false
+  },
+  {
+   "name": "Charles Nègre",
+   "wikidata": "Q1065673",
+   "birth": 1820,
+   "death": 1880,
+   "living": false
+  },
+  {
+   "name": "Charles Sheeler",
+   "wikidata": "Q624868",
+   "birth": 1883,
+   "death": 1965,
+   "living": false
+  },
+  {
+   "name": "Charles Sydney Hopkinson",
+   "wikidata": "Q5079125",
+   "birth": 1869,
+   "death": 1962,
+   "living": false
+  },
+  {
+   "name": "Charles-Edouard Hocquard",
+   "wikidata": "Q2958329",
+   "birth": 1853,
+   "death": 1911,
+   "living": false
+  },
+  {
+   "name": "Charles-Marie Dulac",
+   "wikidata": "Q28854657",
+   "birth": 1865,
+   "death": 1898,
+   "living": false
+  },
+  {
+   "name": "Charlotte Berend-Corinth",
+   "wikidata": "Q215045",
+   "birth": 1880,
+   "death": 1967,
+   "living": false
+  },
+  {
+   "name": "Charlotte Perriand",
+   "wikidata": "Q446451",
+   "birth": 1903,
+   "death": 1999,
+   "living": false
+  },
+  {
+   "name": "Charlotte Posenenske",
+   "wikidata": "Q1067301",
+   "birth": 1930,
+   "death": 1985,
+   "living": false
+  },
+  {
+   "name": "Childe Hassam",
+   "wikidata": "Q737635",
+   "birth": 1859,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "Christian Krohg",
+   "wikidata": "Q334200",
+   "birth": 1852,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "Christiane Baumgartner",
+   "wikidata": "Q1082620",
+   "birth": 1967,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Christine Osinski",
+   "wikidata": "Q19802677",
+   "birth": 1948,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Claes Oldenburg",
+   "wikidata": "Q156731",
+   "birth": 1929,
+   "death": 2022,
+   "living": false
+  },
+  {
+   "name": "Clarissa Tossin",
+   "wikidata": "Q63185265",
+   "birth": 1973,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Claude Cahun",
+   "wikidata": "Q219634",
+   "birth": 1894,
+   "death": 1954,
+   "living": false
+  },
+  {
+   "name": "Constantin Brâncuși",
+   "wikidata": "Q153048",
+   "birth": 1876,
+   "death": 1957,
+   "living": false
+  },
+  {
+   "name": "Constantino Brumidi",
+   "wikidata": "Q983643",
+   "birth": 1805,
+   "death": 1880,
+   "living": false
+  },
+  {
+   "name": "Corinne Wasmuht",
+   "wikidata": "Q1132906",
+   "birth": 1964,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Corita Kent",
+   "wikidata": "Q5170723",
+   "birth": 1918,
+   "death": 1986,
+   "living": false
+  },
+  {
+   "name": "Corrie Pabst",
+   "wikidata": "Q23008856",
+   "birth": 1865,
+   "death": 1943,
+   "living": false
+  },
+  {
+   "name": "Cuno Amiet",
+   "wikidata": "Q566797",
+   "birth": 1868,
+   "death": 1961,
+   "living": false
+  },
+  {
+   "name": "Céleste Boursier-Mougenot",
+   "wikidata": "Q4099875",
+   "birth": 1961,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Daido Moriyama",
+   "wikidata": "Q1157532",
+   "birth": 1938,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Daniel Chester French",
+   "wikidata": "Q720910",
+   "birth": 1850,
+   "death": 1931,
+   "living": false
+  },
+  {
+   "name": "Daniel Huntington",
+   "wikidata": "Q323987",
+   "birth": 1816,
+   "death": 1906,
+   "living": false
+  },
+  {
+   "name": "Dante Gabriel Rossetti",
+   "wikidata": "Q186748",
+   "birth": 1828,
+   "death": 1882,
+   "living": false
+  },
+  {
+   "name": "David Bomberg",
+   "wikidata": "Q734355",
+   "birth": 1890,
+   "death": 1957,
+   "living": false
+  },
+  {
+   "name": "David Hammons",
+   "wikidata": "Q320846",
+   "birth": 1943,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "David Hockney",
+   "wikidata": "Q159907",
+   "birth": 1937,
+   "death": 2026,
+   "living": false
+  },
+  {
+   "name": "David Johnson",
+   "wikidata": "Q3695975",
+   "birth": 1827,
+   "death": 1908,
+   "living": false
+  },
+  {
+   "name": "David Kakabadze",
+   "wikidata": "Q2028362",
+   "birth": 1889,
+   "death": 1952,
+   "living": false
+  },
+  {
+   "name": "David Park",
+   "wikidata": "Q3018587",
+   "birth": 1911,
+   "death": 1960,
+   "living": false
+  },
+  {
+   "name": "David Rayson",
+   "wikidata": "Q21452932",
+   "birth": 1966,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Dennis Hopper",
+   "wikidata": "Q102711",
+   "birth": 1936,
+   "death": 2010,
+   "living": false
+  },
+  {
+   "name": "Dmitry Nalbandyan",
+   "wikidata": "Q3649850",
+   "birth": 1906,
+   "death": 1993,
+   "living": false
+  },
+  {
+   "name": "Dominique Issermann",
+   "wikidata": "Q3035235",
+   "birth": 1947,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Doris Salcedo",
+   "wikidata": "Q2916050",
+   "birth": 1958,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Dorothea Lange",
+   "wikidata": "Q230673",
+   "birth": 1895,
+   "death": 1965,
+   "living": false
+  },
+  {
+   "name": "Dorothea Rockburne",
+   "wikidata": "Q1246260",
+   "birth": 1929,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Eadweard Muybridge",
+   "wikidata": "Q190568",
+   "birth": 1830,
+   "death": 1904,
+   "living": false
+  },
+  {
+   "name": "Eamonn Doyle",
+   "wikidata": "Q52714813",
+   "birth": 1969,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Eastman Johnson",
+   "wikidata": "Q1278282",
+   "birth": 1824,
+   "death": 1906,
+   "living": false
+  },
+  {
+   "name": "Edmonia Lewis",
+   "wikidata": "Q512065",
+   "birth": 1844,
+   "death": 1907,
+   "living": false
+  },
+  {
+   "name": "Edward Avedisian",
+   "wikidata": "Q5341650",
+   "birth": 1936,
+   "death": 2007,
+   "living": false
+  },
+  {
+   "name": "Edward Burne-Jones",
+   "wikidata": "Q216406",
+   "birth": 1833,
+   "death": 1898,
+   "living": false
+  },
+  {
+   "name": "Edward Lamson Henry",
+   "wikidata": "Q2605527",
+   "birth": 1841,
+   "death": 1919,
+   "living": false
+  },
+  {
+   "name": "Edward Mitchell Bannister",
+   "wikidata": "Q1293032",
+   "birth": 1828,
+   "death": 1901,
+   "living": false
+  },
+  {
+   "name": "Edward Moran",
+   "wikidata": "Q966864",
+   "birth": 1829,
+   "death": 1901,
+   "living": false
+  },
+  {
+   "name": "Edward Ruscha",
+   "wikidata": "Q430967",
+   "birth": 1937,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Edward William Godwin",
+   "wikidata": "Q1294110",
+   "birth": 1833,
+   "death": 1886,
+   "living": false
+  },
+  {
+   "name": "Eiichiro Sakata",
+   "wikidata": "Q11425522",
+   "birth": 1941,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Eileen Agar",
+   "wikidata": "Q3049418",
+   "birth": 1899,
+   "death": 1991,
+   "living": false
+  },
+  {
+   "name": "El Lissitzky",
+   "wikidata": "Q152233",
+   "birth": 1890,
+   "death": 1941,
+   "living": false
+  },
+  {
+   "name": "Elena Prentice",
+   "wikidata": "Q108632730",
+   "birth": 1946,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Elihu Vedder",
+   "wikidata": "Q389726",
+   "birth": 1836,
+   "death": 1923,
+   "living": false
+  },
+  {
+   "name": "Ellsworth Kelly",
+   "wikidata": "Q544899",
+   "birth": 1923,
+   "death": 2015,
+   "living": false
+  },
+  {
+   "name": "Elsa Dorfman",
+   "wikidata": "Q5367400",
+   "birth": 1937,
+   "death": 2020,
+   "living": false
+  },
+  {
+   "name": "Elsa von Freytag-Loringhoven",
+   "wikidata": "Q442841",
+   "birth": 1874,
+   "death": 1927,
+   "living": false
+  },
+  {
+   "name": "Emanuel Gottlieb Leutze",
+   "wikidata": "Q452321",
+   "birth": 1816,
+   "death": 1868,
+   "living": false
+  },
+  {
+   "name": "Emanuel Leutze",
+   "wikidata": "Q452321",
+   "birth": 1816,
+   "death": 1868,
+   "living": false
+  },
+  {
+   "name": "Emile Bernard",
+   "wikidata": "Q264193",
+   "birth": 1868,
+   "death": 1941,
+   "living": false
+  },
+  {
+   "name": "Emily Carr",
+   "wikidata": "Q289624",
+   "birth": 1871,
+   "death": 1945,
+   "living": false
+  },
+  {
+   "name": "Empress Dowager Cixi",
+   "wikidata": "Q47842",
+   "birth": 1835,
+   "death": 1908,
+   "living": false
+  },
+  {
+   "name": "Enzo Cucchi",
+   "wikidata": "Q698306",
+   "birth": 1949,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Eric Gill",
+   "wikidata": "Q551426",
+   "birth": 1882,
+   "death": 1940,
+   "living": false
+  },
+  {
+   "name": "Erich Buchholz",
+   "wikidata": "Q1352028",
+   "birth": 1891,
+   "death": 1972,
+   "living": false
+  },
+  {
+   "name": "Erich Heckel",
+   "wikidata": "Q156700",
+   "birth": 1883,
+   "death": 1970,
+   "living": false
+  },
+  {
+   "name": "Ernst Ludwig Kirchner",
+   "wikidata": "Q229272",
+   "birth": 1880,
+   "death": 1938,
+   "living": false
+  },
+  {
+   "name": "Ernst Wilhelm Nay",
+   "wikidata": "Q644630",
+   "birth": 1902,
+   "death": 1968,
+   "living": false
+  },
+  {
+   "name": "Eugene Lanceray",
+   "wikidata": "Q1520898",
+   "birth": 1875,
+   "death": 1946,
+   "living": false
+  },
+  {
+   "name": "Eugenio Dittborn",
+   "wikidata": "Q5850469",
+   "birth": 1943,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Eugeniusz Zak",
+   "wikidata": "Q983573",
+   "birth": 1884,
+   "death": 1926,
+   "living": false
+  },
+  {
+   "name": "Eugène Atget",
+   "wikidata": "Q322030",
+   "birth": 1857,
+   "death": 1927,
+   "living": false
+  },
+  {
+   "name": "F. Benedict Herzog",
+   "wikidata": "Q1403336",
+   "birth": 1859,
+   "death": 1912,
+   "living": false
+  },
+  {
+   "name": "Fairfield Porter",
+   "wikidata": "Q5430337",
+   "birth": 1907,
+   "death": 1975,
+   "living": false
+  },
+  {
+   "name": "Farkas Molnár",
+   "wikidata": "Q637276",
+   "birth": 1897,
+   "death": 1945,
+   "living": false
+  },
+  {
+   "name": "Fedir Krychevsky",
+   "wikidata": "Q4241419",
+   "birth": 1879,
+   "death": 1947,
+   "living": false
+  },
+  {
+   "name": "Felice Beato",
+   "wikidata": "Q318352",
+   "birth": 1832,
+   "death": 1909,
+   "living": false
+  },
+  {
+   "name": "Felice Casorati",
+   "wikidata": "Q574616",
+   "birth": 1883,
+   "death": 1963,
+   "living": false
+  },
+  {
+   "name": "Felix Vallotton",
+   "wikidata": "Q123740",
+   "birth": 1865,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "Ferdinand-Victor-Eugène Delacroix",
+   "wikidata": "Q33477",
+   "birth": 1798,
+   "death": 1863,
+   "living": false
+  },
+  {
+   "name": "Fernando Bryce",
+   "wikidata": "Q3069438",
+   "birth": 1965,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Fidelia Bridges",
+   "wikidata": "Q5446751",
+   "birth": 1834,
+   "death": 1923,
+   "living": false
+  },
+  {
+   "name": "Ford Madox Brown",
+   "wikidata": "Q319843",
+   "birth": 1821,
+   "death": 1893,
+   "living": false
+  },
+  {
+   "name": "Frances Benjamin Johnston",
+   "wikidata": "Q462707",
+   "birth": 1864,
+   "death": 1952,
+   "living": false
+  },
+  {
+   "name": "Francis Frith",
+   "wikidata": "Q978878",
+   "birth": 1822,
+   "death": 1898,
+   "living": false
+  },
+  {
+   "name": "Francis Picabia",
+   "wikidata": "Q157321",
+   "birth": 1879,
+   "death": 1953,
+   "living": false
+  },
+  {
+   "name": "Francis Seymour Haden",
+   "wikidata": "Q946578",
+   "birth": 1818,
+   "death": 1910,
+   "living": false
+  },
+  {
+   "name": "Frank Duveneck",
+   "wikidata": "Q660767",
+   "birth": 1848,
+   "death": 1919,
+   "living": false
+  },
+  {
+   "name": "Frank Forshew",
+   "wikidata": "Q5480976",
+   "birth": 1827,
+   "death": 1895,
+   "living": false
+  },
+  {
+   "name": "Frantisek Kupka",
+   "wikidata": "Q167414",
+   "birth": 1871,
+   "death": 1957,
+   "living": false
+  },
+  {
+   "name": "Franz Wilhelm Seiwert",
+   "wikidata": "Q89311",
+   "birth": 1894,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "Franz von Stuck",
+   "wikidata": "Q45006",
+   "birth": 1863,
+   "death": 1928,
+   "living": false
+  },
+  {
+   "name": "François Joseph Heim",
+   "wikidata": "Q3083465",
+   "birth": 1787,
+   "death": 1865,
+   "living": false
+  },
+  {
+   "name": "François Pompon",
+   "wikidata": "Q609754",
+   "birth": 1855,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "Frederic Edwin Church",
+   "wikidata": "Q366212",
+   "birth": 1826,
+   "death": 1900,
+   "living": false
+  },
+  {
+   "name": "Frederic Leighton",
+   "wikidata": "Q160252",
+   "birth": 1830,
+   "death": 1896,
+   "living": false
+  },
+  {
+   "name": "Frederic Porter Vinton",
+   "wikidata": "Q5497115",
+   "birth": 1846,
+   "death": 1911,
+   "living": false
+  },
+  {
+   "name": "Frits Thaulow",
+   "wikidata": "Q445891",
+   "birth": 1847,
+   "death": 1906,
+   "living": false
+  },
+  {
+   "name": "Fritz Hundertwasser",
+   "wikidata": "Q151836",
+   "birth": 1928,
+   "death": 2000,
+   "living": false
+  },
+  {
+   "name": "Fujishima Takeji",
+   "wikidata": "Q347220",
+   "birth": 1867,
+   "death": 1943,
+   "living": false
+  },
+  {
+   "name": "Fukami Sueharu",
+   "wikidata": "Q23023717",
+   "birth": 1947,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Félix Bonfils",
+   "wikidata": "Q2915801",
+   "birth": 1831,
+   "death": 1885,
+   "living": false
+  },
+  {
+   "name": "Félix Henri Bracquemond",
+   "wikidata": "Q633574",
+   "birth": 1833,
+   "death": 1914,
+   "living": false
+  },
+  {
+   "name": "Félix Vallotton",
+   "wikidata": "Q123740",
+   "birth": 1865,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "G. Lékégian",
+   "wikidata": "Q39046433",
+   "birth": 1848,
+   "death": 1920,
+   "living": false
+  },
+  {
+   "name": "Gabriel Ferrier",
+   "wikidata": "Q3093735",
+   "birth": 1847,
+   "death": 1914,
+   "living": false
+  },
+  {
+   "name": "Galileo Chini",
+   "wikidata": "Q3094741",
+   "birth": 1873,
+   "death": 1956,
+   "living": false
+  },
+  {
+   "name": "Gaston Lachaise",
+   "wikidata": "Q1495586",
+   "birth": 1882,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "George Ball",
+   "wikidata": "Q16013798",
+   "birth": 1914,
+   "death": 1997,
+   "living": false
+  },
+  {
+   "name": "George Burroughs Torrey",
+   "wikidata": "Q5537463",
+   "birth": 1863,
+   "death": 1942,
+   "living": false
+  },
+  {
+   "name": "George E. Ohr",
+   "wikidata": "Q5538774",
+   "birth": 1857,
+   "death": 1918,
+   "living": false
+  },
+  {
+   "name": "George Frederic Watts",
+   "wikidata": "Q183245",
+   "birth": 1817,
+   "death": 1904,
+   "living": false
+  },
+  {
+   "name": "George Gardner Rockwood",
+   "wikidata": "Q20035913",
+   "birth": 1832,
+   "death": 1911,
+   "living": false
+  },
+  {
+   "name": "George Hawley Hallowell",
+   "wikidata": "Q22002253",
+   "birth": 1872,
+   "death": 1926,
+   "living": false
+  },
+  {
+   "name": "George Kendall Warren",
+   "wikidata": "Q30303227",
+   "birth": 1834,
+   "death": 1884,
+   "living": false
+  },
+  {
+   "name": "George Maciunas",
+   "wikidata": "Q455931",
+   "birth": 1931,
+   "death": 1978,
+   "living": false
+  },
+  {
+   "name": "George Minne",
+   "wikidata": "Q559281",
+   "birth": 1866,
+   "death": 1941,
+   "living": false
+  },
+  {
+   "name": "George Platt Lynes",
+   "wikidata": "Q474144",
+   "birth": 1907,
+   "death": 1955,
+   "living": false
+  },
+  {
+   "name": "Georges Braque",
+   "wikidata": "Q153793",
+   "birth": 1882,
+   "death": 1963,
+   "living": false
+  },
+  {
+   "name": "Georges Pierre Seurat",
+   "wikidata": "Q34013",
+   "birth": 1859,
+   "death": 1891,
+   "living": false
+  },
+  {
+   "name": "Georges Ribemont-Dessaignes",
+   "wikidata": "Q1393354",
+   "birth": 1884,
+   "death": 1974,
+   "living": false
+  },
+  {
+   "name": "Georges Rochegrosse",
+   "wikidata": "Q346846",
+   "birth": 1859,
+   "death": 1938,
+   "living": false
+  },
+  {
+   "name": "Gerardo Dottori",
+   "wikidata": "Q1365533",
+   "birth": 1884,
+   "death": 1977,
+   "living": false
+  },
+  {
+   "name": "Gerhard Richter",
+   "wikidata": "Q164351",
+   "birth": 1932,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Germaine Richier",
+   "wikidata": "Q435149",
+   "birth": 1902,
+   "death": 1959,
+   "living": false
+  },
+  {
+   "name": "Gerrit Thomas Rietveld",
+   "wikidata": "Q160435",
+   "birth": 1888,
+   "death": 1964,
+   "living": false
+  },
+  {
+   "name": "Gertrude Käsebier",
+   "wikidata": "Q271918",
+   "birth": 1852,
+   "death": 1934,
+   "living": false
+  },
+  {
+   "name": "Giacomo Balla",
+   "wikidata": "Q368254",
+   "birth": 1871,
+   "death": 1958,
+   "living": false
+  },
+  {
+   "name": "Gian Maria Tosatti",
+   "wikidata": "Q29556131",
+   "birth": 1980,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Gianfranco Baruchello",
+   "wikidata": "Q328719",
+   "birth": 1924,
+   "death": 2023,
+   "living": false
+  },
+  {
+   "name": "Gideon Mendel",
+   "wikidata": "Q15709543",
+   "birth": 1959,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Gino Sandri",
+   "wikidata": "Q3764723",
+   "birth": 1892,
+   "death": 1959,
+   "living": false
+  },
+  {
+   "name": "Gino Severini",
+   "wikidata": "Q169984",
+   "birth": 1883,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Giovanni Boldini",
+   "wikidata": "Q362003",
+   "birth": 1842,
+   "death": 1931,
+   "living": false
+  },
+  {
+   "name": "Giuseppe Abbati",
+   "wikidata": "Q1346145",
+   "birth": 1836,
+   "death": 1868,
+   "living": false
+  },
+  {
+   "name": "Gloria Ortiz-Hernandez",
+   "wikidata": "Q77348303",
+   "birth": 1943,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Gordon W. Gahan",
+   "wikidata": "Q5585152",
+   "birth": 1945,
+   "death": 1984,
+   "living": false
+  },
+  {
+   "name": "Gosta Adrian-Nilsson",
+   "wikidata": "Q4992315",
+   "birth": 1884,
+   "death": 1965,
+   "living": false
+  },
+  {
+   "name": "Grace Moore",
+   "wikidata": "Q253757",
+   "birth": 1898,
+   "death": 1947,
+   "living": false
+  },
+  {
+   "name": "Graciela Iturbide",
+   "wikidata": "Q468816",
+   "birth": 1942,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Guglielmo Marconi",
+   "wikidata": "Q42322200",
+   "birth": 1841,
+   "death": 1885,
+   "living": false
+  },
+  {
+   "name": "Guilherme de Santa-Rita",
+   "wikidata": "Q2223220",
+   "birth": 1889,
+   "death": 1918,
+   "living": false
+  },
+  {
+   "name": "Gustave Doré",
+   "wikidata": "Q6682",
+   "birth": 1832,
+   "death": 1883,
+   "living": false
+  },
+  {
+   "name": "Gustave Moreau",
+   "wikidata": "Q203828",
+   "birth": 1826,
+   "death": 1898,
+   "living": false
+  },
+  {
+   "name": "Hagiwara Hideo",
+   "wikidata": "Q473044",
+   "birth": 1913,
+   "death": 2007,
+   "living": false
+  },
+  {
+   "name": "Hannah Höch",
+   "wikidata": "Q463411",
+   "birth": 1889,
+   "death": 1978,
+   "living": false
+  },
+  {
+   "name": "Hannes Meyer",
+   "wikidata": "Q123948",
+   "birth": 1889,
+   "death": 1954,
+   "living": false
+  },
+  {
+   "name": "Harold Edgerton",
+   "wikidata": "Q475733",
+   "birth": 1903,
+   "death": 1990,
+   "living": false
+  },
+  {
+   "name": "Harry Callahan",
+   "wikidata": "Q1383354",
+   "birth": 1912,
+   "death": 1999,
+   "living": false
+  },
+  {
+   "name": "Hashiguchi Goyō",
+   "wikidata": "Q2346122",
+   "birth": 1880,
+   "death": 1921,
+   "living": false
+  },
+  {
+   "name": "Hashimoto Okiie",
+   "wikidata": "Q23000601",
+   "birth": 1899,
+   "death": 1993,
+   "living": false
+  },
+  {
+   "name": "Heinrich Hoerle",
+   "wikidata": "Q73182",
+   "birth": 1895,
+   "death": 1936,
+   "living": false
+  },
+  {
+   "name": "Hendrik Willem Mesdag",
+   "wikidata": "Q474238",
+   "birth": 1831,
+   "death": 1915,
+   "living": false
+  },
+  {
+   "name": "Henri Manguin",
+   "wikidata": "Q1605934",
+   "birth": 1874,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "Henry Flynt",
+   "wikidata": "Q971582",
+   "birth": 1940,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Henry Kirke Brown",
+   "wikidata": "Q1606961",
+   "birth": 1814,
+   "death": 1886,
+   "living": false
+  },
+  {
+   "name": "Henry Louis Stephens",
+   "wikidata": "Q5725092",
+   "birth": 1824,
+   "death": 1882,
+   "living": false
+  },
+  {
+   "name": "Henry Peach Robinson",
+   "wikidata": "Q574144",
+   "birth": 1830,
+   "death": 1901,
+   "living": false
+  },
+  {
+   "name": "Henry Rocher",
+   "wikidata": "Q61985858",
+   "birth": 1826,
+   "death": 1887,
+   "living": false
+  },
+  {
+   "name": "Henry Roderick Newman",
+   "wikidata": "Q22002686",
+   "birth": 1833,
+   "death": 1918,
+   "living": false
+  },
+  {
+   "name": "Hiram Powers",
+   "wikidata": "Q2572996",
+   "birth": 1805,
+   "death": 1873,
+   "living": false
+  },
+  {
+   "name": "Hiratsuka Un'ichi",
+   "wikidata": "Q2037194",
+   "birth": 1895,
+   "death": 1997,
+   "living": false
+  },
+  {
+   "name": "Hito Steyerl",
+   "wikidata": "Q98366",
+   "birth": 1966,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Horace R. Burdick",
+   "wikidata": "Q22002737",
+   "birth": 1844,
+   "death": 1942,
+   "living": false
+  },
+  {
+   "name": "Howardena Pindell",
+   "wikidata": "Q5921354",
+   "birth": 1943,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Hubert Vos",
+   "wikidata": "Q845989",
+   "birth": 1855,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "Hung Hsien",
+   "wikidata": "Q134442119",
+   "birth": 1933,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Ignace-Henri-Jean-Théodore Fantin-Latour",
+   "wikidata": "Q310715",
+   "birth": 1836,
+   "death": 1904,
+   "living": false
+  },
+  {
+   "name": "Ilya Mashkov",
+   "wikidata": "Q2704611",
+   "birth": 1881,
+   "death": 1944,
+   "living": false
+  },
+  {
+   "name": "Irving Penn",
+   "wikidata": "Q318604",
+   "birth": 1917,
+   "death": 2009,
+   "living": false
+  },
+  {
+   "name": "Isamu Noguchi",
+   "wikidata": "Q442628",
+   "birth": 1904,
+   "death": 1988,
+   "living": false
+  },
+  {
+   "name": "Ivan Chermayeff",
+   "wikidata": "Q42429220",
+   "birth": 1932,
+   "death": 2017,
+   "living": false
+  },
+  {
+   "name": "J. Geiser",
+   "wikidata": "Q12024349",
+   "birth": 1848,
+   "death": 1923,
+   "living": false
+  },
+  {
+   "name": "J.D. 'Okhai Ojeikere",
+   "wikidata": "Q3156789",
+   "birth": 1930,
+   "death": 2014,
+   "living": false
+  },
+  {
+   "name": "Jacek Yerka",
+   "wikidata": "Q2620328",
+   "birth": 1952,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Jack Butler Yeats",
+   "wikidata": "Q560488",
+   "birth": 1871,
+   "death": 1957,
+   "living": false
+  },
+  {
+   "name": "Jacoba van Heemskerck",
+   "wikidata": "Q440922",
+   "birth": 1876,
+   "death": 1923,
+   "living": false
+  },
+  {
+   "name": "Jacques Villon",
+   "wikidata": "Q452254",
+   "birth": 1875,
+   "death": 1963,
+   "living": false
+  },
+  {
+   "name": "James Abbott McNeill Whistler",
+   "wikidata": "Q203643",
+   "birth": 1834,
+   "death": 1903,
+   "living": false
+  },
+  {
+   "name": "James Ensor",
+   "wikidata": "Q158840",
+   "birth": 1860,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "James Leon Williams",
+   "wikidata": "Q10317308",
+   "birth": 1852,
+   "death": 1932,
+   "living": false
+  },
+  {
+   "name": "James McDougal Hart",
+   "wikidata": "Q724069",
+   "birth": 1828,
+   "death": 1901,
+   "living": false
+  },
+  {
+   "name": "James Wallace Black",
+   "wikidata": "Q289479",
+   "birth": 1825,
+   "death": 1896,
+   "living": false
+  },
+  {
+   "name": "James Weeks",
+   "wikidata": "Q21810603",
+   "birth": 1922,
+   "death": 1998,
+   "living": false
+  },
+  {
+   "name": "Jamie Wyeth",
+   "wikidata": "Q1099591",
+   "birth": 1946,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Jan Hendrik Weissenbruch",
+   "wikidata": "Q1691988",
+   "birth": 1824,
+   "death": 1903,
+   "living": false
+  },
+  {
+   "name": "Jan Lauschmann",
+   "wikidata": "Q3161706",
+   "birth": 1901,
+   "death": 1991,
+   "living": false
+  },
+  {
+   "name": "Jane Stuart",
+   "wikidata": "Q16062742",
+   "birth": 1812,
+   "death": 1888,
+   "living": false
+  },
+  {
+   "name": "Janet Taylor Pickett",
+   "wikidata": "Q28861357",
+   "birth": 1948,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Janos Mattis-Teutsch",
+   "wikidata": "Q830827",
+   "birth": 1884,
+   "death": 1960,
+   "living": false
+  },
+  {
+   "name": "Jasper Johns",
+   "wikidata": "Q155057",
+   "birth": 1930,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Jean Arp",
+   "wikidata": "Q153739",
+   "birth": 1886,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Jean Baptiste Carpeaux",
+   "wikidata": "Q182791",
+   "birth": 1827,
+   "death": 1875,
+   "living": false
+  },
+  {
+   "name": "Jean Dupas",
+   "wikidata": "Q3171870",
+   "birth": 1882,
+   "death": 1964,
+   "living": false
+  },
+  {
+   "name": "Jean Frédéric Bazille",
+   "wikidata": "Q207298",
+   "birth": 1841,
+   "death": 1870,
+   "living": false
+  },
+  {
+   "name": "Jean-Auguste-Dominique Ingres",
+   "wikidata": "Q23380",
+   "birth": 1780,
+   "death": 1867,
+   "living": false
+  },
+  {
+   "name": "Jean-Eugène-Auguste Atget",
+   "wikidata": "Q322030",
+   "birth": 1857,
+   "death": 1927,
+   "living": false
+  },
+  {
+   "name": "Jeff Koons",
+   "wikidata": "Q297525",
+   "birth": 1955,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Jeffrey Gibson",
+   "wikidata": "Q6176002",
+   "birth": 1972,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Jehan Georges Vibert",
+   "wikidata": "Q1280412",
+   "birth": 1840,
+   "death": 1902,
+   "living": false
+  },
+  {
+   "name": "Jessie Tarbox Beals",
+   "wikidata": "Q6187840",
+   "birth": 1870,
+   "death": 1942,
+   "living": false
+  },
+  {
+   "name": "Jim Nutt",
+   "wikidata": "Q6197218",
+   "birth": 1938,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Joan Fontcuberta",
+   "wikidata": "Q3088175",
+   "birth": 1955,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Joan Snyder",
+   "wikidata": "Q6205466",
+   "birth": 1940,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Joaquin Sorolla y Bastida",
+   "wikidata": "Q351746",
+   "birth": 1863,
+   "death": 1923,
+   "living": false
+  },
+  {
+   "name": "Johan Jongkind",
+   "wikidata": "Q704585",
+   "birth": 1819,
+   "death": 1891,
+   "living": false
+  },
+  {
+   "name": "Johannes Adam Simon Oertel",
+   "wikidata": "Q6216496",
+   "birth": 1823,
+   "death": 1909,
+   "living": false
+  },
+  {
+   "name": "Johannes Itten",
+   "wikidata": "Q123138",
+   "birth": 1888,
+   "death": 1967,
+   "living": false
+  },
+  {
+   "name": "John Adams Whipple",
+   "wikidata": "Q1351738",
+   "birth": 1822,
+   "death": 1891,
+   "living": false
+  },
+  {
+   "name": "John Briggs Potter",
+   "wikidata": "Q28016364",
+   "birth": 1864,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "John Dowell",
+   "wikidata": "Q28542587",
+   "birth": 1941,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "John Everett Millais",
+   "wikidata": "Q159606",
+   "birth": 1829,
+   "death": 1896,
+   "living": false
+  },
+  {
+   "name": "John Ferren",
+   "wikidata": "Q20887067",
+   "birth": 1905,
+   "death": 1970,
+   "living": false
+  },
+  {
+   "name": "John Frederick Kensett",
+   "wikidata": "Q982284",
+   "birth": 1816,
+   "death": 1872,
+   "living": false
+  },
+  {
+   "name": "John Haberle",
+   "wikidata": "Q1700340",
+   "birth": 1856,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "John Henry Twachtman",
+   "wikidata": "Q1342683",
+   "birth": 1853,
+   "death": 1902,
+   "living": false
+  },
+  {
+   "name": "John K. Hillers",
+   "wikidata": "Q3496023",
+   "birth": 1843,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "John La Farge",
+   "wikidata": "Q3120087",
+   "birth": 1835,
+   "death": 1910,
+   "living": false
+  },
+  {
+   "name": "John O'Reilly",
+   "wikidata": "Q28313214",
+   "birth": 1930,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "John Peter Russell",
+   "wikidata": "Q1365633",
+   "birth": 1858,
+   "death": 1930,
+   "living": false
+  },
+  {
+   "name": "John Ruskin",
+   "wikidata": "Q179126",
+   "birth": 1819,
+   "death": 1900,
+   "living": false
+  },
+  {
+   "name": "Joost Schmidt",
+   "wikidata": "Q567369",
+   "birth": 1893,
+   "death": 1948,
+   "living": false
+  },
+  {
+   "name": "Josef Albers",
+   "wikidata": "Q170071",
+   "birth": 1888,
+   "death": 1976,
+   "living": false
+  },
+  {
+   "name": "Josef Hartwig",
+   "wikidata": "Q18626560",
+   "birth": 1880,
+   "death": 1955,
+   "living": false
+  },
+  {
+   "name": "Joseph Mallord William Turner",
+   "wikidata": "Q159758",
+   "birth": 1775,
+   "death": 1851,
+   "living": false
+  },
+  {
+   "name": "Joseph Marioni",
+   "wikidata": "Q1707582",
+   "birth": 1943,
+   "death": 2024,
+   "living": false
+  },
+  {
+   "name": "Joseph Rodefer DeCamp",
+   "wikidata": "Q151149",
+   "birth": 1858,
+   "death": 1923,
+   "living": false
+  },
+  {
+   "name": "José Guadalupe Posada",
+   "wikidata": "Q732526",
+   "birth": 1852,
+   "death": 1913,
+   "living": false
+  },
+  {
+   "name": "José Tanig Joya",
+   "wikidata": "Q3086306",
+   "birth": 1931,
+   "death": 1995,
+   "living": false
+  },
+  {
+   "name": "Jozef Israëls",
+   "wikidata": "Q528460",
+   "birth": 1824,
+   "death": 1911,
+   "living": false
+  },
+  {
+   "name": "Judy Chicago",
+   "wikidata": "Q441440",
+   "birth": 1939,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Jules Cheret",
+   "wikidata": "Q610202",
+   "birth": 1836,
+   "death": 1932,
+   "living": false
+  },
+  {
+   "name": "Jules Perahim",
+   "wikidata": "Q3188844",
+   "birth": 1914,
+   "death": 2008,
+   "living": false
+  },
+  {
+   "name": "Julia Margaret Cameron",
+   "wikidata": "Q230120",
+   "birth": 1815,
+   "death": 1879,
+   "living": false
+  },
+  {
+   "name": "Julian Faulhaber",
+   "wikidata": "Q99383654",
+   "birth": 1975,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Julio Le Parc",
+   "wikidata": "Q177313",
+   "birth": 1928,
+   "death": 2026,
+   "living": false
+  },
+  {
+   "name": "Julius Schnorr von Carolsfeld",
+   "wikidata": "Q703458",
+   "birth": 1794,
+   "death": 1872,
+   "living": false
+  },
+  {
+   "name": "Kahlil Gibran",
+   "wikidata": "Q47737",
+   "birth": 1883,
+   "death": 1931,
+   "living": false
+  },
+  {
+   "name": "Kajima Seibei",
+   "wikidata": "Q6374312",
+   "birth": 1866,
+   "death": 1924,
+   "living": false
+  },
+  {
+   "name": "Kamisaka Sekka",
+   "wikidata": "Q6358490",
+   "birth": 1866,
+   "death": 1942,
+   "living": false
+  },
+  {
+   "name": "Kara Walker",
+   "wikidata": "Q444277",
+   "birth": 1969,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Karin Sander",
+   "wikidata": "Q1729543",
+   "birth": 1957,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Karl Otto Gotz",
+   "wikidata": "Q67053",
+   "birth": 1914,
+   "death": 2017,
+   "living": false
+  },
+  {
+   "name": "Karl Zerbe",
+   "wikidata": "Q15461781",
+   "birth": 1903,
+   "death": 1972,
+   "living": false
+  },
+  {
+   "name": "Karl von Blaas",
+   "wikidata": "Q265340",
+   "birth": 1815,
+   "death": 1894,
+   "living": false
+  },
+  {
+   "name": "Karpo Trokhymenko",
+   "wikidata": "Q12162527",
+   "birth": 1885,
+   "death": 1979,
+   "living": false
+  },
+  {
+   "name": "Kasamatsu Shirō",
+   "wikidata": "Q3482366",
+   "birth": 1898,
+   "death": 1991,
+   "living": false
+  },
+  {
+   "name": "Katsushika Hokusai",
+   "wikidata": "Q5586",
+   "birth": 1760,
+   "death": 1849,
+   "living": false
+  },
+  {
+   "name": "Kawanabe Kyōsai",
+   "wikidata": "Q2838030",
+   "birth": 1831,
+   "death": 1889,
+   "living": false
+  },
+  {
+   "name": "Kay WalkingStick",
+   "wikidata": "Q6380307",
+   "birth": 1935,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Kees van Dongen",
+   "wikidata": "Q170345",
+   "birth": 1877,
+   "death": 1968,
+   "living": false
+  },
+  {
+   "name": "Kerry James Marshall",
+   "wikidata": "Q832432",
+   "birth": 1955,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Kiki Smith",
+   "wikidata": "Q447300",
+   "birth": 1954,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Kmetty János",
+   "wikidata": "Q549648",
+   "birth": 1889,
+   "death": 1975,
+   "living": false
+  },
+  {
+   "name": "Kobayashi Kiyochika",
+   "wikidata": "Q3121142",
+   "birth": 1847,
+   "death": 1915,
+   "living": false
+  },
+  {
+   "name": "Koloman Moser",
+   "wikidata": "Q45055",
+   "birth": 1868,
+   "death": 1918,
+   "living": false
+  },
+  {
+   "name": "Konstantin Yuon",
+   "wikidata": "Q1343751",
+   "birth": 1875,
+   "death": 1958,
+   "living": false
+  },
+  {
+   "name": "Kurt Schwitters",
+   "wikidata": "Q155158",
+   "birth": 1887,
+   "death": 1948,
+   "living": false
+  },
+  {
+   "name": "L. S. Lowry",
+   "wikidata": "Q1354277",
+   "birth": 1887,
+   "death": 1976,
+   "living": false
+  },
+  {
+   "name": "Lajos Gulacsy",
+   "wikidata": "Q1028702",
+   "birth": 1882,
+   "death": 1932,
+   "living": false
+  },
+  {
+   "name": "Lalla Essaydi",
+   "wikidata": "Q19628669",
+   "birth": 1956,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Laszlo Mednyanszky",
+   "wikidata": "Q652975",
+   "birth": 1852,
+   "death": 1919,
+   "living": false
+  },
+  {
+   "name": "Lawren Harris",
+   "wikidata": "Q3106117",
+   "birth": 1885,
+   "death": 1970,
+   "living": false
+  },
+  {
+   "name": "Lawrence Alma-Tadema",
+   "wikidata": "Q240526",
+   "birth": 1836,
+   "death": 1912,
+   "living": false
+  },
+  {
+   "name": "Lee Chun-Yi",
+   "wikidata": "Q28737356",
+   "birth": 1965,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Lee Krasner",
+   "wikidata": "Q237959",
+   "birth": 1908,
+   "death": 1984,
+   "living": false
+  },
+  {
+   "name": "Lena Bergner",
+   "wikidata": "Q28842306",
+   "birth": 1906,
+   "death": 1981,
+   "living": false
+  },
+  {
+   "name": "Leonardo Drew",
+   "wikidata": "Q17198110",
+   "birth": 1961,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Lesser Ury",
+   "wikidata": "Q512596",
+   "birth": 1861,
+   "death": 1931,
+   "living": false
+  },
+  {
+   "name": "Lewis Wickes Hine",
+   "wikidata": "Q347194",
+   "birth": 1874,
+   "death": 1940,
+   "living": false
+  },
+  {
+   "name": "Li Huayi",
+   "wikidata": "Q21810574",
+   "birth": 1948,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Lilla Cabot Perry",
+   "wikidata": "Q431705",
+   "birth": 1848,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "Liu Kuo-sung",
+   "wikidata": "Q6653515",
+   "birth": 1932,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Louis Comfort Tiffany",
+   "wikidata": "Q312950",
+   "birth": 1848,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "Louis Delsarte",
+   "wikidata": "Q6687006",
+   "birth": 1944,
+   "death": 2020,
+   "living": false
+  },
+  {
+   "name": "Louis Valtat",
+   "wikidata": "Q1872017",
+   "birth": 1869,
+   "death": 1952,
+   "living": false
+  },
+  {
+   "name": "Louise Rösler",
+   "wikidata": "Q1872186",
+   "birth": 1907,
+   "death": 1993,
+   "living": false
+  },
+  {
+   "name": "Lourdes Castro",
+   "wikidata": "Q10319937",
+   "birth": 1930,
+   "death": 2022,
+   "living": false
+  },
+  {
+   "name": "Lucia Moholy",
+   "wikidata": "Q214381",
+   "birth": 1894,
+   "death": 1989,
+   "living": false
+  },
+  {
+   "name": "Lucian Freud",
+   "wikidata": "Q154594",
+   "birth": 1922,
+   "death": 2011,
+   "living": false
+  },
+  {
+   "name": "Luigi Russolo",
+   "wikidata": "Q434916",
+   "birth": 1885,
+   "death": 1947,
+   "living": false
+  },
+  {
+   "name": "Lyonel Feininger",
+   "wikidata": "Q158255",
+   "birth": 1871,
+   "death": 1956,
+   "living": false
+  },
+  {
+   "name": "László Moholy-Nagy",
+   "wikidata": "Q160448",
+   "birth": 1895,
+   "death": 1946,
+   "living": false
+  },
+  {
+   "name": "Léon Bakst",
+   "wikidata": "Q214666",
+   "birth": 1866,
+   "death": 1924,
+   "living": false
+  },
+  {
+   "name": "M.C. Escher",
+   "wikidata": "Q1470",
+   "birth": 1898,
+   "death": 1972,
+   "living": false
+  },
+  {
+   "name": "Mackay Hugh Baillie Scott",
+   "wikidata": "Q561531",
+   "birth": 1865,
+   "death": 1945,
+   "living": false
+  },
+  {
+   "name": "Maggie Laubser",
+   "wikidata": "Q6730265",
+   "birth": 1886,
+   "death": 1973,
+   "living": false
+  },
+  {
+   "name": "Magnus Enckell",
+   "wikidata": "Q967073",
+   "birth": 1870,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "Malvina Cornell Hoffman",
+   "wikidata": "Q3844044",
+   "birth": 1885,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Man Ray",
+   "wikidata": "Q46139",
+   "birth": 1890,
+   "death": 1976,
+   "living": false
+  },
+  {
+   "name": "Marcel Breuer",
+   "wikidata": "Q57588",
+   "birth": 1902,
+   "death": 1981,
+   "living": false
+  },
+  {
+   "name": "Marcel Duchamp",
+   "wikidata": "Q5912",
+   "birth": 1887,
+   "death": 1968,
+   "living": false
+  },
+  {
+   "name": "Marcel Janco",
+   "wikidata": "Q366217",
+   "birth": 1895,
+   "death": 1984,
+   "living": false
+  },
+  {
+   "name": "Marcus Larson",
+   "wikidata": "Q5936739",
+   "birth": 1825,
+   "death": 1864,
+   "living": false
+  },
+  {
+   "name": "Margarete Köhler",
+   "wikidata": "Q18024862",
+   "birth": 1887,
+   "death": 1964,
+   "living": false
+  },
+  {
+   "name": "Margit Selska",
+   "wikidata": "Q11768663",
+   "birth": 1900,
+   "death": 1980,
+   "living": false
+  },
+  {
+   "name": "Maria Magdalena Campos-Pons",
+   "wikidata": "Q6004250",
+   "birth": 1959,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Marianne Brandt",
+   "wikidata": "Q456521",
+   "birth": 1893,
+   "death": 1983,
+   "living": false
+  },
+  {
+   "name": "Mariano Fortuny y Marsal",
+   "wikidata": "Q380052",
+   "birth": 1838,
+   "death": 1874,
+   "living": false
+  },
+  {
+   "name": "Marie De Hoa LeBlanc",
+   "wikidata": "Q112088643",
+   "birth": 1874,
+   "death": 1954,
+   "living": false
+  },
+  {
+   "name": "Mario Sironi",
+   "wikidata": "Q643778",
+   "birth": 1885,
+   "death": 1961,
+   "living": false
+  },
+  {
+   "name": "Marion Palfi",
+   "wikidata": "Q20769411",
+   "birth": 1907,
+   "death": 1978,
+   "living": false
+  },
+  {
+   "name": "Marion Post Wolcott",
+   "wikidata": "Q436687",
+   "birth": 1910,
+   "death": 1990,
+   "living": false
+  },
+  {
+   "name": "Marisol",
+   "wikidata": "Q438248",
+   "birth": 1930,
+   "death": 2016,
+   "living": false
+  },
+  {
+   "name": "Marisol Escobar",
+   "wikidata": "Q438248",
+   "birth": 1930,
+   "death": 2016,
+   "living": false
+  },
+  {
+   "name": "Marlene Dumas",
+   "wikidata": "Q260617",
+   "birth": 1953,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Martiros Sarian",
+   "wikidata": "Q718409",
+   "birth": 1880,
+   "death": 1972,
+   "living": false
+  },
+  {
+   "name": "Martín Rico y Ortega",
+   "wikidata": "Q427999",
+   "birth": 1833,
+   "death": 1908,
+   "living": false
+  },
+  {
+   "name": "Mathew B. Brady",
+   "wikidata": "Q187850",
+   "birth": 1822,
+   "death": 1896,
+   "living": false
+  },
+  {
+   "name": "Maureen Cummins",
+   "wikidata": "Q29452354",
+   "birth": 1963,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Maurice Brazil Prendergast",
+   "wikidata": "Q248707",
+   "birth": 1858,
+   "death": 1924,
+   "living": false
+  },
+  {
+   "name": "Maurice Denis",
+   "wikidata": "Q440369",
+   "birth": 1870,
+   "death": 1943,
+   "living": false
+  },
+  {
+   "name": "Maurice de Vlaminck",
+   "wikidata": "Q241098",
+   "birth": 1876,
+   "death": 1958,
+   "living": false
+  },
+  {
+   "name": "Max Belcher",
+   "wikidata": "Q91785156",
+   "birth": 1944,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Max Ernst",
+   "wikidata": "Q154842",
+   "birth": 1891,
+   "death": 1976,
+   "living": false
+  },
+  {
+   "name": "Max Liebermann",
+   "wikidata": "Q158062",
+   "birth": 1847,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "May Stevens",
+   "wikidata": "Q6796587",
+   "birth": 1924,
+   "death": 2019,
+   "living": false
+  },
+  {
+   "name": "Mervin Jules",
+   "wikidata": "Q20899709",
+   "birth": 1912,
+   "death": 1994,
+   "living": false
+  },
+  {
+   "name": "Mieko Shiomi",
+   "wikidata": "Q3950748",
+   "birth": 1909,
+   "death": 1984,
+   "living": false
+  },
+  {
+   "name": "Migita Toshihide",
+   "wikidata": "Q3075003",
+   "birth": 1862,
+   "death": 1925,
+   "living": false
+  },
+  {
+   "name": "Mildred Thompson",
+   "wikidata": "Q6851021",
+   "birth": 1936,
+   "death": 2003,
+   "living": false
+  },
+  {
+   "name": "Mimi Smith",
+   "wikidata": "Q16106096",
+   "birth": 1942,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Mizuno Toshikata",
+   "wikidata": "Q3532621",
+   "birth": 1866,
+   "death": 1908,
+   "living": false
+  },
+  {
+   "name": "Mona Hatoum",
+   "wikidata": "Q273696",
+   "birth": 1952,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Morton Schamberg",
+   "wikidata": "Q1948749",
+   "birth": 1881,
+   "death": 1918,
+   "living": false
+  },
+  {
+   "name": "Moses Wight",
+   "wikidata": "Q6915977",
+   "birth": 1827,
+   "death": 1895,
+   "living": false
+  },
+  {
+   "name": "Murray Zimiles",
+   "wikidata": "Q55220037",
+   "birth": 1941,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Nadar",
+   "wikidata": "Q40116",
+   "birth": 1820,
+   "death": 1910,
+   "living": false
+  },
+  {
+   "name": "Nam June Paik",
+   "wikidata": "Q158056",
+   "birth": 1932,
+   "death": 2006,
+   "living": false
+  },
+  {
+   "name": "Nan Goldin",
+   "wikidata": "Q234279",
+   "birth": 1953,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Napoleon Sarony",
+   "wikidata": "Q965637",
+   "birth": 1821,
+   "death": 1896,
+   "living": false
+  },
+  {
+   "name": "Narcissa Niblack Thorne",
+   "wikidata": "Q3336054",
+   "birth": 1882,
+   "death": 1966,
+   "living": false
+  },
+  {
+   "name": "Naum Gabo",
+   "wikidata": "Q309482",
+   "birth": 1890,
+   "death": 1973,
+   "living": false
+  },
+  {
+   "name": "Neo Rauch",
+   "wikidata": "Q62331",
+   "birth": 1960,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Nicholas Lochoff",
+   "wikidata": "Q19858109",
+   "birth": 1872,
+   "death": 1948,
+   "living": false
+  },
+  {
+   "name": "Nicholas Nixon",
+   "wikidata": "Q2309478",
+   "birth": 1947,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Nikki S. Lee",
+   "wikidata": "Q1990369",
+   "birth": 1970,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Nina Chanel Abney",
+   "wikidata": "Q27970540",
+   "birth": 1982,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Norman Rockwell",
+   "wikidata": "Q271884",
+   "birth": 1894,
+   "death": 1978,
+   "living": false
+  },
+  {
+   "name": "Odili Donald Odita",
+   "wikidata": "Q15452872",
+   "birth": 1966,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Ohara Koson",
+   "wikidata": "Q2585236",
+   "birth": 1877,
+   "death": 1945,
+   "living": false
+  },
+  {
+   "name": "Olowe of Ise",
+   "wikidata": "Q7088530",
+   "birth": 1873,
+   "death": 1938,
+   "living": false
+  },
+  {
+   "name": "Othon Friesz",
+   "wikidata": "Q708482",
+   "birth": 1879,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "Otti Berger",
+   "wikidata": "Q2037742",
+   "birth": 1898,
+   "death": 1944,
+   "living": false
+  },
+  {
+   "name": "Owen Jones",
+   "wikidata": "Q1380862",
+   "birth": 1809,
+   "death": 1874,
+   "living": false
+  },
+  {
+   "name": "Pablo Ruiz Picasso",
+   "wikidata": "Q5593",
+   "birth": 1881,
+   "death": 1973,
+   "living": false
+  },
+  {
+   "name": "Paul Adolphe Rajon",
+   "wikidata": "Q3370428",
+   "birth": 1843,
+   "death": 1888,
+   "living": false
+  },
+  {
+   "name": "Paul Paun",
+   "wikidata": "Q7153038",
+   "birth": 1915,
+   "death": 1994,
+   "living": false
+  },
+  {
+   "name": "Paul Signac",
+   "wikidata": "Q151573",
+   "birth": 1863,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "Paul Wonner",
+   "wikidata": "Q7154467",
+   "birth": 1920,
+   "death": 2008,
+   "living": false
+  },
+  {
+   "name": "Paula Rego",
+   "wikidata": "Q235318",
+   "birth": 1935,
+   "death": 2022,
+   "living": false
+  },
+  {
+   "name": "Pavel Filonov",
+   "wikidata": "Q466187",
+   "birth": 1883,
+   "death": 1941,
+   "living": false
+  },
+  {
+   "name": "Pavel Tchelitchew",
+   "wikidata": "Q2361741",
+   "birth": 1898,
+   "death": 1957,
+   "living": false
+  },
+  {
+   "name": "Per Kirkeby",
+   "wikidata": "Q467462",
+   "birth": 1938,
+   "death": 2018,
+   "living": false
+  },
+  {
+   "name": "Peter Goin",
+   "wikidata": "Q7174275",
+   "birth": 1951,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Peter Sheaf Hersey Newell",
+   "wikidata": "Q7176080",
+   "birth": 1862,
+   "death": 1924,
+   "living": false
+  },
+  {
+   "name": "Pierre Lamy Petit",
+   "wikidata": "Q55070601",
+   "birth": 1831,
+   "death": 1909,
+   "living": false
+  },
+  {
+   "name": "Pierre Roy",
+   "wikidata": "Q1347013",
+   "birth": 1880,
+   "death": 1950,
+   "living": false
+  },
+  {
+   "name": "Polly Thayer",
+   "wikidata": "Q16017598",
+   "birth": 1904,
+   "death": 2006,
+   "living": false
+  },
+  {
+   "name": "Rachel Harrison",
+   "wikidata": "Q4496069",
+   "birth": 1966,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Raimundo de Madrazo y Garreta",
+   "wikidata": "Q2506493",
+   "birth": 1841,
+   "death": 1920,
+   "living": false
+  },
+  {
+   "name": "Randolph Rogers",
+   "wikidata": "Q2130722",
+   "birth": 1825,
+   "death": 1892,
+   "living": false
+  },
+  {
+   "name": "Rebecca Horn",
+   "wikidata": "Q442192",
+   "birth": 1944,
+   "death": 2024,
+   "living": false
+  },
+  {
+   "name": "Ren Xun",
+   "wikidata": "Q3424695",
+   "birth": 1835,
+   "death": 1893,
+   "living": false
+  },
+  {
+   "name": "Reuben Haley",
+   "wikidata": "Q88689300",
+   "birth": 1872,
+   "death": 1933,
+   "living": false
+  },
+  {
+   "name": "Richard LaBarre Goodwin",
+   "wikidata": "Q22086591",
+   "birth": 1840,
+   "death": 1910,
+   "living": false
+  },
+  {
+   "name": "Richard Misrach",
+   "wikidata": "Q7327841",
+   "birth": 1949,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Robert Alexander Anderson",
+   "wikidata": "Q107616945",
+   "birth": 1946,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Robert David Gauley",
+   "wikidata": "Q45283878",
+   "birth": 1875,
+   "death": 1943,
+   "living": false
+  },
+  {
+   "name": "Robert Petschow",
+   "wikidata": "Q1699859",
+   "birth": 1888,
+   "death": 1945,
+   "living": false
+  },
+  {
+   "name": "Rodolfo Paras Perez",
+   "wikidata": "Q136723702",
+   "birth": 1934,
+   "death": 2011,
+   "living": false
+  },
+  {
+   "name": "Roger Raveel",
+   "wikidata": "Q477465",
+   "birth": 1921,
+   "death": 2013,
+   "living": false
+  },
+  {
+   "name": "Roman Selsky",
+   "wikidata": "Q9312619",
+   "birth": 1903,
+   "death": 1990,
+   "living": false
+  },
+  {
+   "name": "Rosalind Fox Solomon",
+   "wikidata": "Q7367254",
+   "birth": 1930,
+   "death": 2025,
+   "living": false
+  },
+  {
+   "name": "Rosalyn Drexler",
+   "wikidata": "Q7367281",
+   "birth": 1926,
+   "death": 2025,
+   "living": false
+  },
+  {
+   "name": "Rosana Paulino",
+   "wikidata": "Q43193557",
+   "birth": 1967,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Sam Francis",
+   "wikidata": "Q526470",
+   "birth": 1923,
+   "death": 1994,
+   "living": false
+  },
+  {
+   "name": "Samuel Colman",
+   "wikidata": "Q1751436",
+   "birth": 1832,
+   "death": 1920,
+   "living": false
+  },
+  {
+   "name": "Samuel J. Miller",
+   "wikidata": "Q105311023",
+   "birth": 1822,
+   "death": 1888,
+   "living": false
+  },
+  {
+   "name": "Samuel Stillman Osgood",
+   "wikidata": "Q3651747",
+   "birth": 1808,
+   "death": 1885,
+   "living": false
+  },
+  {
+   "name": "Sandor Bortnyik",
+   "wikidata": "Q562814",
+   "birth": 1893,
+   "death": 1976,
+   "living": false
+  },
+  {
+   "name": "Sandra Allen",
+   "wikidata": "Q7416533",
+   "birth": 1959,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Sandra Stark",
+   "wikidata": "Q108761010",
+   "birth": 1951,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Sanford Robinson Gifford",
+   "wikidata": "Q615161",
+   "birth": 1823,
+   "death": 1880,
+   "living": false
+  },
+  {
+   "name": "Sarah Choate Sears",
+   "wikidata": "Q2070194",
+   "birth": 1858,
+   "death": 1935,
+   "living": false
+  },
+  {
+   "name": "Sarah Gooll Putnam",
+   "wikidata": "Q56697425",
+   "birth": 1851,
+   "death": 1912,
+   "living": false
+  },
+  {
+   "name": "Sarah Sze",
+   "wikidata": "Q3473432",
+   "birth": 1969,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Sarah Wyman Whitman",
+   "wikidata": "Q2224527",
+   "birth": 1842,
+   "death": 1904,
+   "living": false
+  },
+  {
+   "name": "Sašo Vrabič",
+   "wikidata": "Q18645158",
+   "birth": 1974,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Serizawa Keisuke",
+   "wikidata": "Q2034927",
+   "birth": 1895,
+   "death": 1984,
+   "living": false
+  },
+  {
+   "name": "Shelby Lee Adams",
+   "wikidata": "Q3481792",
+   "birth": 1950,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Shellburne Thurber",
+   "wikidata": "Q19818091",
+   "birth": 1949,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Shinzan",
+   "wikidata": "Q11434062",
+   "birth": 1871,
+   "death": 1944,
+   "living": false
+  },
+  {
+   "name": "Siegfried Lauterwasser",
+   "wikidata": "Q109663",
+   "birth": 1913,
+   "death": 2000,
+   "living": false
+  },
+  {
+   "name": "Silvestro Lega",
+   "wikidata": "Q369633",
+   "birth": 1826,
+   "death": 1895,
+   "living": false
+  },
+  {
+   "name": "Sim Chi Yin",
+   "wikidata": "Q55697165",
+   "birth": 1978,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Stanhope Alexander Forbes",
+   "wikidata": "Q360724",
+   "birth": 1857,
+   "death": 1947,
+   "living": false
+  },
+  {
+   "name": "Stanisław Szukalski",
+   "wikidata": "Q4349507",
+   "birth": 1893,
+   "death": 1987,
+   "living": false
+  },
+  {
+   "name": "Stanisław Wyspiański",
+   "wikidata": "Q312627",
+   "birth": 1869,
+   "death": 1907,
+   "living": false
+  },
+  {
+   "name": "Stefan Caltia",
+   "wikidata": "Q4577849",
+   "birth": 1942,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Steve Wheeler",
+   "wikidata": "Q20823669",
+   "birth": 1912,
+   "death": 1992,
+   "living": false
+  },
+  {
+   "name": "Stuart Davis",
+   "wikidata": "Q704588",
+   "birth": 1892,
+   "death": 1964,
+   "living": false
+  },
+  {
+   "name": "Sue Coe",
+   "wikidata": "Q7634046",
+   "birth": 1951,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Sunil Gupta",
+   "wikidata": "Q63114098",
+   "birth": 1953,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Susan Roth",
+   "wikidata": "Q22002298",
+   "birth": 1950,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Susan Schwalb",
+   "wikidata": "Q7648360",
+   "birth": 1944,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Suzanne Valadon",
+   "wikidata": "Q156889",
+   "birth": 1865,
+   "death": 1938,
+   "living": false
+  },
+  {
+   "name": "Tanya Aguiñiga",
+   "wikidata": "Q19609505",
+   "birth": 1978,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Tara Donovan",
+   "wikidata": "Q3515545",
+   "birth": 1969,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Tarsila do Amaral",
+   "wikidata": "Q466627",
+   "birth": 1886,
+   "death": 1973,
+   "living": false
+  },
+  {
+   "name": "Teresita Fernandez",
+   "wikidata": "Q13560765",
+   "birth": 1968,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Theo van Doesburg",
+   "wikidata": "Q160422",
+   "birth": 1883,
+   "death": 1931,
+   "living": false
+  },
+  {
+   "name": "Theophilus Brown",
+   "wikidata": "Q7782284",
+   "birth": 1919,
+   "death": 2012,
+   "living": false
+  },
+  {
+   "name": "Thomas Buchanan Read",
+   "wikidata": "Q3524954",
+   "birth": 1822,
+   "death": 1872,
+   "living": false
+  },
+  {
+   "name": "Thomas Charles Farrer",
+   "wikidata": "Q7788344",
+   "birth": 1838,
+   "death": 1891,
+   "living": false
+  },
+  {
+   "name": "Thomas Couture",
+   "wikidata": "Q326434",
+   "birth": 1815,
+   "death": 1879,
+   "living": false
+  },
+  {
+   "name": "Thomas Cowperthwait Eakins",
+   "wikidata": "Q214905",
+   "birth": 1844,
+   "death": 1916,
+   "living": false
+  },
+  {
+   "name": "Thomas Crawford",
+   "wikidata": "Q1863438",
+   "birth": 1813,
+   "death": 1857,
+   "living": false
+  },
+  {
+   "name": "Thomas Eakins",
+   "wikidata": "Q214905",
+   "birth": 1844,
+   "death": 1916,
+   "living": false
+  },
+  {
+   "name": "Thomas Moran",
+   "wikidata": "Q983441",
+   "birth": 1837,
+   "death": 1926,
+   "living": false
+  },
+  {
+   "name": "Thomas Nast",
+   "wikidata": "Q214957",
+   "birth": 1840,
+   "death": 1902,
+   "living": false
+  },
+  {
+   "name": "Thomas Satterwhite Noble",
+   "wikidata": "Q9358529",
+   "birth": 1835,
+   "death": 1907,
+   "living": false
+  },
+  {
+   "name": "Théo van Rysselberghe",
+   "wikidata": "Q671883",
+   "birth": 1862,
+   "death": 1926,
+   "living": false
+  },
+  {
+   "name": "Théodore Chassériau",
+   "wikidata": "Q342467",
+   "birth": 1819,
+   "death": 1856,
+   "living": false
+  },
+  {
+   "name": "Tia Peltz",
+   "wikidata": "Q7212498",
+   "birth": 1923,
+   "death": 1999,
+   "living": false
+  },
+  {
+   "name": "Timm Rautert",
+   "wikidata": "Q2434761",
+   "birth": 1941,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Timothy H. O'Sullivan",
+   "wikidata": "Q1371063",
+   "birth": 1840,
+   "death": 1882,
+   "living": false
+  },
+  {
+   "name": "Tomioka Tessai",
+   "wikidata": "Q1377454",
+   "birth": 1837,
+   "death": 1924,
+   "living": false
+  },
+  {
+   "name": "Tomoko Sawada",
+   "wikidata": "Q1647382",
+   "birth": 1977,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Tsuguharu Foujita",
+   "wikidata": "Q261846",
+   "birth": 1886,
+   "death": 1968,
+   "living": false
+  },
+  {
+   "name": "Tsukioka Yoshitoshi",
+   "wikidata": "Q467337",
+   "birth": 1839,
+   "death": 1892,
+   "living": false
+  },
+  {
+   "name": "Tyler Mitchell",
+   "wikidata": "Q56277800",
+   "birth": 1995,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Uemura Shōen",
+   "wikidata": "Q275018",
+   "birth": 1875,
+   "death": 1949,
+   "living": false
+  },
+  {
+   "name": "Ulrich Wüst",
+   "wikidata": "Q137081",
+   "birth": 1949,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Utagawa Kunisada",
+   "wikidata": "Q467427",
+   "birth": 1786,
+   "death": 1865,
+   "living": false
+  },
+  {
+   "name": "Utagawa Kuniyoshi",
+   "wikidata": "Q317736",
+   "birth": 1798,
+   "death": 1861,
+   "living": false
+  },
+  {
+   "name": "Utagawa Toyonobu",
+   "wikidata": "Q11545204",
+   "birth": 1859,
+   "death": 1886,
+   "living": false
+  },
+  {
+   "name": "Utagawa Yoshikazu",
+   "wikidata": "Q11545174",
+   "birth": 1850,
+   "death": 1870,
+   "living": false
+  },
+  {
+   "name": "Utagawa Yoshitsuya",
+   "wikidata": "Q3178301",
+   "birth": 1822,
+   "death": 1866,
+   "living": false
+  },
+  {
+   "name": "Vadym Meller",
+   "wikidata": "Q1377165",
+   "birth": 1884,
+   "death": 1962,
+   "living": false
+  },
+  {
+   "name": "Valentine Cameron Prinsep",
+   "wikidata": "Q3034202",
+   "birth": 1838,
+   "death": 1904,
+   "living": false
+  },
+  {
+   "name": "Vasyl Yermylov",
+   "wikidata": "Q462295",
+   "birth": 1894,
+   "death": 1968,
+   "living": false
+  },
+  {
+   "name": "Victor David Brenner",
+   "wikidata": "Q5762066",
+   "birth": 1871,
+   "death": 1924,
+   "living": false
+  },
+  {
+   "name": "Victor Grippo",
+   "wikidata": "Q6161476",
+   "birth": 1936,
+   "death": 2002,
+   "living": false
+  },
+  {
+   "name": "Victor Hugo",
+   "wikidata": "Q535",
+   "birth": 1802,
+   "death": 1885,
+   "living": false
+  },
+  {
+   "name": "Victor Palmov",
+   "wikidata": "Q2060728",
+   "birth": 1888,
+   "death": 1929,
+   "living": false
+  },
+  {
+   "name": "Vija Celmins",
+   "wikidata": "Q465777",
+   "birth": 1938,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Vik Muniz",
+   "wikidata": "Q1288454",
+   "birth": 1961,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Vivan Sundaram",
+   "wikidata": "Q1134398",
+   "birth": 1943,
+   "death": 2023,
+   "living": false
+  },
+  {
+   "name": "Vladimir Tatlin",
+   "wikidata": "Q310320",
+   "birth": 1885,
+   "death": 1953,
+   "living": false
+  },
+  {
+   "name": "W. Eugene Smith",
+   "wikidata": "Q551491",
+   "birth": 1918,
+   "death": 1978,
+   "living": false
+  },
+  {
+   "name": "Waldemar Franz Herman Titzenthaler",
+   "wikidata": "Q91682",
+   "birth": 1869,
+   "death": 1937,
+   "living": false
+  },
+  {
+   "name": "Walker Evans",
+   "wikidata": "Q363308",
+   "birth": 1903,
+   "death": 1975,
+   "living": false
+  },
+  {
+   "name": "Walter Peterhans",
+   "wikidata": "Q68409",
+   "birth": 1897,
+   "death": 1960,
+   "living": false
+  },
+  {
+   "name": "Walter Sickert",
+   "wikidata": "Q703369",
+   "birth": 1860,
+   "death": 1942,
+   "living": false
+  },
+  {
+   "name": "Wangechi Mutu",
+   "wikidata": "Q457420",
+   "birth": 1972,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Wendy Red Star",
+   "wikidata": "Q23416926",
+   "birth": 1981,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Wilhelm Koller",
+   "wikidata": "Q19670719",
+   "birth": 1829,
+   "death": 1884,
+   "living": false
+  },
+  {
+   "name": "Wilhelm Lehmbruck",
+   "wikidata": "Q551282",
+   "birth": 1881,
+   "death": 1919,
+   "living": false
+  },
+  {
+   "name": "Wilhelm Trübner",
+   "wikidata": "Q461271",
+   "birth": 1851,
+   "death": 1917,
+   "living": false
+  },
+  {
+   "name": "Willem Roelofs",
+   "wikidata": "Q1372280",
+   "birth": 1822,
+   "death": 1897,
+   "living": false
+  },
+  {
+   "name": "William Crookes",
+   "wikidata": "Q189552",
+   "birth": 1832,
+   "death": 1919,
+   "living": false
+  },
+  {
+   "name": "William H. Mumler",
+   "wikidata": "Q8010523",
+   "birth": 1832,
+   "death": 1884,
+   "living": false
+  },
+  {
+   "name": "William Harry Warren Bicknell",
+   "wikidata": "Q22002308",
+   "birth": 1860,
+   "death": 1947,
+   "living": false
+  },
+  {
+   "name": "William Henry Hunt",
+   "wikidata": "Q1354660",
+   "birth": 1790,
+   "death": 1864,
+   "living": false
+  },
+  {
+   "name": "William James Linton",
+   "wikidata": "Q2066530",
+   "birth": 1812,
+   "death": 1897,
+   "living": false
+  },
+  {
+   "name": "William Louis Sonntag",
+   "wikidata": "Q8014712",
+   "birth": 1822,
+   "death": 1900,
+   "living": false
+  },
+  {
+   "name": "William Morris Hunt",
+   "wikidata": "Q527599",
+   "birth": 1824,
+   "death": 1879,
+   "living": false
+  },
+  {
+   "name": "William Sidney Mount",
+   "wikidata": "Q45431",
+   "birth": 1807,
+   "death": 1868,
+   "living": false
+  },
+  {
+   "name": "William Tolman Carlton",
+   "wikidata": "Q22087594",
+   "birth": 1816,
+   "death": 1888,
+   "living": false
+  },
+  {
+   "name": "William Wetmore Story",
+   "wikidata": "Q1335728",
+   "birth": 1819,
+   "death": 1895,
+   "living": false
+  },
+  {
+   "name": "William-Adolphe Bouguereau",
+   "wikidata": "Q483992",
+   "birth": 1825,
+   "death": 1905,
+   "living": false
+  },
+  {
+   "name": "Willie Doherty",
+   "wikidata": "Q1542644",
+   "birth": 1959,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Winifred Rieber",
+   "wikidata": "Q21466910",
+   "birth": 1872,
+   "death": 1963,
+   "living": false
+  },
+  {
+   "name": "Wolfgang Paalen",
+   "wikidata": "Q669728",
+   "birth": 1905,
+   "death": 1959,
+   "living": false
+  },
+  {
+   "name": "Xul Solar",
+   "wikidata": "Q1435414",
+   "birth": 1887,
+   "death": 1963,
+   "living": false
+  },
+  {
+   "name": "Yamada Kunijirō",
+   "wikidata": "Q11545145",
+   "birth": 1830,
+   "death": 1874,
+   "living": false
+  },
+  {
+   "name": "Yayoi Kusama",
+   "wikidata": "Q231121",
+   "birth": 1929,
+   "death": 2026,
+   "living": false
+  },
+  {
+   "name": "Yoko Ono",
+   "wikidata": "Q117012",
+   "birth": 1933,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Yoshida Hiroshi",
+   "wikidata": "Q2916723",
+   "birth": 1876,
+   "death": 1950,
+   "living": false
+  },
+  {
+   "name": "Yōshū Chikanobu",
+   "wikidata": "Q3087294",
+   "birth": 1838,
+   "death": 1912,
+   "living": false
+  },
+  {
+   "name": "Zhan Wang",
+   "wikidata": "Q8070124",
+   "birth": 1962,
+   "death": null,
+   "living": true
+  },
+  {
+   "name": "Zhang Xiong",
+   "wikidata": "Q18511634",
+   "birth": 1803,
+   "death": 1886,
+   "living": false
+  },
+  {
+   "name": "Zilia Sánchez",
+   "wikidata": "Q8071885",
+   "birth": 1928,
+   "death": 2024,
+   "living": false
+  },
+  {
+   "name": "Zinaida Serebriakova",
+   "wikidata": "Q161858",
+   "birth": 1884,
+   "death": 1967,
+   "living": false
+  },
+  {
+   "name": "Émilie Charmy",
+   "wikidata": "Q3588843",
+   "birth": 1878,
+   "death": 1974,
+   "living": false
+  }
+ ]
+}

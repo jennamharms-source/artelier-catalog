@@ -35,6 +35,9 @@ where it came from, and under what rights.
   only photos Commons itself licenses as PD or CC0 are used.
 - Copyright terms differ by country. `rights/copyright_rules.json` records the term for each
   country. Artelier uses it to hide an image wherever the work may still be protected.
+- `rights/artist_dates.json` lists birth and death years (from Wikidata) for artists whose dates the
+  app didn't have, so it can apply those country rules. Artists marked `living` are treated as
+  protected everywhere.
 - This is a good-faith research compilation, not legal advice.
 
 **Sensitive content**
