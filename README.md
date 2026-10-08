@@ -10,8 +10,9 @@ where it came from, and under what rights.
 ## Disclosures
 
 **What's included**
-- Museum open-access records (Art Institute of Chicago, National Gallery of Art, The Met), limited
-  to works the museum itself marks as public domain / CC0.
+- Museum open-access records (Art Institute of Chicago, National Gallery of Art, The Met, Cleveland
+  Museum of Art, SMK – National Gallery of Denmark, Rijksmuseum), limited to works the museum
+  itself marks as public domain / CC0.
 - Wikimedia Commons files that Commons licenses as **Public domain** or **CC0**, matched to the
   artwork through Wikidata.
 - Images are not copied into this repo. Each record links to the image on Wikimedia Commons or on
@@ -53,8 +54,10 @@ where it came from, and under what rights.
 | Art Institute of Chicago | CC0 / public domain works (`is_public_domain`) | 38,227 | active: monthly (`catalog/aic-*.json`) |
 | National Gallery of Art | CC0 / open-access images only | 53,138 | active: monthly (`catalog/nga-*.json`) |
 | The Met | CC0; public-domain works per the official Met dataset, restricted images excluded | 82,954 | active: monthly (`catalog/met-*.json`) |
-| Wikidata + Wikimedia Commons | Public domain / CC0 files only (CC BY and BY-SA skipped); 1930 cutoff for artists who died after 1930 | 12,221 works by 28 artists (see `catalog/commons/index.json`) | active: monthly (`catalog/commons/*.json`) |
-| Cleveland Museum of Art | CC0 | — | planned (some CMA images already arrive through Commons) |
+| Wikidata + Wikimedia Commons | Public domain / CC0 files only (CC BY and BY-SA skipped); 1930 cutoff for artists who died after 1930 | 15,407 works by 32 artists (see `catalog/commons/index.json`) | active: monthly (`catalog/commons/*.json`) |
+| Cleveland Museum of Art | CC0 works with images (`share_license_status`) | see `catalog/index-cma.json` | active: monthly (`catalog/cma-*.json`) |
+| SMK – National Gallery of Denmark | Public Domain Mark / CC0 (`public_domain=true`) | see `catalog/index-smk.json` | active: monthly (`catalog/smk-*.json`) |
+| Rijksmuseum | CC0 / Public Domain Mark; paintings for now | see `catalog/index-rijks.json` | active: monthly (`catalog/rijks-*.json`) |
 | Europeana | Public domain / CC0 only | — | planned (API key pending) |
 | Harvard Art Museums | API terms: non-commercial use only | — | **not used** |
 | WikiArt | no license granted to third parties | — | **not used** |
@@ -68,7 +71,7 @@ The repo is public, so every file can be fetched directly as JSON, from GitHub P
 | Commons catalog index | `https://jennamharms-source.github.io/artelier-catalog/catalog/commons/index.json` |
 | One artist | `https://jennamharms-source.github.io/artelier-catalog/catalog/commons/renoir.json` |
 | Rights rules | `https://jennamharms-source.github.io/artelier-catalog/rights/copyright_rules.json` |
-| Museum shards | `https://jennamharms-source.github.io/artelier-catalog/catalog/index.json` |
+| Museum shards | `https://jennamharms-source.github.io/artelier-catalog/catalog/index.json` (AIC), `index-nga.json`, `index-met.json`, `index-cma.json`, `index-smk.json`, `index-rijks.json` |
 
 The same paths also work under `https://raw.githubusercontent.com/jennamharms-source/artelier-catalog/main/…`.
 
@@ -83,6 +86,12 @@ The same paths also work under `https://raw.githubusercontent.com/jennamharms-so
   same schema.
 - `.github/workflows/build-catalog.yml` rebuilds the shards monthly on GitHub's servers and commits the
   result.
+- `scripts/transform_cma.py`, `transform_smk.py` and `transform_rijks.py` read the Cleveland, SMK and
+  Rijksmuseum open-access APIs (no keys needed) into `cma-*`, `smk-*` and `rijks-*` shards, run monthly
+  by `.github/workflows/build-museums.yml`. Their records add three optional fields: `same_as`
+  (e.g. `wikidata:Q…`, matched through the museum's inventory number, so an import can skip a work
+  already held from Wikimedia Commons), `artist_death_year` (from the museum's own artist record),
+  and `is_age_restricted` (title names nudity). Works with no named maker are left out for now.
 - `catalog/index.json` lists record counts, artist counts, and shards.
 
 The app imports shards through its `importFromCatalog` admin function. It matches on each record's
@@ -113,6 +122,6 @@ Y − 95 is public domain.
 
 ## Maintenance
 
-Both workflows run on their own schedule. To refresh early, open the **Actions** tab, pick
-"Build Artelier catalog from AIC open data" or "Build Commons artist catalog", and click
+All three workflows run on their own schedule (AIC/NGA/Met on the 3rd, Cleveland/SMK/Rijksmuseum on
+the 4th, Commons on the 5th). To refresh early, open the **Actions** tab, pick the workflow, and click
 **Run workflow**.

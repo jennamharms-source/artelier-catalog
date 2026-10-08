@@ -1,0 +1,13 @@
+{
+  "source": "Rijksmuseum data services (Linked Art)",
+  "source_api": "https://data.rijksmuseum.nl/search/collection?type=painting&imageAvailable=true",
+  "license": "CC0 / Public Domain Mark; paintings only for now",
+  "records": 4205,
+  "artists": 1786,
+  "sensitive": 21,
+  "with_wikidata_match": 4161,
+  "shards": 1,
+  "shard_files": [
+    "rijks-0000.json"
+  ]
+}

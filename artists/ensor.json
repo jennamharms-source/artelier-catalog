@@ -1,0 +1,26 @@
+{
+ "v2": true,
+ "quality": true,
+ "fuzzy": true,
+ "copy_title": true,
+ "ytol": 1,
+ "stol": 2,
+ "skip_media": [
+  "Etching",
+  "Print",
+  "Engraving",
+  "Lithograph",
+  "Drawing",
+  "Sculpture"
+ ],
+ "qid": "Q158840",
+ "gallery": "Category:Paintings by James Ensor",
+ "artist": "James Ensor",
+ "artist_re": "ensor",
+ "country": "Belgium",
+ "years": [
+  1875,
+  1930
+ ],
+ "slug": "ensor"
+}

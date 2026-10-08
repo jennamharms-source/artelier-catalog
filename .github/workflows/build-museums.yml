@@ -1,0 +1,35 @@
+name: Build museum open-access shards (Cleveland, SMK, Rijksmuseum)
+
+on:
+  workflow_dispatch: {}        # run manually from the Actions tab
+  schedule:
+    - cron: "0 6 4 * *"        # monthly: 4th of each month, 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cleveland Museum of Art (CC0 works with images)
+        run: python3 scripts/transform_cma.py catalog
+
+      - name: SMK – National Gallery of Denmark (public domain works with images)
+        run: python3 scripts/transform_smk.py catalog
+
+      - name: Rijksmuseum (CC0 paintings)
+        run: python3 scripts/transform_rijks.py catalog
+
+      - name: Commit dataset
+        run: |
+          git config user.name "artelier-catalog-bot"
+          git config user.email "actions@github.com"
+          git add catalog/cma-*.json catalog/smk-*.json catalog/rijks-*.json catalog/index-cma.json catalog/index-smk.json catalog/index-rijks.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Rebuild Cleveland, SMK and Rijksmuseum shards ($(date -u +%Y-%m-%d))"
+          git pull --rebase
+          git push

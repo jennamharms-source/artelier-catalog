@@ -1,0 +1,19 @@
+{
+  "source": "SMK – National Gallery of Denmark (SMK Open)",
+  "source_api": "https://api.smk.dk/api/v1/art/search/",
+  "license": "Public Domain Mark / CC0; only works SMK marks public_domain=true with an image",
+  "records": 30264,
+  "artists": 3179,
+  "sensitive": 483,
+  "with_wikidata_match": 4567,
+  "shards": 7,
+  "shard_files": [
+    "smk-0000.json",
+    "smk-0001.json",
+    "smk-0002.json",
+    "smk-0003.json",
+    "smk-0004.json",
+    "smk-0005.json",
+    "smk-0006.json"
+  ]
+}

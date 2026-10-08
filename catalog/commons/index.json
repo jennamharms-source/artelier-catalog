@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T18:55Z",
+ "generated": "2026-10-08T20:10Z",
  "artists": [
   {
    "file": "blanchard.json",
@@ -63,6 +63,13 @@
    "works": 488,
    "sensitive": 3,
    "with_genre": 476
+  },
+  {
+   "file": "ensor.json",
+   "artist": "James Ensor",
+   "works": 1690,
+   "sensitive": 6,
+   "with_genre": 119
   },
   {
    "file": "gauguin.json",
@@ -233,5 +240,5 @@
    "with_genre": 632
   }
  ],
- "total": 13717
+ "total": 15407
 }

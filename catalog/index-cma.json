@@ -1,0 +1,16 @@
+{
+  "source": "Cleveland Museum of Art open access",
+  "source_api": "https://openaccess-api.clevelandart.org/api/artworks/",
+  "license": "CC0; only works marked share_license_status=CC0 with an image",
+  "records": 15906,
+  "artists": 3701,
+  "sensitive": 238,
+  "with_wikidata_match": 15733,
+  "shards": 4,
+  "shard_files": [
+    "cma-0000.json",
+    "cma-0001.json",
+    "cma-0002.json",
+    "cma-0003.json"
+  ]
+}
