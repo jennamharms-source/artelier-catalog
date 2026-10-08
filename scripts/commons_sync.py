@@ -16,7 +16,7 @@ def nice(t):
     return t[:1]+t[1:].lower() if t.upper()==t and any(ch.isalpha() for ch in t) else t
 mode=sys.argv[1]; cfg=json.load(open(sys.argv[2]))
 Q0='?item wdt:P170 wd:%s ; wdt:P18 ?image . MINUS { ?item wdt:P31 wd:Q15727816 }' % cfg['qid']
-def sq(sel,body): return get('https://query.wikidata.org/sparql?format=json&query='+urllib.parse.quote('SELECT %s WHERE { %s %s SERVICE wikibase:label { bd:serviceParam wikibase:language "en,fr,it,de,nl". } }'%(sel,Q0,body)))['results']['bindings']
+def sq(sel,body): return get('https://query.wikidata.org/sparql?format=json&query='+urllib.parse.quote('SELECT %s WHERE { %s %s SERVICE wikibase:label { bd:serviceParam wikibase:language "en,fr,de,it,es,nl,pt,sv,da,nb,pl,ru,ca,cs,fi,ja". } }'%(sel,Q0,body)))['results']['bindings']
 items={}
 for x in sq('?item ?itemLabel ?image ?inception ?typeLabel ?collLabel','OPTIONAL { ?item wdt:P571 ?inception } OPTIONAL { ?item wdt:P31 ?type } OPTIONAL { ?item wdt:P195 ?coll }'):
     qid=x['item']['value'].rsplit('/',1)[1]
@@ -98,7 +98,12 @@ for it in sorted(items,key=lambda i:('painting' not in i['types'],i['qid'])):
     if f in used: continue
     if cfg.get('pd_cutoff') and (not it['inception'] or max((int(x[:4]) for x in it['inception'] if x[:4].isdigit()),default=9999)>cfg['pd_cutoff']): continue
     used.add(f); y=yrs(' '.join(it['inception'])); g=(it['colls'] or [''])[0]
-    if re.fullmatch(r'Q\d+|\s*\d{4}\s*|untitled|sans titre',it['label'].strip().lower()) or it['qid'] in cfg.get('exclude',[]): continue
+    if re.fullmatch(r'Q\d+',it['label'].strip(),re.I):
+        # No label in any requested language: fall back to the Commons file name.
+        fl=re.sub(r'\.[a-z0-9]+$','',f,flags=re.I); fl=re.sub(re.escape(cfg['artist'].split()[-1])+r'\s*[-–,]?\s*','',fl,flags=re.I)
+        fl=re.sub(r'\b(1[0-9]\d\d)\b.*$','',fl).strip(' -–,_')
+        it['label']=fl or it['label']
+    if re.fullmatch(r'Q\d+|\s*\d{4}\s*|untitled|sans titre',it['label'].strip(),re.I) or it['qid'] in cfg.get('exclude',[]): continue
     cands.append(dict(qid=it['qid'],title=it['label'],yr=y,year=ystr(y),file=f,license=OK[meta[f]['lic']],medium=medium(it['types']),
         gallery='' if g.startswith('http') else g,nude=isnude(it['label'],meta[f]['cats'],it['gd']),page=meta[f]['page'],genre=genre_of(it['gl']),lb=license_basis(meta[f]['cats'],meta[f]['lic'])))
 wd_files={f for it in items for f in it['images']}
