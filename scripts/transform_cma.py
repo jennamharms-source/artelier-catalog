@@ -70,6 +70,8 @@ def main():
                 rec["same_as"] = [f"wikidata:{wd[acc]}"]
             if death:
                 rec["artist_death_year"] = death
+            if w.get("is_highlight"):
+                rec["is_highlight"] = True
             if is_nude(title):
                 rec["is_age_restricted"] = True
             records.append(rec)

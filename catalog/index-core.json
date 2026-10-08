@@ -1,0 +1,15 @@
+{
+  "source": "Core selection from Cleveland Museum of Art, SMK and Rijksmuseum shards",
+  "license": "same as each record (CC0 / Public Domain Mark)",
+  "selection": "paintings, sculpture and Cleveland highlights; no prints, drawings or works on paper",
+  "records": 12140,
+  "artists": 4271,
+  "sensitive": 209,
+  "with_wikidata_match": 10802,
+  "shards": 3,
+  "shard_files": [
+    "core-0000.json",
+    "core-0001.json",
+    "core-0002.json"
+  ]
+}

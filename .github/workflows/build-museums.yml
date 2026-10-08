@@ -24,11 +24,14 @@ jobs:
       - name: Rijksmuseum (CC0 paintings)
         run: python3 scripts/transform_rijks.py catalog
 
+      - name: Core selection (paintings, sculpture, highlights)
+        run: python3 scripts/select_core.py catalog
+
       - name: Commit dataset
         run: |
           git config user.name "artelier-catalog-bot"
           git config user.email "actions@github.com"
-          git add catalog/cma-*.json catalog/smk-*.json catalog/rijks-*.json catalog/index-cma.json catalog/index-smk.json catalog/index-rijks.json
+          git add catalog/cma-*.json catalog/smk-*.json catalog/rijks-*.json catalog/index-cma.json catalog/index-smk.json catalog/index-rijks.json catalog/core-*.json catalog/index-core.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Rebuild Cleveland, SMK and Rijksmuseum shards ($(date -u +%Y-%m-%d))"
           git pull --rebase

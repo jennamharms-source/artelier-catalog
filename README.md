@@ -94,7 +94,10 @@ The same paths also work under `https://raw.githubusercontent.com/jennamharms-so
   by `.github/workflows/build-museums.yml`. Their records add three optional fields: `same_as`
   (e.g. `wikidata:Q…`, matched through the museum's inventory number, so an import can skip a work
   already held from Wikimedia Commons), `artist_death_year` (from the museum's own artist record),
-  and `is_age_restricted` (title names nudity). SMK records also carry `title_language`, and when their
+  and `is_age_restricted` (title names nudity). Cleveland records also carry `is_highlight`.
+- `scripts/select_core.py` writes the **core selection** (`core-*` shards, `index-core.json`): paintings,
+  sculpture and Cleveland highlights from those three museums, with no prints, drawings or other works
+  on paper. Artelier imports this selection; the full shards stay available. SMK records also carry `title_language`, and when their
   title is Danish, `title_original` (Wikidata's English title is used where one exists). Works with no
   named maker are left out for now.
 - `catalog/index.json` lists record counts, artist counts, and shards.
