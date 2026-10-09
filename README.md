@@ -118,6 +118,10 @@ stable `source_key`, so re-imports never create duplicates.
 - `catalog/venetsianov-0000.json`: 81 Alexey Venetsianov paintings from Wikimedia Commons (genre, women, portraits, *In the Ploughed Field: Spring*; public domain only). Russian titles translated to English; details and repeat photos skipped.
 - `catalog/gericault-0000.json`: 150 Théodore Géricault paintings, oil sketches and studies from Wikimedia Commons (public domain / CC0 only). Hand-checked: copies by other artists, "after/attributed to/workshop" works, stamps, book pages and repeat photos of the same painting were left out; Géricault's own copies after other masters are kept and labelled.
 - `catalog/hugo-0000.json`: 97 Victor Hugo drawings from Wikimedia Commons (public domain / CC0 only). Book pages, engravings made after his drawings and repeat photos were left out; Swedish and French titles translated.
+- `catalog/seurat-0000.json`: 135 Georges Seurat paintings and studies from Wikimedia Commons (public domain / CC0 only), with medium, size and museum where known.
+- `catalog/bosch-0000.json`: 36 Hieronymus Bosch paintings from Wikimedia Commons (public domain only). Copies, "manner of"/follower works, details and a later H. Bosch were left out.
+- `catalog/carr-0000.json`: 16 Emily Carr paintings from Wikimedia Commons. Works dated 1931 or later (and undated) are hidden in the US in the app (owner rule; Carr died 1945).
+- `catalog/sheeler-0000.json`: 20 Charles Sheeler paintings from Wikimedia Commons. Works dated 1931 or later (and undated) are hidden in the US in the app (owner rule; Sheeler died 1965).
 
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
