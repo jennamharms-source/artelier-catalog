@@ -110,6 +110,8 @@ stable `source_key`, so re-imports never create duplicates.
 - `catalog/kuniyoshi-0000.json`: 282 Utagawa Kuniyoshi woodblock prints and paintings from Wikimedia Commons (Google Art Project, Cats, Children, Chūshingura and Tokyo National Museum categories; public domain / CC0 only; shunga held back). Already-present works were matched by image and title and left out. Imported with the app's `importFromCatalog` (shard `kuniyoshi-0000`).
 - `catalog/delaunay-0000.json`: 155 Robert Delaunay works from Wikimedia Commons (public domain / CC0). Works dated 1931 or later are hidden in the US in the app (owner rule; Delaunay died 1941).
 - `catalog/grigoriev-0000.json`: 136 Boris Grigoriev paintings and drawings from Wikimedia Commons (portraits, women, Brittany, circus, landscapes, still lifes, Raseya, Paris categories; public domain / CC0 only). Works already in the app were matched by image and left out; details, framed duplicates and stamps skipped.
+- `catalog/hartley-0000.json`: 60 Marsden Hartley paintings from Wikimedia Commons (Paintings and Still-life categories; public domain / CC0 only). Works already in the app were matched by image and left out. Works dated 1931 or later are hidden in the US in the app (owner rule; Hartley died 1943).
+- `catalog/tessai-0000.json`: 32 Tomioka Tessai paintings from Wikimedia Commons (Paintings and Pure Views categories; public domain / CC0 only). Works already in the app were matched by image and left out.
 
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
