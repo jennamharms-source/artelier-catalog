@@ -9,7 +9,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on wood",
+  "dimensions": "30 × 23.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Fortune-Telling",
@@ -21,7 +24,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1842"
+  "year": "1842",
+  "medium": "Oil on canvas",
+  "dimensions": "75.5 × 62 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Nikolay Karamzin",
@@ -33,7 +39,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1828"
+  "year": "1828",
+  "medium": "Oil on canvas",
+  "dimensions": "78 × 65.5 cm",
+  "gallery": "National Pushkin Museum"
  },
  {
   "title": "Girl with a Calf",
@@ -45,7 +54,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1829"
+  "year": "1829",
+  "medium": "Oil on canvas",
+  "dimensions": "37 × 31 cm",
+  "gallery": "Pushkin Museum"
  },
  {
   "title": "First Steps (Peasant Woman with a Child)",
@@ -57,7 +69,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830",
+  "medium": "Oil on canvas",
+  "dimensions": "51.5 × 60 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of L. A. Stromilova (Russian Museum)",
@@ -69,7 +84,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810",
+  "medium": "Pastel on parchment",
+  "dimensions": "28.3 × 23.2 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Landscape with a Russian Troika",
@@ -81,7 +99,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1801"
+  "year": "1801",
+  "medium": "Oil on cardboard",
+  "dimensions": "23.5 × 20.5 cm",
+  "gallery": "Slovak National Gallery, Bratislava"
  },
  {
   "title": "Girl in a Shawl",
@@ -93,7 +114,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Reapers",
@@ -105,7 +127,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on canvas",
+  "dimensions": "667 × 520 mm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "The Spinner",
@@ -117,7 +142,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830s",
+  "medium": "Oil on cardboard",
+  "dimensions": "23.3 × 18.9 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Peasant Girl from Tver Province",
@@ -129,7 +157,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1840s"
+  "year": "1840s",
+  "medium": "Oil on canvas",
+  "dimensions": "67 × 50.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Peasant Woman with Butterflies",
@@ -141,7 +172,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on canvas",
+  "dimensions": "38.8 × 31.8 cm",
+  "gallery": "Ryazan Regional Art Museum"
  },
  {
   "title": "Self-Portrait",
@@ -153,7 +187,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1811"
+  "year": "1811",
+  "dimensions": "32.9 × 26.5 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Haymaking",
@@ -165,7 +201,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820",
+  "medium": "Oil on canvas",
+  "dimensions": "66 × 54 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Portrait of the Panaev Children with Their Nanny",
@@ -177,7 +216,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1841"
+  "year": "1841",
+  "medium": "Oil on canvas",
+  "dimensions": "80.5 × 66.7 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Peasant Girl Embroidering",
@@ -189,7 +231,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1843"
+  "year": "1843",
+  "medium": "Oil on cardboard",
+  "dimensions": "27 × 21.4 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Portrait of M. A. Venetsianova in Russian Dress",
@@ -201,7 +246,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820",
+  "medium": "Oil on cardboard",
+  "dimensions": "91.9 × 71.8 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "In the Harvest Field. Summer",
@@ -213,7 +261,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on canvas",
+  "dimensions": "60.6 × 49 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "A Wet Nurse and a Baby",
@@ -225,7 +276,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830",
+  "medium": "Oil on canvas",
+  "dimensions": "66.7 × 53 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "In the Bathhouse (Sketch)",
@@ -238,7 +292,10 @@
   "country": "Russia",
   "artist_death_year": 1847,
   "year": "1820s",
-  "is_age_restricted": true
+  "is_age_restricted": true,
+  "medium": "Oil on cardboard",
+  "dimensions": "24.7 × 18.8 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Peasant Girl with Cornflowers",
@@ -250,7 +307,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "dimensions": "49 × 37.1 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Bacchante",
@@ -262,8 +321,11 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1832",
-  "is_age_restricted": true
+  "year": "c. 1832",
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "53.5 × 36.2 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Portrait of M. A. Venetsianova",
@@ -275,7 +337,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810",
+  "medium": "Oil on canvas",
+  "dimensions": "67.5 × 52 cm",
+  "gallery": "Fine Arts Museum, Kharkiv"
  },
  {
   "title": "Peasant Girl with a Sickle in the Rye",
@@ -287,7 +352,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Pastel on paper",
+  "dimensions": "36.2 × 27.8 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Diana's Toilet",
@@ -300,7 +368,10 @@
   "country": "Russia",
   "artist_death_year": 1847,
   "year": "1847",
-  "is_age_restricted": true
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "162.5 × 97.3 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Portrait of M. A. Fonvizin",
@@ -312,7 +383,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1812"
+  "year": "1812",
+  "medium": "Pastel on parchment",
+  "dimensions": "51.5 × 41.3 cm",
+  "gallery": "Hermitage Museum"
  },
  {
   "title": "Portrait of an Unknown Woman",
@@ -324,7 +398,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1818"
+  "year": "1818",
+  "medium": "Pastel on paper",
+  "dimensions": "27 × 21.9 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Portrait of A. S. Bibikova",
@@ -336,7 +413,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1807"
+  "year": "1807–1809",
+  "medium": "Pastel on paper",
+  "dimensions": "42 × 34.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of the Putyatin Children",
@@ -348,7 +428,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1831"
+  "year": "1831–1833",
+  "medium": "Oil on cardboard",
+  "dimensions": "34.5 × 27.8 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Girl in a Hayloft",
@@ -360,7 +443,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830s",
+  "medium": "Oil on canvas",
+  "dimensions": "83.5 × 102 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Peasant Girl with a Calf",
@@ -372,7 +458,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820",
+  "medium": "Oil on canvas",
+  "dimensions": "65.5 × 53 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "The Milkmaid (Peasant Woman with a Milk Pail)",
@@ -384,7 +473,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1826"
+  "year": "before 1826",
+  "medium": "Oil on canvas",
+  "dimensions": "31.5 × 24.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Alexander Bibikov",
@@ -396,7 +488,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1807"
+  "year": "1807–1809",
+  "medium": "Pastel on paper",
+  "dimensions": "54 × 42.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Countess N. P. Stroganova",
@@ -408,7 +503,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810s",
+  "medium": "Pastel on paper",
+  "dimensions": "54 × 43.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of the Artist's Daughters Alexandra and Felisata",
@@ -420,7 +518,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830",
+  "medium": "Oil on canvas",
+  "dimensions": "64 × 50 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Maria Nikiforovna Stromilova",
@@ -432,7 +533,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820"
+  "year": "c. 1820",
+  "medium": "Pastel on paper",
+  "dimensions": "29.5 × 24 cm",
+  "gallery": "Art Gallery of Tver"
  },
  {
   "title": "Portrait of E. A. Balkashina",
@@ -444,7 +548,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820"
+  "year": "1820",
+  "medium": "Pastel on parchment",
+  "dimensions": "28.5 × 21.7 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Portrait of Veselkova",
@@ -456,7 +563,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810",
+  "medium": "Pastel on parchment",
+  "dimensions": "42.5 × 34.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of K. I. Golovachevsky with Three Pupils",
@@ -468,7 +578,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1811"
+  "year": "1811",
+  "medium": "Oil on canvas",
+  "dimensions": "143.5 × 111 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Prince V. P. Kochubey in His Study",
@@ -480,7 +593,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1831"
+  "year": "1831–1834",
+  "medium": "Oil on canvas",
+  "dimensions": "144 × 106 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Princess Vera Stepanovna Putyatina",
@@ -492,7 +608,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810",
+  "dimensions": "30 × 23.5 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Peasant with Folded Arms",
@@ -504,7 +622,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810s",
+  "medium": "Oil on wood",
+  "dimensions": "29.5 × 24 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Old Nurse in a Shlyk",
@@ -516,7 +637,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1829"
+  "year": "c. 1829",
+  "medium": "Oil on canvas",
+  "dimensions": "67 × 52 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Communion of a Dying Woman",
@@ -528,7 +652,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1839"
+  "year": "1839",
+  "medium": "Oil on canvas",
+  "dimensions": "76 × 94 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Harvest Woman",
@@ -540,7 +667,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1826"
+  "year": "before 1826",
+  "medium": "Oil on canvas",
+  "dimensions": "30 × 24 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Girl in a Headscarf",
@@ -552,7 +682,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820",
+  "medium": "Oil on canvas",
+  "dimensions": "40.4 × 31.1 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Bathers",
@@ -565,7 +698,10 @@
   "country": "Russia",
   "artist_death_year": 1847,
   "year": "1829",
-  "is_age_restricted": true
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "52.5 × 36.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Boy with a Switch",
@@ -577,7 +713,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830s",
+  "medium": "Oil on canvas",
+  "dimensions": "49 × 37.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Peasant Girl Holding Shoes",
@@ -589,7 +728,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1844"
+  "year": "1844",
+  "medium": "Oil on canvas",
+  "dimensions": "33 × 33 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Nikolai Gorbunov",
@@ -601,7 +743,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1812"
+  "year": "1812",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of an Unknown Woman in a White Dress",
@@ -613,7 +756,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810s",
+  "medium": "Pastel on parchment",
+  "dimensions": "53 × 44.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of A. I. Bibikov",
@@ -625,7 +771,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1803"
+  "year": "1803–1806",
+  "medium": "Oil on canvas",
+  "dimensions": "71 × 62 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Cupid on a Branch",
@@ -637,7 +786,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1840s"
+  "year": "1840s",
+  "medium": "Oil on paper",
+  "dimensions": "25 × 35 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Heads of Peasants",
@@ -648,7 +800,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "Russia",
-  "artist_death_year": 1847
+  "artist_death_year": 1847,
+  "medium": "Oil on canvas",
+  "dimensions": "42 × 37.5 cm",
+  "gallery": "Radishchev Art Museum"
  },
  {
   "title": "Seeing Off a Recruit",
@@ -660,7 +815,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830",
+  "medium": "Oil on canvas",
+  "dimensions": "76 × 92 cm",
+  "gallery": "Павловск (музей-заповедник)"
  },
  {
   "title": "Girl in a Blue Sarafan",
@@ -672,7 +830,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830s",
+  "medium": "Oil on canvas",
+  "dimensions": "49 × 37 cm",
+  "gallery": "Vyatskiy Art Museum"
  },
  {
   "title": "Portrait of P. V. Khavsky",
@@ -684,7 +845,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1827"
+  "year": "before 1827",
+  "medium": "Oil on canvas",
+  "dimensions": "54.4 × 43.5 cm",
+  "gallery": "Новгородский музей-заповедник"
  },
  {
   "title": "Peasant Woman in a Blue Sarafan",
@@ -696,7 +860,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820",
+  "medium": "Oil on canvas",
+  "dimensions": "42.6 × 32 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Head of an Old Man",
@@ -708,7 +875,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1827"
+  "year": "before 1827",
+  "medium": "Oil on canvas",
+  "dimensions": "54.5 × 42.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Two Peasant Boys with a Kite",
@@ -720,7 +890,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on cardboard",
+  "dimensions": "20.5 × 16 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "First Steps (Peasant Woman with a Child), 1839",
@@ -732,7 +905,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1839"
+  "year": "1839",
+  "medium": "Oil on canvas",
+  "dimensions": "52.5 × 36.5 cm",
+  "gallery": "Константиновский дворец (Стрельна)"
  },
  {
   "title": "Portrait of A. S. Stromilov",
@@ -744,7 +920,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810",
+  "medium": "Pastel on parchment",
+  "dimensions": "28.3 × 23.2 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Sleeping Girl (A Girl's Dream)",
@@ -756,7 +935,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1840s"
+  "year": "1840s",
+  "medium": "Oil on canvas",
+  "dimensions": "53.2 × 68 cm",
+  "gallery": "Art Museum of Nizhny Novgorod"
  },
  {
   "title": "Portrait of Nikolai Gogol",
@@ -780,7 +962,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on wood",
+  "dimensions": "32.1 × 27 cm",
+  "gallery": "Art Gallery of Tver"
  },
  {
   "title": "Portrait of V. M. Veselkov",
@@ -792,7 +977,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1810s"
+  "year": "1810",
+  "medium": "Pastel on paper",
+  "dimensions": "41.3 × 39 cm",
+  "gallery": "Pushkin Museum"
  },
  {
   "title": "Portrait of a Young Man in Spanish Dress",
@@ -804,7 +992,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1804"
+  "year": "1804",
+  "medium": "Pastel on paper",
+  "dimensions": "55 × 47 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of I. V. Bugaevsky-Blagodarny",
@@ -816,7 +1007,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1816"
+  "year": "1816",
+  "medium": "Pastel on paper",
+  "dimensions": "25.7 × 22 cm",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Peasant Children in the Field (Boy with Two Girls)",
@@ -828,7 +1022,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on canvas",
+  "dimensions": "38.5 × 30 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of Prince A. S. Putyatin",
@@ -840,7 +1037,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1815"
+  "year": "c. 1815",
+  "medium": "Oil on cardboard",
+  "dimensions": "18.3 × 14.7 cm",
+  "gallery": "Belarusian National Arts Museum"
  },
  {
   "title": "Portrait of A. L. Venetsianova",
@@ -852,7 +1052,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1801"
+  "year": "1801",
+  "medium": "Oil on canvas",
+  "dimensions": "74 × 66 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Peasant Woman Leaning on Her Hand",
@@ -864,7 +1067,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1827"
+  "year": "before 1827",
+  "medium": "Oil on cardboard",
+  "dimensions": "22 × 17.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "The Bather",
@@ -876,8 +1082,11 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s",
-  "is_age_restricted": true
+  "year": "1830",
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "52.5 × 36.5 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of A. A. Voronov",
@@ -889,7 +1098,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1820s"
+  "year": "1820s",
+  "medium": "Oil on canvas",
+  "dimensions": "59.5 × 47.5 cm",
+  "gallery": "National Gallery of Armenia"
  },
  {
   "title": "Girl with an Accordion",
@@ -901,7 +1113,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1840s"
+  "year": "1840s",
+  "medium": "Oil on canvas",
+  "dimensions": "40 × 30 cm",
+  "gallery": "Art Museum of Nizhny Novgorod"
  },
  {
   "title": "Peasant Boy Putting on Bast Shoes",
@@ -913,7 +1128,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1823"
+  "year": "1823–1826",
+  "medium": "Oil on canvas",
+  "dimensions": "37 × 28 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Portrait of a Girl",
@@ -935,7 +1153,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "Russia",
-  "artist_death_year": 1847
+  "artist_death_year": 1847,
+  "medium": "Watercolor on paper",
+  "dimensions": "16.1 × 13.2 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Peasant Girl",
@@ -947,7 +1168,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1830s"
+  "year": "1830s",
+  "medium": "Oil on canvas",
+  "dimensions": "42 × 38 cm",
+  "gallery": "National Gallery of Armenia"
  },
  {
   "title": "Girl on a Swing (Right Panel)",
@@ -959,7 +1183,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1840s"
+  "year": "1840s",
+  "medium": "Oil on canvas",
+  "dimensions": "129 × 49 cm",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Girl on a Swing (Left Panel)",
@@ -971,6 +1198,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1847,
-  "year": "1840s"
+  "year": "1840s",
+  "medium": "Oil on canvas",
+  "dimensions": "129 × 49 cm",
+  "gallery": "Russian Museum"
  }
 ]

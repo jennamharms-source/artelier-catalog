@@ -9,7 +9,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1955,
-  "year": "1934"
+  "year": "1934",
+  "medium": "Oil on canvas",
+  "dimensions": "24 × 18 cm",
+  "gallery": "Moderna Museet"
  },
  {
   "title": "The Long Rain",
@@ -45,7 +48,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1955,
-  "year": "1926"
+  "year": "1926",
+  "medium": "Oil on panel",
+  "dimensions": "6.625 × 39.25 in",
+  "gallery": "The Museum of Modern Art (MoMA)"
  },
  {
   "title": "Untitled (1929)",
@@ -71,7 +77,10 @@
   "artist_death_year": 1955,
   "year": "1936",
   "title_original": "Nid d'amphioxus",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "60 × 80.7 cm",
+  "gallery": "Museum of Grenoble"
  },
  {
   "title": "The Extinction of Species II",
@@ -99,7 +108,10 @@
   "artist_death_year": 1955,
   "year": "1928",
   "title_original": "Le Jardin sombre",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "91.4 × 72 cm",
+  "gallery": "Richard L. Feigen & Co."
  },
  {
   "title": "The Cage of Time",
@@ -197,7 +209,10 @@
   "artist_death_year": 1955,
   "year": "1940",
   "title_original": "La Lumière, la solitude",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "66 × 50.5 cm",
+  "gallery": "Lily Auchincloss Foundation"
  },
  {
   "title": "Dangers of the Currents",
@@ -265,7 +280,10 @@
   "artist_death_year": 1955,
   "year": "1929",
   "title_original": "Les Amoureux",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "100 × 81 cm",
+  "gallery": "Museum Folkwang"
  },
  {
   "title": "With Equal Force",
@@ -355,7 +373,10 @@
   "artist_death_year": 1955,
   "year": "1954",
   "title_original": "Nombres imaginaires",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "99 × 80 cm",
+  "gallery": "Thyssen-Bornemisza Museum"
  },
  {
   "title": "Still and Always",
@@ -369,7 +390,10 @@
   "artist_death_year": 1955,
   "year": "1942",
   "title_original": "Encore et toujours",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "100 × 81 cm",
+  "gallery": "Thyssen-Bornemisza Museum"
  },
  {
   "title": "Title Unknown (Indifferent Walnut)",
@@ -383,7 +407,10 @@
   "artist_death_year": 1955,
   "year": "1929",
   "title_original": "Titre inconnu (Noyer indifférent)",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "92 × 73 cm",
+  "gallery": "Hilti Art Foundation"
  },
  {
   "title": "Fraud in the Garden",
@@ -411,7 +438,9 @@
   "artist_death_year": 1955,
   "year": "1931",
   "title_original": "Palais promontoire",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "gallery": "Solomon R. Guggenheim Museum"
  },
  {
   "title": "There, Motion Has Not Yet Ceased",
@@ -425,7 +454,8 @@
   "artist_death_year": 1955,
   "year": "1945",
   "title_original": "Là ne finit pas encore le mouvement",
-  "title_language": "fr"
+  "title_language": "fr",
+  "gallery": "Solomon R. Guggenheim Museum"
  },
  {
   "title": "The Sun in Its Jewel Case",
@@ -439,7 +469,8 @@
   "artist_death_year": 1955,
   "year": "1937",
   "title_original": "Le Soleil dans son écrin",
-  "title_language": "fr"
+  "title_language": "fr",
+  "gallery": "Solomon R. Guggenheim Museum"
  },
  {
   "title": "Do You Hear?",
@@ -479,7 +510,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1955,
-  "year": "1925"
+  "year": "1925",
+  "medium": "Oil on board",
+  "dimensions": "50 × 150 cm"
  },
  {
   "title": "At Four O'Clock in Summer, Hope",
@@ -493,7 +526,10 @@
   "artist_death_year": 1955,
   "year": "1929",
   "title_original": "À quatre heures d'été, l'espoir",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "129.5 × 97 cm",
+  "gallery": "Musée National d'Art Moderne (Centre Pompidou)"
  },
  {
   "title": "Rue de la Santé",

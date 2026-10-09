@@ -31,7 +31,7 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1916"
+  "year": "c. 1916"
  },
  {
   "title": "Self-Portrait (Mead Art Museum)",
@@ -43,7 +43,7 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1907"
+  "year": "c. 1907"
  },
  {
   "title": "Set Design for the Ballet \"Liturgy\"",
@@ -55,7 +55,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1915"
+  "year": "1915",
+  "dimensions": "55.2 × 74.6 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Mystical Images of War, Plate 1",
@@ -283,7 +285,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1911"
+  "year": "1911",
+  "medium": "Oil on canvas",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Angels Throwing Stones",
@@ -358,7 +362,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1908"
+  "year": "1908–1909",
+  "medium": "Oil on canvas",
+  "gallery": "Russian Museum"
  },
  {
   "title": "Costume Design for \"Liturgy\" (No. 5)",
@@ -394,7 +400,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1912"
+  "year": "1912",
+  "gallery": "Tretyakov Gallery"
  },
  {
   "title": "Reapers",
@@ -406,7 +413,10 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1911"
+  "year": "1911",
+  "medium": "Oil on canvas",
+  "dimensions": "106 × 103.5 cm",
+  "gallery": "Yekaterinburg Museum of Fine Arts"
  },
  {
   "title": "Woodcutter",
@@ -418,7 +428,9 @@
   "attribution": "Wikimedia Commons",
   "country": "Russia",
   "artist_death_year": 1962,
-  "year": "1910"
+  "year": "1910",
+  "medium": "Oil on canvas",
+  "gallery": "Kovalenko Krasnodar Regional Art Museum"
  },
  {
   "title": "Boys on Horseback",

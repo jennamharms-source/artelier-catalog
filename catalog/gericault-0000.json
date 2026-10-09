@@ -23,7 +23,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "is_age_restricted": true
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "78.5 × 64.5 cm",
+  "gallery": "National Museum in Warsaw"
  },
  {
   "title": "Evening: Landscape with an Aqueduct",
@@ -35,7 +38,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1818"
+  "year": "1818",
+  "medium": "Oil on canvas",
+  "dimensions": "250.2 × 219.7 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Alfred Dedreux as a Child",
@@ -47,7 +53,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1819"
+  "year": "c. 1819",
+  "medium": "Oil on canvas",
+  "dimensions": "45.7 × 38.1 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Horsewoman",
@@ -59,7 +68,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1820"
+  "year": "1820–1824",
+  "medium": "Oil on canvas",
+  "dimensions": "44.5 × 34.9 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Brown Horse",
@@ -70,7 +82,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "25 × 33 cm",
+  "gallery": "Museum of Fine Arts Ghent (MSK)"
  },
  {
   "title": "Study of a Dead Horse (Nationalmuseum)",
@@ -81,7 +96,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "60 × 75 cm",
+  "gallery": "Nationalmuseum Stockholm"
  },
  {
   "title": "Lions in a Mountainous Landscape",
@@ -93,7 +111,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1818"
+  "year": "c. 1818",
+  "medium": "Oil on wood",
+  "dimensions": "48.3 × 59.7 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "General Letellier on His Deathbed",
@@ -105,7 +126,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1818"
+  "year": "c. 1818–1820"
  },
  {
   "title": "Study for the Wounded Cuirassier",
@@ -116,7 +137,9 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "dimensions": "38.2 × 32.1 cm",
+  "gallery": "Museum of Fine Arts Boston"
  },
  {
   "title": "The Wounded Cuirassier (sketch)",
@@ -128,7 +151,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "c. 1814",
+  "medium": "Oil on canvas",
+  "dimensions": "55.2 × 46 cm",
+  "gallery": "Brooklyn Museum"
  },
  {
   "title": "A Cart Loaded with Kegs",
@@ -140,7 +166,8 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "c. 1822–1823",
+  "dimensions": "59.5 × 73.3 cm"
  },
  {
   "title": "Officer of the Chasseurs of the Imperial Horse Guard (study)",
@@ -151,7 +178,9 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "37.5 × 28.3 cm"
  },
  {
   "title": "The Madwoman (Monomania of Envy)",
@@ -163,9 +192,11 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1819",
+  "year": "c. 1819",
   "title_original": "La Monomane de l'envie",
-  "title_language": "fr"
+  "title_language": "fr",
+  "dimensions": "72 × 58 cm",
+  "gallery": "Musée des Beaux-Arts de Lyon"
  },
  {
   "title": "The 1821 Derby at Epsom",
@@ -179,7 +210,10 @@
   "artist_death_year": 1824,
   "year": "1821",
   "title_original": "Le Derby d'Epsom",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "92 × 122.5 cm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "The Raft of the Medusa",
@@ -205,7 +239,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "1817",
+  "medium": "Oil on paper",
+  "dimensions": "449 × 595 mm",
+  "gallery": "Walters Art Museum"
  },
  {
   "title": "Trumpeter of the Hussars",
@@ -217,7 +254,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1815"
+  "year": "c. 1815–1820",
+  "medium": "Oil on canvas",
+  "gallery": "Clark Art Institute"
  },
  {
   "title": "The Plasterer's Horse (watercolor)",
@@ -229,7 +268,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "1821–1823"
  },
  {
   "title": "Dervish in His Stall",
@@ -241,7 +280,8 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1820"
+  "year": "1820",
+  "gallery": "Clark Art Institute"
  },
  {
   "title": "Mater Dolorosa (after Ribera)",
@@ -253,7 +293,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1811"
+  "year": "c. 1811–1815",
+  "medium": "Oil on canvas",
+  "dimensions": "46 × 37 cm",
+  "gallery": "Kunstmuseum Basel"
  },
  {
   "title": "Study of a Roof Lit by the Sun",
@@ -265,7 +308,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817",
+  "year": "c. 1817",
   "title_original": "Étude de toit éclairé par le soleil",
   "title_language": "fr"
  },
@@ -279,7 +322,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "c. 1814",
+  "medium": "Oil on canvas",
+  "dimensions": "65 × 54 cm",
+  "gallery": "Kunstmuseum Basel"
  },
  {
   "title": "Still Life with Three Pieces of Game",
@@ -303,7 +349,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "1821",
+  "medium": "Oil on canvas",
+  "dimensions": "51.2 × 34.2 cm"
  },
  {
   "title": "Portrait of a Shipwrecked Man, or The Father",
@@ -315,7 +363,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1818"
+  "year": "1818–1819"
  },
  {
   "title": "Portrait of Zoë Elmore",
@@ -327,7 +375,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "1821",
+  "medium": "Oil on canvas",
+  "dimensions": "65.5 × 55 cm"
  },
  {
   "title": "Portrait of a Man in Oriental Costume (Mustapha)",
@@ -339,7 +389,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "1817–1819"
  },
  {
   "title": "Portrait of a Black Man (Albright–Knox)",
@@ -351,7 +401,8 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "c. 1822–1823",
+  "gallery": "Buffalo AKG Art Museum"
  },
  {
   "title": "The Scotsman",
@@ -365,7 +416,10 @@
   "artist_death_year": 1824,
   "year": "1810",
   "title_original": "L'Écossais",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil",
+  "dimensions": "43.5 × 22 cm",
+  "gallery": "Musée des Beaux-Arts de la ville de Paris"
  },
  {
   "title": "Elise and Alfred Dedreux as Children",
@@ -389,7 +443,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1818"
+  "year": "c. 1818–1819",
+  "medium": "Oil on canvas",
+  "dimensions": "467 × 381 mm",
+  "gallery": "Getty Center"
  },
  {
   "title": "Three Lovers",
@@ -401,7 +458,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "1817–1820",
+  "medium": "Oil on canvas",
+  "dimensions": "225 × 298 mm",
+  "gallery": "Getty Center"
  },
  {
   "title": "Mounted Trumpeters of Napoleon's Imperial Guard",
@@ -413,7 +473,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1813"
+  "year": "1813–1814",
+  "medium": "Oil on canvas",
+  "dimensions": "60.4 × 49.6 cm",
+  "gallery": "National Gallery of Art"
  },
  {
   "title": "Presentation of the White Horse",
@@ -437,9 +500,12 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1808",
+  "year": "c. 1808–1812",
   "title_original": "Le Sommeil des paysans",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on panel",
+  "dimensions": "77.46 × 57.14 cm",
+  "gallery": "Princeton Art Museum"
  },
  {
   "title": "Grey Arab Horse",
@@ -451,7 +517,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "c. 1812",
+  "medium": "Oil on canvas",
+  "gallery": "Musée des Beaux-Arts de Rouen"
  },
  {
   "title": "Two Horses",
@@ -463,7 +531,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1808"
+  "year": "c. 1808",
+  "medium": "Oil on canvas",
+  "dimensions": "10.25 × 16 mm",
+  "gallery": "The Phillips Collection"
  },
  {
   "title": "Male Nude Study (Académie d'homme)",
@@ -475,8 +546,11 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1808",
-  "is_age_restricted": true
+  "year": "1808–1812",
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "81 × 65 cm",
+  "gallery": "Musée des Beaux-Arts de Rouen"
  },
  {
   "title": "Man Grooming a Horse",
@@ -499,7 +573,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1813"
+  "year": "1813–1814",
+  "medium": "Oil on canvas",
+  "dimensions": "48 × 38.3 cm",
+  "gallery": "Belvedere"
  },
  {
   "title": "The Horse Leaving the Stable",
@@ -511,7 +588,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1810"
+  "year": "c. 1810",
+  "medium": "Oil on canvas",
+  "dimensions": "36 × 45 cm",
+  "gallery": "Condé Museum"
  },
  {
   "title": "Study of a Panther Skin",
@@ -522,7 +602,8 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas"
  },
  {
   "title": "Portrait of Suzanne",
@@ -534,7 +615,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "1817",
+  "medium": "Oil on canvas",
+  "gallery": "Musée des Beaux-Arts de Béziers"
  },
  {
   "title": "Young Greek Asleep on a Rock by the Sea",
@@ -545,7 +628,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "37.5 × 46 cm",
+  "gallery": "Musée Granet"
  },
  {
   "title": "Portrait of a Boy with Long Blond Hair",
@@ -557,7 +643,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1819"
+  "year": "c. 1819–1820",
+  "medium": "Oil on canvas",
+  "dimensions": "47 × 38.1 cm",
+  "gallery": "Kimbell Art Museum"
  },
  {
   "title": "Head of a White Horse",
@@ -581,9 +670,12 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821",
+  "year": "1821–1822",
   "title_original": "Le Four à plâtre",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "50 × 61 cm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "Nude Warrior with a Spear",
@@ -595,8 +687,11 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1816",
-  "is_age_restricted": true
+  "year": "c. 1816",
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "93.6 × 75.5 cm",
+  "gallery": "National Gallery of Art"
  },
  {
   "title": "The Old Italian Woman",
@@ -620,7 +715,8 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "1812",
+  "dimensions": "46 × 38 cm"
  },
  {
   "title": "The Assumption of the Virgin",
@@ -632,7 +728,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1810"
+  "year": "1810",
+  "medium": "Oil on canvas",
+  "dimensions": "67 × 55.5 cm",
+  "gallery": "Kunsthalle Bremen"
  },
  {
   "title": "Brown Horse in a Stable",
@@ -646,7 +745,10 @@
   "artist_death_year": 1824,
   "year": "1818",
   "title_original": "Cheval brun à l'écurie",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on paper",
+  "dimensions": "26.2 × 35 cm",
+  "gallery": "Dutuit collection"
  },
  {
   "title": "The Death of Queen Brunhilda",
@@ -682,7 +784,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "c. 1821–1824",
+  "medium": "Oil on canvas",
+  "dimensions": "460 × 380 mm",
+  "gallery": "Art Gallery of South Australia"
  },
  {
   "title": "Prowling Lioness",
@@ -693,7 +798,9 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "41.9 × 32.8 cm"
  },
  {
   "title": "A Horse Frightened by Lightning",
@@ -705,7 +812,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1820"
+  "year": "1820–1821",
+  "medium": "Oil on canvas",
+  "dimensions": "49 × 60 cm",
+  "gallery": "National Gallery"
  },
  {
   "title": "Head of a Shipwrecked Man",
@@ -717,7 +827,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1818"
+  "year": "1818–1819",
+  "medium": "Oil on canvas",
+  "dimensions": "46.5 × 37.3 cm",
+  "gallery": "Musée des Beaux-Arts et d'Archéologie de Besançon"
  },
  {
   "title": "The Melancholic Man",
@@ -740,7 +853,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "c. 1817–1819"
  },
  {
   "title": "A Horse Harnessed to a Cart (sketch)",
@@ -752,7 +865,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "c. 1821–1822",
+  "dimensions": "16.5 × 21.5 cm",
+  "gallery": "Musée Fabre"
  },
  {
   "title": "Portrait of a Carabinier",
@@ -764,7 +879,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "1814",
+  "medium": "Oil on canvas",
+  "dimensions": "101 × 85 cm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "Study of a Grey Horse",
@@ -775,7 +893,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "68.4 × 60.3 cm",
+  "gallery": "Musée des Beaux-Arts de Béziers"
  },
  {
   "title": "The Coal Wagon",
@@ -787,7 +908,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "1821–1822",
+  "medium": "Oil on canvas",
+  "dimensions": "42 × 65.5 cm",
+  "gallery": "Kunsthalle Mannheim"
  },
  {
   "title": "Dogs Fighting Bears",
@@ -799,7 +923,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "1812",
+  "medium": "Oil on canvas",
+  "dimensions": "28 × 37 cm",
+  "gallery": "Kunsthaus Zürich"
  },
  {
   "title": "Race of Riderless Horses (Lille)",
@@ -811,7 +938,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "1817",
+  "medium": "Oil on canvas",
+  "dimensions": "45 × 61 cm",
+  "gallery": "Palais des Beaux-Arts de Lille"
  },
  {
   "title": "Mazeppa (Vienna)",
@@ -823,7 +953,8 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1820"
+  "year": "c. 1820",
+  "medium": "Oil on canvas"
  },
  {
   "title": "The Village Forge",
@@ -835,7 +966,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "c. 1822",
+  "medium": "Oil on canvas",
+  "dimensions": "51 × 61 cm",
+  "gallery": "Wadsworth Atheneum Museum of Art"
  },
  {
   "title": "Portrait of Francisco de Moncada, Marquis of Aytona",
@@ -846,7 +980,11 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "46.5 × 38.5 cm",
+  "gallery": "Amsterdam Museum",
+  "year": "1806–1824"
  },
  {
   "title": "The Plasterer's Horse",
@@ -858,7 +996,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "c. 1822–1823"
  },
  {
   "title": "A Charge of Cuirassiers",
@@ -870,7 +1008,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "c. 1822"
  },
  {
   "title": "A Carabinier with His Horse",
@@ -882,7 +1020,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "1814",
+  "dimensions": "65 × 54 cm",
+  "gallery": "Musée des Beaux-Arts de Rouen"
  },
  {
   "title": "Lion in Repose",
@@ -893,7 +1033,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "38 × 47 cm",
+  "gallery": "Walters Art Museum"
  },
  {
   "title": "Shipwrecked on a Beach (The Tempest)",
@@ -905,7 +1048,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "1822–1823",
+  "dimensions": "34 × 52.7 cm",
+  "gallery": "Yale University Art Gallery"
  },
  {
   "title": "Boy Feeding Oats to an Unharnessed Horse",
@@ -916,7 +1061,9 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "45 × 36 cm"
  },
  {
   "title": "Head of a Wounded Man",
@@ -928,7 +1075,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "1814",
+  "medium": "Oil on canvas",
+  "dimensions": "45 × 36.5 cm",
+  "gallery": "Wallraf-Richartz-Museum"
  },
  {
   "title": "Portrait of a Young Man (1817)",
@@ -940,7 +1090,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "c. 1817"
  },
  {
   "title": "Equestrian Portrait of Wincenty Krasiński",
@@ -952,7 +1102,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "c. 1814",
+  "medium": "Oil on canvas",
+  "dimensions": "53 × 45.6 cm",
+  "gallery": "National Museum, Warsaw"
  },
  {
   "title": "Horse Attacked by a Lion",
@@ -1043,7 +1196,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "c. 1812–1814"
  },
  {
   "title": "Grey Horse at the Rack",
@@ -1069,7 +1222,10 @@
   "artist_death_year": 1824,
   "year": "1812",
   "title_original": "Officier de chasseurs à cheval de la garde impériale chargeant",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Huile sur papier collé sur toile",
+  "dimensions": "53 × 79 cm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "Study of a Lion",
@@ -1080,7 +1236,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "50.2 × 38.7 cm",
+  "gallery": "Brooklyn Museum"
  },
  {
   "title": "Scene of the Flood",
@@ -1126,7 +1285,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "89.3 × 143.8 cm",
+  "gallery": "Bavarian State Painting Collections"
  },
  {
   "title": "Turkish Horse in a Stable",
@@ -1138,7 +1300,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1811"
+  "year": "1811",
+  "medium": "Oil on paper",
+  "dimensions": "35 × 25 cm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "Horse Race: Riders Galloping to the Left",
@@ -1198,7 +1363,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "1812",
+  "medium": "Oil on canvas",
+  "dimensions": "45.5 × 37.5 cm",
+  "gallery": "Musée des Beaux-Arts de Rouen"
  },
  {
   "title": "The Blacksmith",
@@ -1210,7 +1378,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1813"
+  "year": "1813–1814",
+  "medium": "Oil on panel",
+  "dimensions": "1.23 × 1.005 cm",
+  "gallery": "Kunsthaus Zürich"
  },
  {
   "title": "Portrait of an African Man (Getty)",
@@ -1234,7 +1405,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1810",
+  "year": "1810–1811",
   "is_age_restricted": true
  },
  {
@@ -1247,7 +1418,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1821"
+  "year": "c. 1821–1822",
+  "medium": "Oil on canvas",
+  "dimensions": "37 × 46.4 cm",
+  "gallery": "Virginia Museum of Fine Arts"
  },
  {
   "title": "The Preaching of Saint Paul at Ephesus",
@@ -1258,7 +1432,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "46 × 38 cm",
+  "gallery": "Musée des Beaux-Arts de Troyes"
  },
  {
   "title": "Scene from the Epidemic of Yellow Fever in Cadiz",
@@ -1270,7 +1447,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1819"
+  "year": "c. 1819",
+  "medium": "Oil on canvas",
+  "dimensions": "37.8 × 46.4 cm",
+  "gallery": "Virginia Museum of Fine Arts"
  },
  {
   "title": "Study of a Nude Man (Walsall)",
@@ -1283,7 +1463,10 @@
   "country": "France",
   "artist_death_year": 1824,
   "year": "1817",
-  "is_age_restricted": true
+  "is_age_restricted": true,
+  "medium": "Oil on paper",
+  "dimensions": "28.5 × 21.5 cm",
+  "gallery": "The New Art Gallery Walsall"
  },
  {
   "title": "Twenty-One Horses' Rumps",
@@ -1295,7 +1478,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1815"
+  "year": "1815–1824"
  },
  {
   "title": "Horse Stopped by Four Young People",
@@ -1307,7 +1490,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1817"
+  "year": "1817",
+  "medium": "Oil on canvas",
+  "gallery": "Musée des Beaux-Arts de Rouen"
  },
  {
   "title": "Mazeppa",
@@ -1319,7 +1504,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1823"
+  "year": "1823",
+  "medium": "Oil on canvas",
+  "dimensions": "29 × 21.5 cm",
+  "gallery": "Private collection"
  },
  {
   "title": "English Horse in a Stable",
@@ -1331,7 +1519,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1810"
+  "year": "1810–1812",
+  "dimensions": "190 × 240 mm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "The Poor Family",
@@ -1343,7 +1533,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1816"
+  "year": "1816–1817",
+  "dimensions": "22 × 30 cm",
+  "gallery": "Staatsgalerie Stuttgart"
  },
  {
   "title": "Portrait of a Man (1815)",
@@ -1355,7 +1547,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1815"
+  "year": "1815–1819",
+  "medium": "Oil on canvas",
+  "dimensions": "81 × 54 cm",
+  "gallery": "Louvre Museum"
  },
  {
   "title": "The Monomaniac of Child Kidnapping",
@@ -1367,9 +1562,12 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822",
+  "year": "1822–1823",
   "title_original": "Le Monomane du vol d'enfants",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil",
+  "dimensions": "65 × 54 cm",
+  "gallery": "Springfield Museums"
  },
  {
   "title": "Seven Horses' Chests",
@@ -1393,7 +1591,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1813"
+  "year": "1813",
+  "medium": "Oil on paper",
+  "dimensions": "75.5 × 93 cm"
  },
  {
   "title": "The Wounded Cuirassier",
@@ -1407,7 +1607,10 @@
   "artist_death_year": 1824,
   "year": "1814",
   "title_original": "Le Cuirassier blessé",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "12.3 × 14.2 cm",
+  "gallery": "Musée des Beaux-Arts de Dijon"
  },
  {
   "title": "A Prancing Grey Horse",
@@ -1419,7 +1622,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "1812",
+  "medium": "Oil on canvas",
+  "dimensions": "45.1 × 54.6 cm",
+  "gallery": "Burrell Collection"
  },
  {
   "title": "Equestrian Portrait of Charles V",
@@ -1431,7 +1637,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "c. 1814–1815",
+  "medium": "Oil on canvas",
+  "dimensions": "45 × 36 cm",
+  "gallery": "Fop Smit collection"
  },
  {
   "title": "Chestnut Horse in a Stable",
@@ -1443,7 +1652,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "c. 1814",
+  "medium": "Oil on canvas",
+  "gallery": "Cantor Arts Center at Stanford University"
  },
  {
   "title": "Portrait of Élise Dedreux",
@@ -1466,7 +1677,9 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "49.6 × 60.3 cm"
  },
  {
   "title": "Three Horses Seen from the Front",
@@ -1478,7 +1691,7 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1811"
+  "year": "1811–1812"
  },
  {
   "title": "Study of a Bay Horse Seen from Behind",
@@ -1490,7 +1703,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1822"
+  "year": "1822",
+  "medium": "Oil on canvas",
+  "dimensions": "26.2 × 31.3 cm",
+  "gallery": "Musée Bonnat-Helleu"
  },
  {
   "title": "Jupiter and Antiope (after Correggio)",
@@ -1501,7 +1717,9 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil paper laid down on canvas",
+  "dimensions": "33 × 25.4 cm"
  },
  {
   "title": "Antique Chariot",
@@ -1547,7 +1765,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1823"
+  "year": "1823",
+  "medium": "Oil on canvas",
+  "dimensions": "28 × 36.5 cm",
+  "gallery": "Musée Bonnat-Helleu"
  },
  {
   "title": "Wounded Soldiers in a Cart",
@@ -1559,7 +1780,9 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1814"
+  "year": "1814–1817",
+  "dimensions": "33.2 × 31 cm",
+  "gallery": "Fitzwilliam Museum"
  },
  {
   "title": "Anatomical Pieces",
@@ -1573,7 +1796,10 @@
   "artist_death_year": 1824,
   "year": "1818",
   "title_original": "Morceaux anatomiques",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "37.5 × 46 cm",
+  "gallery": "Musée des Beaux-Arts de Rouen"
  },
  {
   "title": "Two Leopards",
@@ -1597,7 +1823,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1815"
+  "year": "c. 1815–1816",
+  "medium": "Oil on canvas",
+  "dimensions": "38.58 × 46.51 cm",
+  "gallery": "Nelson-Atkins Museum of Art"
  },
  {
   "title": "Return from the Race",
@@ -1652,7 +1881,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "34 × 44.5 cm",
+  "gallery": "Musée des Beaux-Arts d'Orléans"
  },
  {
   "title": "Presumed Portrait of Pierre-Paul Royer-Collard",
@@ -1675,7 +1907,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "1812–1815",
+  "medium": "Oil on canvas",
+  "dimensions": "40.6 × 32.6 cm",
+  "gallery": "Burrell Collection"
  },
  {
   "title": "Head of a Dead Young Man",
@@ -1699,7 +1934,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812"
+  "year": "1812",
+  "medium": "Oil on canvas",
+  "dimensions": "44.8 × 36.7 cm",
+  "gallery": "Musée Bonnat-Helleu"
  },
  {
   "title": "Galloping Horse",
@@ -1710,7 +1948,11 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "32.2 × 40.3 cm",
+  "gallery": "Musée des Beaux-Arts de Chambéry",
+  "year": "1800–1825"
  },
  {
   "title": "Portrait of Marie Serre",
@@ -1721,7 +1963,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "France",
-  "artist_death_year": 1824
+  "artist_death_year": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "208 × 129 cm",
+  "gallery": "Musée des Beaux-Arts de Dijon"
  },
  {
   "title": "Portrait of a Man, called The Carpenter of the Medusa",
@@ -1769,7 +2014,10 @@
   "country": "France",
   "artist_death_year": 1824,
   "title_original": "L'Épave",
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Oil on canvas",
+  "dimensions": "50 × 61.5 cm",
+  "gallery": "Royal Museums of Fine Arts of Belgium"
  },
  {
   "title": "Nude Study",
@@ -1781,7 +2029,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "is_age_restricted": true
+  "is_age_restricted": true,
+  "medium": "Oil on canvas",
+  "dimensions": "89.5 × 64 cm",
+  "gallery": "Royal Museums of Fine Arts of Belgium"
  },
  {
   "title": "The Three Skulls",
@@ -1793,8 +2044,10 @@
   "attribution": "Wikimedia Commons",
   "country": "France",
   "artist_death_year": 1824,
-  "year": "1812",
+  "year": "1812–1814",
   "title_original": "Les Trois Crânes",
-  "title_language": "fr"
+  "title_language": "fr",
+  "dimensions": "31.5 × 60 cm",
+  "gallery": "Musée Girodet"
  }
 ]

@@ -20,8 +20,10 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1935",
-  "artist_death_year": 1943
+  "year": "1935–1936",
+  "artist_death_year": 1943,
+  "dimensions": "40.3 × 50.8 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "White Flower",
@@ -32,8 +34,11 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1917",
-  "artist_death_year": 1943
+  "year": "c. 1917",
+  "artist_death_year": 1943,
+  "medium": "Oil on wood",
+  "dimensions": "40.6 × 30.5 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Madawaska – Acadian Light-Heavy",
@@ -56,8 +61,11 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1940",
-  "artist_death_year": 1943
+  "year": "1940–1941",
+  "artist_death_year": 1943,
+  "medium": "Oil on hardboard (masonite)",
+  "dimensions": "75.6 × 103.8 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "The Virgin of Guadalupe",
@@ -68,8 +76,9 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1918",
-  "artist_death_year": 1943
+  "year": "c. 1918",
+  "artist_death_year": 1943,
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Red Flowers and Sailboat",
@@ -80,7 +89,7 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1935",
+  "year": "c. 1935–1936",
   "artist_death_year": 1943
  },
  {
@@ -93,7 +102,10 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1938",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on commercially prepared paperboard (academy board)",
+  "dimensions": "71.1 × 55.9 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Still Life No. 16",
@@ -104,8 +116,11 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1920",
-  "artist_death_year": 1943
+  "year": "c. 1920",
+  "artist_death_year": 1943,
+  "medium": "Oil and charcoal on paperboard",
+  "dimensions": "68.6 × 48.3 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Portrait of a German Officer",
@@ -117,7 +132,10 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1914",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "dimensions": "173.4 × 105.1 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Movement No. 5, Provincetown Houses",
@@ -129,7 +147,10 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1916",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil and charcoal on paperboard",
+  "dimensions": "50.8 × 40.6 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Still Life No. 2",
@@ -140,8 +161,11 @@
   "license": "CC0",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1921",
-  "artist_death_year": 1943
+  "year": "c. 1921",
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "dimensions": "54.6 × 91.8 cm",
+  "gallery": "The Metropolitan Museum of Art"
  },
  {
   "title": "Popocatepetl, Spirited Morning, Mexico",
@@ -153,7 +177,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1932",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on board",
+  "gallery": "Smithsonian American Art Museum"
  },
  {
   "title": "El Santo",
@@ -165,7 +191,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1919",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "gallery": "New Mexico Museum of Art"
  },
  {
   "title": "Arrangement – Hieroglyphics (Painting No. 2)",
@@ -177,7 +205,10 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1914",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "dimensions": "107.95 × 88.26 cm",
+  "gallery": "Museum of Fine Arts Boston"
  },
  {
   "title": "Love on a Cliff",
@@ -201,7 +232,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1916",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "59.7 × 49.5 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "Painting No. 3",
@@ -213,7 +246,10 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1913",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "dimensions": "106.7 × 87.6 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "Movement No. 6, Provincetown",
@@ -225,7 +261,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1916",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "49.5 × 39.4 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "Painting No. 8",
@@ -236,8 +274,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1912",
-  "artist_death_year": 1943
+  "year": "c. 1912–1913",
+  "artist_death_year": 1943,
+  "dimensions": "61 × 78.7 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "Still Life No. 1 (Crystal Bridges)",
@@ -249,7 +289,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1916",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "28.6 × 21 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "Vase of Flowers",
@@ -261,7 +303,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1916",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "33 × 23.5 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "The Blue Cup",
@@ -272,8 +316,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1918",
-  "artist_death_year": 1943
+  "year": "c. 1918",
+  "artist_death_year": 1943,
+  "dimensions": "19.75 × 15.625 in",
+  "gallery": "Columbus Museum of Art"
  },
  {
   "title": "Painting No. 69",
@@ -285,7 +331,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1917",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "39.4 × 22.2 cm",
+  "gallery": "Crystal Bridges Museum of American Art"
  },
  {
   "title": "Sail Boat",
@@ -296,8 +344,11 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1916",
-  "artist_death_year": 1943
+  "year": "c. 1916",
+  "artist_death_year": 1943,
+  "medium": "Oil on board",
+  "dimensions": "15.625 × 11.5 in",
+  "gallery": "Columbus Museum of Art"
  },
  {
   "title": "The Window",
@@ -308,8 +359,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1924",
-  "artist_death_year": 1943
+  "year": "c. 1924",
+  "artist_death_year": 1943,
+  "dimensions": "35.625 × 25.625 in",
+  "gallery": "Columbus Museum of Art"
  },
  {
   "title": "Lilies in a Vase",
@@ -320,8 +373,11 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1920",
-  "artist_death_year": 1943
+  "year": "c. 1920",
+  "artist_death_year": 1943,
+  "medium": "Oil on board",
+  "dimensions": "27 × 19.125 in",
+  "gallery": "Columbus Museum of Art"
  },
  {
   "title": "Purple Vase",
@@ -332,7 +388,7 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1925",
+  "year": "c. 1925",
   "artist_death_year": 1943
  },
  {
@@ -344,8 +400,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1938",
-  "artist_death_year": 1943
+  "year": "1938–1940",
+  "artist_death_year": 1943,
+  "medium": "Oil on academy board",
+  "gallery": "Minneapolis Institute of Art"
  },
  {
   "title": "Painting No. 46",
@@ -356,8 +414,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1914",
-  "artist_death_year": 1943
+  "year": "1914–1915",
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "gallery": "Buffalo AKG Art Museum"
  },
  {
   "title": "Painting No. 50",
@@ -368,7 +428,7 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1914",
+  "year": "1914–1915",
   "artist_death_year": 1943
  },
  {
@@ -381,7 +441,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1916",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "40.6 × 30.2 cm",
+  "gallery": "Barnes Foundation"
  },
  {
   "title": "American Indian Symbols",
@@ -404,7 +466,7 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1914",
+  "year": "1914–1915",
   "artist_death_year": 1943
  },
  {
@@ -417,7 +479,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1914",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "41.75 × 34.5 in",
+  "gallery": "Columbus Museum of Art"
  },
  {
   "title": "Flowers from a Lonely Child – for Mary of the Bon Repos",
@@ -428,8 +492,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1935",
-  "artist_death_year": 1943
+  "year": "1935–1936",
+  "artist_death_year": 1943,
+  "medium": "Oil on canvasboard",
+  "dimensions": "50.8 × 40.6 cm"
  },
  {
   "title": "Christ",
@@ -440,8 +506,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1942",
-  "artist_death_year": 1943
+  "year": "c. 1942",
+  "artist_death_year": 1943,
+  "medium": "Oil on board",
+  "dimensions": "71.1 × 55.9 cm"
  },
  {
   "title": "Still Life with Compote and Fruit",
@@ -464,8 +532,10 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1939",
-  "artist_death_year": 1943
+  "year": "c. 1939",
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "gallery": "Los Angeles County Museum of Art"
  },
  {
   "title": "Flower and Star on Window",
@@ -477,7 +547,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1941",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "gallery": "Dayton Art Institute"
  },
  {
   "title": "A Bermuda Window in a Semi-Tropic Character",
@@ -501,7 +573,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1914",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "40 × 32 in",
+  "gallery": "Columbus Museum of Art"
  },
  {
   "title": "The Blast of Winter",
@@ -524,7 +598,8 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "gallery": "Toledo Museum of Art"
  },
  {
   "title": "Forms Abstracted",
@@ -584,7 +659,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1920",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "gallery": "Yale University Art Gallery"
  },
  {
   "title": "Adelard the Drowned, Master of the 'Phantom'",
@@ -595,7 +672,7 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1938",
+  "year": "c. 1938–1939",
   "artist_death_year": 1943
  },
  {
@@ -619,8 +696,11 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1939",
-  "artist_death_year": 1943
+  "year": "c. 1939",
+  "artist_death_year": 1943,
+  "medium": "Oil on board",
+  "dimensions": "71.8 × 55.9 cm",
+  "gallery": "Private Collection"
  },
  {
   "title": "Pre-War Pageant (1913)",
@@ -656,7 +736,10 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1915",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on canvas",
+  "dimensions": "127.64 × 127.64 cm",
+  "gallery": "University of Iowa Stanley Museum of Art"
  },
  {
   "title": "Portrait (1914–15)",
@@ -668,7 +751,9 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1914",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "dimensions": "81 × 54.5 cm",
+  "gallery": "University of Minnesota"
  },
  {
   "title": "Still Life with Blue Bowl",
@@ -679,7 +764,7 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1922",
+  "year": "1922–1923",
   "artist_death_year": 1943
  },
  {
@@ -703,7 +788,7 @@
   "license": "Public domain",
   "attribution": "Wikimedia Commons",
   "country": "United States",
-  "year": "1928",
+  "year": "1928–1929",
   "artist_death_year": 1943
  },
  {
@@ -716,6 +801,8 @@
   "attribution": "Wikimedia Commons",
   "country": "United States",
   "year": "1932",
-  "artist_death_year": 1943
+  "artist_death_year": 1943,
+  "medium": "Oil on board",
+  "dimensions": "61 × 45.7 cm"
  }
 ]
