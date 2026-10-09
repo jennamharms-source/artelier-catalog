@@ -112,6 +112,7 @@ stable `source_key`, so re-imports never create duplicates.
 - `catalog/grigoriev-0000.json`: 136 Boris Grigoriev paintings and drawings from Wikimedia Commons (portraits, women, Brittany, circus, landscapes, still lifes, Raseya, Paris categories; public domain / CC0 only). Works already in the app were matched by image and left out; details, framed duplicates and stamps skipped.
 - `catalog/hartley-0000.json`: 60 Marsden Hartley paintings from Wikimedia Commons (Paintings and Still-life categories; public domain / CC0 only). Works already in the app were matched by image and left out. Works dated 1931 or later are hidden in the US in the app (owner rule; Hartley died 1943).
 - `catalog/tessai-0000.json`: 32 Tomioka Tessai paintings from Wikimedia Commons (Paintings and Pure Views categories; public domain / CC0 only). Works already in the app were matched by image and left out.
+- `catalog/prado-0000.json`: 959 nineteenth-century paintings in the Museo del Prado, from the Commons gallery page *Paintings in the Museo del Prado/19th century* (public domain / CC0 only; copies and CC BY-SA files skipped). Painter, date, English title and death year come from Wikidata; records carry `gallery: "Prado Museum"` so they link to the museum in the app.
 
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
