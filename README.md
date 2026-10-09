@@ -113,6 +113,9 @@ stable `source_key`, so re-imports never create duplicates.
 - `catalog/hartley-0000.json`: 60 Marsden Hartley paintings from Wikimedia Commons (Paintings and Still-life categories; public domain / CC0 only). Works already in the app were matched by image and left out. Works dated 1931 or later are hidden in the US in the app (owner rule; Hartley died 1943).
 - `catalog/tessai-0000.json`: 32 Tomioka Tessai paintings from Wikimedia Commons (Paintings and Pure Views categories; public domain / CC0 only). Works already in the app were matched by image and left out.
 - `catalog/prado-0000.json`: 959 nineteenth-century paintings in the Museo del Prado, from the Commons gallery page *Paintings in the Museo del Prado/19th century* (public domain / CC0 only; copies and CC BY-SA files skipped). Painter, date, English title and death year come from Wikidata; records carry `gallery: "Prado Museum"` so they link to the museum in the app.
+- `catalog/goncharova-0000.json`: 45 Natalia Goncharova works from Wikimedia Commons (paintings, *Liturgy* costume designs, *Mystical Images of War* lithographs; public domain / CC0 only). Gallery snapshots, crops and repeat photos skipped.
+- `catalog/tanguy-0000.json`: 38 Yves Tanguy paintings from Wikimedia Commons (public domain / CC0 only). Works dated 1931 or later are hidden in the US in the app (owner rule; Tanguy died 1955).
+- `catalog/venetsianov-0000.json`: 81 Alexey Venetsianov paintings from Wikimedia Commons (genre, women, portraits, *In the Ploughed Field: Spring*; public domain only). Russian titles translated to English; details and repeat photos skipped.
 
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
