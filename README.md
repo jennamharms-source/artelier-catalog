@@ -105,6 +105,10 @@ The same paths also work under `https://raw.githubusercontent.com/jennamharms-so
 The app imports shards through its `importFromCatalog` admin function. It matches on each record's
 stable `source_key`, so re-imports never create duplicates.
 
+### Single-artist shards (`catalog/<artist>-0000.json`)
+
+- `catalog/kuniyoshi-0000.json`: 282 Utagawa Kuniyoshi woodblock prints and paintings from Wikimedia Commons (Google Art Project, Cats, Children, Chūshingura and Tokyo National Museum categories; public domain / CC0 only; shunga held back). Already-present works were matched by image and title and left out. Imported with the app's `importFromCatalog` (shard `kuniyoshi-0000`).
+
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
 Per-artist catalogs built from **Wikidata + Wikimedia Commons**, for artists whose work Commons covers
