@@ -108,6 +108,7 @@ stable `source_key`, so re-imports never create duplicates.
 ### Single-artist shards (`catalog/<artist>-0000.json`)
 
 - `catalog/kuniyoshi-0000.json`: 282 Utagawa Kuniyoshi woodblock prints and paintings from Wikimedia Commons (Google Art Project, Cats, Children, Chūshingura and Tokyo National Museum categories; public domain / CC0 only; shunga held back). Already-present works were matched by image and title and left out. Imported with the app's `importFromCatalog` (shard `kuniyoshi-0000`).
+- `catalog/grigoriev-0000.json`: 136 Boris Grigoriev paintings and drawings from Wikimedia Commons (portraits, women, Brittany, circus, landscapes, still lifes, Raseya, Paris categories; public domain / CC0 only). Works already in the app were matched by image and left out; details, framed duplicates and stamps skipped.
 
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
