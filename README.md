@@ -116,6 +116,7 @@ stable `source_key`, so re-imports never create duplicates.
 - `catalog/goncharova-0000.json`: 45 Natalia Goncharova works from Wikimedia Commons (paintings, *Liturgy* costume designs, *Mystical Images of War* lithographs; public domain / CC0 only). Gallery snapshots, crops and repeat photos skipped.
 - `catalog/tanguy-0000.json`: 38 Yves Tanguy paintings from Wikimedia Commons (public domain / CC0 only). Works dated 1931 or later are hidden in the US in the app (owner rule; Tanguy died 1955).
 - `catalog/venetsianov-0000.json`: 81 Alexey Venetsianov paintings from Wikimedia Commons (genre, women, portraits, *In the Ploughed Field: Spring*; public domain only). Russian titles translated to English; details and repeat photos skipped.
+- `catalog/gericault-0000.json`: 150 Théodore Géricault paintings, oil sketches and studies from Wikimedia Commons (public domain / CC0 only). Hand-checked: copies by other artists, "after/attributed to/workshop" works, stamps, book pages and repeat photos of the same painting were left out; Géricault's own copies after other masters are kept and labelled.
 
 ### Wikimedia Commons artist catalog (`catalog/commons/`)
 
