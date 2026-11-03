@@ -184,6 +184,16 @@ def build(cfg_path, existing_path=None):
         if lang: r['title_language'] = lang
         if c.get('genre'): r['genre'] = c['genre']
         out.append(r)
+    # gallery = where the work is now: its current Wikidata collection (no end date), never a former owner or an
+    # "unknown value", spelled as Artelier's museum so it links to that museum page (see daily_finish.py)
+    sys.path.insert(0, os.path.join(ROOT, 'scripts'))
+    from daily_finish import current_collections, choose
+    cur = current_collections({r['source_key'][9:] for r in out if r['source_key'].startswith('wikidata:')})
+    for r in out:
+        k = r['source_key']
+        g = choose(cur.get(k[9:], []) if k.startswith('wikidata:') else [r.get('gallery') or ''])
+        if g: r['gallery'] = g
+        else: r.pop('gallery', None)
     # unique titles under the importer's key, also against titles Artelier already has for the artist
     taken = {normalize(e.get('title')) for e in existing}
     groups = {}
@@ -231,6 +241,7 @@ def check(path):
         if not re.match(r'^(wikidata:Q\d+|commons:.+)$', str(r.get('source_key'))): errs.append('%s: source_key' % t)
         if COPY.search(t): errs.append('%s: looks like a copy' % t)
         if not isinstance(r.get('is_age_restricted'), bool): errs.append('%s: is_age_restricted' % t)
+        if str(r.get('gallery', '')).startswith('http'): errs.append('%s: gallery is a link, not a place' % t)
     ys = [max(map(int, re.findall(r'\b(1\d{3}|20\d\d)\b', str(r.get('year'))) or [0])) for r in recs]
     print(json.dumps(dict(shard=name, artist=recs[0].get('artist'), works=len(recs), nudes=sum(1 for r in recs if r.get('is_age_restricted')),
                           undated=sum(1 for y in ys if not y), dated_us_protected=sum(1 for y in ys if y >= line),
