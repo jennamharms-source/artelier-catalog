@@ -278,6 +278,7 @@ open(slug+'_create.txt','w').write('\n'.join(key(c) for c in creates)+'\n'); ope
 from collections import Counter
 print('db',len(db),Counter(host(e.get('image_url')) for e in db),'| matched',len(match),'| swaps',st['swap'],'nude flags',st['nude'],'| creates',len(creates),'(nude',sum(c['nude'] for c in creates),')')
 cr=[rec(c) for c in creates]; up=[]
+json.dump([dict(rec(c),qid=c['qid'],collection=c['gallery']) for c in creates],open(slug+'_creates.json','w'),ensure_ascii=False)  # the plan's new works as records (scripts/daily_shard.py)
 for line in ul:
     aid,k,n,t=(line.split('\t')+[''])[:4]; u={'id':aid}; c=ck.get(k)
     fl=n if cfg.get('v2') else ('s' if k!='-' else '')+('n' if n=='n' else '')
