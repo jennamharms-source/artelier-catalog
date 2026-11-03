@@ -1,0 +1,32 @@
+[
+ {
+  "shard": "thaulow-0000",
+  "artist": "Frits Thaulow",
+  "qid": "Q445891",
+  "added": "2026-11-03",
+  "birth_year": "1847",
+  "death_year": "1906",
+  "nationality": "Norwegian",
+  "art_movement": "Impressionism"
+ },
+ {
+  "shard": "bellotto-0000",
+  "artist": "Bernardo Bellotto",
+  "qid": "Q164688",
+  "added": "2026-11-03",
+  "birth_year": "1722",
+  "death_year": "1780",
+  "nationality": "Italian",
+  "art_movement": "Vedutism"
+ },
+ {
+  "shard": "schjerfbeck-0000",
+  "artist": "Helene Schjerfbeck",
+  "qid": "Q236985",
+  "added": "2026-11-03",
+  "birth_year": "1862",
+  "death_year": "1946",
+  "nationality": "Finnish",
+  "art_movement": "Modernism"
+ }
+]

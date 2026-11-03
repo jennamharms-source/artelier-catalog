@@ -35,7 +35,7 @@ for x in sq('DISTINCT ?item ?depicts','?item wdt:P180 ?depicts .'):
 for it in items.values():
     for k in ('images','inception','types','colls','gd','gl'): it[k]=sorted(it[k])
 items=list(items.values())
-wt=get('https://commons.wikimedia.org/w/api.php?'+urllib.parse.urlencode(dict(action='parse',page=cfg['gallery'],prop='wikitext',format='json')))['parse']['wikitext']['*']
+wt=get('https://commons.wikimedia.org/w/api.php?'+urllib.parse.urlencode(dict(action='parse',page=cfg['gallery'],prop='wikitext',format='json'))).get('parse',{}).get('wikitext',{}).get('*','')  # no gallery page: Wikidata only
 gal=[]; section=''
 for line in wt.split('\n'):
     m=re.match(r'==+\s*(.*?)\s*==+',line)
