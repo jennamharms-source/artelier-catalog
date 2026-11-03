@@ -81,5 +81,15 @@
    "image_credit": "Julia Margaret Cameron (1815–1879)"
   },
   "art_movement": "Botanical illustration"
+ },
+ {
+  "shard": "juandezurbaran-0000",
+  "artist": "Juan de Zurbarán",
+  "qid": "Q4446444",
+  "added": "2026-11-03",
+  "birth_year": 1620,
+  "death_year": 1649,
+  "nationality": "Spanish",
+  "description": "painter from Spain (1620-1649)"
  }
 ]
