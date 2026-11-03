@@ -30,7 +30,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Cerises et groseilles",
+  "title": "Cerises et groseilles (1875)",
   "artist": "Eva Gonzalès",
   "year": "1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzales_-_Cerises_et_groseilles.jpg?width=1200",
@@ -60,7 +60,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Etude de soldat",
+  "title": "Étude de soldat",
   "artist": "Eva Gonzalès",
   "year": "1872",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzales_-_Etude_de_soldat.jpg?width=1200",
@@ -75,7 +75,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Fleurs (panel)",
+  "title": "Fleurs (panneau)",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzales_-_Fleurs_%28panel%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzales_-_Fleurs_%28panel%29.jpg",
@@ -104,9 +104,8 @@
   "title_language": "fr"
  },
  {
-  "title": "Portrait de Jeanne Gonzales",
+  "title": "Portrait de Jeanne Gonzalès (de face)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1870",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzales_-_Portrait_de_Jeanne_Gonzales.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzales_-_Portrait_de_Jeanne_Gonzales.jpg",
   "source_key": "commons:Eva Gonzales - Portrait de Jeanne Gonzales.jpg",
@@ -133,7 +132,7 @@
   "artist_death_year": 1883
  },
  {
-  "title": "Sleep - Eva Gonzalès - Artizon Museum Tokyo",
+  "title": "Sleep",
   "artist": "Eva Gonzalès",
   "year": "1877–1878",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sleep_-_Eva_Gonzal%C3%A8s_-_Artizon_Museum_Tokyo.jpg?width=1200",
@@ -148,7 +147,7 @@
   "title_language": "fr"
  },
  {
-  "title": "The Chignon ca. 18",
+  "title": "The Chignon",
   "artist": "Eva Gonzalès",
   "year": "1865",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzales_The_Chignon_ca._1865-70.jpg?width=1200",
@@ -220,7 +219,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Angelots",
+  "title": "Angelots (1866–1868)",
   "artist": "Eva Gonzalès",
   "year": "1866–1868",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Angelots_-_EG23F0.jpg?width=1200",
@@ -357,7 +356,6 @@
  {
   "title": "Cadre de trois petites esquisses",
   "artist": "Eva Gonzalès",
-  "year": "1850–1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Cadre_de_trois_petites_esquisses_CR_58.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Cadre_de_trois_petites_esquisses_CR_58.jpg",
   "source_key": "commons:Eva Gonzalès - Cadre de trois petites esquisses CR 58.jpg",
@@ -370,7 +368,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Cerises et groseilles (1875–1876)",
+  "title": "Cerises et groseilles (CR 63)",
   "artist": "Eva Gonzalès",
   "year": "1875–1876",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Cerises_et_groseilles_%28CR_63%29.jpg?width=1200",
@@ -402,7 +400,6 @@
  {
   "title": "Cour de ferme",
   "artist": "Eva Gonzalès",
-  "year": "1850–1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Cour_de_ferme_%28CR_50%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Cour_de_ferme_%28CR_50%29.jpg",
   "source_key": "commons:Eva Gonzalès - Cour de ferme (CR 50).jpg",
@@ -447,7 +444,6 @@
  {
   "title": "Deux danseuses",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Deux_danseuses_%28c_1879-1880%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Deux_danseuses_%28c_1879-1880%29.jpg",
   "source_key": "commons:Eva Gonzalès - Deux danseuses (c 1879-1880).jpg",
@@ -477,7 +473,6 @@
  {
   "title": "Deux enfants jouant dans le sable",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Deux_enfants_jouant_dans_le_sable.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Deux_enfants_jouant_dans_le_sable.jpg",
   "source_key": "commons:Eva Gonzalès - Deux enfants jouant dans le sable.jpg",
@@ -490,9 +485,8 @@
   "title_language": "fr"
  },
  {
-  "title": "Deux femmes",
+  "title": "Deux femmes (1)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Deux_femmes_-_EG3740.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Deux_femmes_-_EG3740.jpg",
   "source_key": "commons:Eva Gonzalès - Deux femmes - EG3740.jpg",
@@ -505,9 +499,8 @@
   "title_language": "fr"
  },
  {
-  "title": "Deux femmes (1850–1880)",
+  "title": "Deux femmes (2)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Deux_femmes_-_EG68A7.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Deux_femmes_-_EG68A7.jpg",
   "source_key": "commons:Eva Gonzalès - Deux femmes - EG68A7.jpg",
@@ -520,7 +513,7 @@
   "title_language": "fr"
  },
  {
-  "title": "En bateau",
+  "title": "En bateau (CR 74)",
   "artist": "Eva Gonzalès",
   "year": "1875–1876",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_En_bateau_%28CR_74%29.jpg?width=1200",
@@ -567,7 +560,6 @@
  {
   "title": "Femme assise",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Femme_assise_-_EGC0B0.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Femme_assise_-_EGC0B0.jpg",
   "source_key": "commons:Eva Gonzalès - Femme assise - EGC0B0.jpg",
@@ -599,7 +591,6 @@
  {
   "title": "Femme noire",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Femme_noire_%28CR_109%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Femme_noire_%28CR_109%29.jpg",
   "source_key": "commons:Eva Gonzalès - Femme noire (CR 109).jpg",
@@ -657,7 +648,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Ferme en brie",
+  "title": "Ferme en brie (CR 49)",
   "artist": "Eva Gonzalès",
   "year": "1871–1872",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Ferme_en_brie_%28CR_49%29.jpg?width=1200",
@@ -672,7 +663,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Ferme en brie (1871–1872)",
+  "title": "Ferme en brie (CR 51)",
   "artist": "Eva Gonzalès",
   "year": "1871–1872",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Ferme_en_brie_%28CR_51%29.jpg?width=1200",
@@ -732,7 +723,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Frère et Soeur (Grandcamp)",
+  "title": "Frère et sœur (Grandcamp)",
   "artist": "Eva Gonzalès",
   "year": "1877–1878",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Fr%C3%A8re_et_Soeur_%28Grandcamp%29.jpg?width=1200",
@@ -777,9 +768,8 @@
   "title_language": "fr"
  },
  {
-  "title": "Jeanne Gonzalès de profil",
+  "title": "Jeanne Gonzalès de profil (1)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1870",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Jeanne_Gonzal%C3%A8s_de_profil_%28not_in_CR%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Jeanne_Gonzal%C3%A8s_de_profil_%28not_in_CR%29.jpg",
   "source_key": "commons:Eva Gonzalès - Jeanne Gonzalès de profil (not in CR).jpg",
@@ -837,7 +827,7 @@
   "title_language": "fr"
  },
  {
-  "title": "L Éventail",
+  "title": "L'Éventail",
   "artist": "Eva Gonzalès",
   "year": "1880–1882",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_L_%C3%89ventail_%28CR114%29.jpg?width=1200",
@@ -852,7 +842,7 @@
   "title_language": "fr"
  },
  {
-  "title": "L'AVANT PORT (DIEPPE)",
+  "title": "L'Avant-port (Dieppe)",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_L%27AVANT_PORT_%28DIEPPE%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_L%27AVANT_PORT_%28DIEPPE%29.jpg",
@@ -900,7 +890,6 @@
  {
   "title": "La Brouette",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_La_Brouette_-_EGTDNP.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_La_Brouette_-_EGTDNP.jpg",
   "source_key": "commons:Eva Gonzalès - La Brouette - EGTDNP.jpg",
@@ -915,7 +904,6 @@
  {
   "title": "La Chasse aux papillons",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_La_Chasse_aux_papillons.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_La_Chasse_aux_papillons.jpg",
   "source_key": "commons:Eva Gonzalès - La Chasse aux papillons.jpg",
@@ -943,9 +931,8 @@
   "title_language": "fr"
  },
  {
-  "title": "La Demoiselle",
+  "title": "La Demoiselle (1)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1870",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_La_Demoiselle.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_La_Demoiselle.jpg",
   "source_key": "commons:Eva Gonzalès - La Demoiselle.jpg",
@@ -1050,7 +1037,6 @@
  {
   "title": "La danse, étude pour un éventail",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_La_danse%2C_%C3%A9tude_pour_un_%C3%A9ventail.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_La_danse%2C_%C3%A9tude_pour_un_%C3%A9ventail.jpg",
   "source_key": "commons:Eva Gonzalès - La danse, étude pour un éventail.jpg",
@@ -1080,7 +1066,6 @@
  {
   "title": "Le Départ",
   "artist": "Eva Gonzalès",
-  "year": "1850–1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Le_D%C3%A9part_-_%28CR_54%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Le_D%C3%A9part_-_%28CR_54%29.jpg",
   "source_key": "commons:Eva Gonzalès - Le Départ - (CR 54).jpg",
@@ -1138,7 +1123,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Le Peintre et son modèle c 18",
+  "title": "Le Peintre et son modèle",
   "artist": "Eva Gonzalès",
   "year": "1880–1882",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Le_Peintre_et_son_mod%C3%A8le_c_1880-1882.jpg?width=1200",
@@ -1170,7 +1155,6 @@
  {
   "title": "Le Pique-Nique",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Le_Pique-Nique.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Le_Pique-Nique.jpg",
   "source_key": "commons:Eva Gonzalès - Le Pique-Nique.jpg",
@@ -1185,7 +1169,6 @@
  {
   "title": "Le Verre d'eau",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Le_Verre_d%27eau_%28DR_105%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Le_Verre_d%27eau_%28DR_105%29.jpg",
   "source_key": "commons:Eva Gonzalès - Le Verre d'eau (DR 105).jpg",
@@ -1200,7 +1183,6 @@
  {
   "title": "Le bouquet de violettes",
   "artist": "Eva Gonzalès",
-  "year": "1884",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Le_bouquet_de_violettes.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Le_bouquet_de_violettes.jpg",
   "source_key": "commons:Eva Gonzalès - Le bouquet de violettes.jpg",
@@ -1243,7 +1225,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Le lecture au jardin",
+  "title": "La lecture au jardin",
   "artist": "Eva Gonzalès",
   "year": "1880–1882",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Le_lecture_au_jardin.jpg?width=1200",
@@ -1339,7 +1321,7 @@
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Madame_Emmanuel_Gonzal%C3%A8s%2C_m%C3%A8re_de_l%27artiste_%28CR_76%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Madame_Emmanuel_Gonzal%C3%A8s%2C_m%C3%A8re_de_l%27artiste_%28CR_76%29.jpg",
   "source_key": "commons:Eva Gonzalès - Madame Emmanuel Gonzalès, mère de l'artiste (CR 76).jpg",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "license": "Public domain",
   "license_basis": "PD-old-100",
   "attribution": "Wikimedia Commons",
@@ -1410,7 +1392,6 @@
  {
   "title": "Nature morte aux fleurs blanches",
   "artist": "Eva Gonzalès",
-  "year": "1884",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Nature_morte_aux_fleurs_blanches.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Nature_morte_aux_fleurs_blanches.jpg",
   "source_key": "commons:Eva Gonzalès - Nature morte aux fleurs blanches.jpg",
@@ -1543,7 +1524,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Poires",
+  "title": "Poires (CR 37)",
   "artist": "Eva Gonzalès",
   "year": "1869",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Poires_%28CR37%29.jpg?width=1200",
@@ -1558,7 +1539,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Poires (version 2)",
+  "title": "Poires (2)",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Poires_-_EG5QBF.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Poires_-_EG5QBF.jpg",
@@ -1574,7 +1555,6 @@
  {
   "title": "Poisson et moules",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Poisson_et_moules.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Poisson_et_moules.jpg",
   "source_key": "commons:Eva Gonzalès - Poisson et moules.jpg",
@@ -1602,9 +1582,8 @@
   "artist_death_year": 1883
  },
  {
-  "title": "Portrait de Jeann Gonzalès de profil",
+  "title": "Portrait de Jeanne Gonzalès de profil (dessin)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1870",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_de_Jeann_Gonzal%C3%A8s_de_profil_-_EG12A2.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Portrait_de_Jeann_Gonzal%C3%A8s_de_profil_-_EG12A2.jpg",
   "source_key": "commons:Eva Gonzalès - Portrait de Jeann Gonzalès de profil - EG12A2.jpg",
@@ -1619,7 +1598,6 @@
  {
   "title": "Portrait de Jeanne Gonzalès",
   "artist": "Eva Gonzalès",
-  "year": "1850–1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_de_Jeanne_Gonzal%C3%A8s_%28CR_57%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Portrait_de_Jeanne_Gonzal%C3%A8s_%28CR_57%29.jpg",
   "source_key": "commons:Eva Gonzalès - Portrait de Jeanne Gonzalès (CR 57).jpg",
@@ -1653,7 +1631,7 @@
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_de_Madame_E._G._%28Emmanuel_Gonzal%C3%A8s%29%2C_m%C3%A8re_de_l%E2%80%99artiste.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Portrait_de_Madame_E._G._%28Emmanuel_Gonzal%C3%A8s%29%2C_m%C3%A8re_de_l%E2%80%99artiste.jpg",
   "source_key": "commons:Eva Gonzalès - Portrait de Madame E. G. (Emmanuel Gonzalès), mère de l’artiste.jpg",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "license": "Public domain",
   "license_basis": "PD-old-100",
   "attribution": "Wikimedia Commons",
@@ -1664,11 +1642,10 @@
  {
   "title": "Portrait de Madame Emmanuel Gonzalès, mère de l'artiste",
   "artist": "Eva Gonzalès",
-  "year": "1850–1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_de_Madame_Emmanuel_Gonzal%C3%A8s%2C_m%C3%A8re_de_l%27artiste.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Portrait_de_Madame_Emmanuel_Gonzal%C3%A8s%2C_m%C3%A8re_de_l%27artiste.jpg",
   "source_key": "commons:Eva Gonzalès - Portrait de Madame Emmanuel Gonzalès, mère de l'artiste.jpg",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "license": "Public domain",
   "license_basis": "PD-old-100",
   "attribution": "Wikimedia Commons",
@@ -1694,7 +1671,6 @@
  {
   "title": "Portrait de femme",
   "artist": "Eva Gonzalès",
-  "year": "1850–1870",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_de_femme_%28CR_16%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Portrait_de_femme_%28CR_16%29.jpg",
   "source_key": "commons:Eva Gonzalès - Portrait de femme (CR 16).jpg",
@@ -1707,9 +1683,8 @@
   "title_language": "fr"
  },
  {
-  "title": "Portrait de fillette au chapeau 18",
+  "title": "Portrait de fillette au chapeau",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_de_fillette_au_chapeau_1878-1880.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Portrait_de_fillette_au_chapeau_1878-1880.jpg",
   "source_key": "commons:Eva Gonzalès - Portrait de fillette au chapeau 1878-1880.jpg",
@@ -1766,7 +1741,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Portrait jeanne Gonzalès",
+  "title": "Portrait de Jeanne Gonzalès à l'éventail",
   "artist": "Eva Gonzalès",
   "year": "1871",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Portrait_jeanne_Gonzal%C3%A8s_%28CR42%29.jpg?width=1200",
@@ -1812,7 +1787,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Portrait of a Young Woman by Eva Gonzalès",
+  "title": "Portrait of a Young Woman",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_a_Young_Woman_by_Eva_Gonzal%C3%A8s.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Young_Woman_by_Eva_Gonzal%C3%A8s.jpg",
@@ -1826,7 +1801,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Pot d fleurs",
+  "title": "Pot de fleurs",
   "artist": "Eva Gonzalès",
   "year": "1865",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Pot_d_fleurs_-_EG22OI.jpg?width=1200",
@@ -1843,7 +1818,6 @@
  {
   "title": "Profil de femme en rose",
   "artist": "Eva Gonzalès",
-  "year": "1850–1875",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Profil_de_femme_en_rose_EGF5UI.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Profil_de_femme_en_rose_EGF5UI.jpg",
   "source_key": "commons:Eva Gonzalès - Profil de femme en rose EGF5UI.jpg",
@@ -1947,7 +1921,6 @@
  {
   "title": "Sous le berceau (Honfleur)",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_Sous_le_berceau_%28Honfleur%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Sous_le_berceau_%28Honfleur%29.jpg",
   "source_key": "commons:Eva Gonzalès - Sous le berceau (Honfleur).jpg",
@@ -1975,7 +1948,7 @@
   "title_language": "fr"
  },
  {
-  "title": "1972.362 - The Milliner",
+  "title": "The Milliner",
   "artist": "Eva Gonzalès",
   "year": "1877",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzal%C3%A8s_-_1972.362_-_The_Milliner%2C_c._1877.jpg?width=1200",
@@ -1990,9 +1963,8 @@
   "title_language": "fr"
  },
  {
-  "title": "Tête d'enfat",
+  "title": "Tête d'enfant",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_T%C3%AAte_d%27enfat_%28CR_103%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_T%C3%AAte_d%27enfat_%28CR_103%29.jpg",
   "source_key": "commons:Eva Gonzalès - Tête d'enfat (CR 103).jpg",
@@ -2052,7 +2024,6 @@
  {
   "title": "White Shoes",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_White_Shoes.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_White_Shoes.jpg",
   "source_key": "commons:Eva Gonzalès - White Shoes.jpg",
@@ -2065,7 +2036,7 @@
   "title_language": "fr"
  },
  {
-  "title": "la Gouvernante",
+  "title": "La Gouvernante",
   "artist": "Eva Gonzalès",
   "year": "1880–1882",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-_la_Gouvernante_%28CR111%29.jpg?width=1200",
@@ -2154,7 +2125,7 @@
   "title_language": "fr"
  },
  {
-  "title": "La Plage de Dieppe 18",
+  "title": "La Plage de Dieppe",
   "artist": "Eva Gonzalès",
   "year": "1875–1877",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_-La_Plage_de_Dieppe_1875-1877.jpg?width=1200",
@@ -2201,7 +2172,6 @@
  {
   "title": "Peintre dans un jardin",
   "artist": "Eva Gonzalès",
-  "year": "1884",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Gonzal%C3%A8s_Peintre_dans_un_jardin.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_Peintre_dans_un_jardin.jpg",
   "source_key": "commons:Eva Gonzalès Peintre dans un jardin.jpg",
@@ -2216,7 +2186,6 @@
  {
   "title": "Sur la plage Dieppe",
   "artist": "Eva Gonzalès",
-  "year": "1850–1880",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_gonzales_-_Sur_la_plage_Dieppe.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_gonzales_-_Sur_la_plage_Dieppe.jpg",
   "source_key": "commons:Eva gonzales - Sur la plage Dieppe.jpg",
@@ -2229,7 +2198,7 @@
   "title_language": "fr"
  },
  {
-  "title": "au bord de la mer113907)",
+  "title": "Au bord de la mer",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva_gonzales_au_bord_de_la_mer113907%29.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Eva_gonzales_au_bord_de_la_mer113907%29.jpg",
@@ -2243,9 +2212,8 @@
   "title_language": "fr"
  },
  {
-  "title": "LadyWithAFan MIA",
+  "title": "Lady with a Fan",
   "artist": "Eva Gonzalès",
-  "year": "1850–1870",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzales_LadyWithAFan_MIA_7281.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Gonzales_LadyWithAFan_MIA_7281.jpg",
   "source_key": "commons:Gonzales LadyWithAFan MIA 7281.jpg",
@@ -2258,7 +2226,7 @@
   "title_language": "fr"
  },
  {
-  "title": "PommesDApi MIA 2",
+  "title": "Pommes d'api",
   "artist": "Eva Gonzalès",
   "year": "1877–1878",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzales_PommesDApi_MIA_200772.jpg?width=1200",
@@ -2273,7 +2241,7 @@
   "title_language": "fr"
  },
  {
-  "title": "Ev grandcamp",
+  "title": "Grandcamp",
   "artist": "Eva Gonzalès",
   "year": "1877",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/GonzalesEv_grandcamp.jpg?width=1200",
@@ -2290,7 +2258,6 @@
  {
   "title": "Femme à l'éventail",
   "artist": "Eva Gonzalès",
-  "year": "1885",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzal%C3%A8s_-_Femme_%C3%A0_l%27%C3%A9ventail%2C_AKG3690027.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Gonzal%C3%A8s_-_Femme_%C3%A0_l%27%C3%A9ventail%2C_AKG3690027.jpg",
   "source_key": "commons:Gonzalès - Femme à l'éventail, AKG3690027.jpg",
@@ -2303,7 +2270,7 @@
   "title_language": "fr"
  },
  {
-  "title": "L'Avant Port (Dieppe) (version 2)",
+  "title": "L'Avant Port (Dieppe)",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzal%C3%A8s_-_L%27Avant_Port_%28Dieppe%29%2C_lot.37.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Gonzal%C3%A8s_-_L%27Avant_Port_%28Dieppe%29%2C_lot.37.jpg",
@@ -2317,7 +2284,7 @@
   "title_language": "fr"
  },
  {
-  "title": "La Demoiselle (version 2)",
+  "title": "La Demoiselle (2)",
   "artist": "Eva Gonzalès",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonzal%C3%A8s_-_La_Demoiselle%2C_lot.297.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Gonzal%C3%A8s_-_La_Demoiselle%2C_lot.297.jpg",
@@ -2348,7 +2315,6 @@
  {
   "title": "The Bouquet of Violets",
   "artist": "Eva Gonzalès",
-  "year": "1900",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Bouquet_of_Violets_MET_Wrightsman118-CROP.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:The_Bouquet_of_Violets_MET_Wrightsman118-CROP.jpg",
   "source_key": "commons:The Bouquet of Violets MET Wrightsman118-CROP.jpg",
