@@ -5,11 +5,15 @@
 # usage: daily_shard.py lock                              take the daily-run lock (exit 3 if another run holds it)
 #        daily_shard.py unlock                            release it
 #        daily_shard.py aliases <QID>                     the artist's other names, as a regex for query_entities
-#        daily_shard.py build <artists/slug.json> [existing.json]
+#        daily_shard.py build <artists/slug.json> [existing.json] [--galleries galleries.json]
 #             -> catalog/<slug>-0000.json. existing.json = the artist's works already in Artelier, as
 #                [{"title", "year", "image_url"}] from query_entities (a temp file; never commit it).
 #                Works matching one of them (title + year rules of commons_sync.py) are left out.
 #        daily_shard.py check <catalog/slug-0000.json>  validate a shard; prints what the app should show
+#        daily_shard.py holders <catalog/slug-0000.json> [galleries.json]
+#             where each work is (Wikidata P195 collection / P276 location), grouped per museum: the backfill plan
+#             for works already imported without a gallery. galleries.json = [{"name", "city"}] of every Artelier
+#             Gallery from query_entities (temp file; never commit it); without it, daily_finish.py's museum list.
 #        daily_shard.py queue <artists/slug.json>       append today's entry (UTC date) with life dates,
 #             nationality, movement, description and a PD/CC0 portrait; refuses if the shard or the artist
 #             is already queued, or if 3 artists are already queued today
@@ -58,7 +62,10 @@ def get_json(url, data=None, headers=UA, tries=6):
 
 def sparql(q):
     q = ('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> '
-         'PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX schema: <http://schema.org/> ') + q
+         'PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX schema: <http://schema.org/> '
+         'PREFIX p: <http://www.wikidata.org/prop/> PREFIX ps: <http://www.wikidata.org/prop/statement/> '
+         'PREFIX pq: <http://www.wikidata.org/prop/qualifier/> PREFIX wikibase: <http://wikiba.se/ontology#> '
+         'PREFIX skos: <http://www.w3.org/2004/02/skos/core#> ') + q
     body = urllib.parse.urlencode({'query': q}).encode()
     try:
         return get_json('https://qlever.dev/api/wikidata', data=body, tries=3)['results']['bindings']
@@ -90,6 +97,194 @@ def normalize(s):
     s = ''.join(ch for ch in s if not unicodedata.combining(ch))
     s = re.sub(r'[.,/#!$%^&*;:{}=\-_`~()"\'?]', ' ', s)
     return re.sub(r'\s+', ' ', s).strip()
+
+
+# ---- which museum holds a work: Wikidata P195 (collection), P276 (location) -> Artelier Gallery.name ----
+# A work shows on a museum page only when Artwork.gallery equals Gallery.name exactly. Gallery names follow the
+# owner's rule: one location "Name"; several cities "Name - City"; several in one city "Name - Street, City".
+# galleries.json = [{"name", "city"}] from query_entities on Gallery (a temp file; never commit it).
+PRIVATE = {'Q768717', 'Q475667'}                        # "private collection"; the never-built Führermuseum
+NOT_HOLDER_TYPES = {'Q5', 'Q768717', 'Q811683', 'Q33837', 'Q23442', 'Q6256', 'Q3624078'}   # person (a private collector),
+#   private collection, proposed / never-built building, archipelago, island, country, sovereign state
+NOT_A_HOLDER = re.compile(r'private collection|privately held|private ownership|unknown|art market|auction|art dealer|'
+                          r'collecting point|f\u00fchrermuseum|sonderauftrag|nepip|kress collection', re.I)   # wartime / looted-art depots are history, not holders
+CITY_TYPES = {'Q515', 'Q1549591', 'Q5119', 'Q1637706', 'Q200250', 'Q1093829', 'Q3957', 'Q484170', 'Q747074', 'Q2074737',
+              'Q42744322', 'Q22865', 'Q15284', 'Q262166', 'Q5153359', 'Q493522', 'Q2039348', 'Q755707', 'Q127448',
+              'Q856076', 'Q7930989', 'Q1763214', 'Q15127012', 'Q1906268', 'Q2264924', 'Q1187811', 'Q1115575', 'Q532'}
+# Wikidata names (normalized) that Artelier spells differently beyond case, accents, "the" and "&"
+HOLDER_ALIASES = {
+    'louvre': 'Louvre Museum', 'musee du louvre': 'Louvre Museum', 'louvre museum': 'Louvre Museum',
+    'museo del prado': 'Prado Museum', 'museo nacional del prado': 'Prado Museum', 'prado museum': 'Prado Museum',
+    'national gallery london': 'National Gallery', 'national gallery': 'National Gallery',
+    'j paul getty museum': 'Getty Center', 'getty museum': 'Getty Center', 'getty center': 'Getty Center',
+    'museum of modern art': 'The Museum of Modern Art (MoMA)', 'moma': 'The Museum of Modern Art (MoMA)',
+    'victoria and albert museum': 'Victoria and Albert Museum - Cromwell Road, London',
+    'courtauld institute of art': 'The Courtauld Gallery', 'courtauld gallery': 'The Courtauld Gallery',
+    'huntington library': 'The Huntington Library, Art Museum, and Botanical Gardens',
+    'national gallery of art washington': 'National Gallery of Art', 'national gallery of art': 'National Gallery of Art',
+    'metropolitan museum of art': 'The Metropolitan Museum of Art', 'met': 'The Metropolitan Museum of Art',
+}
+
+
+def hkey(s):
+    s = unicodedata.normalize('NFKD', str(s or '')).encode('ascii', 'ignore').decode().lower().replace('&', ' and ')
+    s = re.sub(r'[^a-z0-9]+', ' ', s).strip()
+    return re.sub(r'^the ', '', s)
+
+
+def gallery_index(path):
+    """Artelier's Gallery rows from galleries.json; without one, the museum names daily_finish.py knows (no cities)."""
+    if path:
+        rows = json.load(open(path))
+    else:
+        sys.path.insert(0, os.path.join(ROOT, 'scripts'))
+        from daily_finish import ARTELIER_MUSEUMS
+        rows = [dict(name=n, city=None) for n in sorted(ARTELIER_MUSEUMS)]
+    by_name, by_base = {}, {}
+    for g in rows:
+        name = str(g.get('name') or '').strip()
+        if not name: continue
+        by_name.setdefault(hkey(name), []).append(g)
+        if ' - ' in name:                                   # "Name - City" / "Name - Street, City"
+            by_base.setdefault(hkey(name.split(' - ')[0]), []).append(g)
+    exact = {g['name']: g for gs in by_name.values() for g in gs}
+    return dict(by_name=by_name, by_base=by_base, exact=exact)
+
+
+def map_holder(h, idx):
+    """The Artelier Gallery row for a holder, or None. Never guesses between two rows."""
+    if not idx or not idx['exact']: return None
+    keys = [hkey(x) for x in [h['label']] + h['aliases'] if x]
+    for k in keys:
+        if k in HOLDER_ALIASES and HOLDER_ALIASES[k] in idx['exact']:
+            return idx['exact'][HOLDER_ALIASES[k]]
+    for k in keys:
+        rows = idx['by_name'].get(k, [])
+        if len(rows) == 1: return rows[0]
+    for k in keys:                                          # "Name - City": the base name plus the holder's city
+        rows = [g for g in idx['by_base'].get(k, []) if h.get('city') and hkey(g.get('city')) == hkey(h['city'])]
+        if len(rows) == 1: return rows[0]
+    if h.get('parents') and not h.get('_parent'):          # a department or wing of a museum Artelier has
+        return map_holder(dict(h, label=h['parents'][0], aliases=h['parents'][1:], parents=[], _parent=True), idx)
+    return None
+
+
+def holders_for(item_qids):
+    """{work QID: [holder, ...]} from P195 and P276 statements that are current (no end date) and not deprecated."""
+    out, hq = {}, set()
+    items = sorted(set(item_qids))
+    for i in range(0, len(items), 250):
+        vals = ' '.join('wd:' + q for q in items[i:i + 250])
+        for b in sparql('SELECT ?item ?prop ?h ?rank WHERE { VALUES ?item { %s } '
+                        '{ ?item p:P195 ?st . ?st ps:P195 ?h . BIND("P195" AS ?prop) } UNION '
+                        '{ ?item p:P276 ?st . ?st ps:P276 ?h . BIND("P276" AS ?prop) } '
+                        '?st wikibase:rank ?rank . FILTER(?rank != wikibase:DeprecatedRank) '
+                        'FILTER NOT EXISTS { ?st pq:P582 ?end } }' % vals):
+            h = b['h']['value']
+            if not re.match(r'^http://www\.wikidata\.org/entity/Q\d+$', h): continue      # "unknown value"
+            q = b['item']['value'].rsplit('/', 1)[1]; hid = h.rsplit('/', 1)[1]
+            out.setdefault(q, []).append(dict(prop=b['prop']['value'], qid=hid, preferred=b['rank']['value'].endswith('PreferredRank')))
+            hq.add(hid)
+    facts = {q: dict(qid=q, label=None, aliases=[], parents=[], types=set(), city=None, country=None, dissolved=False) for q in hq}
+    hs = sorted(hq)
+    for i in range(0, len(hs), 250):
+        vals = ' '.join('wd:' + q for q in hs[i:i + 250])
+        for b in sparql('SELECT ?h ?l (LANG(?l) AS ?lang) WHERE { VALUES ?h { %s } ?h rdfs:label ?l FILTER(LANG(?l) IN ("en","mul")) }' % vals):
+            f = facts[b['h']['value'].rsplit('/', 1)[1]]
+            if b['lang']['value'] == 'en' or not f['label']: f['label'] = re.sub(r'\s+', ' ', b['l']['value']).strip()
+        for b in sparql('SELECT ?h ?a WHERE { VALUES ?h { %s } ?h skos:altLabel ?a FILTER(LANG(?a)="en") }' % vals):
+            facts[b['h']['value'].rsplit('/', 1)[1]]['aliases'].append(b['a']['value'])
+        for b in sparql('SELECT ?h ?t WHERE { VALUES ?h { %s } ?h wdt:P31 ?t }' % vals):
+            facts[b['h']['value'].rsplit('/', 1)[1]]['types'].add(b['t']['value'].rsplit('/', 1)[1])
+        for b in sparql('SELECT ?h ?l WHERE { VALUES ?h { %s } ?h wdt:P361 ?pa . ?pa rdfs:label ?l FILTER(LANG(?l)="en") }' % vals):
+            facts[b['h']['value'].rsplit('/', 1)[1]]['parents'].append(b['l']['value'])      # "part of": Louvre department -> Louvre
+        for b in sparql('SELECT DISTINCT ?h WHERE { VALUES ?h { %s } ?h wdt:P576 ?d }' % vals):
+            facts[b['h']['value'].rsplit('/', 1)[1]]['dissolved'] = True
+        for b in sparql('SELECT ?h ?l WHERE { VALUES ?h { %s } ?h wdt:P17 ?c . ?c rdfs:label ?l FILTER(LANG(?l)="en") }' % vals):
+            facts[b['h']['value'].rsplit('/', 1)[1]]['country'] = b['l']['value']
+        # city: the holder's "located in" (P131), or one level up, when that place is a city or town
+        for b in sparql('SELECT ?h ?a ?al ?at ?b ?bl ?bt WHERE { VALUES ?h { %s } ?h wdt:P131 ?a . ?a rdfs:label ?al FILTER(LANG(?al)="en") '
+                        'OPTIONAL { ?a wdt:P31 ?at } OPTIONAL { ?a wdt:P131 ?b . ?b rdfs:label ?bl FILTER(LANG(?bl)="en") OPTIONAL { ?b wdt:P31 ?bt } } }' % vals):
+            f = facts[b['h']['value'].rsplit('/', 1)[1]]
+            at = b.get('at', {}).get('value', '').rsplit('/', 1)[-1]; bt = b.get('bt', {}).get('value', '').rsplit('/', 1)[-1]
+            if at in CITY_TYPES: f['city'] = b['al']['value']
+            elif bt in CITY_TYPES and not f['city']: f['city'] = b['bl']['value']
+            if f['city']: f['city'] = re.sub(r'\s+[Mm]unicipality$', '', f['city'])     # "Oslo Municipality" -> "Oslo"
+    for q, hl in out.items():
+        for h in hl: h.update({k: v for k, v in facts[h['qid']].items() if k != 'qid'})
+    return out
+
+
+def usable(h):
+    return bool(h.get('label')) and h['qid'] not in PRIVATE and not (h['types'] & NOT_HOLDER_TYPES) and not h.get('dissolved') \
+        and not NOT_A_HOLDER.search(h['label']) and not (h['types'] & CITY_TYPES and h['prop'] == 'P195') \
+        and not (h['prop'] == 'P276' and h['types'] & CITY_TYPES)        # a city as "location" says nothing about the museum
+
+
+def pick_holder(hl, idx):
+    """(gallery, city, country, mapped, holder) for one work, or None. A holder Artelier has a Gallery page for wins
+    (its location first, then its collection); otherwise the collection's English name, then the location's."""
+    hl = sorted([h for h in hl or [] if usable(h)], key=lambda h: (not h['preferred'], h['prop'] != 'P195'))
+    for prop in ('P276', 'P195'):
+        for h in hl:
+            g = map_holder(h, idx) if h['prop'] == prop else None
+            if g: return g['name'], g.get('city') or h.get('city'), h.get('country'), True, h
+    for prop in ('P195', 'P276'):
+        for h in hl:
+            if h['prop'] == prop: return h['label'], h.get('city'), h.get('country'), False, h
+    return None
+
+
+def items_for_files(files):
+    """Wikidata items whose image (P18) is one of these Commons files: {file: QID}."""
+    out = {}
+    fs = sorted(set(files))
+    for i in range(0, len(fs), 100):
+        iris = set()
+        for f in fs[i:i + 100]:
+            for safe in ('', "()',!*"):
+                iris.add('<http://commons.wikimedia.org/wiki/Special:FilePath/%s>' % urllib.parse.quote(f.replace('_', ' '), safe=safe))
+        for b in sparql('SELECT ?item ?img WHERE { VALUES ?img { %s } ?item wdt:P18 ?img }' % ' '.join(sorted(iris))):
+            out[urllib.parse.unquote(b['img']['value'].split('/')[-1])] = b['item']['value'].rsplit('/', 1)[1]
+    return out
+
+
+def work_qid(r):
+    """The Wikidata item behind a catalog record: its source_key / same_as, else None (commons keys resolve via P18)."""
+    for k in [r.get('source_key')] + list(r.get('same_as') or []):
+        m = re.match(r'^wikidata:(Q\d+)$', str(k or ''))
+        if m: return m.group(1)
+    return None
+
+
+def holder_plan(recs, galleries_path):
+    """Per record: the holder to show. Returns ({source_key: (gallery, city, country, mapped, holder_qid)}, unmapped names)."""
+    idx = gallery_index(galleries_path)
+    q_of = {r['source_key']: work_qid(r) for r in recs}
+    files = {r['source_key']: r['source_key'][8:] for r in recs if not q_of[r['source_key']] and r['source_key'].startswith('commons:')}
+    found = items_for_files(files.values()) if files else {}
+    for k, f in files.items(): q_of[k] = found.get(f.replace('_', ' '))
+    hold = holders_for([q for q in q_of.values() if q])
+    plan, unmapped = {}, {}
+    for k, q in q_of.items():
+        pk = pick_holder(hold.get(q), idx) if q else None
+        if pk:
+            plan[k] = (pk[0], pk[1], pk[2], pk[3], pk[4]['qid'])
+            if not pk[3]: unmapped[pk[0]] = unmapped.get(pk[0], 0) + 1
+    return plan, unmapped
+
+
+def holders_cmd(shard_path, galleries_path):
+    """Backfill plan for works already imported: one group per (gallery, city), with the source_keys to update."""
+    recs = json.load(open(shard_path))
+    plan, unmapped = holder_plan(recs, galleries_path)
+    groups = {}
+    for k, (g, city, country, mapped, hq) in plan.items():
+        groups.setdefault((g, city or '', mapped, hq), []).append(k)
+    out = [dict(gallery=g, city=c or None, mapped=m, holder=hq, works=len(ks), source_keys=sorted(ks))
+           for (g, c, m, hq), ks in sorted(groups.items(), key=lambda kv: -len(kv[1]))]
+    print(json.dumps(dict(shard=os.path.basename(shard_path)[:-5], works=len(recs), with_holder=len(plan),
+                          no_holder=len(recs) - len(plan), groups=out), ensure_ascii=False, indent=1))
 
 
 def artist_facts(qid):
@@ -136,7 +331,7 @@ def unlock():
     shutil.rmtree(LOCK, ignore_errors=True); print('unlocked')
 
 
-def build(cfg_path, existing_path=None):
+def build(cfg_path, existing_path=None, galleries_path=None):
     cfg = json.load(open(cfg_path)); slug = cfg['slug']
     if not SHARD_RE.match(slug + '-0000'): sys.exit('slug must be lowercase letters only: ' + slug)
     existing = json.load(open(existing_path)) if existing_path else []
@@ -184,16 +379,18 @@ def build(cfg_path, existing_path=None):
         if lang: r['title_language'] = lang
         if c.get('genre'): r['genre'] = c['genre']
         out.append(r)
-    # gallery = where the work is now: its current Wikidata collection (no end date), never a former owner or an
-    # "unknown value", spelled as Artelier's museum so it links to that museum page (see daily_finish.py)
-    sys.path.insert(0, os.path.join(ROOT, 'scripts'))
-    from daily_finish import current_collections, choose
-    cur = current_collections({r['source_key'][9:] for r in out if r['source_key'].startswith('wikidata:')})
+    # gallery = where the work is now: its current Wikidata collection (P195, no end date) or location (P276), spelled
+    # exactly as Artelier's Gallery.name when Artelier has that museum (the work then links to its page; city from that
+    # row), else the holder's English name. Never a private collection, a person, a former owner, a wartime depot or a
+    # Wikidata "unknown value". country stays the artist's country, as in every shard.
+    plan, unmapped = holder_plan(out, galleries_path)
+    held = 0
     for r in out:
-        k = r['source_key']
-        g = choose(cur.get(k[9:], []) if k.startswith('wikidata:') else [r.get('gallery') or ''])
-        if g: r['gallery'] = g
-        else: r.pop('gallery', None)
+        r.pop('gallery', None); r.pop('city', None)
+        pk = plan.get(r['source_key'])
+        if not pk: continue
+        r['gallery'] = pk[0]; held += 1
+        if pk[1]: r['city'] = pk[1]
     # unique titles under the importer's key, also against titles Artelier already has for the artist
     taken = {normalize(e.get('title')) for e in existing}
     groups = {}
@@ -215,7 +412,8 @@ def build(cfg_path, existing_path=None):
     path = os.path.join(ROOT, 'catalog', slug + '-0000.json')
     json.dump(out, open(path, 'w'), ensure_ascii=False, indent=1)
     print(json.dumps(dict(shard=slug + '-0000', works=len(out), nudes_flagged=sum(r['is_age_restricted'] for r in out),
-                          left_out_existing=len(existing), dropped=dropped, death_year=facts['death_year']), ensure_ascii=False))
+                          left_out_existing=len(existing), dropped=dropped, death_year=facts['death_year'],
+                          with_gallery=held, unmapped_holders=unmapped), ensure_ascii=False))
     return path
 
 
@@ -295,7 +493,12 @@ if __name__ == '__main__':
     if cmd == 'lock': lock()
     elif cmd == 'unlock': unlock()
     elif cmd == 'aliases': aliases(sys.argv[2])
-    elif cmd == 'build': build(sys.argv[2], sys.argv[3] if len(sys.argv) > 3 else None)
+    elif cmd == 'build':
+        a = sys.argv[3:]; gal = None
+        if '--galleries' in a:
+            i = a.index('--galleries'); gal = a[i + 1]; a = a[:i] + a[i + 2:]
+        build(sys.argv[2], a[0] if a else None, gal)
+    elif cmd == 'holders': holders_cmd(sys.argv[2], sys.argv[3] if len(sys.argv) > 3 else None)
     elif cmd == 'check': check(sys.argv[2])
     elif cmd == 'queue': queue(sys.argv[2])
     else: sys.exit(open(__file__).read().split('\nimport')[0])
