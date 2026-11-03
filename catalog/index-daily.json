@@ -28,5 +28,35 @@
   "death_year": "1946",
   "nationality": "Finnish",
   "art_movement": "Modernism"
+ },
+ {
+  "shard": "gentileschi-0000",
+  "artist": "Artemisia Gentileschi",
+  "qid": "Q212657",
+  "added": "2026-11-03",
+  "birth_year": "1593",
+  "death_year": "1653",
+  "nationality": "Italian",
+  "art_movement": "Baroque"
+ },
+ {
+  "shard": "boznanska-0000",
+  "artist": "Olga Boznańska",
+  "qid": "Q466639",
+  "added": "2026-11-03",
+  "birth_year": "1865",
+  "death_year": "1940",
+  "nationality": "Polish",
+  "art_movement": "Impressionism"
+ },
+ {
+  "shard": "north-0000",
+  "artist": "Marianne North",
+  "qid": "Q271648",
+  "added": "2026-11-03",
+  "birth_year": "1830",
+  "death_year": "1890",
+  "nationality": "British",
+  "art_movement": "Botanical illustration"
  }
 ]

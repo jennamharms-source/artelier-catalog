@@ -15,7 +15,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20797342"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Little Liisa",
@@ -33,7 +35,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20781880"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "On the Jetty",
@@ -51,7 +55,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119267536"
-  ]
+  ],
+  "gallery": "Gösta Serlachius Fine Arts Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Portrait of a Man",
@@ -69,7 +75,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118402967"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Wounded Warrior in the Snow",
@@ -87,7 +96,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689608"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "A Boy Feeding his Little Sister",
@@ -105,7 +116,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20775694"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Girl with a Madonna",
@@ -123,7 +136,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97018584"
-  ]
+  ],
+  "gallery": "Helsingborg museum",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Rigoletto",
@@ -141,7 +157,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q41973136"
-  ]
+  ],
+  "gallery": "Hämeenlinna Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "Spaniard",
@@ -159,7 +177,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20798077"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Two Profiles",
@@ -177,7 +197,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20771961"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "At the Door of Linköping Jail in 1600",
@@ -195,7 +217,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q34625516"
-  ]
+  ],
+  "gallery": "Nordea Art Foundation Finland",
+  "medium": "Painting"
  },
  {
   "title": "Charcoal Burner",
@@ -213,7 +237,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97503747"
-  ]
+  ],
+  "gallery": "HAM Helsinki Art Museum",
+  "medium": "Painting",
+  "genre": "Genre scene"
  },
  {
   "title": "Christina Banér rukoilee armoa puolisolleen",
@@ -231,7 +258,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q111050122"
-  ]
+  ],
+  "gallery": "Wulff Collection",
+  "medium": "Painting"
  },
  {
   "title": "Dancing Shoes (1882)",
@@ -249,7 +278,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18693620"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Girl on a Red Sofa",
@@ -267,7 +297,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q121362635"
-  ]
+  ],
+  "gallery": "Lauri and Lasse Reitz Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Boat on a Lily Pond",
@@ -285,7 +317,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q141288718"
-  ]
+  ],
+  "gallery": "OP Art Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Clothes Drying",
@@ -303,7 +337,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97013582"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Dancing Shoes (1883)",
@@ -321,7 +357,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q141440767"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Fête juive",
@@ -339,7 +376,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q105923332"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting"
  },
  {
   "title": "At the Pond",
@@ -357,7 +396,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q106065431"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Bunny Dolls",
@@ -375,7 +416,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q46131908"
-  ]
+  ],
+  "gallery": "Turku Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "Figurstudie",
@@ -393,7 +436,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q28963791"
-  ]
+  ],
+  "gallery": "UPM-Kymmene Cultural Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Helena Westermarck",
@@ -411,7 +456,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q45349423"
-  ]
+  ],
+  "gallery": "Gösta Serlachius Fine Arts Foundation",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Self-Portrait (1884)",
@@ -429,7 +477,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20796636"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "The Door",
@@ -447,7 +498,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18346881"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Harjun Paavo, Löyttymäki",
@@ -465,7 +518,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20774664"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Head of a Girl",
@@ -483,7 +538,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20784864"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Mother and Child (1886)",
@@ -501,7 +559,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20779241"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Death of Wilhelm von Schwerin",
@@ -519,7 +579,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q41869350"
-  ]
+  ],
+  "gallery": "Turku Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "Masquerade Picture; Rococo Woman",
@@ -537,7 +599,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q109924946"
-  ]
+  ],
+  "gallery": "Ostrobothnian Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Bakery",
@@ -555,7 +619,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q109967872"
-  ]
+  ],
+  "gallery": "Ostrobothnian Museum",
+  "medium": "Painting"
  },
  {
   "title": "Chickens amongst Cornstooks",
@@ -573,7 +639,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97039898"
-  ]
+  ],
+  "gallery": "Penlee House Museum and Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Convalescent",
@@ -591,7 +659,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q5478273"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Girl From Barösund",
@@ -609,7 +679,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q96994647"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Young Woman under the Birches",
@@ -627,7 +699,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q106064755"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting"
  },
  {
   "title": "By the Cradle",
@@ -645,7 +719,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97732237"
-  ]
+  ],
+  "gallery": "Lauri and Lasse Reitz Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Cypresses, Fiesole",
@@ -663,7 +739,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q96995705"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Self-Portrait (1895)",
@@ -681,7 +759,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q57012313"
-  ]
+  ],
+  "gallery": "Ekenäs Museum Center EKTA",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Churchgoers (Easter Morning)",
@@ -699,7 +780,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18693515"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Girl at the Gate I",
@@ -717,7 +800,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118402998"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting"
  },
  {
   "title": "The Old Manor",
@@ -735,7 +820,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q46477975"
-  ]
+  ],
+  "gallery": "Turku Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "At Work",
@@ -753,7 +840,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q23009080"
-  ]
+  ],
+  "gallery": "Turku Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "Marsh Flowers",
@@ -771,7 +860,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q136359931"
-  ]
+  ],
+  "gallery": "Lauri and Lasse Reitz Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Atsalea",
@@ -789,7 +880,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q45348738"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Fragment",
@@ -807,7 +899,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q106181404"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Girl Reading (Seated Girl)",
@@ -825,7 +920,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20789231"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Seamstress (The Working Woman)",
@@ -843,7 +940,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18346879"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Girls Reading",
@@ -861,7 +960,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18346860"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Granny",
@@ -879,7 +980,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20789500"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Silence",
@@ -897,7 +1000,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97669152"
-  ]
+  ],
+  "gallery": "Nordea Art Foundation Finland",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "The School Girl II (Girl in Black)",
@@ -915,7 +1021,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689638"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Costume Picture I (Girl with Orange, The Baker's Daughter)",
@@ -933,7 +1041,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689697"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Costume Picture II",
@@ -951,7 +1061,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20771332"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Maria",
@@ -969,7 +1081,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20799258"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "My Mother",
@@ -987,7 +1101,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q11903238"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "On the rocking chair",
@@ -1005,7 +1120,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q46472222"
-  ]
+  ],
+  "gallery": "Turku Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Woodcutter I",
@@ -1023,7 +1140,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20797729"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Under the Linden",
@@ -1041,7 +1160,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20797384"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Girl on the Sand",
@@ -1059,7 +1180,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689745"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Self-Portrait (1912)",
@@ -1077,7 +1200,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q41793080"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Self-Portrait (1913)",
@@ -1095,7 +1221,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q41979906"
-  ]
+  ],
+  "gallery": "Pori Art Museum",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Red Apples",
@@ -1113,7 +1242,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20798176"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Self-Portrait with Black Background",
@@ -1131,7 +1262,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q11883548"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Self-Portrait with Silver Background",
@@ -1149,7 +1283,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q42034524"
-  ]
+  ],
+  "gallery": "Turku Art Museum",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "The Family Heirloom",
@@ -1167,7 +1304,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20791686"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Red-Haired Girl II",
@@ -1185,7 +1324,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q28745513"
-  ]
+  ],
+  "gallery": "Gösta Serlachius Fine Arts Foundation",
+  "medium": "Painting"
  },
  {
   "title": "Circus Girl",
@@ -1203,7 +1344,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20795945"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Girl with Blonde Hair",
@@ -1221,7 +1364,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q21285711"
-  ]
+  ],
+  "gallery": "Städel Museum",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Singer in Green",
@@ -1239,7 +1385,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q110111492"
-  ]
+  ],
+  "gallery": "Signe and Ane Gyllenberg Foundation",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Mother and Child (1917)",
@@ -1257,7 +1406,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20792751"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Singer in Black",
@@ -1275,7 +1426,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689666"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Emigrant",
@@ -1293,7 +1446,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18693452"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "The Old Brewery (Composition)",
@@ -1311,7 +1466,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20775041"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Petite Servant",
@@ -1329,7 +1486,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q109967841"
-  ]
+  ],
+  "gallery": "Ostrobothnian Museum",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "The Sailor (Einar Reuter)",
@@ -1347,7 +1507,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97732080"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Girl from California I",
@@ -1365,7 +1527,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20782112"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "The Gipsy Woman",
@@ -1383,7 +1548,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18346890"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Einar Reuter III",
@@ -1401,7 +1568,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689602"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Factory Workers on the Way to Work",
@@ -1419,7 +1589,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q109967750"
-  ]
+  ],
+  "gallery": "Riihimäki Art Museum",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Unfinished Portrait",
@@ -1437,7 +1610,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q109925043"
-  ]
+  ],
+  "gallery": "Riihimäki Art Museum",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Annuli Reading",
@@ -1455,7 +1631,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20798680"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Blonde Girl (Girl with Blue Bow)",
@@ -1473,7 +1651,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q113679602"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Robber at the Gate of Paradise",
@@ -1491,7 +1671,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q5411323"
-  ]
+  ],
+  "gallery": "Gösta Serlachius Fine Arts Foundation",
+  "medium": "Painting"
  },
  {
   "title": "The Fencer",
@@ -1509,7 +1691,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20962127"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Actor, Matti Kiianlinna",
@@ -1527,7 +1710,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q45349112"
-  ]
+  ],
+  "gallery": "Gösta Serlachius Fine Arts Foundation",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Rosy-Cheeked Girl",
@@ -1545,7 +1731,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97583541"
-  ]
+  ],
+  "gallery": "Gösta Serlachius Fine Arts Foundation",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Sjundby Manor",
@@ -1563,7 +1752,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20795917"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Picture Book",
@@ -1581,7 +1772,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q113675660"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Modern Schoolgirl",
@@ -1599,7 +1792,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18346870"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Portrait of Måns Schjerfbeck",
@@ -1617,7 +1812,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q125860679"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Shadow on the Wall II (Green Bench)",
@@ -1635,7 +1832,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18689750"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Spanish Girl",
@@ -1653,7 +1852,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q113679728"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "The apple girl",
@@ -1671,7 +1872,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q96997660"
-  ]
+  ],
+  "gallery": "Didrichsen Art Museum",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Self-Portrait (1942)",
@@ -1689,7 +1893,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q57013929"
-  ]
+  ],
+  "gallery": "Sparebankstiftelsen DNB’s collection",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Self-Portrait with Red Spot",
@@ -1707,7 +1914,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20771267"
-  ]
+  ],
+  "gallery": "Finnish National Gallery",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "Girl against a Green Background (Dora)",
@@ -1725,6 +1935,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q113675569"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Portrait"
  }
 ]

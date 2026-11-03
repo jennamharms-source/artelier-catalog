@@ -15,7 +15,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18600833"
-  ]
+  ],
+  "gallery": "Nationalmuseum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of the Grand Canal",
@@ -33,7 +36,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19660749"
-  ]
+  ],
+  "gallery": "Wallraf–Richartz Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Grand Canal in Venice",
@@ -51,7 +57,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18736711"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts of Lyon",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Rialto Bridge",
@@ -69,7 +78,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18117990"
-  ]
+  ],
+  "gallery": "Louvre Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Venice: The Grand Canal facing Santa Croce",
@@ -87,7 +99,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681639"
-  ]
+  ],
+  "gallery": "National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "View of the Grand Canal at San Stae",
@@ -105,7 +119,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681673"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "The Piazza San Marco with Basilica and Palazzo Ducale, Venice",
@@ -123,7 +138,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q104378832"
-  ]
+  ],
+  "gallery": "Rijksmuseum",
+  "medium": "Drawing"
  },
  {
   "title": "The harbor basin of San Marco on Ascension Day, Venice",
@@ -141,7 +158,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q104376905"
-  ]
+  ],
+  "gallery": "Castle Howard",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Architectural fantasy with Santa Maria dei Miracoli, Venice",
@@ -159,7 +179,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681626"
-  ]
+  ],
+  "gallery": "Landesmuseum Hannover",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Architectural study of the Northern Facade of the Basilica di San Marco opposite S. Basso in Venice",
@@ -177,7 +200,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q104380665"
-  ]
+  ],
+  "gallery": "Museum Boijmans Van Beuningen",
+  "medium": "Drawing"
  },
  {
   "title": "Capriccio with Two Bridges and Figures",
@@ -195,7 +220,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118998016"
-  ]
+  ],
+  "gallery": "Victoria and Albert Museum - Cromwell Road, London",
+  "medium": "Painting"
  },
  {
   "title": "Lagoon with House and Campanile",
@@ -213,7 +240,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681714"
-  ]
+  ],
+  "gallery": "Uffizi Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Rio dei Mendicanti with the Scuola di San Marco",
@@ -231,7 +260,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681559"
-  ]
+  ],
+  "gallery": "Gallerie dell'Accademia",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Piazza della Signoria in Florence",
@@ -249,7 +281,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681636"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts, Budapest",
+  "medium": "Painting"
  },
  {
   "title": "A View at the Entrance of the Grand Canal, Venice",
@@ -267,7 +301,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50820973"
-  ]
+  ],
+  "gallery": "Fitzwilliam Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Landscape with a Dead Tree",
@@ -285,7 +322,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q75396857"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Print"
  },
  {
   "title": "figure studies",
@@ -303,7 +342,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q104378162"
-  ]
+  ],
+  "gallery": "Kupferstichkabinett Berlin",
+  "medium": "Drawing"
  },
  {
   "title": "Capitoline Hill",
@@ -321,7 +362,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q28924051"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Drawing"
  },
  {
   "title": "Capriccio with the Capitol",
@@ -339,7 +382,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681557"
-  ]
+  ],
+  "gallery": "Galleria nazionale di Parma",
+  "medium": "Painting"
  },
  {
   "title": "Colosseum and Arch of Constantine",
@@ -357,7 +402,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19900908"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Painting of the Church of Santa Maria Formosa, Venice",
@@ -375,7 +421,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681669"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Piazza del Campidoglio with Santa Maria d'Aracoeli, Rome",
@@ -393,7 +440,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q52253792"
-  ]
+  ],
+  "gallery": "National Trust",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Pantheon",
@@ -411,7 +461,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q67563987"
-  ]
+  ],
+  "gallery": "Dayton Art Institute",
+  "medium": "Painting"
  },
  {
   "title": "The Piazza San Martino, Lucca",
@@ -429,7 +481,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20081285"
-  ]
+  ],
+  "gallery": "York Art Gallery",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Tiber with the Church of San Giovanni dei Fiorentini, Rome",
@@ -447,7 +502,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q133262833"
-  ]
+  ],
+  "gallery": "Toledo Museum of Art",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Via di Ripetta in Rome",
@@ -465,7 +523,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681632"
-  ]
+  ],
+  "gallery": "Museum Kunstpalast",
+  "medium": "Painting"
  },
  {
   "title": "Capriccio with the Colosseum",
@@ -483,7 +543,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681558"
-  ]
+  ],
+  "gallery": "Galleria nazionale di Parma",
+  "medium": "Painting"
  },
  {
   "title": "Capriccio: The Lagoon, Venice",
@@ -501,7 +563,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118998240"
-  ]
+  ],
+  "gallery": "Bristol City Museum & Art Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Rome: View of the Piazza di San Giovanni in Laterano",
@@ -519,7 +583,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681671"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Ruins of the Forum, Rome",
@@ -537,7 +602,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681651"
-  ]
+  ],
+  "gallery": "National Gallery of Victoria",
+  "medium": "Painting"
  },
  {
   "title": "The Campo di SS. Giovanni e Paolo, Venice",
@@ -555,7 +622,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681642"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Painting"
  },
  {
   "title": "The Tower of Malghera",
@@ -573,7 +642,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118998226"
-  ]
+  ],
+  "gallery": "Bristol City Museum & Art Gallery",
+  "medium": "Painting"
  },
  {
   "title": "View of the Grand Canal: Santa Maria della Salute and the Dogana from Campo Santa Maria Zobenigo",
@@ -591,7 +662,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681606"
-  ]
+  ],
+  "gallery": "Getty Center",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of the Tiber in Rome with the Castel Sant'Angelo",
@@ -609,7 +683,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q64547499"
-  ]
+  ],
+  "gallery": "Detroit Institute of Arts",
+  "medium": "Painting"
  },
  {
   "title": "Vaprio d'Adda",
@@ -627,7 +703,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19905328"
-  ]
+  ],
+  "gallery": "The Metropolitan Museum of Art",
+  "medium": "Painting"
  },
  {
   "title": "Veduta di Gazzada",
@@ -645,7 +723,9 @@
   "title_language": "it",
   "same_as": [
    "wikidata:Q131585698"
-  ]
+  ],
+  "gallery": "Kunsthaus Zürich",
+  "medium": "Painting"
  },
  {
   "title": "View of Gazzada near Varese",
@@ -663,7 +743,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681664"
-  ]
+  ],
+  "gallery": "Pinacoteca di Brera",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "View of Villa Perabò, later Melzi, in Gazzada",
@@ -681,7 +764,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681665"
-  ]
+  ],
+  "gallery": "Pinacoteca di Brera",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Capriccio with a River and Bridge",
@@ -699,7 +785,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681712"
-  ]
+  ],
+  "gallery": "Thyssen-Bornemisza Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Arno in Florence with the Ponte Alla Carraia",
@@ -717,7 +805,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50813673"
-  ]
+  ],
+  "gallery": "Fitzwilliam Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Arno in Florence with the Ponte Vecchio",
@@ -735,7 +826,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50820473"
-  ]
+  ],
+  "gallery": "Fitzwilliam Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Lock at Dolo",
@@ -753,7 +846,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q49399863"
-  ]
+  ],
+  "gallery": "Yale University Art Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Turin, the Old Bridge over the Po from the North-East",
@@ -771,7 +866,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681704"
-  ]
+  ],
+  "gallery": "Galleria Sabauda",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Turin, the Royal Palace from the West",
@@ -789,7 +887,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681705"
-  ]
+  ],
+  "gallery": "Galleria Sabauda",
+  "medium": "Painting"
  },
  {
   "title": "Abbruch der Kreuzkirche, Dresden",
@@ -807,7 +907,8 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q111645195"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Piazza S. Marco, Venice",
@@ -825,7 +926,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q111643246"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "The Old Ponte delle Navi in Verona",
@@ -843,7 +945,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681586"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "View of Verona and the River Adige from the Ponte Nuovo",
@@ -861,7 +966,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681590"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Verona from the Ponte Nuovo",
@@ -879,7 +987,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q52257874"
-  ]
+  ],
+  "gallery": "National Trust",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Dresden from the Right Bank of the Elbe, above the Augustusbrücke",
@@ -897,7 +1008,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681565"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "New Market Place in Dresden",
@@ -915,7 +1029,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681597"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "View of Dresden with the Frauenkirche at Left",
@@ -933,7 +1049,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681660"
-  ]
+  ],
+  "gallery": "North Carolina Museum of Art",
+  "medium": "Painting"
  },
  {
   "title": "Capriccio with the Dolo lock",
@@ -951,7 +1069,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50327090"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "Dresden From the Right Bank of the Elbe Below the Augustus Bridge",
@@ -969,7 +1089,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q1258467"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Dresden from the Left Bank of the Elbe, below the Fortifications",
@@ -987,7 +1110,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681563"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Dresden from the left Bank of the Elbe above the Bridgehead of the Old Town",
@@ -1005,7 +1131,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681562"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Old Fortifications of Dresden",
@@ -1023,7 +1152,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681598"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "View from the Bridge of Dresden on the Elbe",
@@ -1041,7 +1172,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681556"
-  ]
+  ],
+  "gallery": "Fine Arts Museums of San Francisco",
+  "medium": "Painting"
  },
  {
   "title": "View of the Neumarkt in Dresden from the Jüdenhofe",
@@ -1059,7 +1192,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681589"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "A view of the moat of the Zwinger",
@@ -1077,7 +1212,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q97096553"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Dresden Neustadt with a View Towards the North",
@@ -1095,7 +1232,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q64800149"
-  ]
+  ],
+  "gallery": "Städel Museum",
+  "medium": "Painting"
  },
  {
   "title": "Dresden from the Right Bank of the Elbe above the Augustus Bridge",
@@ -1113,7 +1252,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681647"
-  ]
+  ],
+  "gallery": "National Gallery of Ireland",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Dresden from the Right Bank of the Elbe, below the Augustus Bridge (1750)",
@@ -1131,7 +1273,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681649"
-  ]
+  ],
+  "gallery": "National Gallery of Ireland",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Moat of Zwinger in Dresden",
@@ -1149,7 +1294,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681601"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "The New Market in Dresden",
@@ -1167,7 +1314,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681576"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "The New Market in Dresden from Moritzstraße (1750)",
@@ -1185,7 +1334,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681667"
-  ]
+  ],
+  "gallery": "Pinacoteca Giovanni e Marella Agnelli",
+  "medium": "Painting"
  },
  {
   "title": "The Old Fortifications in Dresden",
@@ -1203,7 +1354,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681582"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Old Market in Dresden from Schlossgasse",
@@ -1221,7 +1375,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681584"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "The Old Market in Dresden from Seegasse",
@@ -1239,7 +1396,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681585"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Pirna from the Sonnenstein Castle",
@@ -1257,7 +1417,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681604"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "Dresden from the Right Bank of the Elbe below the Augustus Bridge (1751)",
@@ -1275,7 +1437,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681564"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Market-Place of the Neustadt in Dresden",
@@ -1293,7 +1458,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681596"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "Old Market-Place in Dresden",
@@ -1311,7 +1478,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681599"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "Square with the Kreuzkirche in Dresden",
@@ -1329,7 +1498,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681600"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Frauenkirche in Dresden",
@@ -1347,7 +1518,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681566"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Kreuzkirche in Dresden",
@@ -1365,7 +1539,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681572"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Moat of the Zwinger in Dresden",
@@ -1383,7 +1560,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681575"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The New Market in Dresden from Moritzstraße (1751)",
@@ -1401,7 +1581,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681581"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Zwinger in Dresden",
@@ -1419,7 +1602,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681588"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Zwinger in Dresden",
@@ -1437,7 +1623,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681605"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "Pirna Seen from the Harbour Town",
@@ -1455,7 +1643,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681593"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "Pirna from Kopitz",
@@ -1473,7 +1663,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681591"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Pirna from Posta",
@@ -1491,7 +1684,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681568"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Pirna from the Right Bank of the Elba above the Town",
@@ -1509,7 +1705,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681603"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "View of Pirna, from Sonnestein Castle (1753)",
@@ -1527,7 +1725,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681681"
-  ]
+  ],
+  "gallery": "Pushkin Museum of Fine Arts",
+  "medium": "Painting"
  },
  {
   "title": "Die Breite Gasse in Pirna",
@@ -1545,7 +1745,9 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q50327326"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "Pirna from the corner of Breitegasse",
@@ -1563,7 +1765,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50327345"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "The Marketplace in Pirna",
@@ -1581,7 +1785,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681574"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Pirna from the South",
@@ -1599,7 +1806,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681592"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Pirna from the right bank of the Elbe near Copitz",
@@ -1617,7 +1827,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50327370"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "View of Pirna from the West, from the Corner of Wide Street",
@@ -1635,7 +1848,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q21723045"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "View of Pirna, from Sonnenstein Castle (1755)",
@@ -1653,7 +1868,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681595"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "View of Pirna, from Sonnestein Castle (1755)",
@@ -1671,7 +1889,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681547"
-  ]
+  ],
+  "gallery": "Art Institute of Chicago",
+  "medium": "Painting"
  },
  {
   "title": "Pirna seen from the right bank of the Elbe",
@@ -1689,7 +1909,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681708"
-  ]
+  ],
+  "gallery": "San Diego Museum of Art",
+  "medium": "Painting"
  },
  {
   "title": "Saint Mark's Square, Venice",
@@ -1707,7 +1929,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q77943462"
-  ]
+  ],
+  "gallery": "National Gallery of Ireland",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Fortress of Königstein",
@@ -1725,7 +1950,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681644"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Painting"
  },
  {
   "title": "The Fortress of Königstein: Courtyard with the Magdalenenburg",
@@ -1743,7 +1970,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681645"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Painting"
  },
  {
   "title": "The Fortress of Königstein from the North",
@@ -1761,7 +1990,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119007328"
-  ]
+  ],
+  "gallery": "National Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Fortress of Konigstein: Courtyard with the Brunnenhaus",
@@ -1779,7 +2010,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119004500"
-  ]
+  ],
+  "gallery": "Manchester Art Gallery",
+  "medium": "Painting"
  },
  {
   "title": "The Fortress of Konigstein: Courtyard with the Magdalenenburg (1757)",
@@ -1797,7 +2030,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119007601"
-  ]
+  ],
+  "gallery": "Manchester Art Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Ansicht von München",
@@ -1815,7 +2050,9 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q111637394"
-  ]
+  ],
+  "gallery": "Art collection of the Federal Republic of Germany",
+  "medium": "Painting"
  },
  {
   "title": "Das kaiserliche Lustschloß Schloss Hof, Ehrenhofseite",
@@ -1833,7 +2070,9 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q19681621"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "Das kaiserliche Lustschloß Schönbrunn, Gartenseite",
@@ -1851,7 +2090,10 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q19681624"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Die Ruine Theben an der March",
@@ -1869,7 +2111,9 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q19681623"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "Mehlmarkt in Vienna",
@@ -1887,7 +2131,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681612"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Schloss Hof, Garden Side",
@@ -1905,7 +2152,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681613"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Schlosshof Castle as",
@@ -1923,7 +2173,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681614"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Freyung in Vienna, from the North-West",
@@ -1941,7 +2193,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681615"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Freyung in Vienne, from the South-East",
@@ -1959,7 +2213,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681616"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "Universitätsplatz in Vienna",
@@ -1977,7 +2233,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681617"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Venedig (Rio di S. Fosca und S. Maria dei Servil)",
@@ -1995,7 +2254,9 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q111639016"
-  ]
+  ],
+  "gallery": "Art collection of the Federal Republic of Germany",
+  "medium": "Painting"
  },
  {
   "title": "View of Vienna with St. Charles's Church",
@@ -2013,7 +2274,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q111635315"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Das kaiserliche Lustschloß Schönbrunn, Ehrenhofseite",
@@ -2031,7 +2293,10 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q19681622"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Lobkowitzplatz in Vienna",
@@ -2049,7 +2314,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681610"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Garden",
@@ -2067,7 +2334,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681625"
-  ]
+  ],
+  "gallery": "Liechtenstein Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Kaunitz Palace and Garden in Vienna",
@@ -2085,7 +2354,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681635"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts, Budapest",
+  "medium": "Painting"
  },
  {
   "title": "Vienna, Dominican Church",
@@ -2103,7 +2374,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681619"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting"
  },
  {
   "title": "View of Pirna, from Sonnenstein Castle (1759)",
@@ -2121,7 +2394,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18573825"
-  ]
+  ],
+  "gallery": "Louvre Museum",
+  "medium": "Painting"
  },
  {
   "title": "Campo San Stin, Venice",
@@ -2139,7 +2414,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q52249446"
-  ]
+  ],
+  "gallery": "National Trust",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Pirna: The Obertor from the South",
@@ -2157,7 +2435,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19911875"
-  ]
+  ],
+  "gallery": "The Metropolitan Museum of Art",
+  "medium": "Painting"
  },
  {
   "title": "Munich from Heidhausen",
@@ -2175,7 +2455,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q29902883"
-  ]
+  ],
+  "gallery": "Bavarian State Painting Collections",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Nymphenburg Palace, Munich",
@@ -2193,7 +2476,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681641"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Dresden Ruins",
@@ -2211,7 +2497,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681629"
-  ]
+  ],
+  "gallery": "Musée des Beaux-Arts de Troyes",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Munich",
@@ -2229,7 +2518,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681646"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Painting"
  },
  {
   "title": "Allegory Inclinata Resurgit",
@@ -2247,7 +2538,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681561"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Allegory"
  },
  {
   "title": "Hall in the Palace Courtyard (in the Palace in Warsaw)",
@@ -2265,7 +2559,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50327372"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Ruins and Figures, Outskirts of Rome near the Tomb of Cecilia Metella",
@@ -2283,7 +2580,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119678116"
-  ]
+  ],
+  "gallery": "Shipley Art Gallery",
+  "medium": "Painting"
  },
  {
   "title": "Staircase in the Palace Courtyard (in the Palace of Warsaw)",
@@ -2301,7 +2600,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q50327416"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "Stairs Leading to the Colonnade of a Palace",
@@ -2319,7 +2620,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681569"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting"
  },
  {
   "title": "Veduta Ideale with Palace Staircase",
@@ -2337,7 +2640,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q137655747"
-  ]
+  ],
+  "gallery": "Hamburger Kunsthalle",
+  "medium": "Painting"
  },
  {
   "title": "two hussars",
@@ -2355,7 +2660,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q28926512"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Drawing",
+  "genre": "Portrait"
  },
  {
   "title": "Allegory Ex Arduis Immortalitas",
@@ -2373,7 +2681,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681560"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Allegory"
  },
  {
   "title": "Fantastic architecture with portrait of Franciszek Salezy Potocki and his son Stanisław Szczęsny",
@@ -2391,7 +2702,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681551"
-  ]
+  ],
+  "gallery": "El Paso Museum of Art",
+  "medium": "Painting"
  },
  {
   "title": "Architectural Capriccio with a Self-portrait in the Costume of a Venetian Nobleman",
@@ -2409,7 +2722,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q138856659"
-  ]
+  ],
+  "gallery": "Agnes Etherington Art Centre",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "The Marketplace at Pirna",
@@ -2427,7 +2743,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681638"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts, Houston",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "A Capriccio River Landscape with a Church to the Left",
@@ -2445,7 +2764,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q66050065"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "A Capriccio of Palaces and a Loggia Facing a Classical Bridge",
@@ -2463,7 +2784,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q64537367"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Drawing"
  },
  {
   "title": "Architectural Capriccio",
@@ -2481,7 +2804,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681707"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Architectural Caprice with a Palace",
@@ -2499,7 +2823,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18683414"
-  ]
+  ],
+  "gallery": "Bilbao Fine Arts Museum",
+  "medium": "Painting"
  },
  {
   "title": "Guardsman",
@@ -2517,7 +2843,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q28926668"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Drawing",
+  "genre": "Portrait"
  },
  {
   "title": "Jesus Cleansing the Temple",
@@ -2535,7 +2864,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681655"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting",
+  "genre": "Religious"
  },
  {
   "title": "Old town of Dresden",
@@ -2553,7 +2885,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681709"
-  ]
+  ],
+  "gallery": "Staatliche Kunsthalle Karlsruhe",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Self-portrait as Venetian ambassador",
@@ -2571,7 +2906,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681656"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "The Ruins of the old Kreuzkirche, Dresden (1765), Staatliche Kunstsammlungen Dresden",
@@ -2589,7 +2927,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681587"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Ruins of the old Kreuzkirche, Dresden (1765), Kunsthaus Zürich",
@@ -2607,7 +2948,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681607"
-  ]
+  ],
+  "gallery": "Kunsthaus Zürich",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Dresden (from the Neustadt below the bridge)",
@@ -2625,7 +2969,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q140914857"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "The Elbe between Pirna and Pillnitz",
@@ -2643,7 +2990,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681571"
-  ]
+  ],
+  "gallery": "Staatliche Kunstsammlungen Dresden",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Cracow Suburb as seen from the Cracow Gate",
@@ -2661,7 +3011,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681687"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Illusionistic vault design of a hall in the Ujazdów Castle",
@@ -2679,7 +3032,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681654"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Widok Kapitolu z kościołem Santa Maria in Aracoeli",
@@ -2697,7 +3052,9 @@
   "title_language": "pl",
   "same_as": [
    "wikidata:Q122309526"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Piazza in front of the Pantheon",
@@ -2715,7 +3072,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681677"
-  ]
+  ],
+  "gallery": "Pushkin Museum of Fine Arts",
+  "medium": "Painting"
  },
  {
   "title": "The Roman Forum",
@@ -2733,7 +3092,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681679"
-  ]
+  ],
+  "gallery": "Pushkin Museum of Fine Arts",
+  "medium": "Painting"
  },
  {
   "title": "Widok kościoła Bernardynek i kolumny Zygmunta III od strony zjazdu do Wisły",
@@ -2751,7 +3112,9 @@
   "title_language": "pl",
   "same_as": [
    "wikidata:Q122311141"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Forum of Nerva in Rome",
@@ -2769,7 +3132,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q124838804"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "View of Warsaw from Praga",
@@ -2787,7 +3152,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681696"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "View of Praga with Bernardine church",
@@ -2805,7 +3172,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q112064011"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Widok Warszawy z pałacem Ordynackim",
@@ -2823,7 +3192,9 @@
   "title_language": "pl",
   "same_as": [
    "wikidata:Q122422225"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Colonel Piotr Königsfels teaching Prince Józef Poniatowski how to ride",
@@ -2841,7 +3212,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681652"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Equestrian Portrait of a Hussar Officer",
@@ -2859,7 +3233,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681609"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "Equestrian Portrait of the King of Poland's Page Gintowt",
@@ -2877,7 +3254,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119626678"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Groom leading a horse",
@@ -2895,7 +3274,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681653"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting",
+  "genre": "Animal"
  },
  {
   "title": "Stable boy leading a horse",
@@ -2913,7 +3295,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q104541143"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "View of Warsaw from the terrace of the Royal Castle",
@@ -2931,7 +3315,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681659"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View of Cracow Suburb leading to the Castle Square",
@@ -2949,7 +3336,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681695"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "View of Wilanów meadows",
@@ -2967,7 +3356,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681697"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Portrait of Szmul Zbytkower",
@@ -2985,7 +3376,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q135002879"
-  ]
+  ],
+  "gallery": "Museum of the History of Polish Jews",
+  "medium": "Painting",
+  "genre": "Portrait"
  },
  {
   "title": "View of Ujazdów from the Royal Baths",
@@ -3003,7 +3397,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681657"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Wilanów Palace as seen from the entrance",
@@ -3021,7 +3418,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681701"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Wilanów Palace as seen from the garden",
@@ -3039,7 +3438,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681702"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Miodowa Street in Warsaw",
@@ -3057,7 +3458,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q9365659"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Wilanów Palace as seen from north-east",
@@ -3075,7 +3479,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681699"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Wilanów Palace as seen from south",
@@ -3093,7 +3499,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681700"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Cracow Suburb as seen from New World Street",
@@ -3111,7 +3519,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681686"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Długa Street in Warsaw",
@@ -3129,7 +3539,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q122682316"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Election of Stanislas Augustus",
@@ -3147,7 +3559,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681688"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Krasiński Square with the Palace of the Republic",
@@ -3165,7 +3579,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q122683619"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "The New Town Market Square with St. Kazimierz Church",
@@ -3183,7 +3599,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681692"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Behind the Iron Gate Square in Warsaw",
@@ -3201,7 +3619,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681683"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Church of the Reformed Franciscans",
@@ -3219,7 +3640,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q133821988"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Entry of Jerzy Ossoliński into Rome in 1633",
@@ -3237,7 +3661,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q105296752"
-  ]
+  ],
+  "gallery": "National Museum in Wrocław",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Mniszech Palace in Warsaw",
@@ -3255,7 +3682,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681690"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "The Blue Palace in Warsaw",
@@ -3273,7 +3702,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681691"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Dresden, Neumarkt, das Renaissance-Gewandhaus (mit zwei Giebeln) links, wurde von Paul Buchner errichtet",
@@ -3291,7 +3722,8 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q133262848"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Bridgettine Church and Arsenal in Warsaw",
@@ -3309,7 +3741,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681684"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "Carmelite Church in Warsaw",
@@ -3327,7 +3761,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681685"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "View of Dresden from the right bank of the Elbe above the Augustus Bridge",
@@ -3345,7 +3781,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681662"
-  ]
+  ],
+  "gallery": "Palace Museum in Wilanów",
+  "medium": "Painting"
  },
  {
   "title": "Visitationist Church in Warsaw",
@@ -3363,7 +3801,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681698"
-  ]
+  ],
+  "gallery": "Royal Castle in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "A View of the Mills at Dolo on the Brenta",
@@ -3381,7 +3821,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q131830155"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Architectural Capriccio with a Palace Beside a Moat",
@@ -3399,7 +3840,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q105496515"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Entrance to the Grand Canal and the Church of La Salute",
@@ -3417,7 +3859,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18117993"
-  ]
+  ],
+  "gallery": "Louvre Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "History of Turin",
@@ -3435,7 +3880,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q3974377"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Karlskirche in Vienna",
@@ -3453,7 +3899,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681631"
-  ]
+  ],
+  "gallery": "Museum Kunstpalast",
+  "medium": "Painting"
  },
  {
   "title": "La Piazza d'Arno",
@@ -3471,7 +3919,8 @@
   "title_language": "it",
   "same_as": [
    "wikidata:Q19681668"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Pirna, a view of the the Market Square",
@@ -3489,7 +3938,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118371919"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Ruins of a Temple",
@@ -3507,7 +3958,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19904654"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Sforza Castle in Milan",
@@ -3525,7 +3977,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q132797201"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "St. Mark's Square, Venice",
@@ -3543,7 +3996,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q124155957"
-  ]
+  ],
+  "gallery": "Musée des Beaux-Arts de Chartres",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Supposed Self Portrait of Giovanni Antonio Canal (1697-1768)",
@@ -3561,7 +4017,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q118139220"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Self-portrait"
  },
  {
   "title": "The Grand Canal from the Campo San Vio, Venice",
@@ -3579,7 +4037,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q27964680"
-  ]
+  ],
+  "gallery": "National Galleries Scotland",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Ponte Vecchio, Florence",
@@ -3597,7 +4058,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20538267"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts Boston",
+  "medium": "Painting"
  },
  {
   "title": "The Riva delle Barche and the Antica Posta, Mestre",
@@ -3615,7 +4078,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19660544"
-  ]
+  ],
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The high gate of Pirna",
@@ -3633,7 +4098,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q107436987"
-  ]
+  ],
+  "gallery": "Gemäldegalerie Berlin",
+  "medium": "Painting"
  },
  {
   "title": "The market-place of Pirna",
@@ -3651,7 +4118,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q107436985"
-  ]
+  ],
+  "gallery": "Gemäldegalerie Berlin",
+  "medium": "Painting"
  },
  {
   "title": "Venedig (Vermählung des Dogen mit dem Meer)",
@@ -3669,7 +4138,9 @@
   "title_language": "de",
   "same_as": [
    "wikidata:Q111637141"
-  ]
+  ],
+  "gallery": "Art collection of the Federal Republic of Germany",
+  "medium": "Painting"
  },
  {
   "title": "Venice, The Grand Canal, Looking South-West, From the Rialto Bridge to the Palazzo Foscari",
@@ -3687,7 +4158,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681672"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Venice. A View of the molo, looking west, with the Palazzo ducale and south side of the Piazzetta",
@@ -3705,7 +4177,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q133040414"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "View of Pirna",
@@ -3723,7 +4196,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q61747299"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "View of Pirna in Saxony",
@@ -3741,7 +4216,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q104540761"
-  ]
+  ],
+  "gallery": "National Museum in Warsaw",
+  "medium": "Painting"
  },
  {
   "title": "View of Vienna from the Belvedere",
@@ -3759,7 +4236,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19681620"
-  ]
+  ],
+  "gallery": "Kunsthistorisches Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Vue des Remparts de Sonnenstein (View of the Ramparts of Sonnenstein)",
@@ -3777,6 +4257,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q76552546"
-  ]
+  ],
+  "gallery": "National Gallery of Art",
+  "medium": "Painting"
  }
 ]

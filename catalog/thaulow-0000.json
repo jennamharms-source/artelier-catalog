@@ -15,7 +15,10 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q55411126"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "The King, from Akershus fortress",
@@ -33,7 +36,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119515075"
-  ]
+  ],
+  "gallery": "Lillehammer Art Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "View from Jæren",
@@ -51,7 +57,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411176"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "On the coast. Motif from Jaeren, Norway",
@@ -69,7 +78,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18574403"
-  ]
+  ],
+  "gallery": "Nationalmuseum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Parisian View",
@@ -87,7 +99,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411154"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Eva Sars spaserende i Slottsparken med en venninne",
@@ -105,7 +120,10 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q115386800"
-  ]
+  ],
+  "gallery": "Oslo Museum",
+  "medium": "Painting",
+  "genre": "Genre scene"
  },
  {
   "title": "From the Outskirts of Kristiania",
@@ -123,7 +141,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411141"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Sommerdag i hagen",
@@ -141,7 +162,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119517963"
-  ]
+  ],
+  "gallery": "Lillehammer Art Museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Summer day",
@@ -159,7 +183,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q122947415"
-  ]
+  ],
+  "gallery": "KODE Art museums and composer homes",
+  "medium": "Painting"
  },
  {
   "title": "The Train is arriving",
@@ -177,7 +203,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411163"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Houses in Kragerø",
@@ -195,7 +223,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411405"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Rock, Motif from Kragerö",
@@ -213,7 +243,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q110471668"
-  ]
+  ],
+  "gallery": "Gothenburg Museum of Art",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Street in Kragerø",
@@ -231,7 +264,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411499"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "The Park of the Royal Palace, Oslo",
@@ -249,7 +285,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411146"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "A River",
@@ -264,7 +303,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Factories in Ivry",
@@ -282,7 +322,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411172"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "The Waterfall Haugsfossen",
@@ -300,7 +343,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411489"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Winter at the River Simoa",
@@ -318,7 +364,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55425826"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Iskjøring",
@@ -336,7 +385,10 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q119517814"
-  ]
+  ],
+  "gallery": "Lillehammer Art Museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Night",
@@ -354,7 +406,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q21716695"
-  ]
+  ],
+  "gallery": "Hermitage Museum",
+  "medium": "Painting"
  },
  {
   "title": "View from the Alster",
@@ -372,7 +426,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411195"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Dordrecht (1886)",
@@ -390,7 +446,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q107060626"
-  ]
+  ],
+  "gallery": "Thiel Gallery",
+  "medium": "Painting"
  },
  {
   "title": "River",
@@ -408,7 +466,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q122955572"
-  ]
+  ],
+  "gallery": "KODE Art museums and composer homes",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Winter (1886), National Museum of Art, Architecture and Design",
@@ -426,7 +487,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411133"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Winter (1886), National Museum of Art, Architecture and Design (2)",
@@ -444,7 +508,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411398"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Winter in Norway",
@@ -462,7 +529,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q17491661"
-  ]
+  ],
+  "gallery": "Musée d'Orsay",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Mill Scene",
@@ -480,7 +550,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q78686225"
-  ]
+  ],
+  "gallery": "Saint Louis Art Museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Spring Thaw",
@@ -498,7 +571,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q106369407"
-  ]
+  ],
+  "gallery": "Nationalmuseum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Winter in Vestre Aker",
@@ -516,7 +592,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411382"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Løvsprett",
@@ -534,7 +613,10 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q118256130"
-  ]
+  ],
+  "gallery": "Trondheim  art museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Vinter Vestre Aker",
@@ -552,7 +634,10 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q55429945"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Norsk vinterlandskap",
@@ -567,7 +652,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "no"
+  "title_language": "no",
+  "medium": "Painting"
  },
  {
   "title": "The Sailing Boat",
@@ -585,7 +671,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411223"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "The Mills at Montreuil-sur-Mer, Normandy",
@@ -603,7 +691,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20891287"
-  ]
+  ],
+  "gallery": "Minneapolis Institute of Art",
+  "medium": "Painting"
  },
  {
   "title": "A January Day in Norway",
@@ -621,7 +711,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18574037"
-  ]
+  ],
+  "gallery": "Nationalmuseum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Timber Haulers returning Home",
@@ -639,7 +732,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q122947010"
-  ]
+  ],
+  "gallery": "KODE Art museums and composer homes",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Ambiance Du Soir",
@@ -654,7 +750,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "fr"
+  "title_language": "fr",
+  "medium": "Painting"
  },
  {
   "title": "Outside the Fortification Walls at Montreuil",
@@ -672,7 +769,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411207"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Area of Venice",
@@ -687,7 +786,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Red Church Wall in Venice",
@@ -705,7 +805,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411423"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "River in Normandy",
@@ -723,7 +825,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q107061483"
-  ]
+  ],
+  "gallery": "Huntington Museum of Art",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Skiers at the Top of a Snow-covered Hill",
@@ -741,7 +846,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20540783"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts Boston",
+  "medium": "Painting"
  },
  {
   "title": "Street in Venice",
@@ -759,7 +866,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411229"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "The Adige River at Verona",
@@ -777,7 +886,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18748518"
-  ]
+  ],
+  "gallery": "The Walters Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "The Main Square, Montreuil (La Grande Place, Montreuil)",
@@ -795,7 +906,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q64517386"
-  ]
+  ],
+  "gallery": "Rhode Island School of Design Museum",
+  "medium": "Painting"
  },
  {
   "title": "Kveldstemning, Dieppe",
@@ -810,7 +923,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "no"
+  "title_language": "no",
+  "medium": "Painting"
  },
  {
   "title": "A Château in Normandy",
@@ -825,7 +939,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "En gade i måneskin",
@@ -843,7 +958,8 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q107059720"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Fra Dieppe med elven Arques",
@@ -858,7 +974,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "no"
+  "title_language": "no",
+  "medium": "Painting"
  },
  {
   "title": "Under the Rialto Bridge of Venice",
@@ -873,7 +990,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "View of Venice",
@@ -888,7 +1006,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Evening in Dieppe",
@@ -906,7 +1025,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411445"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "July 14th in Dieppe",
@@ -924,7 +1046,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411218"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Moonlight in Dieppe",
@@ -942,7 +1066,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411353"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Norwegian Winter",
@@ -960,7 +1087,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55427926"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Old Factory on the River Somme (Evening)",
@@ -978,7 +1108,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q19937319"
-  ]
+  ],
+  "gallery": "Strasbourg Museum of Modern and Contemporary Art",
+  "medium": "Painting"
  },
  {
   "title": "From the Beach at Dieppe",
@@ -996,7 +1128,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411430"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Midnight in Amiens",
@@ -1014,7 +1149,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411466"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "View from Paris near the Madeleine Church",
@@ -1032,7 +1169,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411376"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Village on the Bank of a Stream",
@@ -1050,7 +1190,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18748519"
-  ]
+  ],
+  "gallery": "The Walters Art Museum",
+  "medium": "Painting"
  },
  {
   "title": "Vinter ved Akerselva",
@@ -1068,7 +1210,10 @@
   "title_language": "no",
   "same_as": [
    "wikidata:Q116983895"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Field of Melons near Pittsburgh, USA",
@@ -1086,7 +1231,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411367"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Gare d'Orleans in Paris under Construction",
@@ -1104,7 +1252,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411362"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Monks on the Deck",
@@ -1122,7 +1273,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411211"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Genre scene"
  },
  {
   "title": "Mountain stream, Winter",
@@ -1137,7 +1291,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "River in northern France",
@@ -1155,7 +1310,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411452"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Village Street in overcast Weather",
@@ -1173,7 +1331,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411355"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Picquigny",
@@ -1191,7 +1352,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q111729983"
-  ]
+  ],
+  "gallery": "The Metropolitan Museum of Art",
+  "medium": "Painting"
  },
  {
   "title": "Clergy House in Norway",
@@ -1209,7 +1372,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q107046128"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Den gamle fabrikk",
@@ -1227,7 +1391,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119513609"
-  ]
+  ],
+  "gallery": "Lillehammer Art Museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "From Brittany",
@@ -1245,7 +1412,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411200"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Treschow's Bridge",
@@ -1263,7 +1432,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119511682"
-  ]
+  ],
+  "gallery": "Lillehammer Art Museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Evening in Beaulieu",
@@ -1281,7 +1453,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411410"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "Landscape",
@@ -1299,7 +1473,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q99508464"
-  ]
+  ],
+  "gallery": "Strasbourg Museum of Modern and Contemporary Art",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Marmortrappen",
@@ -1314,7 +1491,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "no"
+  "title_language": "no",
+  "medium": "Painting"
  },
  {
   "title": "Square in Cordova",
@@ -1332,7 +1510,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55424290"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Genre scene"
  },
  {
   "title": "Nyholms Vagt",
@@ -1350,7 +1531,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119520870"
-  ]
+  ],
+  "gallery": "Lillehammer Art Museum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Place Marbot",
@@ -1365,7 +1549,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Dordrecht (1905)",
@@ -1380,7 +1565,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Fabriques en Norvège, les deux moulins sur la rivière Mesma",
@@ -1398,7 +1584,9 @@
   "title_language": "fr",
   "same_as": [
    "wikidata:Q115739425"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts of Reims",
+  "medium": "Painting"
  },
  {
   "title": "La nouvelle fabrique à Lillehammer",
@@ -1416,7 +1604,10 @@
   "title_language": "fr",
   "same_as": [
    "wikidata:Q104444534"
-  ]
+  ],
+  "gallery": "Musée des Beaux-Arts de la ville de Paris",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Volendam",
@@ -1431,7 +1622,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Canal in Volendam",
@@ -1449,7 +1641,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55411436"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting"
  },
  {
   "title": "A Factory in Norway",
@@ -1467,7 +1661,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q109716129"
-  ]
+  ],
+  "gallery": "Aberdeen Archives, Gallery and Museums collections",
+  "medium": "Painting"
  },
  {
   "title": "A French River Landscape",
@@ -1482,7 +1678,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "A Stream in Springtime",
@@ -1500,7 +1697,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q124050736"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "A Young Woman by the Edge of a River",
@@ -1515,7 +1713,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "Boulevard de la Madeleine in Paris",
@@ -1533,7 +1732,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q59508454"
-  ]
+  ],
+  "gallery": "Pushkin Museum of Fine Arts",
+  "medium": "Painting"
  },
  {
   "title": "Havetrapp i sne",
@@ -1551,7 +1752,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q55410959"
-  ]
+  ],
+  "gallery": "National Museum of Art, Architecture and Design",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Low Water",
@@ -1569,7 +1773,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18599526"
-  ]
+  ],
+  "gallery": "Nationalmuseum",
+  "medium": "Painting",
+  "genre": "Cityscape"
  },
  {
   "title": "Moonlight on a Canal, Venice",
@@ -1587,7 +1794,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20540779"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts Boston",
+  "medium": "Painting"
  },
  {
   "title": "Orillas del río en primavera",
@@ -1605,7 +1814,9 @@
   "title_language": "es",
   "same_as": [
    "wikidata:Q27954890"
-  ]
+  ],
+  "gallery": "National Museum of Fine Arts, Argentina",
+  "medium": "Painting"
  },
  {
   "title": "Ponte Vecchio, Verona",
@@ -1623,7 +1834,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q77956450"
-  ]
+  ],
+  "gallery": "National Gallery of Ireland",
+  "medium": "Painting"
  },
  {
   "title": "Ponte pietra, verona",
@@ -1641,7 +1854,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q134888745"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Shadows",
@@ -1659,7 +1873,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q18574245"
-  ]
+  ],
+  "gallery": "Nationalmuseum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Snow-covered Buildings along a Canal",
@@ -1677,7 +1894,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q20540776"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts Boston",
+  "medium": "Painting"
  },
  {
   "title": "Soleil couchant sur l'Arques à Péquigny",
@@ -1695,7 +1914,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q115739429"
-  ]
+  ],
+  "gallery": "Museum of Fine Arts of Reims",
+  "medium": "Painting"
  },
  {
   "title": "The Priest",
@@ -1710,7 +1931,8 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  },
  {
   "title": "The River",
@@ -1728,7 +1950,9 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q119958469"
-  ]
+  ],
+  "gallery": "Bradford Museums and Galleries",
+  "medium": "Painting"
  },
  {
   "title": "The River at Beaulieu",
@@ -1746,7 +1970,10 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q103876703"
-  ]
+  ],
+  "gallery": "Reading Public Museum",
+  "medium": "Painting",
+  "genre": "Landscape"
  },
  {
   "title": "Venice",
@@ -1764,7 +1991,8 @@
   "title_language": "en",
   "same_as": [
    "wikidata:Q105477256"
-  ]
+  ],
+  "medium": "Painting"
  },
  {
   "title": "Winter in Paris",
@@ -1779,6 +2007,7 @@
   "attribution": "Wikimedia Commons",
   "country": "Norway",
   "artist_death_year": 1906,
-  "title_language": "en"
+  "title_language": "en",
+  "medium": "Painting"
  }
 ]
