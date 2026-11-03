@@ -3,8 +3,8 @@
   "source_repo": "https://github.com/metmuseum/openaccess",
   "image_index": "https://github.com/graslowsnail/metmuseum-api-dump-enhanced (CC0)",
   "license": "CC0; public-domain works per the official Met dataset, restricted images excluded",
-  "records": 82954,
-  "artists": 14793,
+  "records": 84502,
+  "artists": 14400,
   "shards": 17,
   "shard_files": [
     "met-0000.json",

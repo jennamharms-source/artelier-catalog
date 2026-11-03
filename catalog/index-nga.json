@@ -2,8 +2,8 @@
   "source": "National Gallery of Art open data",
   "source_repo": "https://github.com/NationalGalleryOfArt/opendata",
   "license": "CC0; open-access images only (published_images.openaccess)",
-  "records": 53138,
-  "artists": 6087,
+  "records": 53142,
+  "artists": 6089,
   "shards": 11,
   "shard_files": [
     "nga-0000.json",
