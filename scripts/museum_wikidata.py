@@ -141,6 +141,7 @@ def main():
         if any(f for f in real.values()): why['attributed / workshop / follower'] += 1; continue
         if len(real) > 1: why['several artists'] += 1; continue
         if COPY_T.search(t): why['copy (title)'] += 1; continue
+        if real and next(iter(real)) == 'Q5593' and any(year_of(v) > 1923 for v, _ in w.get('dates', [])): why['Picasso after 1923 (owner rule)'] += 1; continue
         if real:
             c = next(iter(real)); p = P.get(c, {})
             if not p.get('name') or 'Q5' not in p.get('p31', set()): why['maker is not a person'] += 1; continue
