@@ -4,19 +4,27 @@
   "artist": "Frits Thaulow",
   "qid": "Q445891",
   "added": "2026-11-03",
-  "birth_year": "1847",
-  "death_year": "1906",
+  "birth_year": 1847,
+  "death_year": 1906,
   "nationality": "Norwegian",
-  "art_movement": "Impressionism"
+  "art_movement": "Impressionism",
+  "description": "Norwegian painter (1847-1906)"
  },
  {
   "shard": "bellotto-0000",
   "artist": "Bernardo Bellotto",
   "qid": "Q164688",
   "added": "2026-11-03",
-  "birth_year": "1722",
-  "death_year": "1780",
+  "birth_year": 1722,
+  "death_year": 1780,
   "nationality": "Italian",
+  "description": "Italian artist (1722–1780)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo_Bellotto.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Bernardo Bellotto"
+  },
   "art_movement": "Vedutism"
  },
  {
@@ -24,39 +32,54 @@
   "artist": "Helene Schjerfbeck",
   "qid": "Q236985",
   "added": "2026-11-03",
-  "birth_year": "1862",
-  "death_year": "1946",
+  "birth_year": 1862,
+  "death_year": 1946,
   "nationality": "Finnish",
-  "art_movement": "Modernism"
+  "art_movement": "realism",
+  "description": "swedish-speaking painter of Finland (1862-1946)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schjerfbeck.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Schjerfbeck.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Anonymous Unknown author / Centralarkivet för bildkonst"
+  }
  },
  {
   "shard": "gentileschi-0000",
   "artist": "Artemisia Gentileschi",
   "qid": "Q212657",
   "added": "2026-11-03",
-  "birth_year": "1593",
-  "death_year": "1653",
+  "birth_year": 1593,
+  "death_year": 1653,
   "nationality": "Italian",
-  "art_movement": "Baroque"
+  "art_movement": "Caravaggisti",
+  "description": "Italian Baroque painter (1593-1651)"
  },
  {
   "shard": "boznanska-0000",
   "artist": "Olga Boznańska",
   "qid": "Q466639",
   "added": "2026-11-03",
-  "birth_year": "1865",
-  "death_year": "1940",
+  "birth_year": 1865,
+  "death_year": 1940,
   "nationality": "Polish",
-  "art_movement": "Impressionism"
+  "description": "Polish artist (1865–1940)"
  },
  {
   "shard": "north-0000",
   "artist": "Marianne North",
   "qid": "Q271648",
   "added": "2026-11-03",
-  "birth_year": "1830",
-  "death_year": "1890",
+  "birth_year": 1830,
+  "death_year": 1890,
   "nationality": "British",
+  "description": "English philanthropist, painter, biologist and botanical artist (1830-1890)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marianne_North01.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Marianne_North01.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Julia Margaret Cameron (1815–1879)"
+  },
   "art_movement": "Botanical illustration"
  }
 ]

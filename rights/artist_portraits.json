@@ -3037,6 +3037,12 @@
   "image_license": "public_domain",
   "image_credit": "Hugo Erfurth"
  },
+ "Q164688": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo_Bellotto.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Bernardo Bellotto"
+ },
  "Q164696": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kw11_0012025_20190129_001_Baldung_Jugendliches_Selbstbildnis.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Kw11_0012025_20190129_001_Baldung_Jugendliches_Selbstbildnis.jpg",
@@ -6139,6 +6145,12 @@
   "image_license": "public_domain",
   "image_credit": "Unknown authorUnknown author"
  },
+ "Q236985": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schjerfbeck.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Schjerfbeck.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Anonymous Unknown author / Centralarkivet för bildkonst"
+ },
  "Q23761684": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurent-mariano_roca.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Laurent-mariano_roca.jpg",
@@ -7138,6 +7150,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:La_siesta%2C_de_Marcos_Hir%C3%A1ldez_Acosta_%28Museo_del_Prado%29.jpg",
   "image_license": "public_domain",
   "image_credit": "Wikimedia Commons"
+ },
+ "Q271648": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marianne_North01.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Marianne_North01.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Julia Margaret Cameron (1815–1879)"
  },
  "Q271676": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_brun.jpg?width=500",
