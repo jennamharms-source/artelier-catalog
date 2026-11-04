@@ -14,7 +14,8 @@ ROOT = __file__.rsplit('/scripts/', 1)[0]
 UA = {'User-Agent': 'ArtelierCatalogBot/1.0 (artelier@artelierapp.co)', 'Accept': 'application/sparql-results+json'}
 TYPES = {'painting': 'Q3305213', 'watercolor': 'Q18761202', 'pastel': 'Q12043905', 'panel painting': 'Q15711026'}
 MEDIUM = {'Q3305213': 'Painting', 'Q15711026': 'Painting', 'Q18761202': 'Watercolor', 'Q12043905': 'Pastel'}
-ANON = {'Q4233718'}                                       # "anonymous"
+ANON = {'Q4233718'}
+TITLE_LANGS = ['en', 'fr', 'mul', 'de', 'it', 'es', 'nl', 'ru', 'pl', 'sv', 'da', 'nb', 'fi', 'pt', 'ca', 'cs']   # English first, else the work's own language                                       # "anonymous"
 # creator qualifiers that make the work not simply by that artist
 COPY_QUAL = {'P1773', 'P1774', 'P1775', 'P1776', 'P1777', 'P1780', 'P1877', 'P1778'}  # attributed, workshop, follower, circle, manner, school, after, forgery
 NATURE_BAD = {'Q230768', 'Q18603603', 'Q56644435', 'Q5727902', 'Q100349848'}  # attribution, hypothetically, probably, circa-attr, disputed
@@ -83,8 +84,8 @@ def main():
     items = sorted(W); print(len(items), 'works with an image', flush=True)
     for i in range(0, len(items), 250):
         vals = ' '.join('wd:' + q for q in items[i:i + 250])
-        for b in sparql('SELECT ?item ?l WHERE { VALUES ?item { %s } ?item rdfs:label ?l FILTER(LANG(?l)="en") }' % vals):
-            W[qid(b, 'item')]['title'] = b['l']['value']
+        for b in sparql('SELECT ?item ?l WHERE { VALUES ?item { %s } ?item rdfs:label ?l FILTER(LANG(?l) IN (%s)) }' % (vals, ','.join('"%s"' % l for l in TITLE_LANGS))):
+            W[qid(b, 'item')].setdefault('labels', {})[b['l']['xml:lang']] = b['l']['value']
         for b in sparql('SELECT ?item ?v ?p WHERE { VALUES ?item { %s } ?item p:P571/psv:P571 ?n . ?n wikibase:timeValue ?v ; wikibase:timePrecision ?p }' % vals):
             W[qid(b, 'item')].setdefault('dates', []).append((b['v']['value'], b['p']['value']))
         for b in sparql('SELECT ?item ?c ?q ?qv WHERE { VALUES ?item { %s } ?item p:P170 ?s . ?s ps:P170 ?c . OPTIONAL { ?s ?q ?qv . '
@@ -134,8 +135,10 @@ def main():
         if i % 1000 == 0: print('  commons', i, '/', len(files), flush=True)
     out, why = [], collections.Counter()
     for q in items:
-        w = W[q]; t = (w.get('title') or '').strip()
-        if not t or re.fullmatch(r'Q\d+', t): why['no English title'] += 1; continue
+        w = W[q]; labs = w.get('labels', {})
+        tlang = next((l for l in TITLE_LANGS if labs.get(l, '').strip() and not re.fullmatch(r'Q\d+', labs[l].strip())), None)
+        if not tlang: why['no title'] += 1; continue
+        t = labs[tlang].strip()
         cr = w.get('creators', {})
         real = {c: f for c, f in cr.items() if c not in ANON and c != 'GENID'}
         if any(f for f in real.values()): why['attributed / workshop / follower'] += 1; continue
@@ -165,7 +168,7 @@ def main():
         r = dict(title=t.rstrip('.').strip(), artist=artist, year=year, medium=MEDIUM.get(sorted(w['types'])[0], 'Painting'), gallery=gname,
                  image_url='https://commons.wikimedia.org/wiki/Special:FilePath/%s?width=1200' % u, source_url='https://commons.wikimedia.org/wiki/File:%s' % u,
                  source_key='wikidata:' + q, same_as=['commons:' + f], is_age_restricted=nude, license=lic, license_basis=lb, attribution='Wikimedia Commons',
-                 country=country, title_language='en')
+                 country=country, title_language='und' if tlang == 'mul' else tlang)
         if death: r['artist_death_year'] = death
         if '--inv' in sys.argv:
             ok = sorted(v for v in w.get('inv', ()) if re.search(sys.argv[sys.argv.index('--inv') + 1], v))

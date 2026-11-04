@@ -34,7 +34,7 @@ PREFIX = ('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.
 # Not individual artists, or names Artelier never makes a profile for (see the import rules).
 NOT_A_PERSON = re.compile(r'^(master of|meister de[rs]|maestro d|ma[iî]tre d|monogrammist|workshop|atelier|studio of|circle of|'
                           r'school of|follower|anonymous|unknown|attributed)|\bworkshop\b|\(workshop\)', re.I)
-MUSEUM_SHARDS = re.compile(r'^(aic|nga|met|cma|smk|rijks|core|prado|exhibitions|nglondon|vam|moma|guggenheim|whitney)-')
+MUSEUM_SHARDS = re.compile(r'^(aic|nga|met|cma|smk|rijks|core|prado|exhibitions|nglondon|vam|moma|guggenheim|whitney|orsay|pompidou)-')
 OK_LICENSES = {'Public domain', 'CC0', 'PDM-owner', 'No restrictions'}
 
 
