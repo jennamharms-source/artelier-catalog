@@ -91,5 +91,49 @@
   "death_year": 1649,
   "nationality": "Spanish",
   "description": "painter from Spain (1620-1649)"
+ },
+ {
+  "shard": "walcott-0000",
+  "artist": "Mary Vaux Walcott",
+  "qid": "Q6780882",
+  "added": "2026-11-04",
+  "birth_year": 1860,
+  "death_year": 1940,
+  "nationality": "United States",
+  "description": "American artist, photographer, botanist and naturalist (1860-1940)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary-vaux-walcott.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Mary-vaux-walcott.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Unknown author"
+  }
+ },
+ {
+  "shard": "rowlandson-0000",
+  "artist": "Thomas Rowlandson",
+  "qid": "Q318584",
+  "added": "2026-11-04",
+  "birth_year": 1757,
+  "death_year": 1827,
+  "nationality": "Kingdom of Great Britain",
+  "art_movement": "Romanticism",
+  "description": "English artist and caricaturist (1757–1827)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Rowlandson_portrait.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Thomas_Rowlandson_portrait.jpg",
+   "image_license": "public_domain",
+   "image_credit": "George Henry Harlow"
+  }
+ },
+ {
+  "shard": "becker-0000",
+  "artist": "Paula Modersohn-Becker",
+  "qid": "Q234370",
+  "added": "2026-11-04",
+  "birth_year": 1876,
+  "death_year": 1907,
+  "nationality": "German Empire",
+  "art_movement": "Expressionism",
+  "description": "German expressionist painter (1876–1907)"
  }
 ]
