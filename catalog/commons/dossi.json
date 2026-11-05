@@ -13,6 +13,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q37035152",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q37035152",
   "collection": "Modena Cathedral"
  },
@@ -30,6 +31,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131617106",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q131617106",
   "collection": "Galleria Estense"
  },
@@ -47,6 +49,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3620828",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3620828",
   "collection": "Uffizi Gallery"
  },
@@ -64,6 +67,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808885",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20808885",
   "collection": "Philadelphia Museum of Art"
  },
@@ -81,6 +85,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20183990",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20183990",
   "collection": "J. Paul Getty Museum"
  },
@@ -98,6 +103,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3936369",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3936369",
   "collection": "Uffizi Gallery"
  },
@@ -114,6 +120,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911681",
+  "license_basis": "PD-old-100",
   "qid": "Q19911681",
   "collection": "Metropolitan Museum of Art"
  },
@@ -131,6 +138,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64515584",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q64515584",
   "collection": "Detroit Institute of Arts"
  },
@@ -148,6 +156,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q26693502",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q26693502",
   "collection": "National Gallery"
  },
@@ -165,6 +174,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q26707853",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q26707853",
   "collection": "National Gallery"
  },
@@ -182,6 +192,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3937734",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3937734",
   "collection": "Uffizi Gallery"
  },
@@ -199,6 +210,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20419317",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20419317",
   "collection": "National Gallery of Victoria"
  },
@@ -216,6 +228,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18573201",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q18573201",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -233,6 +246,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27981698",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q27981698",
   "collection": "Kunsthistorisches Museum"
  },
@@ -250,6 +264,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q106849720",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q106849720",
   "collection": "Fogg Museum"
  },
@@ -267,6 +282,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3725199",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3725199",
   "collection": "National Gallery of Art"
  },
@@ -284,6 +300,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3709306",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3709306",
   "collection": "National Gallery of Canada"
  },
@@ -301,6 +318,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q123737311",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q123737311",
   "collection": "Museo del Prado"
  },
@@ -317,6 +335,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64512388",
+  "license_basis": "PD-old-100",
   "qid": "Q64512388",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -334,6 +353,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141069392",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q141069392",
   "collection": ""
  },
@@ -351,6 +371,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3834971",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q3834971",
   "collection": "Cini Palace Gallery"
  },
@@ -368,6 +389,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124686467",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q124686467",
   "collection": "Villa Il Cardello"
  },
@@ -385,6 +407,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808882",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20808882",
   "collection": "Philadelphia Museum of Art"
  },
@@ -401,6 +424,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141082221",
+  "license_basis": "PD-old-100",
   "qid": "Q141082221",
   "collection": ""
  },
@@ -418,6 +442,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20175742",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20175742",
   "collection": "National Gallery of Art"
  },
@@ -435,6 +460,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131588054",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131588054",
   "collection": "Borghese Collection"
  },
@@ -451,6 +477,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141085878",
+  "license_basis": "PD-old-100",
   "qid": "Q141085878",
   "collection": "Pinacoteca Nazionale"
  },
@@ -467,6 +494,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q108686449",
+  "license_basis": "PD-old-100",
   "qid": "Q108686449",
   "collection": "National Gallery of Art"
  },
@@ -483,6 +511,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108183041",
+  "license_basis": "PD-old",
   "qid": "Q108183041",
   "collection": "Musée des Beaux-Arts et d'Archéologie de Besançon"
  },
@@ -500,6 +529,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138858261",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q138858261",
   "collection": "Agnes Etherington Art Centre"
  },
@@ -516,6 +546,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3854227",
+  "license_basis": "PD-old-100",
   "qid": "Q3854227",
   "collection": "Borghese Collection"
  },
@@ -533,6 +564,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1282794",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q1282794",
   "collection": "Wawel Castle"
  },
@@ -550,8 +582,27 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q26713363",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q26713363",
   "collection": "National Gallery"
+ },
+ {
+  "title": "Dosso 031",
+  "artist": "Dosso Dossi",
+  "year": "1524",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dosso_Dossi_031.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_031.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q141086228",
+  "genre": "Mythological",
+  "license_basis": "PD-old-100",
+  "qid": "Q141086228",
+  "collection": ""
  },
  {
   "title": "Mythological Scene",
@@ -567,25 +618,9 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3892936",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3892936",
   "collection": "Getty Center"
- },
- {
-  "title": "Q141086228",
-  "artist": "Dosso Dossi",
-  "year": "1524",
-  "medium": "Painting",
-  "gallery": "",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dosso_Dossi_031.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_031.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q141086228",
-  "genre": "Mythological",
-  "qid": "Q141086228",
-  "collection": ""
  },
  {
   "title": "Sibyl",
@@ -601,6 +636,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21716768",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q21716768",
   "collection": "Hermitage Museum"
  },
@@ -618,6 +654,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q141085908",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q141085908",
   "collection": ""
  },
@@ -635,6 +672,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q129182385",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q129182385",
   "collection": "Borghese Collection"
  },
@@ -652,6 +690,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28060681",
   "genre": "History",
+  "license_basis": "PD-old-100",
   "qid": "Q28060681",
   "collection": "Cultural Heritage Agency of the Netherlands Art Collection"
  },
@@ -669,6 +708,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3677473",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3677473",
   "collection": "National Gallery of Art"
  },
@@ -686,6 +726,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141081567",
   "genre": "Religious",
+  "license_basis": "PD",
   "qid": "Q141081567",
   "collection": "Galleria Borghese"
  },
@@ -703,6 +744,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113798181",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q113798181",
   "collection": "Galleria Estense"
  },
@@ -720,6 +762,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q108188550",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q108188550",
   "collection": "Dobó István Castle Museum"
  },
@@ -737,6 +780,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131588009",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131588009",
   "collection": "Capitoline Museums"
  },
@@ -754,6 +798,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q65164869",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q65164869",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -771,6 +816,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141069225",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q141069225",
   "collection": "Galleria Nazionale d'Arte Antica"
  },
@@ -788,6 +834,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28028863",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q28028863",
   "collection": "Royal Collection"
  },
@@ -805,6 +852,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q129185904",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q129185904",
   "collection": "Galleria Borghese"
  },
@@ -822,6 +870,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q964661",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q964661",
   "collection": "Museo Horne"
  },
@@ -839,6 +888,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3612418",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3612418",
   "collection": "J. Paul Getty Museum"
  },
@@ -855,6 +905,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141069346",
+  "license_basis": "PD-old-100",
   "qid": "Q141069346",
   "collection": "Villa Imperiale of Pesaro"
  },
@@ -872,6 +923,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18599187",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q18599187",
   "collection": "Nationalmuseum"
  },
@@ -889,6 +941,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q60502710",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q60502710",
   "collection": "Cleveland Museum of Art"
  },
@@ -906,6 +959,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28029246",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q28029246",
   "collection": "Royal Collection"
  },
@@ -923,6 +977,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17639414",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q17639414",
   "collection": "Galleria nazionale di Parma"
  },
@@ -940,6 +995,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3731235",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3731235",
   "collection": "Universalmuseum Joanneum"
  },
@@ -957,6 +1013,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3612423",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3612423",
   "collection": "Uffizi Gallery"
  },
@@ -974,6 +1031,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q26693153",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q26693153",
   "collection": "National Gallery"
  },
@@ -990,6 +1048,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141082629",
+  "license_basis": "PD-old-100",
   "qid": "Q141082629",
   "collection": "Pinacoteca Domenico Inzaghi, Budrio"
  },
@@ -1007,6 +1066,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q50322466",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q50322466",
   "collection": "Staatliche Kunstsammlungen Dresden"
  },
@@ -1024,6 +1084,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q50322497",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q50322497",
   "collection": "Staatliche Kunstsammlungen Dresden"
  },
@@ -1041,6 +1102,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141085894",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q141085894",
   "collection": ""
  },
@@ -1058,6 +1120,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q37027223",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q37027223",
   "collection": "Galleria Estense"
  },
@@ -1075,6 +1138,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141082512",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q141082512",
   "collection": ""
  },
@@ -1092,6 +1156,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141085897",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q141085897",
   "collection": ""
  },
@@ -1109,6 +1174,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141085931",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q141085931",
   "collection": "Galleria Estense"
  },
@@ -1126,6 +1192,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q116949773",
   "genre": "Religious",
+  "license_basis": "PD",
   "qid": "Q116949773",
   "collection": ""
  },
@@ -1143,6 +1210,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130918728",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q130918728",
   "collection": "Musée des Beaux-Arts et d'Archéologie de Besançon"
  },
@@ -1160,6 +1228,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141081509",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q141081509",
   "collection": ""
  },
@@ -1177,6 +1246,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454799",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q119454799",
   "collection": "Ashmolean Museum"
  },
@@ -1194,6 +1264,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q141082278",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q141082278",
   "collection": "UniCredit Art Collection"
  },
@@ -1210,6 +1281,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141082220",
+  "license_basis": "PD-old-100",
   "qid": "Q141082220",
   "collection": "Museo di Capodimonte"
  },
@@ -1227,6 +1299,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q37035934",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q37035934",
   "collection": ""
  },
@@ -1243,6 +1316,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118680754",
+  "license_basis": "PD-old-100",
   "qid": "Q118680754",
   "collection": "Barber Institute of Fine Arts"
  },
@@ -1259,6 +1333,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141069327",
+  "license_basis": "PD-old-100",
   "qid": "Q141069327",
   "collection": ""
  },
@@ -1275,6 +1350,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118874489",
+  "license_basis": "PD-old-100",
   "qid": "Q118874489",
   "collection": "National Museum Cardiff"
  },
@@ -1291,6 +1367,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454780",
+  "license_basis": "PD-old-100",
   "qid": "Q119454780",
   "collection": "Nottingham Museums"
  },
@@ -1308,6 +1385,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141086255",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q141086255",
   "collection": ""
  }

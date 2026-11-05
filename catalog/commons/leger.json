@@ -738,7 +738,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q121081527",
   "genre": "Cityscape",
-  "license_basis": "PD-old",
+  "license_basis": "PD",
   "qid": "Q121081527",
   "collection": "Fernand Léger National Museum"
  },
@@ -6110,5 +6110,22 @@
   "license_basis": "PD-old",
   "qid": "Q77504703",
   "collection": "Buffalo AKG Art Museum"
+ },
+ {
+  "title": "Le Campeur",
+  "artist": "Fernand Léger",
+  "year": "1954",
+  "medium": "Painting",
+  "gallery": "Fernand Léger National Museum",
+  "country": "France",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Campeur_%281954%29.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Le_Campeur_(1954).jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q121177470",
+  "license_basis": "PD-old",
+  "qid": "Q121177470",
+  "collection": "Fernand Léger National Museum"
  }
 ]

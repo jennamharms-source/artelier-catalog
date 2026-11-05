@@ -12,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124348350",
+  "license_basis": "PD-old-100",
   "qid": "Q124348350",
   "collection": "Royal Castle in Warsaw"
  },
@@ -29,6 +30,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3616853",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3616853",
   "collection": "Tosio Martinengo Gallery"
  },
@@ -46,6 +48,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3616854",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3616854",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -63,6 +66,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1778000",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1778000",
   "collection": ""
  },
@@ -80,6 +84,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q327780",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q327780",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -97,6 +102,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2503581",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2503581",
   "collection": "National Gallery"
  },
@@ -114,6 +120,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3733689",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3733689",
   "collection": "Museo di Capodimonte"
  },
@@ -131,24 +138,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2343778",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2343778",
   "collection": "Department of Paintings of the Louvre"
- },
- {
-  "title": "Lucretia",
-  "artist": "Raphael",
-  "year": "1500",
-  "medium": "Drawing",
-  "gallery": "Metropolitan Museum of Art",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucretia_MET_DP862672.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_MET_DP862672.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "CC0",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q29384768",
-  "qid": "Q29384768",
-  "collection": "Metropolitan Museum of Art"
  },
  {
   "title": "Portrait of Agnolo Doni",
@@ -164,6 +156,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2515309",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2515309",
   "collection": "Galleria Palatina"
  },
@@ -181,6 +174,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q677682",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q677682",
   "collection": "São Paulo Museum of Art"
  },
@@ -198,6 +192,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2529918",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2529918",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -215,6 +210,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q74089447",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q74089447",
   "collection": "Cook collection"
  },
@@ -232,6 +228,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2715152",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q2715152",
   "collection": "Vatican Museums"
  },
@@ -249,6 +246,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2360329",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q2360329",
   "collection": "Condé Museum"
  },
@@ -266,6 +264,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q602813",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q602813",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -283,25 +282,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3842585",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3842585",
   "collection": "Gemäldegalerie Berlin"
- },
- {
-  "title": "L'arcangelo Michele (copia da)",
-  "artist": "Raphael",
-  "year": "1501",
-  "medium": "Painting",
-  "gallery": "Bavarian State Painting Collections",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael_%28Kopie_nach%29_-_Der_Erzengel_Michael_-_2225_-_Bavarian_State_Painting_Collections.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Raphael_(Kopie_nach)_-_Der_Erzengel_Michael_-_2225_-_Bavarian_State_Painting_Collections.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q29915268",
-  "genre": "Religious",
-  "qid": "Q29915268",
-  "collection": "Bavarian State Painting Collections"
  },
  {
   "title": "Saint Sebastian",
@@ -317,6 +300,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2343939",
   "genre": "Religious",
+  "license_basis": "PD-Art",
   "qid": "Q2343939",
   "collection": "Accademia Carrara"
  },
@@ -331,8 +315,9 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_-_Deux_enfants_nus_mont%C3%A9s_sur_un_sanglier_et_jouant_%C3%A0_la_lance_en_pr%C3%A9sence_de_six_autres_enfants,_19-523575.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": false,
+  "is_age_restricted": true,
   "source_key": "wikidata:Q123158345",
+  "license_basis": "PD-old",
   "qid": "Q123158345",
   "collection": "Condé Museum"
  },
@@ -350,6 +335,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q323188",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q323188",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -367,6 +353,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q598913",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q598913",
   "collection": "National Gallery"
  },
@@ -384,6 +371,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2344357",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2344357",
   "collection": "Pinacoteca Vaticana"
  },
@@ -401,24 +389,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399400",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399400",
   "collection": "Liechtenstein Museum"
- },
- {
-  "title": "Q140247103",
-  "artist": "Raphael",
-  "year": "1502",
-  "medium": "Painting",
-  "gallery": "Pinacoteca Vaticana",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Adoration_of_the_Magi_-_Rafael.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Magi_-_Rafael.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q140247103",
-  "qid": "Q140247103",
-  "collection": "Pinacoteca Vaticana"
  },
  {
   "title": "Saint Anthony of Padua",
@@ -434,6 +407,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23929146",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q23929146",
   "collection": "Dulwich Picture Gallery"
  },
@@ -451,6 +425,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23929176",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q23929176",
   "collection": "Dulwich Picture Gallery"
  },
@@ -468,8 +443,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63110871",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q63110871",
   "collection": "National Museum of Ancient Art"
+ },
+ {
+  "title": "The Adoration of the Magi - Rafael",
+  "artist": "Raphael",
+  "year": "1502",
+  "medium": "Painting",
+  "gallery": "Pinacoteca Vaticana",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Adoration_of_the_Magi_-_Rafael.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:The_Adoration_of_the_Magi_-_Rafael.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q140247103",
+  "license_basis": "PD-old-100",
+  "qid": "Q140247103",
+  "collection": "Pinacoteca Vaticana"
  },
  {
   "title": "The Annunciation",
@@ -485,6 +478,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q116286717",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q116286717",
   "collection": "Pinacoteca Vaticana"
  },
@@ -502,6 +496,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q122712441",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q122712441",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -519,6 +514,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27034683",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q27034683",
   "collection": "Isabella Stewart Gardner Museum"
  },
@@ -536,6 +532,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2629134",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2629134",
   "collection": "Norton Simon Museum"
  },
@@ -553,6 +550,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2629715",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2629715",
   "collection": "Galleria Borghese"
  },
@@ -570,6 +568,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q919294",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q919294",
   "collection": "Hermitage Museum"
  },
@@ -587,6 +586,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27033728",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q27033728",
   "collection": "Metropolitan Museum of Art"
  },
@@ -603,6 +603,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688638",
+  "license_basis": "PD-old-100",
   "qid": "Q18688638",
   "collection": "Albertina"
  },
@@ -620,6 +621,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2627028",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2627028",
   "collection": "Uffizi Gallery"
  },
@@ -637,6 +639,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399384",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399384",
   "collection": "Baltimore Museum of Art"
  },
@@ -654,6 +657,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2607072",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2607072",
   "collection": "Uffizi Gallery"
  },
@@ -671,6 +675,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2444277",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2444277",
   "collection": "Museum of Fine Arts, Budapest"
  },
@@ -688,6 +693,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2713823",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2713823",
   "collection": "Galleria Palatina"
  },
@@ -705,6 +711,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2415259",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2415259",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -722,6 +729,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911609",
   "genre": "Religious",
+  "license_basis": "CC0",
   "qid": "Q19911609",
   "collection": "Metropolitan Museum of Art"
  },
@@ -739,6 +747,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q552040",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q552040",
   "collection": "National Gallery"
  },
@@ -756,6 +765,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2030685",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2030685",
   "collection": "Pinacoteca di Brera"
  },
@@ -773,6 +783,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q26705837",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q26705837",
   "collection": "National Gallery"
  },
@@ -790,6 +801,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2713620",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2713620",
   "collection": "National Gallery"
  },
@@ -807,6 +819,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2713671",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2713671",
   "collection": "Bavarian State Painting Collections"
  },
@@ -824,6 +837,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1131153",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1131153",
   "collection": "Tosio Martinengo Gallery"
  },
@@ -841,6 +855,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2276546",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2276546",
   "collection": "Galleria Palatina"
  },
@@ -858,8 +873,27 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2452858",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2452858",
   "collection": "Kunsthistorisches Museum"
+ },
+ {
+  "title": "Madonna of the Goldfinch",
+  "artist": "Raphael",
+  "year": "1505",
+  "medium": "Painting",
+  "gallery": "Uffizi Gallery",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Madonna_of_the_Goldfinch_%28by_Raffaello_Sanzio%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Madonna_of_the_Goldfinch_(by_Raffaello_Sanzio)_%E2%80%93_Galleria_degli_Uffizi,_Florence.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q2344505",
+  "genre": "Religious",
+  "license_basis": "PD-old-100",
+  "qid": "Q2344505",
+  "collection": "Uffizi Gallery"
  },
  {
   "title": "Mary Magdalene",
@@ -875,6 +909,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q125544380",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q125544380",
   "collection": ""
  },
@@ -892,6 +927,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2607055",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2607055",
   "collection": "Galleria Palatina"
  },
@@ -909,6 +945,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2344396",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2344396",
   "collection": "Aldobrandini Collection"
  },
@@ -926,6 +963,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2622161",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2622161",
   "collection": "Andrew W. Mellon collection"
  },
@@ -943,6 +981,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3910086",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3910086",
   "collection": "National Gallery"
  },
@@ -960,6 +999,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q555821",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q555821",
   "collection": "Uffizi Gallery"
  },
@@ -977,6 +1017,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2607050",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2607050",
   "collection": "National Gallery of Art"
  },
@@ -994,6 +1035,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131786639",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q131786639",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1011,6 +1053,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q560057",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q560057",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -1028,6 +1071,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1986597",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1986597",
   "collection": "Condé Museum"
  },
@@ -1045,6 +1089,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2035209",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2035209",
   "collection": "Galleria Palatina"
  },
@@ -1062,6 +1107,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1245388",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1245388",
   "collection": "National Gallery"
  },
@@ -1079,6 +1125,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2629419",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2629419",
   "collection": "Hermitage Museum"
  },
@@ -1096,6 +1143,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3013751",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3013751",
   "collection": "Uffizi Gallery"
  },
@@ -1112,6 +1160,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131613945",
+  "license_basis": "PD-old-100",
   "qid": "Q131613945",
   "collection": "Gabinetto dei disegni e delle stampe"
  },
@@ -1129,6 +1178,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3212679",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3212679",
   "collection": "National Galleries Scotland"
  },
@@ -1146,6 +1196,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131546455",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131546455",
   "collection": "Pinacoteca Vaticana"
  },
@@ -1163,6 +1214,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3842391",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3842391",
   "collection": "National Galleries Scotland"
  },
@@ -1180,6 +1232,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3658723",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3658723",
   "collection": "Pinacoteca Vaticana"
  },
@@ -1196,6 +1249,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q93273161",
+  "license_basis": "PD-old-100",
   "qid": "Q93273161",
   "collection": "Palais des Beaux-Arts de Lille"
  },
@@ -1213,6 +1267,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3740794",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3740794",
   "collection": "Pinacoteca Vaticana"
  },
@@ -1230,6 +1285,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3966501",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3966501",
   "collection": "Pinacoteca Vaticana"
  },
@@ -1247,6 +1303,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3842604",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3842604",
   "collection": "Galleria Palatina"
  },
@@ -1264,6 +1321,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q919861",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q919861",
   "collection": "Galleria Nazionale delle Marche"
  },
@@ -1281,6 +1339,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2165279",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2165279",
   "collection": "National Gallery"
  },
@@ -1298,6 +1357,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2500226",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2500226",
   "collection": "Galleria Borghese"
  },
@@ -1315,8 +1375,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1986584",
   "genre": "Religious",
+  "license_basis": "PD-Art",
   "qid": "Q1986584",
   "collection": "Museo del Prado"
+ },
+ {
+  "title": "The Madonna and Child with Saint John the Baptist",
+  "artist": "Raphael",
+  "year": "1507",
+  "medium": "Drawing",
+  "gallery": "National Gallery of Art",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%2C_The_Madonna_and_Child_with_Saint_John_the_Baptist%2C_c._1507%2C_NGA_67346.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Raphael,_The_Madonna_and_Child_with_Saint_John_the_Baptist,_c._1507,_NGA_67346.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "CC0",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q64620021",
+  "license_basis": "CC0",
+  "qid": "Q64620021",
+  "collection": "National Gallery of Art"
  },
  {
   "title": "Adam and Eve",
@@ -1332,6 +1410,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3605053",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3605053",
   "collection": "Vatican Museums"
  },
@@ -1349,6 +1428,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3620697",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3620697",
   "collection": "Vatican Museums"
  },
@@ -1366,6 +1446,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3921896",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q3921896",
   "collection": "Vatican Museums"
  },
@@ -1383,6 +1464,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2283808",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2283808",
   "collection": "Museum of Fine Arts, Budapest"
  },
@@ -1400,6 +1482,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q111645125",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q111645125",
   "collection": "Art collection of the Federal Republic of Germany"
  },
@@ -1417,6 +1500,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3769195",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3769195",
   "collection": "Vatican Museums"
  },
@@ -1434,6 +1518,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3771745",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3771745",
   "collection": "Vatican Museums"
  },
@@ -1451,6 +1536,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3733771",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q3733771",
   "collection": "Vatican Museums"
  },
@@ -1468,6 +1554,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3906946",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q3906946",
   "collection": "Vatican Museums"
  },
@@ -1485,6 +1572,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q249449",
   "genre": "Religious",
+  "license_basis": "PD",
   "qid": "Q249449",
   "collection": ""
  },
@@ -1501,6 +1589,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114697141",
+  "license_basis": "PD",
   "qid": "Q114697141",
   "collection": "Städel Museum"
  },
@@ -1518,6 +1607,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2535486",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2535486",
   "collection": "Bavarian State Painting Collections"
  },
@@ -1535,6 +1625,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3983944",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q3983944",
   "collection": "Vatican Museums"
  },
@@ -1552,6 +1643,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141133918",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q141133918",
   "collection": "Nizhniy Tagil State Museum of Fine Arts"
  },
@@ -1569,6 +1661,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2427320",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2427320",
   "collection": "Borghese Collection"
  },
@@ -1586,6 +1679,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2635552",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2635552",
   "collection": "Museo di Capodimonte"
  },
@@ -1602,6 +1696,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688645",
+  "license_basis": "PD-old-100",
   "qid": "Q18688645",
   "collection": "Albertina"
  },
@@ -1619,6 +1714,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3210258",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3210258",
   "collection": "National Gallery"
  },
@@ -1636,6 +1732,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q254923",
   "genre": "Religious",
+  "license_basis": "CC0",
   "qid": "Q254923",
   "collection": "Andrew W. Mellon collection"
  },
@@ -1653,6 +1750,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3689722",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3689722",
   "collection": "Vatican Museums"
  },
@@ -1669,6 +1767,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q93263689",
+  "license_basis": "PD-old-100",
   "qid": "Q93263689",
   "collection": "Palais des Beaux-Arts de Lille"
  },
@@ -1685,6 +1784,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2344368",
+  "license_basis": "PD-Art",
   "qid": "Q2344368",
   "collection": "Villa Farnesina"
  },
@@ -1702,6 +1802,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131290545",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131290545",
   "collection": "Vatican Museums"
  },
@@ -1719,6 +1820,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q103838699",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q103838699",
   "collection": "Isabella Stewart Gardner Museum"
  },
@@ -1736,6 +1838,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q428274",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q428274",
   "collection": "Galleria Palatina"
  },
@@ -1753,6 +1856,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2535563",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2535563",
   "collection": "Museo del Prado"
  },
@@ -1770,6 +1874,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q79774208",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q79774208",
   "collection": "The Hyde Collection"
  },
@@ -1787,6 +1892,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3947763",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3947763",
   "collection": "Vatican Museums"
  },
@@ -1804,6 +1910,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2275653",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2275653",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -1821,6 +1928,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3826995",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3826995",
   "collection": "Vatican Museums"
  },
@@ -1837,6 +1945,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q93265037",
+  "license_basis": "PD-old-70",
   "qid": "Q93265037",
   "collection": "Palais des Beaux-Arts de Lille"
  },
@@ -1854,6 +1963,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131290623",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131290623",
   "collection": "Vatican Museums"
  },
@@ -1871,6 +1981,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131290754",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131290754",
   "collection": "Vatican Museums"
  },
@@ -1888,6 +1999,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131290769",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131290769",
   "collection": "Vatican Museums"
  },
@@ -1905,6 +2017,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3900659",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3900659",
   "collection": "Victoria and Albert Museum"
  },
@@ -1922,6 +2035,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131290595",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131290595",
   "collection": "Vatican Museums"
  },
@@ -1939,6 +2053,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131290374",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131290374",
   "collection": "Vatican Museums"
  },
@@ -1956,6 +2071,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3620832",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3620832",
   "collection": "Vatican Museums"
  },
@@ -1973,6 +2089,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3941955",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3941955",
   "collection": "Vatican Museums"
  },
@@ -1989,6 +2106,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2568776",
+  "license_basis": "PD-old-100",
   "qid": "Q2568776",
   "collection": "Vatican Museums"
  },
@@ -2006,6 +2124,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3951391",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3951391",
   "collection": "Vatican Museums"
  },
@@ -2023,6 +2142,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2607065",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2607065",
   "collection": "Andrew W. Mellon collection"
  },
@@ -2040,6 +2160,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q11918714",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q11918714",
   "collection": "National Gallery"
  },
@@ -2057,6 +2178,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64788403",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64788403",
   "collection": "Städel Museum"
  },
@@ -2074,6 +2196,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3944652",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3944652",
   "collection": "Vatican Museums"
  },
@@ -2091,6 +2214,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q774018",
   "genre": "Religious",
+  "license_basis": "PD",
   "qid": "Q774018",
   "collection": "Vatican Museums"
  },
@@ -2108,6 +2232,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2294201",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2294201",
   "collection": "Vatican Museums"
  },
@@ -2125,6 +2250,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3226022",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3226022",
   "collection": "Basilica of Saint Augustine in Campo Marzio"
  },
@@ -2142,6 +2268,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19516146",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19516146",
   "collection": "Uffizi Gallery"
  },
@@ -2159,6 +2286,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q328079",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q328079",
   "collection": "Staatliche Kunstsammlungen Dresden"
  },
@@ -2176,6 +2304,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2529969",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2529969",
   "collection": "Vatican Museums"
  },
@@ -2193,6 +2322,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q186953",
   "genre": "History",
+  "license_basis": "PD-old-100",
   "qid": "Q186953",
   "collection": "Apostolic Palace"
  },
@@ -2210,6 +2340,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q948034",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q948034",
   "collection": "Galleria Palatina"
  },
@@ -2227,6 +2358,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2052275",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2052275",
   "collection": "Galleria Palatina"
  },
@@ -2244,6 +2376,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q966681",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q966681",
   "collection": "Galleria Palatina"
  },
@@ -2261,6 +2394,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2269330",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2269330",
   "collection": "Alte Pinakothek"
  },
@@ -2278,6 +2412,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1634134",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1634134",
   "collection": "Walters Art Museum"
  },
@@ -2295,6 +2430,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2631335",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2631335",
   "collection": "Museo del Prado"
  },
@@ -2312,6 +2448,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2422889",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2422889",
   "collection": "Czartoryski Museum"
  },
@@ -2329,6 +2466,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3212681",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3212681",
   "collection": "Kunsthistorisches Museum"
  },
@@ -2345,6 +2483,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2716974",
+  "license_basis": "PD-old-100",
   "qid": "Q2716974",
   "collection": "Vatican Museums"
  },
@@ -2362,6 +2501,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2719737",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2719737",
   "collection": "Vatican Museums"
  },
@@ -2379,6 +2519,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1639900",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q1639900",
   "collection": "Santa Maria della Pace"
  },
@@ -2396,6 +2537,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20355399",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20355399",
   "collection": "Statens Museum for Kunst"
  },
@@ -2412,6 +2554,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2564496",
+  "license_basis": "PD-old-100",
   "qid": "Q2564496",
   "collection": "Vatican Museums"
  },
@@ -2429,6 +2572,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1103801",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1103801",
   "collection": "Pinacoteca Nazionale di Bologna"
  },
@@ -2445,6 +2589,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2531790",
+  "license_basis": "PD-old-100",
   "qid": "Q2531790",
   "collection": "Vatican Museums"
  },
@@ -2462,6 +2607,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3223805",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3223805",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -2479,6 +2625,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688656",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688656",
   "collection": "Albertina"
  },
@@ -2496,6 +2643,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3027582",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3027582",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -2513,6 +2661,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2664637",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2664637",
   "collection": "Museo del Prado"
  },
@@ -2530,6 +2679,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3687196",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3687196",
   "collection": "Royal Collection"
  },
@@ -2547,6 +2697,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688665",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688665",
   "collection": "Albertina"
  },
@@ -2564,6 +2715,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q546977",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q546977",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -2581,6 +2733,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2528106",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2528106",
   "collection": "National Gallery of Art"
  },
@@ -2598,6 +2751,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399403",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399403",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -2615,6 +2769,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3910088",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q3910088",
   "collection": "Victoria and Albert Museum"
  },
@@ -2632,6 +2787,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3925594",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3925594",
   "collection": "Royal Collection"
  },
@@ -2649,6 +2805,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3863236",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3863236",
   "collection": "Victoria and Albert Museum"
  },
@@ -2666,6 +2823,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3778388",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3778388",
   "collection": "Royal Collection"
  },
@@ -2683,6 +2841,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3944654",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3944654",
   "collection": "Victoria and Albert Museum"
  },
@@ -2700,6 +2859,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3010339",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3010339",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -2716,6 +2876,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3208003",
+  "license_basis": "CC0",
   "qid": "Q3208003",
   "collection": ""
  },
@@ -2733,6 +2894,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3210272",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3210272",
   "collection": "Bridgewater Collection"
  },
@@ -2750,6 +2912,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3842605",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3842605",
   "collection": "Museo di Capodimonte"
  },
@@ -2767,6 +2930,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2535482",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2535482",
   "collection": "Galleria Doria Pamphilj"
  },
@@ -2784,6 +2948,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399492",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399492",
   "collection": "Galleria Palatina"
  },
@@ -2800,6 +2965,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133042836",
+  "license_basis": "PD-old-100",
   "qid": "Q133042836",
   "collection": "Isabella Stewart Gardner Museum"
  },
@@ -2817,6 +2983,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3463874",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3463874",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -2833,6 +3000,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3976326",
+  "license_basis": "PD-1996",
   "qid": "Q3976326",
   "collection": ""
  },
@@ -2849,6 +3017,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1619548",
+  "license_basis": "PD-old-100",
   "qid": "Q1619548",
   "collection": "Vatican Museums"
  },
@@ -2866,6 +3035,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q121689728",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q121689728",
   "collection": "Villa Farnesina"
  },
@@ -2883,6 +3053,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q538243",
   "genre": "Religious",
+  "license_basis": "PD-old-70",
   "qid": "Q538243",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -2900,6 +3071,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3213759",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3213759",
   "collection": ""
  },
@@ -2917,6 +3089,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2420918",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2420918",
   "collection": "Museo del Prado"
  },
@@ -2934,6 +3107,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399434",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399434",
   "collection": ""
  },
@@ -2950,6 +3124,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q110831269",
+  "license_basis": "PD-old-100",
   "qid": "Q110831269",
   "collection": "Villa Farnesina"
  },
@@ -2967,6 +3142,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2467082",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2467082",
   "collection": "Museo del Prado"
  },
@@ -2984,6 +3160,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18686193",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18686193",
   "collection": "National Galleries Scotland"
  },
@@ -3001,6 +3178,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q9561272",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q9561272",
   "collection": "Apostolic Palace"
  },
@@ -3018,6 +3196,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1134281",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1134281",
   "collection": "Galleria Palatina"
  },
@@ -3035,6 +3214,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2467141",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2467141",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -3052,6 +3232,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q427390",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q427390",
   "collection": "Gonzaga collection"
  },
@@ -3069,6 +3250,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q521680",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q521680",
   "collection": "Galleria Estense"
  },
@@ -3086,6 +3268,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399388",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399388",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -3103,6 +3286,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2610729",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2610729",
   "collection": "Galleria Palatina"
  },
@@ -3120,6 +3304,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3463871",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3463871",
   "collection": "Uffizi Gallery"
  },
@@ -3137,6 +3322,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2310025",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2310025",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -3154,6 +3340,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3464523",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3464523",
   "collection": "Kunsthistorisches Museum"
  },
@@ -3171,6 +3358,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q594470",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q594470",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -3188,6 +3376,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3212684",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3212684",
   "collection": "Museo del Prado"
  },
@@ -3205,6 +3394,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q153441",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q153441",
   "collection": "Galleria Nazionale d'Arte Antica"
  },
@@ -3221,6 +3411,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3836418",
+  "license_basis": "PD-old-100",
   "qid": "Q3836418",
   "collection": ""
  },
@@ -3238,6 +3429,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q786196",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q786196",
   "collection": "Musée des Beaux-Arts de Strasbourg"
  },
@@ -3254,6 +3446,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114697788",
+  "license_basis": "PD",
   "qid": "Q114697788",
   "collection": "Städel Museum"
  },
@@ -3270,6 +3463,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688622",
+  "license_basis": "PD-old-100",
   "qid": "Q18688622",
   "collection": "Albertina"
  },
@@ -3286,6 +3480,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3361286",
+  "license_basis": "PD-old-100",
   "qid": "Q3361286",
   "collection": ""
  },
@@ -3302,6 +3497,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3945256",
+  "license_basis": "PD-old-100",
   "qid": "Q3945256",
   "collection": "Vatican Museums"
  },
@@ -3318,6 +3514,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2405750",
+  "license_basis": "PD-old-100",
   "qid": "Q2405750",
   "collection": "Vatican Museums"
  },
@@ -3334,6 +3531,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110799440",
+  "license_basis": "PD-old-100",
   "qid": "Q110799440",
   "collection": "Nationalmuseum"
  },
@@ -3350,6 +3548,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q81847815",
+  "license_basis": "PD-US-expired",
   "qid": "Q81847815",
   "collection": "Beauvais Cathedral"
  },
@@ -3366,6 +3565,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454676",
+  "license_basis": "PD-old-100",
   "qid": "Q119454676",
   "collection": "Christ Church"
  },
@@ -3383,6 +3583,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q111645124",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q111645124",
   "collection": "Art collection of the Federal Republic of Germany"
  },
@@ -3400,6 +3601,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138149249",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q138149249",
   "collection": ""
  },
@@ -3416,6 +3618,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111385660",
+  "license_basis": "CC0",
   "qid": "Q111385660",
   "collection": "Musea Brugge"
  },
@@ -3432,6 +3635,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110799441",
+  "license_basis": "PD-old-100",
   "qid": "Q110799441",
   "collection": "Nationalmuseum"
  },
@@ -3448,6 +3652,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110764137",
+  "license_basis": "PD-old-100",
   "qid": "Q110764137",
   "collection": "Nationalmuseum"
  },
@@ -3464,6 +3669,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118878179",
+  "license_basis": "PD-old-100",
   "qid": "Q118878179",
   "collection": "University of Greenwich"
  },
@@ -3480,6 +3686,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131462762",
+  "license_basis": "PD-old-100",
   "qid": "Q131462762",
   "collection": "Gabinetto dei disegni e delle stampe"
  },
@@ -3496,6 +3703,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110897727",
+  "license_basis": "PD-old-100",
   "qid": "Q110897727",
   "collection": ""
  },
@@ -3512,8 +3720,26 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110887638",
+  "license_basis": "PD-old-100",
   "qid": "Q110887638",
   "collection": ""
+ },
+ {
+  "title": "Lucretia",
+  "artist": "Raphael",
+  "year": "",
+  "medium": "Drawing",
+  "gallery": "Metropolitan Museum of Art",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucretia_MET_DP862672.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lucretia_MET_DP862672.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "CC0",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q29384768",
+  "license_basis": "CC0",
+  "qid": "Q29384768",
+  "collection": "Metropolitan Museum of Art"
  },
  {
   "title": "Madonna",
@@ -3529,6 +3755,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21614798",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q21614798",
   "collection": "Royal Museum of Fine Arts Antwerp"
  },
@@ -3545,6 +3772,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110768364",
+  "license_basis": "PD-old-100",
   "qid": "Q110768364",
   "collection": "Nationalmuseum"
  },
@@ -3561,6 +3789,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131462875",
+  "license_basis": "PD-old-70",
   "qid": "Q131462875",
   "collection": "Gabinetto dei disegni e delle stampe"
  },
@@ -3578,6 +3807,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454608",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119454608",
   "collection": "Armagh County Museum"
  },
@@ -3595,6 +3825,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454650",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119454650",
   "collection": "Lambeth Palace"
  },
@@ -3612,6 +3843,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119940711",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119940711",
   "collection": "Dover Collections"
  },
@@ -3628,6 +3860,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119940676",
+  "license_basis": "PD-old-100",
   "qid": "Q119940676",
   "collection": "University of Exeter"
  },
@@ -3645,6 +3878,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131690612",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q131690612",
   "collection": "Pinacoteca Vaticana"
  },
@@ -3661,6 +3895,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454634",
+  "license_basis": "PD-old-100",
   "qid": "Q119454634",
   "collection": "All Souls College"
  },
@@ -3678,6 +3913,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q107436889",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q107436889",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -3694,8 +3930,27 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137180986",
+  "license_basis": "PD-old-100",
   "qid": "Q137180986",
   "collection": "Ashmolean Museum"
+ },
+ {
+  "title": "Portret Antonia Tebaldi",
+  "artist": "Raphael",
+  "year": "",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Antonio_Tebaldeo_%28Rafael%29.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Retrato_de_Antonio_Tebaldeo_(Rafael).jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q135455508",
+  "genre": "Portrait",
+  "license_basis": "PD-old-100",
+  "qid": "Q135455508",
+  "collection": ""
  },
  {
   "title": "Potiphar's Wife",
@@ -3710,25 +3965,9 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454647",
+  "license_basis": "PD-old-100",
   "qid": "Q119454647",
   "collection": "All Souls College"
- },
- {
-  "title": "Q135455508",
-  "artist": "Raphael",
-  "year": "",
-  "medium": "Painting",
-  "gallery": "",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Antonio_Tebaldeo_%28Rafael%29.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Retrato_de_Antonio_Tebaldeo_(Rafael).jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q135455508",
-  "genre": "Portrait",
-  "qid": "Q135455508",
-  "collection": ""
  },
  {
   "title": "Raffaello Sanzio - Le martyre de Sainte-Cécile",
@@ -3744,6 +3983,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q107329307",
   "genre": "Religious",
+  "license_basis": "PD",
   "qid": "Q107329307",
   "collection": "Musée d'art et d'histoire de Narbonne"
  },
@@ -3761,6 +4001,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21993480",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q21993480",
   "collection": "Gemäldegalerie Alte Meister"
  },
@@ -3777,6 +4018,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q122712020",
+  "license_basis": "PD-old-100",
   "qid": "Q122712020",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -3794,6 +4036,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454644",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q119454644",
   "collection": "Glynn Vivian Art Gallery"
  },
@@ -3811,6 +4054,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119840781",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119840781",
   "collection": "Royal Academy of Arts"
  },
@@ -3827,6 +4071,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454618",
+  "license_basis": "PD-old-100",
   "qid": "Q119454618",
   "collection": "Ashmolean Museum"
  },
@@ -3843,6 +4088,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131462903",
+  "license_basis": "PD-old-100",
   "qid": "Q131462903",
   "collection": "Gabinetto dei disegni e delle stampe"
  },
@@ -3859,8 +4105,26 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114697462",
+  "license_basis": "PD",
   "qid": "Q114697462",
   "collection": "Städel Museum"
+ },
+ {
+  "title": "Tentation de la femme de Potiphar",
+  "artist": "Raphael",
+  "year": "",
+  "medium": "Painting",
+  "gallery": "",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Loggia_di_raffaello%2C_07%2C_03.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Loggia_di_raffaello,_07,_03.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q141795009",
+  "license_basis": "PD-old-100",
+  "qid": "Q141795009",
+  "collection": ""
  },
  {
   "title": "The Adoration of the Kings",
@@ -3876,6 +4140,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20425450",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20425450",
   "collection": "Statens Museum for Kunst"
  },
@@ -3892,6 +4157,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110773699",
+  "license_basis": "PD-old-100",
   "qid": "Q110773699",
   "collection": "Nationalmuseum"
  },
@@ -3908,6 +4174,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110762830",
+  "license_basis": "PD-old-100",
   "qid": "Q110762830",
   "collection": "Nationalmuseum"
  },
@@ -3924,6 +4191,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1996917",
+  "license_basis": "PD-old-100",
   "qid": "Q1996917",
   "collection": "Vatican Museums"
  },
@@ -3940,6 +4208,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77927440",
+  "license_basis": "PD-old-100",
   "qid": "Q77927440",
   "collection": "National Gallery of Ireland"
  },
@@ -3956,6 +4225,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131557878",
+  "license_basis": "PD-old-100",
   "qid": "Q131557878",
   "collection": "Apostolic Palace"
  },
@@ -3972,6 +4242,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1450935",
+  "license_basis": "PD-old-100",
   "qid": "Q1450935",
   "collection": "Vatican Museums"
  },
@@ -3988,6 +4259,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77926299",
+  "license_basis": "PD-old-100",
   "qid": "Q77926299",
   "collection": "National Gallery of Ireland"
  },
@@ -4005,6 +4277,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q77897131",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q77897131",
   "collection": "National Gallery of Ireland"
  },
@@ -4022,6 +4295,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454629",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119454629",
   "collection": "Bowes Museum"
  },
@@ -4038,6 +4312,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110746945",
+  "license_basis": "PD-old-100",
   "qid": "Q110746945",
   "collection": "Nationalmuseum"
  },
@@ -4054,6 +4329,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454663",
+  "license_basis": "PD-old-100",
   "qid": "Q119454663",
   "collection": "Corpus Christi College"
  },
@@ -4071,6 +4347,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20557352",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q20557352",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -4088,6 +4365,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454593",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119454593",
   "collection": "Christ Church"
  },
@@ -4105,6 +4383,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20557413",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20557413",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -4121,6 +4400,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119861797",
+  "license_basis": "PD-old-100",
   "qid": "Q119861797",
   "collection": "Royal Academy of Arts"
  },
@@ -4137,6 +4417,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110774919",
+  "license_basis": "PD-old-100",
   "qid": "Q110774919",
   "collection": "Nationalmuseum"
  },
@@ -4154,6 +4435,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454583",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119454583",
   "collection": "Christ Church"
  },
@@ -4171,6 +4453,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119454686",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q119454686",
   "collection": "Christ Church"
  },
@@ -4188,6 +4471,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20557290",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20557290",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -4205,6 +4489,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268553",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q20268553",
   "collection": "Statens Museum for Kunst"
  },
@@ -4221,6 +4506,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118632761",
+  "license_basis": "PD-old-100",
   "qid": "Q118632761",
   "collection": "Walker Art Gallery"
  }

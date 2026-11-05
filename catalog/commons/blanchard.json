@@ -104,6 +104,23 @@
   "collection": "Kunstbesitz der Landeshauptstadt Hannover"
  },
  {
+  "title": "Maternité",
+  "artist": "Maria Blanchard",
+  "year": "1921",
+  "medium": "Painting",
+  "gallery": "Musée National d'Art Moderne",
+  "country": "Spain",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maternit%C3%A9_par_Maria_Blanchard.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Maternit%C3%A9_par_Maria_Blanchard.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q105451862",
+  "license_basis": "PD-old-80",
+  "qid": "Q105451862",
+  "collection": "Musée National d'Art Moderne"
+ },
+ {
   "title": "La Bretonne (Woman from Brittany)",
   "artist": "Maria Blanchard",
   "year": "",

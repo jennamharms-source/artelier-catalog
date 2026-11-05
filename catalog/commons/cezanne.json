@@ -13,6 +13,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63792798",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63792798",
   "collection": "Christie's"
  },
@@ -29,6 +30,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64354903",
+  "license_basis": "PD-old-100",
   "qid": "Q64354903",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -45,6 +47,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64354575",
+  "license_basis": "PD-old-100",
   "qid": "Q64354575",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -61,6 +64,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64354710",
+  "license_basis": "PD-old-100",
   "qid": "Q64354710",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -77,6 +81,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64354801",
+  "license_basis": "PD-old-100",
   "qid": "Q64354801",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -94,6 +99,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64214027",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q64214027",
   "collection": "Musée Granet"
  },
@@ -110,6 +116,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79790623",
+  "license_basis": "PD-old",
   "qid": "Q79790623",
   "collection": "Pola Museum of Art"
  },
@@ -127,6 +134,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17494790",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17494790",
   "collection": "Musée d'Orsay"
  },
@@ -144,6 +152,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212416",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64212416",
   "collection": "Ambroise Vollard"
  },
@@ -160,6 +169,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105484798",
+  "license_basis": "PD-old-100",
   "qid": "Q105484798",
   "collection": ""
  },
@@ -176,6 +186,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q115914867",
+  "license_basis": "PD-old",
   "qid": "Q115914867",
   "collection": "Nakata Museum"
  },
@@ -193,6 +204,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q63676105",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q63676105",
   "collection": ""
  },
@@ -209,6 +221,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64515352",
+  "license_basis": "PD-old-100",
   "qid": "Q64515352",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -226,6 +239,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64365677",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64365677",
   "collection": ""
  },
@@ -243,6 +257,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67410833",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q67410833",
   "collection": "Frances Lehman Loeb Art Center"
  },
@@ -260,6 +275,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19962604",
   "genre": "Interior",
+  "license_basis": "PD-old-100",
   "qid": "Q19962604",
   "collection": "National Gallery"
  },
@@ -277,6 +293,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939413",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q24939413",
   "collection": "National Gallery"
  },
@@ -293,6 +310,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76625659",
+  "license_basis": "PD-old",
   "qid": "Q76625659",
   "collection": "Israel Museum"
  },
@@ -310,6 +328,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126424",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126424",
   "collection": "Barnes Foundation"
  },
@@ -327,6 +346,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64224440",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64224440",
   "collection": ""
  },
@@ -343,6 +363,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76626871",
+  "license_basis": "PD-old",
   "qid": "Q76626871",
   "collection": "Israel Museum"
  },
@@ -360,6 +381,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46944411",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q46944411",
   "collection": "Cincinnati Art Museum"
  },
@@ -377,6 +399,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4024897",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q4024897",
   "collection": "Musée d'Orsay"
  },
@@ -394,6 +417,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188674",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20188674",
   "collection": "National Gallery of Art"
  },
@@ -411,6 +435,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64408171",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64408171",
   "collection": ""
  },
@@ -428,6 +453,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911573",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19911573",
   "collection": "Metropolitan Museum of Art"
  },
@@ -444,6 +470,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64301223",
+  "license_basis": "PD",
   "qid": "Q64301223",
   "collection": "Norton Simon Museum"
  },
@@ -460,6 +487,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124479086",
+  "license_basis": "PD-old",
   "qid": "Q124479086",
   "collection": "Montreal Museum of Fine Arts"
  },
@@ -477,6 +505,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64372343",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64372343",
   "collection": "Saint Louis Art Museum"
  },
@@ -493,6 +522,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18203234",
+  "license_basis": "PD-old-100",
   "qid": "Q18203234",
   "collection": "Museo Soumaya"
  },
@@ -509,6 +539,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q135208928",
+  "license_basis": "PD-US-expired",
   "qid": "Q135208928",
   "collection": "Musée des Beaux-Arts de Dijon"
  },
@@ -526,6 +557,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63695874",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63695874",
   "collection": "Museum collection Am Römerholz"
  },
@@ -543,6 +575,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911720",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19911720",
   "collection": "Metropolitan Museum of Art"
  },
@@ -560,6 +593,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q108558566",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q108558566",
   "collection": "Kunsthaus Zürich"
  },
@@ -577,6 +611,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188675",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20188675",
   "collection": "National Gallery of Art"
  },
@@ -594,6 +629,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17492691",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17492691",
   "collection": "Musée d'Orsay"
  },
@@ -611,6 +647,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63681208",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63681208",
   "collection": "Munich Central Collecting Point"
  },
@@ -628,6 +665,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q119084413",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q119084413",
   "collection": "Fitzwilliam Museum"
  },
@@ -645,6 +683,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2656755",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2656755",
   "collection": "Musée d'Orsay"
  },
@@ -662,6 +701,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17491431",
   "genre": "Figure",
+  "license_basis": "PD-old-100",
   "qid": "Q17491431",
   "collection": "Musée Granet"
  },
@@ -679,6 +719,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q63875723",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q63875723",
   "collection": "Fitzwilliam Museum"
  },
@@ -695,6 +736,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64563595",
+  "license_basis": "PD-old-100",
   "qid": "Q64563595",
   "collection": "Chrysler Museum of Art"
  },
@@ -711,6 +753,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64370975",
+  "license_basis": "PD",
   "qid": "Q64370975",
   "collection": ""
  },
@@ -728,6 +771,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797024",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q28797024",
   "collection": "Walker Art Gallery"
  },
@@ -745,6 +789,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3873330",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3873330",
   "collection": "Musée d'Orsay"
  },
@@ -762,6 +807,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126426",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126426",
   "collection": "Barnes Foundation"
  },
@@ -779,6 +825,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223153",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64223153",
   "collection": ""
  },
@@ -796,6 +843,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q31702677",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q31702677",
   "collection": "São Paulo Museum of Art"
  },
@@ -812,6 +860,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q67449717",
+  "license_basis": "PD-old",
   "qid": "Q67449717",
   "collection": "Morohashi Museum of Modern Art"
  },
@@ -829,6 +878,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223624",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64223624",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -846,6 +896,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49416696",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q49416696",
   "collection": "Yale University Art Gallery"
  },
@@ -862,6 +913,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126425",
+  "license_basis": "PD-old-100",
   "qid": "Q28126425",
   "collection": "Barnes Foundation"
  },
@@ -879,6 +931,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64354365",
   "genre": "Genre scene",
+  "license_basis": "PD-Art",
   "qid": "Q64354365",
   "collection": ""
  },
@@ -896,6 +949,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3929306",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3929306",
   "collection": "Hermitage Museum"
  },
@@ -913,6 +967,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3820951",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3820951",
   "collection": "Musée d'Orsay"
  },
@@ -930,6 +985,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3211447",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3211447",
   "collection": "Collection Stavros Niarchos"
  },
@@ -947,6 +1003,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q61890625",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q61890625",
   "collection": "Musée d'Orsay"
  },
@@ -963,6 +1020,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3898001",
+  "license_basis": "PD-old-100",
   "qid": "Q3898001",
   "collection": "São Paulo Museum of Art"
  },
@@ -979,6 +1037,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q68609011",
+  "license_basis": "PD-old-100",
   "qid": "Q68609011",
   "collection": "Davis Museum and Cultural Center"
  },
@@ -996,6 +1055,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939426",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q24939426",
   "collection": "National Gallery"
  },
@@ -1012,6 +1072,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q63556316",
+  "license_basis": "PD-old-100",
   "qid": "Q63556316",
   "collection": ""
  },
@@ -1028,6 +1089,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485027",
+  "license_basis": "PD-old-100",
   "qid": "Q64485027",
   "collection": ""
  },
@@ -1045,6 +1107,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q64539119",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q64539119",
   "collection": ""
  },
@@ -1062,6 +1125,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223778",
   "genre": "Mythological",
+  "license_basis": "PD-old",
   "qid": "Q64223778",
   "collection": ""
  },
@@ -1078,6 +1142,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141191522",
+  "license_basis": "PD-old-100",
   "qid": "Q141191522",
   "collection": ""
  },
@@ -1095,6 +1160,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64221462",
   "genre": "Genre scene",
+  "license_basis": "PD",
   "qid": "Q64221462",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -1112,6 +1178,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q6455706",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q6455706",
   "collection": ""
  },
@@ -1129,6 +1196,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19905398",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19905398",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1146,6 +1214,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141035180",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q141035180",
   "collection": ""
  },
@@ -1163,6 +1232,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q5968219",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q5968219",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -1180,6 +1250,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3984602",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q3984602",
   "collection": "Bavarian State Painting Collections"
  },
@@ -1197,6 +1268,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63882474",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q63882474",
   "collection": ""
  },
@@ -1214,6 +1286,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141062032",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q141062032",
   "collection": "Philadelphia Museum of Art"
  },
@@ -1230,6 +1303,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3790933",
+  "license_basis": "PD-old-100",
   "qid": "Q3790933",
   "collection": "Galleria d'arte moderna di Milano"
  },
@@ -1247,6 +1321,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223438",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64223438",
   "collection": "Sotheby's"
  },
@@ -1264,6 +1339,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20180965",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20180965",
   "collection": "J. Paul Getty Museum"
  },
@@ -1281,6 +1357,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q59504499",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q59504499",
   "collection": "National Gallery of Canada"
  },
@@ -1298,6 +1375,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19820260",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19820260",
   "collection": "Städel Museum"
  },
@@ -1314,6 +1392,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64239808",
+  "license_basis": "PD-old-100",
   "qid": "Q64239808",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -1330,6 +1409,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64369139",
+  "license_basis": "PD-old-100",
   "qid": "Q64369139",
   "collection": ""
  },
@@ -1346,6 +1426,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q83179711",
+  "license_basis": "PD-old",
   "qid": "Q83179711",
   "collection": "Hiroshima Museum of Art"
  },
@@ -1362,6 +1443,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q94637078",
+  "license_basis": "PD-old",
   "qid": "Q94637078",
   "collection": "Kunstmuseum Basel"
  },
@@ -1379,6 +1461,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49416955",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q49416955",
   "collection": "Yale University Art Gallery"
  },
@@ -1396,6 +1479,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q94637085",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q94637085",
   "collection": "Kunstmuseum Basel"
  },
@@ -1412,6 +1496,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64354100",
+  "license_basis": "PD-old-100",
   "qid": "Q64354100",
   "collection": "National Museum of Western Art"
  },
@@ -1429,6 +1514,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49416824",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q49416824",
   "collection": "Yale University Art Gallery"
  },
@@ -1446,6 +1532,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17490974",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17490974",
   "collection": "Musée d'Orsay"
  },
@@ -1463,6 +1550,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225404",
   "genre": "Genre scene",
+  "license_basis": "CC0",
   "qid": "Q64225404",
   "collection": ""
  },
@@ -1480,6 +1568,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223625",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64223625",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -1497,6 +1586,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495528",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17495528",
   "collection": "Musée d'Orsay"
  },
@@ -1514,6 +1604,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q59537310",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q59537310",
   "collection": "National Gallery of Canada"
  },
@@ -1531,6 +1622,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225622",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64225622",
   "collection": "Staechelin collection"
  },
@@ -1548,6 +1640,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17493558",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q17493558",
   "collection": "Musée d'Orsay"
  },
@@ -1565,6 +1658,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374248",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64374248",
   "collection": "Portland Art Museum"
  },
@@ -1582,6 +1676,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141150307",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q141150307",
   "collection": ""
  },
@@ -1599,6 +1694,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q106854876",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q106854876",
   "collection": "Fogg Museum"
  },
@@ -1616,6 +1712,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49416762",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q49416762",
   "collection": "Yale University Art Gallery"
  },
@@ -1633,6 +1730,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141530017",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q141530017",
   "collection": ""
  },
@@ -1650,6 +1748,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3821651",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q3821651",
   "collection": "Musée d'Orsay"
  },
@@ -1667,6 +1766,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q614986",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q614986",
   "collection": "Musée d'Orsay"
  },
@@ -1684,6 +1784,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17490916",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q17490916",
   "collection": "Musée d'Orsay"
  },
@@ -1700,6 +1801,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65576070",
+  "license_basis": "CC0",
   "qid": "Q65576070",
   "collection": "National Gallery of Art"
  },
@@ -1716,6 +1818,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79790634",
+  "license_basis": "PD-old-100",
   "qid": "Q79790634",
   "collection": "Pola Museum of Art"
  },
@@ -1733,6 +1836,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17491165",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q17491165",
   "collection": "Musée d'Orsay"
  },
@@ -1750,6 +1854,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64215013",
   "genre": "Still life",
+  "license_basis": "PD",
   "qid": "Q64215013",
   "collection": ""
  },
@@ -1766,6 +1871,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79889845",
+  "license_basis": "PD-old",
   "qid": "Q79889845",
   "collection": "Tokyo Fuji Art Museum"
  },
@@ -1782,6 +1888,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107452437",
+  "license_basis": "PD-old",
   "qid": "Q107452437",
   "collection": "Berggruen Museum"
  },
@@ -1799,6 +1906,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29654810",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q29654810",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -1816,6 +1924,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188764",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20188764",
   "collection": "National Gallery of Art"
  },
@@ -1833,6 +1942,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19861722",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19861722",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1850,6 +1960,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225267",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64225267",
   "collection": ""
  },
@@ -1866,6 +1977,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126427",
+  "license_basis": "PD-old-100",
   "qid": "Q28126427",
   "collection": "Barnes Foundation"
  },
@@ -1883,6 +1995,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49416890",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q49416890",
   "collection": "Yale University Art Gallery"
  },
@@ -1900,6 +2013,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495041",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q17495041",
   "collection": "Musée d'Orsay"
  },
@@ -1917,6 +2031,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808609",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20808609",
   "collection": "Philadelphia Museum of Art"
  },
@@ -1934,6 +2049,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17490917",
   "genre": "Still life",
+  "license_basis": "PD-Art",
   "qid": "Q17490917",
   "collection": "Musée d'Orsay"
  },
@@ -1950,6 +2066,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q70781225",
+  "license_basis": "PD-old-100",
   "qid": "Q70781225",
   "collection": "Fogg Museum"
  },
@@ -1966,6 +2083,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126436",
+  "license_basis": "PD-old-100",
   "qid": "Q28126436",
   "collection": "Barnes Foundation"
  },
@@ -1983,6 +2101,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63871125",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63871125",
   "collection": ""
  },
@@ -2000,6 +2119,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268808",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20268808",
   "collection": "Art Institute of Chicago"
  },
@@ -2017,6 +2137,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q19905310",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q19905310",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2033,6 +2154,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q88022501",
+  "license_basis": "PD-old",
   "qid": "Q88022501",
   "collection": "Sheffield Galleries and Museums Trust"
  },
@@ -2050,6 +2172,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27978525",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q27978525",
   "collection": "Hermitage Museum"
  },
@@ -2067,6 +2190,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64076910",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64076910",
   "collection": "Collection of A. Jerrold Perenchio"
  },
@@ -2084,6 +2208,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115921535",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q115921535",
   "collection": "Kasama Nichidō Museum of Art"
  },
@@ -2100,6 +2225,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223805",
+  "license_basis": "PD-old-100",
   "qid": "Q64223805",
   "collection": ""
  },
@@ -2117,6 +2243,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67403844",
   "genre": "Still life",
+  "license_basis": "PD-old-70",
   "qid": "Q67403844",
   "collection": "Musée Angladon"
  },
@@ -2134,6 +2261,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q79790631",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q79790631",
   "collection": "Pola Museum of Art"
  },
@@ -2151,6 +2279,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3821663",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3821663",
   "collection": "Musée d'Orsay"
  },
@@ -2168,6 +2297,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64246735",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64246735",
   "collection": ""
  },
@@ -2185,6 +2315,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3108260",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3108260",
   "collection": "Musée d'Orsay"
  },
@@ -2202,6 +2333,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63881348",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q63881348",
   "collection": "Denver Art Museum"
  },
@@ -2218,6 +2350,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126430",
+  "license_basis": "PD-old-100",
   "qid": "Q28126430",
   "collection": "Barnes Foundation"
  },
@@ -2235,6 +2368,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126442",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q28126442",
   "collection": "Barnes Foundation"
  },
@@ -2251,6 +2385,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q124336259",
+  "license_basis": "PD-old",
   "qid": "Q124336259",
   "collection": "Jean-Louis Prevost Foundation"
  },
@@ -2268,6 +2403,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688301",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q18688301",
   "collection": "Artizon Museum"
  },
@@ -2285,6 +2421,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q50643443",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q50643443",
   "collection": "National Gallery of Australia"
  },
@@ -2302,6 +2439,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211863",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q64211863",
   "collection": ""
  },
@@ -2319,6 +2457,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67609608",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q67609608",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -2336,6 +2475,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64206720",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64206720",
   "collection": "White House"
  },
@@ -2353,6 +2493,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64206031",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64206031",
   "collection": "White House"
  },
@@ -2370,6 +2511,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1884998",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q1884998",
   "collection": "Musée d'Orsay"
  },
@@ -2387,6 +2529,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21725627",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q21725627",
   "collection": "Hermitage Museum"
  },
@@ -2404,6 +2547,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212585",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64212585",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -2420,6 +2564,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q81759419",
+  "license_basis": "PD-old",
   "qid": "Q81759419",
   "collection": "Columbus Museum of Art"
  },
@@ -2437,6 +2582,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495197",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17495197",
   "collection": "Musée d'Orsay"
  },
@@ -2453,6 +2599,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q88311913",
+  "license_basis": "PD-old",
   "qid": "Q88311913",
   "collection": "Courtauld Institute of Art"
  },
@@ -2470,6 +2617,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911819",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q19911819",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2487,6 +2635,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337856",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q22337856",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -2504,6 +2653,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28494199",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28494199",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -2520,6 +2670,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64351492",
+  "license_basis": "PD-old-100",
   "qid": "Q64351492",
   "collection": ""
  },
@@ -2537,6 +2688,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q141008302",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q141008302",
   "collection": ""
  },
@@ -2553,6 +2705,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q94637072",
+  "license_basis": "PD-old",
   "qid": "Q94637072",
   "collection": "Im Obersteg Foundation collection"
  },
@@ -2570,6 +2723,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688299",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q18688299",
   "collection": "Artizon Museum"
  },
@@ -2586,6 +2740,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108274734",
+  "license_basis": "PD-old",
   "qid": "Q108274734",
   "collection": "Isabelle and Scott Black Collection"
  },
@@ -2603,6 +2758,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19904864",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19904864",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2620,6 +2776,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188813",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20188813",
   "collection": "National Gallery of Art"
  },
@@ -2637,6 +2794,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126444",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q28126444",
   "collection": "Barnes Foundation"
  },
@@ -2654,6 +2812,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64364677",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64364677",
   "collection": "Hahnloser Collection in Villa Flora"
  },
@@ -2671,6 +2830,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63881337",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q63881337",
   "collection": ""
  },
@@ -2688,6 +2848,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17491972",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q17491972",
   "collection": "Musée d'Orsay"
  },
@@ -2704,6 +2865,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q135088199",
+  "license_basis": "PD-old",
   "qid": "Q135088199",
   "collection": "Sidarta Collection"
  },
@@ -2720,6 +2882,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q136683619",
+  "license_basis": "PD-old",
   "qid": "Q136683619",
   "collection": "Sidarta Collection"
  },
@@ -2737,6 +2900,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64075857",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64075857",
   "collection": "Hamburger Kunsthalle"
  },
@@ -2753,6 +2917,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64211667",
+  "license_basis": "PD-old",
   "qid": "Q64211667",
   "collection": ""
  },
@@ -2769,6 +2934,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119851318",
+  "license_basis": "PD-old",
   "qid": "Q119851318",
   "collection": "National Gallery of Ireland"
  },
@@ -2786,6 +2952,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188815",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20188815",
   "collection": "National Gallery of Art"
  },
@@ -2802,6 +2969,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105416205",
+  "license_basis": "PD-old-100",
   "qid": "Q105416205",
   "collection": "Tel Aviv Museum of Art"
  },
@@ -2819,6 +2987,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337836",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q22337836",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -2835,6 +3004,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q67039010",
+  "license_basis": "PD-old",
   "qid": "Q67039010",
   "collection": "Rose Art Museum"
  },
@@ -2852,6 +3022,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212775",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64212775",
   "collection": ""
  },
@@ -2869,6 +3040,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q16038569",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q16038569",
   "collection": "Hermitage Museum"
  },
@@ -2886,6 +3058,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126446",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q28126446",
   "collection": "Barnes Foundation"
  },
@@ -2903,6 +3076,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126433",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126433",
   "collection": "Barnes Foundation"
  },
@@ -2920,6 +3094,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17496185",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17496185",
   "collection": "Musée d'Orsay"
  },
@@ -2937,6 +3112,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223613",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64223613",
   "collection": ""
  },
@@ -2954,6 +3130,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20553796",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q20553796",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -2971,6 +3148,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q92640652",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q92640652",
   "collection": "Hahnloser Collection in Villa Flora"
  },
@@ -2987,6 +3165,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64211731",
+  "license_basis": "PD-Art",
   "qid": "Q64211731",
   "collection": ""
  },
@@ -3003,6 +3182,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485172",
+  "license_basis": "PD-old-100",
   "qid": "Q64485172",
   "collection": ""
  },
@@ -3020,6 +3200,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17493643",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q17493643",
   "collection": "Musée d'Orsay"
  },
@@ -3036,6 +3217,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64409968",
+  "license_basis": "PD-old-100",
   "qid": "Q64409968",
   "collection": ""
  },
@@ -3053,6 +3235,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126450",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q28126450",
   "collection": "Barnes Foundation"
  },
@@ -3069,6 +3252,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q60668568",
+  "license_basis": "PD-old-100",
   "qid": "Q60668568",
   "collection": "Musée Picasso"
  },
@@ -3086,6 +3270,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225730",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64225730",
   "collection": "Yoshino Gypsum"
  },
@@ -3103,6 +3288,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223600",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64223600",
   "collection": "Christie's"
  },
@@ -3120,6 +3306,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225524",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64225524",
   "collection": ""
  },
@@ -3136,6 +3323,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64432892",
+  "license_basis": "PD-old-100",
   "qid": "Q64432892",
   "collection": ""
  },
@@ -3153,6 +3341,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3275261",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3275261",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -3169,6 +3358,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87842506",
+  "license_basis": "PD-old",
   "qid": "Q87842506",
   "collection": "Kelvingrove Art Gallery and Museum"
  },
@@ -3186,6 +3376,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64367266",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64367266",
   "collection": ""
  },
@@ -3203,6 +3394,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3630720",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3630720",
   "collection": "Musée d'Orsay"
  },
@@ -3220,6 +3412,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q134451066",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q134451066",
   "collection": ""
  },
@@ -3237,6 +3430,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18600232",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q18600232",
   "collection": "Nationalmuseum"
  },
@@ -3253,6 +3447,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64211692",
+  "license_basis": "PD-old-100",
   "qid": "Q64211692",
   "collection": "Pola Museum of Art"
  },
@@ -3270,6 +3465,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808611",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20808611",
   "collection": "Philadelphia Museum of Art"
  },
@@ -3287,6 +3483,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911857",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19911857",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3304,6 +3501,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882470",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19882470",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3321,6 +3519,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797022",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28797022",
   "collection": "Hungarian National Gallery"
  },
@@ -3338,6 +3537,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q20179566",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q20179566",
   "collection": "J. Paul Getty Museum"
  },
@@ -3355,6 +3555,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268389",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20268389",
   "collection": "Art Institute of Chicago"
  },
@@ -3372,6 +3573,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3983798",
   "genre": "Religious",
+  "license_basis": "PD-Art",
   "qid": "Q3983798",
   "collection": "Musée d'Orsay"
  },
@@ -3389,6 +3591,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212661",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64212661",
   "collection": "Degas Collection"
  },
@@ -3406,6 +3609,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3937670",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3937670",
   "collection": "Columbus Museum of Art"
  },
@@ -3423,6 +3627,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20168332",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20168332",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3439,6 +3644,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q67609612",
+  "license_basis": "PD-old",
   "qid": "Q67609612",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -3456,6 +3662,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126447",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q28126447",
   "collection": "Barnes Foundation"
  },
@@ -3473,6 +3680,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64157176",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64157176",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -3490,6 +3698,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24046223",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q24046223",
   "collection": "Kunstmuseum Den Haag"
  },
@@ -3507,6 +3716,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q60668625",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q60668625",
   "collection": "Musée Picasso"
  },
@@ -3524,6 +3734,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64224806",
   "genre": "Landscape",
+  "license_basis": "CC0",
   "qid": "Q64224806",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3541,6 +3752,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3818018",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3818018",
   "collection": "Musée d'Orsay"
  },
@@ -3558,6 +3770,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212208",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64212208",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -3574,6 +3787,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q66813276",
+  "license_basis": "PD-old-100",
   "qid": "Q66813276",
   "collection": "Pérez Simón Collection"
  },
@@ -3591,6 +3805,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67895957",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q67895957",
   "collection": "Cantonal Museum of Fine Arts"
  },
@@ -3608,6 +3823,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688313",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q18688313",
   "collection": "Museum of Modern Art"
  },
@@ -3625,6 +3841,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64513932",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q64513932",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -3642,6 +3859,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808610",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20808610",
   "collection": "Philadelphia Museum of Art"
  },
@@ -3659,6 +3877,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64405049",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64405049",
   "collection": "Degas Collection"
  },
@@ -3675,6 +3894,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87842510",
+  "license_basis": "PD-old",
   "qid": "Q87842510",
   "collection": "Kelvingrove Art Gallery and Museum"
  },
@@ -3692,6 +3912,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126452",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126452",
   "collection": "Barnes Foundation"
  },
@@ -3709,6 +3930,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188844",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20188844",
   "collection": "National Gallery of Art"
  },
@@ -3726,6 +3948,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126451",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126451",
   "collection": "Barnes Foundation"
  },
@@ -3743,6 +3966,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63759194",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63759194",
   "collection": "Ashmolean Museum"
  },
@@ -3760,6 +3984,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27976102",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q27976102",
   "collection": "Hermitage Museum"
  },
@@ -3777,6 +4002,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3185287",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3185287",
   "collection": "Kunstmuseum Bern"
  },
@@ -3793,6 +4019,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64374594",
+  "license_basis": "PD-old-100",
   "qid": "Q64374594",
   "collection": "Detroit Institute of Arts"
  },
@@ -3810,6 +4037,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28039709",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28039709",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -3827,6 +4055,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21730663",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q21730663",
   "collection": "Hermitage Museum"
  },
@@ -3844,6 +4073,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130619392",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q130619392",
   "collection": ""
  },
@@ -3860,6 +4090,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64433970",
+  "license_basis": "PD-old-100",
   "qid": "Q64433970",
   "collection": "Museum collection Am Römerholz"
  },
@@ -3876,6 +4107,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141156560",
+  "license_basis": "PD-old-100",
   "qid": "Q141156560",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3893,6 +4125,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225600",
   "genre": "Still life",
+  "license_basis": "PD",
   "qid": "Q64225600",
   "collection": "Degas Collection"
  },
@@ -3910,6 +4143,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137777818",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q137777818",
   "collection": ""
  },
@@ -3927,6 +4161,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355165",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q64355165",
   "collection": ""
  },
@@ -3944,6 +4179,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64280962",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64280962",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -3961,6 +4197,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223626",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64223626",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -3978,6 +4215,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64224616",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64224616",
   "collection": "Pola Museum of Art"
  },
@@ -3995,6 +4233,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211821",
   "genre": "Cityscape",
+  "license_basis": "PD-Art",
   "qid": "Q64211821",
   "collection": "Burrell Collection"
  },
@@ -4012,6 +4251,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355211",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64355211",
   "collection": ""
  },
@@ -4029,6 +4269,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3791135",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3791135",
   "collection": "Musée d'Orsay"
  },
@@ -4046,6 +4287,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63877462",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63877462",
   "collection": ""
  },
@@ -4063,6 +4305,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688314",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q18688314",
   "collection": "Museum of Modern Art"
  },
@@ -4080,6 +4323,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67959114",
   "genre": "Still life",
+  "license_basis": "PD-old-70",
   "qid": "Q67959114",
   "collection": "Rosengart Collection"
  },
@@ -4097,6 +4341,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3875099",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3875099",
   "collection": "Museum of Modern Art"
  },
@@ -4114,6 +4359,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55423514",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q55423514",
   "collection": "National Museum of Art, Architecture and Design"
  },
@@ -4131,6 +4377,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q116143401",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q116143401",
   "collection": "Fondation Corboud"
  },
@@ -4148,6 +4395,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126453",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126453",
   "collection": "Barnes Foundation"
  },
@@ -4164,6 +4412,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64406106",
+  "license_basis": "PD-old-100",
   "qid": "Q64406106",
   "collection": "Sompo Museum of Art"
  },
@@ -4181,6 +4430,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3795192",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q3795192",
   "collection": "Musée d'Orsay"
  },
@@ -4198,6 +4448,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23939459",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q23939459",
   "collection": "The Phillips Collection"
  },
@@ -4214,6 +4465,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64435052",
+  "license_basis": "PD-old-100",
   "qid": "Q64435052",
   "collection": ""
  },
@@ -4231,6 +4483,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49870571",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q49870571",
   "collection": "São Paulo Museum of Art"
  },
@@ -4248,6 +4501,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64303989",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64303989",
   "collection": "Degas Collection"
  },
@@ -4264,6 +4518,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124419544",
+  "license_basis": "PD-old-100",
   "qid": "Q124419544",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -4281,6 +4536,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18614635",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q18614635",
   "collection": "Dallas Museum of Art"
  },
@@ -4298,6 +4554,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2990688",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q2990688",
   "collection": "Museum of Modern Art"
  },
@@ -4315,6 +4572,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883412",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19883412",
   "collection": "Museum of Modern Art"
  },
@@ -4332,6 +4590,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882471",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19882471",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4349,6 +4608,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63670617",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63670617",
   "collection": "Amgueddfa Cymru – Museum Wales"
  },
@@ -4366,6 +4626,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126438",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126438",
   "collection": "Barnes Foundation"
  },
@@ -4383,6 +4644,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3694813",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3694813",
   "collection": "Musée d'Orsay"
  },
@@ -4400,6 +4662,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q61677254",
   "genre": "Nude",
+  "license_basis": "PD",
   "qid": "Q61677254",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -4417,6 +4680,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126440",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126440",
   "collection": "Barnes Foundation"
  },
@@ -4434,6 +4698,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211877",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q64211877",
   "collection": ""
  },
@@ -4450,6 +4715,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64434294",
+  "license_basis": "PD-old-100",
   "qid": "Q64434294",
   "collection": "National Gallery Prague"
  },
@@ -4467,6 +4733,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64213082",
   "genre": "Still life",
+  "license_basis": "PD",
   "qid": "Q64213082",
   "collection": "Ny Carlsberg Glyptotek"
  },
@@ -4484,6 +4751,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337858",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q22337858",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -4501,6 +4769,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808598",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20808598",
   "collection": "Philadelphia Museum of Art"
  },
@@ -4518,6 +4787,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883410",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q19883410",
   "collection": "Museum of Modern Art"
  },
@@ -4535,6 +4805,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225659",
   "genre": "Still life",
+  "license_basis": "PD",
   "qid": "Q64225659",
   "collection": ""
  },
@@ -4551,6 +4822,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64435546",
+  "license_basis": "PD",
   "qid": "Q64435546",
   "collection": "Norton Simon Museum"
  },
@@ -4568,6 +4840,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337841",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q22337841",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -4585,6 +4858,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337843",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q22337843",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -4602,6 +4876,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q9159850",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q9159850",
   "collection": "National Gallery of Art"
  },
@@ -4618,6 +4893,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374495",
+  "license_basis": "PD-old-100",
   "qid": "Q64374495",
   "collection": "Wadsworth Atheneum Museum of Art"
  },
@@ -4635,6 +4911,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211849",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q64211849",
   "collection": ""
  },
@@ -4652,6 +4929,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20553880",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20553880",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -4668,6 +4946,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114711512",
+  "license_basis": "PD-old",
   "qid": "Q114711512",
   "collection": "Ann & Gordon Getty Collection"
  },
@@ -4684,6 +4963,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q92831613",
+  "license_basis": "PD-old",
   "qid": "Q92831613",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -4701,6 +4981,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126439",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q28126439",
   "collection": "Barnes Foundation"
  },
@@ -4718,6 +4999,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20890794",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20890794",
   "collection": "Minneapolis Institute of Art"
  },
@@ -4735,6 +5017,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337851",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q22337851",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -4752,6 +5035,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63517567",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q63517567",
   "collection": "Kunsthaus Zürich"
  },
@@ -4768,6 +5052,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110748545",
+  "license_basis": "PD-old-100",
   "qid": "Q110748545",
   "collection": "Nationalmuseum"
  },
@@ -4785,6 +5070,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337842",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q22337842",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -4801,6 +5087,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64364651",
+  "license_basis": "PD",
   "qid": "Q64364651",
   "collection": "Kunsthaus Zürich"
  },
@@ -4818,6 +5105,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126454",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126454",
   "collection": "Barnes Foundation"
  },
@@ -4835,6 +5123,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19969194",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19969194",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -4852,6 +5141,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q80210299",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q80210299",
   "collection": "Simonow collection"
  },
@@ -4868,6 +5158,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q19969227",
+  "license_basis": "PD-old-100",
   "qid": "Q19969227",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -4884,6 +5175,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64211679",
+  "license_basis": "PD-old",
   "qid": "Q64211679",
   "collection": ""
  },
@@ -4901,6 +5193,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24022573",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q24022573",
   "collection": "Kröller-Müller Museum"
  },
@@ -4918,6 +5211,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q25410156",
   "genre": "Self-portrait",
+  "license_basis": "PD-Art",
   "qid": "Q25410156",
   "collection": "National Gallery"
  },
@@ -4935,6 +5229,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28496857",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28496857",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -4951,6 +5246,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q20262472",
+  "license_basis": "PD-old-100",
   "qid": "Q20262472",
   "collection": "Art Institute of Chicago"
  },
@@ -4968,6 +5264,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808612",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20808612",
   "collection": "Philadelphia Museum of Art"
  },
@@ -4985,6 +5282,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337859",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q22337859",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -5002,6 +5300,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23947989",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q23947989",
   "collection": "National Museum of Western Art"
  },
@@ -5018,6 +5317,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q20188858",
+  "license_basis": "PD-old-100",
   "qid": "Q20188858",
   "collection": "National Gallery of Art"
  },
@@ -5034,6 +5334,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q68041410",
+  "license_basis": "PD-old",
   "qid": "Q68041410",
   "collection": "Kreeger Museum"
  },
@@ -5051,6 +5352,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911855",
   "genre": "Landscape",
+  "license_basis": "CC0",
   "qid": "Q19911855",
   "collection": "Metropolitan Museum of Art"
  },
@@ -5067,6 +5369,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119122440",
+  "license_basis": "PD-old",
   "qid": "Q119122440",
   "collection": "Fitzwilliam Museum"
  },
@@ -5084,6 +5387,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225717",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64225717",
   "collection": ""
  },
@@ -5101,6 +5405,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q89373162",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q89373162",
   "collection": "Memorial Art Gallery"
  },
@@ -5118,6 +5423,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19969229",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19969229",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5135,6 +5441,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20167067",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20167067",
   "collection": "Metropolitan Museum of Art"
  },
@@ -5149,8 +5456,9 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:C%C3%A9zanne_-_FWN_130.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q108187503",
+  "license_basis": "PD-old",
   "qid": "Q108187503",
   "collection": "Gothenburg Museum of Art"
  },
@@ -5168,6 +5476,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27968498",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q27968498",
   "collection": "Hermitage Museum"
  },
@@ -5184,6 +5493,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q68041409",
+  "license_basis": "PD-old",
   "qid": "Q68041409",
   "collection": "Kreeger Museum"
  },
@@ -5200,6 +5510,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105416204",
+  "license_basis": "PD-old",
   "qid": "Q105416204",
   "collection": "Tel Aviv Museum of Art"
  },
@@ -5216,6 +5527,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q96241044",
+  "license_basis": "PD-old",
   "qid": "Q96241044",
   "collection": "Basil and Elise Goulandris Foundation"
  },
@@ -5233,6 +5545,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18599090",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18599090",
   "collection": "Nationalmuseum"
  },
@@ -5250,6 +5563,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64214967",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64214967",
   "collection": ""
  },
@@ -5267,6 +5581,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688308",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18688308",
   "collection": "Alte Nationalgalerie"
  },
@@ -5284,6 +5599,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q30067879",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q30067879",
   "collection": "Bavarian State Painting Collections"
  },
@@ -5301,6 +5617,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27971731",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q27971731",
   "collection": "Hermitage Museum"
  },
@@ -5318,6 +5635,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23947992",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q23947992",
   "collection": "National Museum of Western Art"
  },
@@ -5335,6 +5653,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797026",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28797026",
   "collection": "Israel Museum"
  },
@@ -5352,6 +5671,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374295",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64374295",
   "collection": "Von der Heydt Museum"
  },
@@ -5369,6 +5689,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20416298",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q20416298",
   "collection": "National Gallery of Victoria"
  },
@@ -5386,6 +5707,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124680564",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q124680564",
   "collection": "Wadsworth Atheneum Museum of Art"
  },
@@ -5403,6 +5725,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64347609",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64347609",
   "collection": ""
  },
@@ -5420,6 +5743,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225591",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64225591",
   "collection": "Christie's"
  },
@@ -5436,6 +5760,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q67959115",
+  "license_basis": "PD-old-100",
   "qid": "Q67959115",
   "collection": "Rosengart Collection"
  },
@@ -5453,6 +5778,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64568528",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64568528",
   "collection": "Yokohama Museum of Art"
  },
@@ -5470,6 +5796,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q6903107",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q6903107",
   "collection": "Metropolitan Museum of Art"
  },
@@ -5487,6 +5814,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797016",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28797016",
   "collection": "Israel Museum"
  },
@@ -5504,6 +5832,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q7232289",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q7232289",
   "collection": "National Gallery of Art"
  },
@@ -5521,6 +5850,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q11880397",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q11880397",
   "collection": "Finnish National Gallery"
  },
@@ -5538,6 +5868,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67515667",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q67515667",
   "collection": "Allen Memorial Art Museum"
  },
@@ -5555,6 +5886,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64167267",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64167267",
   "collection": ""
  },
@@ -5571,6 +5903,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28797017",
+  "license_basis": "PD-old-100",
   "qid": "Q28797017",
   "collection": "Ohara Museum of Art"
  },
@@ -5587,6 +5920,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108748669",
+  "license_basis": "PD-old-100",
   "qid": "Q108748669",
   "collection": "Nationalmuseum"
  },
@@ -5603,6 +5937,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q92640543",
+  "license_basis": "PD-old",
   "qid": "Q92640543",
   "collection": "Hahnloser Collection in Villa Flora"
  },
@@ -5620,6 +5955,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189631",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20189631",
   "collection": "National Gallery of Art"
  },
@@ -5637,6 +5973,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q96241042",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q96241042",
   "collection": "Basil and Elise Goulandris Foundation"
  },
@@ -5654,6 +5991,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3937611",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3937611",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -5670,6 +6008,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64307895",
+  "license_basis": "PD-Art",
   "qid": "Q64307895",
   "collection": "Cox Collection"
  },
@@ -5686,6 +6025,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77591338",
+  "license_basis": "PD-old-100",
   "qid": "Q77591338",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -5703,6 +6043,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q19969204",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19969204",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -5720,6 +6061,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64244598",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64244598",
   "collection": "Courtauld Gallery"
  },
@@ -5737,6 +6079,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808613",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20808613",
   "collection": "Philadelphia Museum of Art"
  },
@@ -5754,6 +6097,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19820266",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19820266",
   "collection": "Städel Museum"
  },
@@ -5771,6 +6115,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126459",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126459",
   "collection": "Barnes Foundation"
  },
@@ -5788,6 +6133,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q25692194",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q25692194",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -5805,6 +6151,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3662056",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3662056",
   "collection": "Norton Simon Museum"
  },
@@ -5822,6 +6169,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64157283",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64157283",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -5838,6 +6186,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64618926",
+  "license_basis": "PD-old-100",
   "qid": "Q64618926",
   "collection": "National Gallery of Art"
  },
@@ -5855,6 +6204,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104377312",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q104377312",
   "collection": ""
  },
@@ -5872,6 +6222,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337829",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q22337829",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -5889,6 +6240,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17490867",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q17490867",
   "collection": "Musée d'Orsay"
  },
@@ -5906,6 +6258,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223698",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q64223698",
   "collection": ""
  },
@@ -5923,6 +6276,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q64223799",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q64223799",
   "collection": ""
  },
@@ -5940,6 +6294,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64246968",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64246968",
   "collection": "Museum collection Am Römerholz"
  },
@@ -5957,6 +6312,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63871494",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63871494",
   "collection": "Ny Carlsberg Glyptotek"
  },
@@ -5974,6 +6330,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124377837",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q124377837",
   "collection": "Von der Heydt Museum"
  },
@@ -5991,6 +6348,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688304",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18688304",
   "collection": "Albertina"
  },
@@ -6008,6 +6366,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911801",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19911801",
   "collection": "Metropolitan Museum of Art"
  },
@@ -6025,6 +6384,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126456",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126456",
   "collection": "Barnes Foundation"
  },
@@ -6042,6 +6402,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126455",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126455",
   "collection": "Barnes Foundation"
  },
@@ -6059,6 +6420,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64377092",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64377092",
   "collection": ""
  },
@@ -6075,6 +6437,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64618884",
+  "license_basis": "CC0",
   "qid": "Q64618884",
   "collection": "National Gallery of Art"
  },
@@ -6092,6 +6455,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64140659",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64140659",
   "collection": "Volkart Foundation"
  },
@@ -6109,6 +6473,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225470",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64225470",
   "collection": "Fogg Museum"
  },
@@ -6126,6 +6491,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910311",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q29910311",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -6143,6 +6509,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64370842",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64370842",
   "collection": "Smith College Museum of Art"
  },
@@ -6159,6 +6526,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q120692186",
+  "license_basis": "PD-old",
   "qid": "Q120692186",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -6176,6 +6544,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19861723",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19861723",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -6193,6 +6562,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126469",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126469",
   "collection": "Barnes Foundation"
  },
@@ -6210,6 +6580,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q5914606",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q5914606",
   "collection": "Musée d'Art d'Indianapolis"
  },
@@ -6227,6 +6598,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64154112",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64154112",
   "collection": ""
  },
@@ -6244,6 +6616,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64377355",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64377355",
   "collection": ""
  },
@@ -6261,6 +6634,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225749",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64225749",
   "collection": "Kagoshima City Museum of Art"
  },
@@ -6277,6 +6651,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64434667",
+  "license_basis": "PD-old-100",
   "qid": "Q64434667",
   "collection": ""
  },
@@ -6293,6 +6668,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123706301",
+  "license_basis": "PD-old",
   "qid": "Q123706301",
   "collection": "Kunstmuseum Bern"
  },
@@ -6310,6 +6686,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495243",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17495243",
   "collection": "Musée Granet"
  },
@@ -6327,6 +6704,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63871376",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63871376",
   "collection": ""
  },
@@ -6344,6 +6722,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808606",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20808606",
   "collection": "Philadelphia Museum of Art"
  },
@@ -6361,6 +6740,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808608",
   "genre": "Portrait",
+  "license_basis": "PD",
   "qid": "Q20808608",
   "collection": "Philadelphia Museum of Art"
  },
@@ -6378,6 +6758,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q7232291",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q7232291",
   "collection": "Philadelphia Museum of Art"
  },
@@ -6395,6 +6776,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212455",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64212455",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -6412,6 +6794,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64222259",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64222259",
   "collection": "White House"
  },
@@ -6429,6 +6812,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688298",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688298",
   "collection": "Philadelphia Museum of Art"
  },
@@ -6446,6 +6830,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20881307",
   "genre": "Still life",
+  "license_basis": "PD",
   "qid": "Q20881307",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -6463,6 +6848,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64222279",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64222279",
   "collection": "White House"
  },
@@ -6480,6 +6866,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29914032",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q29914032",
   "collection": "Bavarian State Painting Collections"
  },
@@ -6497,6 +6884,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2520343",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q2520343",
   "collection": "Lillie P. Bliss"
  },
@@ -6514,6 +6902,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268642",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20268642",
   "collection": "Art Institute of Chicago"
  },
@@ -6531,6 +6920,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126464",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126464",
   "collection": "Barnes Foundation"
  },
@@ -6548,6 +6938,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18654821",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18654821",
   "collection": "Metropolitan Museum of Art"
  },
@@ -6565,6 +6956,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19861724",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19861724",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -6582,6 +6974,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19858963",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q19858963",
   "collection": "Brooklyn Museum"
  },
@@ -6599,6 +6992,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20183245",
   "genre": "Landscape",
+  "license_basis": "CC0",
   "qid": "Q20183245",
   "collection": "Metropolitan Museum of Art"
  },
@@ -6616,6 +7010,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55425519",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q55425519",
   "collection": "National Museum of Art, Architecture and Design"
  },
@@ -6633,6 +7028,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49870553",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q49870553",
   "collection": "São Paulo Museum of Art"
  },
@@ -6650,6 +7046,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64138948",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64138948",
   "collection": "Dallas Museum of Art"
  },
@@ -6667,6 +7064,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115914612",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q115914612",
   "collection": "Collection Stavros Niarchos"
  },
@@ -6683,6 +7081,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64517119",
+  "license_basis": "PD-old",
   "qid": "Q64517119",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -6700,6 +7099,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3662055",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3662055",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -6717,6 +7117,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q60494012",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q60494012",
   "collection": "Kunstmuseum Basel"
  },
@@ -6733,6 +7134,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116167895",
+  "license_basis": "PD-old-100",
   "qid": "Q116167895",
   "collection": "Wallraf–Richartz Museum"
  },
@@ -6750,6 +7152,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64278356",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64278356",
   "collection": ""
  },
@@ -6767,6 +7170,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64139096",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64139096",
   "collection": "White House"
  },
@@ -6784,6 +7188,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939427",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q24939427",
   "collection": "National Gallery"
  },
@@ -6801,6 +7206,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64154034",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64154034",
   "collection": "Christie's"
  },
@@ -6818,6 +7224,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q59506269",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q59506269",
   "collection": "National Gallery of Canada"
  },
@@ -6835,6 +7242,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23940181",
   "genre": "Landscape",
+  "license_basis": "PD-1996",
   "qid": "Q23940181",
   "collection": "The Phillips Collection"
  },
@@ -6852,6 +7260,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64350209",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64350209",
   "collection": "Detroit Institute of Arts"
  },
@@ -6869,6 +7278,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189742",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20189742",
   "collection": "National Gallery of Art"
  },
@@ -6885,6 +7295,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q91932567",
+  "license_basis": "PD-old",
   "qid": "Q91932567",
   "collection": "Museum collection Am Römerholz"
  },
@@ -6902,6 +7313,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20735673",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20735673",
   "collection": "National Gallery Prague"
  },
@@ -6919,6 +7331,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q6903108",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q6903108",
   "collection": "Courtauld Institute of Art"
  },
@@ -6936,6 +7349,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189870",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20189870",
   "collection": "National Gallery of Art"
  },
@@ -6953,6 +7367,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136957034",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q136957034",
   "collection": ""
  },
@@ -6970,6 +7385,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495244",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17495244",
   "collection": "Musée d'Orsay"
  },
@@ -6986,6 +7402,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107340281",
+  "license_basis": "CC0",
   "qid": "Q107340281",
   "collection": "Amgueddfa Cymru – Museum Wales"
  },
@@ -7003,6 +7420,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64239112",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64239112",
   "collection": ""
  },
@@ -7019,6 +7437,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485084",
+  "license_basis": "PD-old-100",
   "qid": "Q64485084",
   "collection": ""
  },
@@ -7036,6 +7455,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63532764",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q63532764",
   "collection": "Fogg Museum"
  },
@@ -7053,6 +7473,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126457",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126457",
   "collection": "Barnes Foundation"
  },
@@ -7070,6 +7491,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126462",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q28126462",
   "collection": "Barnes Foundation"
  },
@@ -7087,6 +7509,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64226261",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64226261",
   "collection": ""
  },
@@ -7104,6 +7527,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19682454",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19682454",
   "collection": "Hermitage Museum"
  },
@@ -7118,9 +7542,10 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_All%C3%A9e_%C3%A0_Chantilly,_1888_(National_Gallery,_London).jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q24939406",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q24939406",
   "collection": "National Gallery"
  },
@@ -7135,9 +7560,10 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:L%27All%C3%A9e_%C3%A0_Chantilly,_par_Paul_C%C3%A9zanne,_Yorck.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q63869920",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63869920",
   "collection": "Toledo Museum of Art"
  },
@@ -7155,6 +7581,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q600379",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q600379",
   "collection": "Art Gallery of New South Wales"
  },
@@ -7171,6 +7598,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64224745",
+  "license_basis": "PD-old-100",
   "qid": "Q64224745",
   "collection": "Metropolitan Museum of Art"
  },
@@ -7188,6 +7616,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355151",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q64355151",
   "collection": ""
  },
@@ -7205,6 +7634,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883422",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19883422",
   "collection": "Museum of Modern Art"
  },
@@ -7222,6 +7652,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64231470",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64231470",
   "collection": "Kunstmuseum Bern"
  },
@@ -7239,6 +7670,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126458",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q28126458",
   "collection": "Barnes Foundation"
  },
@@ -7256,6 +7688,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211180",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q64211180",
   "collection": ""
  },
@@ -7273,6 +7706,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24055846",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q24055846",
   "collection": "Stedelijk Museum Amsterdam"
  },
@@ -7290,6 +7724,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797019",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28797019",
   "collection": "Ohara Museum of Art"
  },
@@ -7307,6 +7742,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q49870534",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q49870534",
   "collection": "São Paulo Museum of Art"
  },
@@ -7324,6 +7760,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2962671",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2962671",
   "collection": "Art Institute of Chicago"
  },
@@ -7341,6 +7778,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64156996",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64156996",
   "collection": "White House"
  },
@@ -7358,6 +7796,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3138984",
   "genre": "Genre scene",
+  "license_basis": "PD-Art",
   "qid": "Q3138984",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -7375,6 +7814,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688310",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q18688310",
   "collection": "Alte Nationalgalerie"
  },
@@ -7392,6 +7832,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3213037",
   "genre": "Still life",
+  "license_basis": "PD-Art",
   "qid": "Q3213037",
   "collection": "Musée d'Orsay"
  },
@@ -7409,6 +7850,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126460",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126460",
   "collection": "Barnes Foundation"
  },
@@ -7426,6 +7868,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126468",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126468",
   "collection": "Barnes Foundation"
  },
@@ -7443,6 +7886,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189901",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20189901",
   "collection": "National Gallery of Art"
  },
@@ -7459,6 +7903,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79791128",
+  "license_basis": "PD-old",
   "qid": "Q79791128",
   "collection": "Pola Museum of Art"
  },
@@ -7476,6 +7921,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126472",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126472",
   "collection": "Barnes Foundation"
  },
@@ -7493,6 +7939,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64262379",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64262379",
   "collection": "Paul G. Allen Collection"
  },
@@ -7510,6 +7957,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64073604",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64073604",
   "collection": ""
  },
@@ -7527,6 +7975,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64174034",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q64174034",
   "collection": "Abegg foundation"
  },
@@ -7544,6 +7993,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20167086",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20167086",
   "collection": "Metropolitan Museum of Art"
  },
@@ -7560,6 +8010,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64484172",
+  "license_basis": "PD-old-100",
   "qid": "Q64484172",
   "collection": "Matsukata Collection"
  },
@@ -7576,6 +8027,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q83179714",
+  "license_basis": "PD-old",
   "qid": "Q83179714",
   "collection": "KOKUYO"
  },
@@ -7593,6 +8045,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2270805",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2270805",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -7610,6 +8063,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130753906",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q130753906",
   "collection": "Degas Collection"
  },
@@ -7627,6 +8081,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64366377",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64366377",
   "collection": "Honolulu Museum of Art"
  },
@@ -7644,6 +8099,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17490706",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q17490706",
   "collection": "Musée Granet"
  },
@@ -7661,6 +8117,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190070",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20190070",
   "collection": "National Gallery of Art"
  },
@@ -7678,6 +8135,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17277873",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q17277873",
   "collection": "Hermitage Museum"
  },
@@ -7695,6 +8153,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17490823",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q17490823",
   "collection": "Musée Granet"
  },
@@ -7712,6 +8171,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28496861",
   "genre": "Genre scene",
+  "license_basis": "PD-Art",
   "qid": "Q28496861",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -7728,6 +8188,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485099",
+  "license_basis": "PD-old-100",
   "qid": "Q64485099",
   "collection": "Saint Louis Art Museum"
  },
@@ -7745,6 +8206,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126466",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126466",
   "collection": "Barnes Foundation"
  },
@@ -7762,6 +8224,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24055852",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q24055852",
   "collection": "Stedelijk Museum Amsterdam"
  },
@@ -7779,6 +8242,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688318",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18688318",
   "collection": "Albertina"
  },
@@ -7796,6 +8260,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797018",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28797018",
   "collection": "Israel Museum"
  },
@@ -7813,6 +8278,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20553831",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20553831",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -7830,6 +8296,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q56810526",
   "genre": "Genre scene",
+  "license_basis": "CC0",
   "qid": "Q56810526",
   "collection": "Hammer Museum"
  },
@@ -7847,6 +8314,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126470",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126470",
   "collection": "Barnes Foundation"
  },
@@ -7864,6 +8332,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3821677",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3821677",
   "collection": "Museum of Art and History Geneva"
  },
@@ -7881,6 +8350,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126463",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q28126463",
   "collection": "Barnes Foundation"
  },
@@ -7898,6 +8368,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64247102",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64247102",
   "collection": ""
  },
@@ -7914,6 +8385,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64567772",
+  "license_basis": "PD-old-100",
   "qid": "Q64567772",
   "collection": ""
  },
@@ -7930,6 +8402,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64568187",
+  "license_basis": "PD-old-100",
   "qid": "Q64568187",
   "collection": "Honolulu Museum of Art"
  },
@@ -7947,6 +8420,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64249294",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64249294",
   "collection": "Garengo Foundation"
  },
@@ -7964,6 +8438,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17494319",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17494319",
   "collection": "Musée d'Orsay"
  },
@@ -7980,6 +8455,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29909742",
+  "license_basis": "PD-old",
   "qid": "Q29909742",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -7996,6 +8472,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q67034981",
+  "license_basis": "PD-old-100",
   "qid": "Q67034981",
   "collection": "National Museum of Art, Osaka"
  },
@@ -8013,6 +8490,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q68969172",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q68969172",
   "collection": "Kunsthalle Mannheim"
  },
@@ -8030,6 +8508,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q9183696",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q9183696",
   "collection": "Musée d'Orsay"
  },
@@ -8047,6 +8526,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64347129",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64347129",
   "collection": "Norton Simon Museum"
  },
@@ -8063,6 +8543,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910200",
+  "license_basis": "PD-old",
   "qid": "Q29910200",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -8080,6 +8561,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797023",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28797023",
   "collection": "Musée d'Orsay"
  },
@@ -8096,6 +8578,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126484",
+  "license_basis": "PD-old-100",
   "qid": "Q28126484",
   "collection": "Barnes Foundation"
  },
@@ -8113,6 +8596,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3632882",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3632882",
   "collection": "Musée d'Orsay"
  },
@@ -8129,6 +8613,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64377213",
+  "license_basis": "PD-old-100",
   "qid": "Q64377213",
   "collection": ""
  },
@@ -8145,6 +8630,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133669060",
+  "license_basis": "PD-old-100",
   "qid": "Q133669060",
   "collection": "Wallraf–Richartz Museum"
  },
@@ -8162,6 +8648,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28094409",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28094409",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -8179,6 +8666,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126488",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126488",
   "collection": "Barnes Foundation"
  },
@@ -8196,6 +8684,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355222",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64355222",
   "collection": "Museum Folkwang"
  },
@@ -8213,6 +8702,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685993",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18685993",
   "collection": "National Galleries Scotland"
  },
@@ -8230,6 +8720,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64221115",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64221115",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -8247,6 +8738,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130214319",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q130214319",
   "collection": "Fondazione Magnani-Rocca"
  },
@@ -8264,6 +8756,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q91932572",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q91932572",
   "collection": "Museum collection Am Römerholz"
  },
@@ -8281,6 +8774,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4024895",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q4024895",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -8297,6 +8791,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q94637082",
+  "license_basis": "PD-old",
   "qid": "Q94637082",
   "collection": "Kunstmuseum Basel"
  },
@@ -8314,6 +8809,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3937610",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3937610",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -8331,6 +8827,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q12843791",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q12843791",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -8348,6 +8845,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137477813",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q137477813",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -8365,6 +8863,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64138869",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64138869",
   "collection": "White House"
  },
@@ -8382,6 +8881,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3873325",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3873325",
   "collection": "Hermitage Museum"
  },
@@ -8399,6 +8899,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19904841",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19904841",
   "collection": "Metropolitan Museum of Art"
  },
@@ -8416,6 +8917,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64407301",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64407301",
   "collection": "Pola Museum of Art"
  },
@@ -8433,6 +8935,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55424082",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q55424082",
   "collection": "National Museum of Art, Architecture and Design"
  },
@@ -8450,6 +8953,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337844",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q22337844",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -8466,6 +8970,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64566887",
+  "license_basis": "PD-old-100",
   "qid": "Q64566887",
   "collection": "Worcester Art Museum"
  },
@@ -8483,6 +8988,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19859012",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19859012",
   "collection": "Brooklyn Museum"
  },
@@ -8500,6 +9006,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1165042",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q1165042",
   "collection": "Musée d'Orsay"
  },
@@ -8517,6 +9024,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126478",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q28126478",
   "collection": "Barnes Foundation"
  },
@@ -8534,6 +9042,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126483",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126483",
   "collection": "Barnes Foundation"
  },
@@ -8551,6 +9060,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q60513959",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q60513959",
   "collection": "Cleveland Museum of Art"
  },
@@ -8568,6 +9078,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268510",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20268510",
   "collection": "Art Institute of Chicago"
  },
@@ -8585,6 +9096,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126467",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126467",
   "collection": "Barnes Foundation"
  },
@@ -8601,6 +9113,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110796972",
+  "license_basis": "PD-old-100",
   "qid": "Q110796972",
   "collection": "Nationalmuseum"
  },
@@ -8617,6 +9130,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q67609613",
+  "license_basis": "PD-old",
   "qid": "Q67609613",
   "collection": ""
  },
@@ -8634,6 +9148,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126480",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126480",
   "collection": "Barnes Foundation"
  },
@@ -8651,6 +9166,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374258",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64374258",
   "collection": "Courtauld Gallery"
  },
@@ -8668,6 +9184,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939469",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q24939469",
   "collection": "National Gallery"
  },
@@ -8685,6 +9202,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3754341",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3754341",
   "collection": "Hermitage Museum"
  },
@@ -8702,6 +9220,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q11802629",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q11802629",
   "collection": "Metropolitan Museum of Art"
  },
@@ -8718,6 +9237,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64561559",
+  "license_basis": "PD-old-100",
   "qid": "Q64561559",
   "collection": "The Nelson-Atkins Museum of Art"
  },
@@ -8735,6 +9255,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911925",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q19911925",
   "collection": "Metropolitan Museum of Art"
  },
@@ -8752,6 +9273,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126489",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126489",
   "collection": "Barnes Foundation"
  },
@@ -8769,6 +9291,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126486",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126486",
   "collection": "Barnes Foundation"
  },
@@ -8786,6 +9309,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911459",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q19911459",
   "collection": "Metropolitan Museum of Art"
  },
@@ -8802,6 +9326,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q91932557",
+  "license_basis": "PD-old",
   "qid": "Q91932557",
   "collection": "Museum collection Am Römerholz"
  },
@@ -8819,6 +9344,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17490813",
   "genre": "Figure",
+  "license_basis": "PD-old-100",
   "qid": "Q17490813",
   "collection": "Musée d'Orsay"
  },
@@ -8835,6 +9361,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q20265488",
+  "license_basis": "PD-old-100",
   "qid": "Q20265488",
   "collection": "Art Institute of Chicago"
  },
@@ -8852,6 +9379,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23940179",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q23940179",
   "collection": "The Phillips Collection"
  },
@@ -8869,6 +9397,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126475",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126475",
   "collection": "Barnes Foundation"
  },
@@ -8886,6 +9415,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64224662",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64224662",
   "collection": "The National Museum of Modern Art"
  },
@@ -8903,6 +9433,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20267971",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20267971",
   "collection": "Art Institute of Chicago"
  },
@@ -8920,6 +9451,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190321",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20190321",
   "collection": "National Gallery of Art"
  },
@@ -8937,6 +9469,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126494",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126494",
   "collection": "Barnes Foundation"
  },
@@ -8954,6 +9487,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3210778",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3210778",
   "collection": "Barnes Foundation"
  },
@@ -8971,6 +9505,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126500",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126500",
   "collection": "Barnes Foundation"
  },
@@ -8988,6 +9523,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912754",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19912754",
   "collection": "Metropolitan Museum of Art"
  },
@@ -9005,6 +9541,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126498",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126498",
   "collection": "Barnes Foundation"
  },
@@ -9022,6 +9559,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939433",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q24939433",
   "collection": "National Gallery"
  },
@@ -9039,6 +9577,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46276042",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q46276042",
   "collection": ""
  },
@@ -9056,6 +9595,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19905318",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19905318",
   "collection": "Metropolitan Museum of Art"
  },
@@ -9073,6 +9613,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126499",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126499",
   "collection": "Barnes Foundation"
  },
@@ -9090,6 +9631,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23940241",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q23940241",
   "collection": "The Phillips Collection"
  },
@@ -9106,6 +9648,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126490",
+  "license_basis": "PD-old-100",
   "qid": "Q28126490",
   "collection": "Barnes Foundation"
  },
@@ -9123,6 +9666,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63989252",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63989252",
   "collection": "Beyeler Foundation"
  },
@@ -9140,6 +9684,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374982",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64374982",
   "collection": ""
  },
@@ -9157,6 +9702,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2349666",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q2349666",
   "collection": "Whitney Museum of American Art"
  },
@@ -9174,6 +9720,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911856",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19911856",
   "collection": "Metropolitan Museum of Art"
  },
@@ -9191,6 +9738,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64365319",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64365319",
   "collection": "Kunsthaus Zürich"
  },
@@ -9208,6 +9756,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126492",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126492",
   "collection": "Barnes Foundation"
  },
@@ -9225,6 +9774,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20178788",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20178788",
   "collection": "J. Paul Getty Museum"
  },
@@ -9242,6 +9792,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20167092",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20167092",
   "collection": "Metropolitan Museum of Art"
  },
@@ -9258,6 +9809,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79790627",
+  "license_basis": "PD-old",
   "qid": "Q79790627",
   "collection": "Pola Museum of Art"
  },
@@ -9275,6 +9827,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3956440",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3956440",
   "collection": "Art Institute of Chicago"
  },
@@ -9292,6 +9845,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190377",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20190377",
   "collection": "National Gallery of Art"
  },
@@ -9309,6 +9863,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20879001",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20879001",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -9326,6 +9881,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3312011",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3312011",
   "collection": "National Gallery"
  },
@@ -9343,6 +9899,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882473",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19882473",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -9360,6 +9917,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126502",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126502",
   "collection": "Barnes Foundation"
  },
@@ -9377,6 +9935,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64368633",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64368633",
   "collection": ""
  },
@@ -9394,6 +9953,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28110218",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28110218",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -9410,6 +9970,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q106866593",
+  "license_basis": "PD-old",
   "qid": "Q106866593",
   "collection": "Fogg Museum"
  },
@@ -9427,6 +9988,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3630752",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3630752",
   "collection": "Artizon Museum"
  },
@@ -9444,6 +10006,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3873322",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3873322",
   "collection": "Nationalmuseum"
  },
@@ -9461,6 +10024,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64376364",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64376364",
   "collection": "Beyeler Foundation"
  },
@@ -9478,6 +10042,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808614",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20808614",
   "collection": "Philadelphia Museum of Art"
  },
@@ -9494,6 +10059,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485142",
+  "license_basis": "PD-old-100",
   "qid": "Q64485142",
   "collection": "Museum Ordrupgaard"
  },
@@ -9511,6 +10077,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126485",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126485",
   "collection": "Barnes Foundation"
  },
@@ -9528,6 +10095,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939442",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q24939442",
   "collection": "National Gallery"
  },
@@ -9545,6 +10113,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485127",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q64485127",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -9562,6 +10131,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126477",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126477",
   "collection": "Barnes Foundation"
  },
@@ -9579,6 +10149,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126476",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126476",
   "collection": "Barnes Foundation"
  },
@@ -9595,6 +10166,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q20808599",
+  "license_basis": "PD-old-100",
   "qid": "Q20808599",
   "collection": "Philadelphia Museum of Art"
  },
@@ -9612,6 +10184,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q955670",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q955670",
   "collection": "Musée d'Orsay"
  },
@@ -9629,6 +10202,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64236883",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64236883",
   "collection": ""
  },
@@ -9646,6 +10220,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337850",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q22337850",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -9663,6 +10238,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3908193",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3908193",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -9680,6 +10256,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797020",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28797020",
   "collection": "Kimbell Art Museum"
  },
@@ -9697,6 +10274,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19928017",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19928017",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -9714,6 +10292,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126474",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126474",
   "collection": "Barnes Foundation"
  },
@@ -9731,6 +10310,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63928220",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63928220",
   "collection": ""
  },
@@ -9748,6 +10328,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190511",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20190511",
   "collection": "National Gallery of Art"
  },
@@ -9765,6 +10346,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64305131",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64305131",
   "collection": ""
  },
@@ -9782,6 +10364,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688316",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q18688316",
   "collection": "Museum of Modern Art"
  },
@@ -9799,6 +10382,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q61895374",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q61895374",
   "collection": "Courtauld Institute of Art"
  },
@@ -9816,6 +10400,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64225348",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64225348",
   "collection": "Wallraf–Richartz Museum"
  },
@@ -9833,6 +10418,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q60517676",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q60517676",
   "collection": "Cleveland Museum of Art"
  },
@@ -9850,6 +10436,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63919295",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63919295",
   "collection": "\"degenerate art\" collection"
  },
@@ -9867,6 +10454,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q56810539",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q56810539",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -9884,6 +10472,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20881157",
   "genre": "Portrait",
+  "license_basis": "PD",
   "qid": "Q20881157",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -9901,6 +10490,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27976263",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q27976263",
   "collection": "Hermitage Museum"
  },
@@ -9917,6 +10507,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64299997",
+  "license_basis": "PD-old-100",
   "qid": "Q64299997",
   "collection": "Garman Ryan Collection"
  },
@@ -9933,6 +10524,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64564415",
+  "license_basis": "PD-old-100",
   "qid": "Q64564415",
   "collection": "Strasbourg Museum of Modern and Contemporary Art"
  },
@@ -9950,6 +10542,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797021",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28797021",
   "collection": "Kimbell Art Museum"
  },
@@ -9967,6 +10560,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64371284",
   "genre": "Portrait",
+  "license_basis": "PD-US-unpublished",
   "qid": "Q64371284",
   "collection": "McNay Art Museum"
  },
@@ -9984,6 +10578,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q68372798",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q68372798",
   "collection": "National Museum of Art of Romania"
  },
@@ -10001,6 +10596,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64371991",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64371991",
   "collection": "National Gallery Prague"
  },
@@ -10017,6 +10613,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64960945",
+  "license_basis": "CC0",
   "qid": "Q64960945",
   "collection": "National Gallery of Art"
  },
@@ -10033,6 +10630,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q65576072",
+  "license_basis": "CC0",
   "qid": "Q65576072",
   "collection": "National Gallery of Art"
  },
@@ -10050,6 +10648,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126513",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126513",
   "collection": "Barnes Foundation"
  },
@@ -10067,6 +10666,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126504",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126504",
   "collection": "Barnes Foundation"
  },
@@ -10083,6 +10683,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126514",
+  "license_basis": "PD-old-100",
   "qid": "Q28126514",
   "collection": "Barnes Foundation"
  },
@@ -10099,6 +10700,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q83179715",
+  "license_basis": "PD-old",
   "qid": "Q83179715",
   "collection": "Hiroshima Museum of Art"
  },
@@ -10115,6 +10717,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28798037",
+  "license_basis": "PD-old-100",
   "qid": "Q28798037",
   "collection": "Artizon Museum"
  },
@@ -10131,6 +10734,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106772928",
+  "license_basis": "PD-old-100",
   "qid": "Q106772928",
   "collection": "Princeton Art Museum"
  },
@@ -10147,6 +10751,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108479438",
+  "license_basis": "PD-old-70",
   "qid": "Q108479438",
   "collection": "Impressionism: The Hasso Plattner Collection"
  },
@@ -10163,6 +10768,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123469396",
+  "license_basis": "PD-old",
   "qid": "Q123469396",
   "collection": "Gurlitt hoard"
  },
@@ -10180,6 +10786,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4006167",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q4006167",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -10197,6 +10804,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27970742",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q27970742",
   "collection": "Hermitage Museum"
  },
@@ -10214,6 +10822,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q682750",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q682750",
   "collection": "Baltimore Museum of Art"
  },
@@ -10231,6 +10840,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688312",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18688312",
   "collection": "Museum of Modern Art"
  },
@@ -10248,6 +10858,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126512",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q28126512",
   "collection": "Barnes Foundation"
  },
@@ -10264,6 +10875,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q60781170",
+  "license_basis": "CC0",
   "qid": "Q60781170",
   "collection": "Cleveland Museum of Art"
  },
@@ -10280,6 +10892,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64960946",
+  "license_basis": "CC0",
   "qid": "Q64960946",
   "collection": "National Gallery of Art"
  },
@@ -10296,6 +10909,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q65363901",
+  "license_basis": "CC0",
   "qid": "Q65363901",
   "collection": "National Gallery of Art"
  },
@@ -10313,6 +10927,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20179825",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20179825",
   "collection": "J. Paul Getty Museum"
  },
@@ -10329,6 +10944,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q95253065",
+  "license_basis": "PD-old",
   "qid": "Q95253065",
   "collection": "Baltimore Museum of Art"
  },
@@ -10345,6 +10961,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64564930",
+  "license_basis": "PD-old-100",
   "qid": "Q64564930",
   "collection": "Brooklyn Museum"
  },
@@ -10362,6 +10979,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126519",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126519",
   "collection": "Barnes Foundation"
  },
@@ -10378,6 +10996,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355032",
+  "license_basis": "PD-old-100",
   "qid": "Q64355032",
   "collection": "Arkansas Museum of Fine Arts"
  },
@@ -10395,6 +11014,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20198272",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20198272",
   "collection": "Fine Arts Museums of San Francisco"
  },
@@ -10412,6 +11032,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64135181",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64135181",
   "collection": ""
  },
@@ -10429,6 +11050,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64305460",
   "genre": "Self-portrait",
+  "license_basis": "PD-1996",
   "qid": "Q64305460",
   "collection": "The Phillips Collection"
  },
@@ -10446,6 +11068,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3873324",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3873324",
   "collection": "Musée d'Orsay"
  },
@@ -10463,6 +11086,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21741424",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q21741424",
   "collection": "Hermitage Museum"
  },
@@ -10480,6 +11104,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126517",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126517",
   "collection": "Barnes Foundation"
  },
@@ -10496,6 +11121,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79161263",
+  "license_basis": "PD-old",
   "qid": "Q79161263",
   "collection": "Dallas Museum of Art"
  },
@@ -10513,6 +11139,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64349155",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64349155",
   "collection": "Detroit Institute of Arts"
  },
@@ -10530,6 +11157,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3974609",
   "genre": "Cityscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3974609",
   "collection": "Museum of Modern Art"
  },
@@ -10547,6 +11175,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355195",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q64355195",
   "collection": "Kunsthalle Bremen"
  },
@@ -10564,6 +11193,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64132356",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64132356",
   "collection": "The Nelson-Atkins Museum of Art"
  },
@@ -10581,6 +11211,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3873326",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3873326",
   "collection": "Musée d'Orsay"
  },
@@ -10598,6 +11229,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20553961",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20553961",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -10615,6 +11247,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3632883",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3632883",
   "collection": "Musée d'Orsay"
  },
@@ -10631,6 +11264,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q67584764",
+  "license_basis": "PD-old",
   "qid": "Q67584764",
   "collection": "Menard Art Museum"
  },
@@ -10648,6 +11282,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55424688",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q55424688",
   "collection": "National Museum of Art, Architecture and Design"
  },
@@ -10665,6 +11300,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22337828",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q22337828",
   "collection": "Jean Walter-Paul Guillaume Collection"
  },
@@ -10682,6 +11318,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882474",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19882474",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -10699,6 +11336,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808600",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20808600",
   "collection": "Philadelphia Museum of Art"
  },
@@ -10716,6 +11354,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67504988",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q67504988",
   "collection": "Norton Museum of Art"
  },
@@ -10733,6 +11372,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3399375",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3399375",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -10750,6 +11390,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2258217",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q2258217",
   "collection": ""
  },
@@ -10767,6 +11408,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q65576065",
   "genre": "Self-portrait",
+  "license_basis": "CC0",
   "qid": "Q65576065",
   "collection": "National Gallery of Art"
  },
@@ -10784,6 +11426,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126515",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28126515",
   "collection": "Barnes Foundation"
  },
@@ -10801,6 +11444,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64243671",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64243671",
   "collection": ""
  },
@@ -10818,6 +11462,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190679",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20190679",
   "collection": "National Gallery of Art"
  },
@@ -10835,6 +11480,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64237101",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64237101",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -10852,6 +11498,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q92831608",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q92831608",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -10869,6 +11516,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64350172",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64350172",
   "collection": "Beyeler Foundation"
  },
@@ -10886,6 +11534,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64239490",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64239490",
   "collection": ""
  },
@@ -10903,6 +11552,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126505",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126505",
   "collection": "Barnes Foundation"
  },
@@ -10920,6 +11570,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126507",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126507",
   "collection": "Barnes Foundation"
  },
@@ -10937,6 +11588,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21730727",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q21730727",
   "collection": "Hermitage Museum"
  },
@@ -10954,6 +11606,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64218589",
   "genre": "Still life",
+  "license_basis": "CC0",
   "qid": "Q64218589",
   "collection": "Metropolitan Museum of Art"
  },
@@ -10970,6 +11623,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124419539",
+  "license_basis": "PD-old-100",
   "qid": "Q124419539",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -10987,6 +11641,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64235288",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64235288",
   "collection": "Princeton Art Museum"
  },
@@ -11004,6 +11659,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64433781",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64433781",
   "collection": "Museum collection Am Römerholz"
  },
@@ -11021,6 +11677,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64372219",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64372219",
   "collection": ""
  },
@@ -11038,6 +11695,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q7232274",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q7232274",
   "collection": "Musée d'Orsay"
  },
@@ -11054,6 +11712,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64370547",
+  "license_basis": "PD-old-100",
   "qid": "Q64370547",
   "collection": ""
  },
@@ -11070,6 +11729,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124419540",
+  "license_basis": "PD-old",
   "qid": "Q124419540",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -11087,6 +11747,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212440",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64212440",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -11103,6 +11764,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64485159",
+  "license_basis": "PD-old-100",
   "qid": "Q64485159",
   "collection": "Beyeler Foundation"
  },
@@ -11119,6 +11781,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64405366",
+  "license_basis": "PD-old-100",
   "qid": "Q64405366",
   "collection": "Dallas Museum of Art"
  },
@@ -11136,6 +11799,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190770",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20190770",
   "collection": "National Gallery of Art"
  },
@@ -11152,6 +11816,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q20268125",
+  "license_basis": "PD-old-100",
   "qid": "Q20268125",
   "collection": "Art Institute of Chicago"
  },
@@ -11169,6 +11834,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190674",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q20190674",
   "collection": "National Gallery of Art"
  },
@@ -11185,6 +11851,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126510",
+  "license_basis": "PD-old-100",
   "qid": "Q28126510",
   "collection": "Barnes Foundation"
  },
@@ -11202,6 +11869,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126509",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126509",
   "collection": "Barnes Foundation"
  },
@@ -11219,6 +11887,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q4247390",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q4247390",
   "collection": "Ny Carlsberg Glyptotek"
  },
@@ -11236,6 +11905,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64212124",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64212124",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -11253,6 +11923,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27999381",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q27999381",
   "collection": "Belvedere"
  },
@@ -11270,6 +11941,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q64225773",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q64225773",
   "collection": ""
  },
@@ -11286,6 +11958,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64484833",
+  "license_basis": "PD-old-100",
   "qid": "Q64484833",
   "collection": ""
  },
@@ -11302,6 +11975,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64538962",
+  "license_basis": "PD-old-100",
   "qid": "Q64538962",
   "collection": ""
  },
@@ -11318,6 +11992,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64297924",
+  "license_basis": "PD-old-100",
   "qid": "Q64297924",
   "collection": ""
  },
@@ -11335,6 +12010,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q21712118",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q21712118",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -11351,6 +12027,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64376750",
+  "license_basis": "PD-Art",
   "qid": "Q64376750",
   "collection": ""
  },
@@ -11368,6 +12045,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q5468794",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q5468794",
   "collection": "National Gallery of Canada"
  },
@@ -11384,6 +12062,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64376836",
+  "license_basis": "PD-old-100",
   "qid": "Q64376836",
   "collection": ""
  },
@@ -11401,6 +12080,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64263230",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q64263230",
   "collection": ""
  },
@@ -11418,6 +12098,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64252234",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64252234",
   "collection": "Tate"
  },
@@ -11435,6 +12116,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64253294",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64253294",
   "collection": "Museum of Modern Art"
  },
@@ -11452,6 +12134,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28778014",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28778014",
   "collection": "The Nelson-Atkins Museum of Art"
  },
@@ -11469,6 +12152,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19911958",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19911958",
   "collection": "Metropolitan Museum of Art"
  },
@@ -11486,6 +12170,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23943736",
   "genre": "Portrait",
+  "license_basis": "PD-1996",
   "qid": "Q23943736",
   "collection": "The Phillips Collection"
  },
@@ -11503,6 +12188,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q50821360",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q50821360",
   "collection": "Fitzwilliam Museum"
  },
@@ -11520,6 +12206,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q7617095",
   "genre": "Still life",
+  "license_basis": "CC0",
   "qid": "Q7617095",
   "collection": "Amgueddfa Cymru – Museum Wales"
  },
@@ -11537,6 +12224,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3643182",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3643182",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -11554,6 +12242,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24939447",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q24939447",
   "collection": "National Gallery"
  },
@@ -11571,6 +12260,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64350281",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64350281",
   "collection": "The Morgan Library & Museum"
  },
@@ -11587,6 +12277,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64408710",
+  "license_basis": "PD-old-100",
   "qid": "Q64408710",
   "collection": "Art Institute of Chicago"
  },
@@ -11604,6 +12295,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190773",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20190773",
   "collection": "National Gallery of Art"
  },
@@ -11620,6 +12312,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126521",
+  "license_basis": "PD-old-100",
   "qid": "Q28126521",
   "collection": "Barnes Foundation"
  },
@@ -11637,6 +12330,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688317",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18688317",
   "collection": "Museum of Modern Art"
  },
@@ -11654,6 +12348,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808604",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q20808604",
   "collection": "Philadelphia Museum of Art"
  },
@@ -11671,6 +12366,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64349770",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64349770",
   "collection": "Beyeler Foundation"
  },
@@ -11687,6 +12383,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q94637075",
+  "license_basis": "PD-old",
   "qid": "Q94637075",
   "collection": ""
  },
@@ -11704,6 +12401,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64246218",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64246218",
   "collection": ""
  },
@@ -11721,6 +12419,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64256137",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64256137",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -11738,6 +12437,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64240845",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64240845",
   "collection": ""
  },
@@ -11755,6 +12455,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3824214",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3824214",
   "collection": "Hermitage Museum"
  },
@@ -11772,6 +12473,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64259285",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64259285",
   "collection": "McNay Art Museum"
  },
@@ -11789,6 +12491,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64207722",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64207722",
   "collection": "White House"
  },
@@ -11806,6 +12509,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64214826",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64214826",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -11822,6 +12526,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64576214",
+  "license_basis": "PD-old",
   "qid": "Q64576214",
   "collection": "Detroit Institute of Arts"
  },
@@ -11839,6 +12544,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64255035",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64255035",
   "collection": "Kunstmuseum Basel"
  },
@@ -11856,6 +12562,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688303",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q18688303",
   "collection": "Artizon Museum"
  },
@@ -11873,6 +12580,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64285634",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64285634",
   "collection": "Hamburger Kunsthalle"
  },
@@ -11890,6 +12598,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q60517723",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q60517723",
   "collection": "Cleveland Museum of Art"
  },
@@ -11907,6 +12616,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211980",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64211980",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -11924,6 +12634,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64483905",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64483905",
   "collection": "Courtauld Gallery"
  },
@@ -11941,6 +12652,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495501",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17495501",
   "collection": "Musée d'Orsay"
  },
@@ -11958,6 +12670,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28126520",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q28126520",
   "collection": "Barnes Foundation"
  },
@@ -11974,6 +12687,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106851747",
+  "license_basis": "PD-old-100",
   "qid": "Q106851747",
   "collection": "Fogg Museum"
  },
@@ -11991,6 +12705,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27968239",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q27968239",
   "collection": "National Galleries Scotland"
  },
@@ -12007,6 +12722,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64409342",
+  "license_basis": "PD-old-100",
   "qid": "Q64409342",
   "collection": "Kunstmuseum Solothurn"
  },
@@ -12024,6 +12740,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67609611",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q67609611",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -12041,6 +12758,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27974496",
   "genre": "Landscape",
+  "license_basis": "PD",
   "qid": "Q27974496",
   "collection": "Hermitage Museum"
  },
@@ -12058,6 +12776,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3823217",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q3823217",
   "collection": "Kunsthaus Zürich"
  },
@@ -12075,6 +12794,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q59530115",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q59530115",
   "collection": "National Gallery of Canada"
  },
@@ -12092,6 +12812,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688305",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q18688305",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -12109,6 +12830,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190984",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q20190984",
   "collection": "National Gallery of Art"
  },
@@ -12126,6 +12848,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223627",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64223627",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -12142,6 +12865,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q88311915",
+  "license_basis": "PD-old",
   "qid": "Q88311915",
   "collection": "Courtauld Institute of Art"
  },
@@ -12159,6 +12883,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63870916",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q63870916",
   "collection": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma"
  },
@@ -12176,6 +12901,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28538152",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28538152",
   "collection": "National Gallery"
  },
@@ -12193,6 +12919,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q63877106",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q63877106",
   "collection": ""
  },
@@ -12210,6 +12937,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64156565",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64156565",
   "collection": "Cincinnati Art Museum"
  },
@@ -12227,6 +12955,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2270938",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q2270938",
   "collection": "Philadelphia Museum of Art"
  },
@@ -12244,6 +12973,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q23940242",
   "genre": "Landscape",
+  "license_basis": "PD-1996",
   "qid": "Q23940242",
   "collection": "The Phillips Collection"
  },
@@ -12261,6 +12991,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20191011",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20191011",
   "collection": "National Gallery of Art"
  },
@@ -12277,6 +13008,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223628",
+  "license_basis": "PD-old-100",
   "qid": "Q64223628",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -12294,6 +13026,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910642",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q29910642",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12311,6 +13044,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910668",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q29910668",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12328,6 +13062,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64246365",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64246365",
   "collection": ""
  },
@@ -12344,6 +13079,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110785204",
+  "license_basis": "PD-old-100",
   "qid": "Q110785204",
   "collection": "Nationalmuseum"
  },
@@ -12360,6 +13096,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q29911789",
+  "license_basis": "PD-old",
   "qid": "Q29911789",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12376,6 +13113,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64565788",
+  "license_basis": "PD-old-100",
   "qid": "Q64565788",
   "collection": "Museum of Modern Art"
  },
@@ -12393,6 +13131,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211961",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q64211961",
   "collection": "Christie's"
  },
@@ -12410,6 +13149,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910982",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q29910982",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12426,6 +13166,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q29911397",
+  "license_basis": "PD-old",
   "qid": "Q29911397",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12442,6 +13183,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911392",
+  "license_basis": "PD-old",
   "qid": "Q29911392",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12458,6 +13200,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911200",
+  "license_basis": "PD-old",
   "qid": "Q29911200",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12474,6 +13217,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911374",
+  "license_basis": "PD-old",
   "qid": "Q29911374",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12490,6 +13234,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911777",
+  "license_basis": "PD-old",
   "qid": "Q29911777",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12506,6 +13251,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139732092",
+  "license_basis": "PD-old",
   "qid": "Q139732092",
   "collection": ""
  },
@@ -12522,6 +13268,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110785200",
+  "license_basis": "PD-old-100",
   "qid": "Q110785200",
   "collection": "Nationalmuseum"
  },
@@ -12538,6 +13285,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911182",
+  "license_basis": "PD-old",
   "qid": "Q29911182",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12555,6 +13303,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374464",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64374464",
   "collection": "Art Gallery of Ontario"
  },
@@ -12571,6 +13320,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911187",
+  "license_basis": "PD-old",
   "qid": "Q29911187",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12588,6 +13338,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64308328",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q64308328",
   "collection": "Trusted Media Brands"
  },
@@ -12604,6 +13355,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123700340",
+  "license_basis": "PD-old",
   "qid": "Q123700340",
   "collection": "Philadelphia Museum of Art"
  },
@@ -12620,6 +13372,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139732146",
+  "license_basis": "CC0",
   "qid": "Q139732146",
   "collection": ""
  },
@@ -12637,6 +13390,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137397513",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q137397513",
   "collection": ""
  },
@@ -12653,6 +13407,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374423",
+  "license_basis": "PD-old-100",
   "qid": "Q64374423",
   "collection": "Museum of Fine Arts, Budapest"
  },
@@ -12670,6 +13425,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355136",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q64355136",
   "collection": ""
  },
@@ -12686,6 +13442,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64355069",
+  "license_basis": "PD-old-100",
   "qid": "Q64355069",
   "collection": "Art Institute of Chicago"
  },
@@ -12702,6 +13459,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64435892",
+  "license_basis": "PD-old-100",
   "qid": "Q64435892",
   "collection": ""
  },
@@ -12718,6 +13476,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124156637",
+  "license_basis": "PD-old",
   "qid": "Q124156637",
   "collection": "Museum of Art, Ehime"
  },
@@ -12735,6 +13494,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q64240379",
   "genre": "Nude",
+  "license_basis": "PD",
   "qid": "Q64240379",
   "collection": "Von der Heydt Museum"
  },
@@ -12751,6 +13511,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q109715970",
+  "license_basis": "PD-old-100",
   "qid": "Q109715970",
   "collection": "Aberdeen Archives, Gallery and Museums collections"
  },
@@ -12768,6 +13529,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910638",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q29910638",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12784,6 +13546,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911198",
+  "license_basis": "PD-old",
   "qid": "Q29911198",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12801,6 +13564,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64374890",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64374890",
   "collection": ""
  },
@@ -12817,6 +13581,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108741851",
+  "license_basis": "PD-old-100",
   "qid": "Q108741851",
   "collection": "Nationalmuseum"
  },
@@ -12833,6 +13598,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910521",
+  "license_basis": "PD-old",
   "qid": "Q29910521",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12849,6 +13615,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910942",
+  "license_basis": "PD-old",
   "qid": "Q29910942",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -12865,6 +13632,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64364686",
+  "license_basis": "PD",
   "qid": "Q64364686",
   "collection": "Städel Museum"
  },
@@ -12881,6 +13649,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124537400",
+  "license_basis": "PD-old",
   "qid": "Q124537400",
   "collection": "Hermitage Museum"
  },
@@ -12889,7 +13658,7 @@
   "artist": "Paul Cézanne",
   "year": "",
   "medium": "Painting",
-  "gallery": "private collection",
+  "gallery": "",
   "country": "France",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nature_morte_aux_sept_pommes%2C_par_Paul_C%C3%A9zanne.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Nature_morte_aux_sept_pommes,_par_Paul_C%C3%A9zanne.jpg",
@@ -12898,8 +13667,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64404794",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64404794",
-  "collection": "private collection"
+  "collection": ""
  },
  {
   "title": "Sovande hermafrodit, efter antik i Louvren",
@@ -12914,6 +13684,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110785196",
+  "license_basis": "PD-old-100",
   "qid": "Q110785196",
   "collection": "Nationalmuseum"
  },
@@ -12931,6 +13702,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64224630",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64224630",
   "collection": "Pola Museum of Art"
  },
@@ -12947,6 +13719,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64435751",
+  "license_basis": "PD-old-100",
   "qid": "Q64435751",
   "collection": "Norton Simon Museum"
  },
@@ -12963,6 +13736,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q130003964",
+  "license_basis": "CC0",
   "qid": "Q130003964",
   "collection": ""
  },
@@ -12980,6 +13754,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64406825",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q64406825",
   "collection": "Metropolitan Museum of Art"
  },
@@ -12997,6 +13772,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911457",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q29911457",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -13013,6 +13789,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29910329",
+  "license_basis": "PD-old",
   "qid": "Q29910329",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -13030,6 +13807,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q29911170",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q29911170",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -13046,6 +13824,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q130783023",
+  "license_basis": "PD-old",
   "qid": "Q130783023",
   "collection": "Degas Collection"
  },
@@ -13063,6 +13842,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64211760",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q64211760",
   "collection": ""
  }

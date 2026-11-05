@@ -12,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q117447466",
+  "license_basis": "PD-old-80",
   "qid": "Q117447466",
   "collection": ""
  },
@@ -28,6 +29,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105007373",
+  "license_basis": "PD-old-70",
   "qid": "Q105007373",
   "collection": "Hilma af Klint Foundation"
  },
@@ -44,6 +46,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105009274",
+  "license_basis": "PD-old-70",
   "qid": "Q105009274",
   "collection": "Hilma af Klint Foundation"
  },
@@ -60,6 +63,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104917962",
+  "license_basis": "PD-old-70",
   "qid": "Q104917962",
   "collection": "Hilma af Klint Foundation"
  },
@@ -76,6 +80,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105008927",
+  "license_basis": "PD-old-70",
   "qid": "Q105008927",
   "collection": "Hilma af Klint Foundation"
  },
@@ -92,6 +97,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105009013",
+  "license_basis": "PD-old-70",
   "qid": "Q105009013",
   "collection": "Hilma af Klint Foundation"
  },
@@ -108,6 +114,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105009077",
+  "license_basis": "PD-old-70",
   "qid": "Q105009077",
   "collection": "Hilma af Klint Foundation"
  },
@@ -124,6 +131,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105009113",
+  "license_basis": "PD-old-70",
   "qid": "Q105009113",
   "collection": "Hilma af Klint Foundation"
  },
@@ -140,6 +148,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105009168",
+  "license_basis": "PD-old-70",
   "qid": "Q105009168",
   "collection": "Hilma af Klint Foundation"
  },
@@ -156,6 +165,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105009202",
+  "license_basis": "PD-old-70",
   "qid": "Q105009202",
   "collection": "Hilma af Klint Foundation"
  },
@@ -172,6 +182,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104905136",
+  "license_basis": "PD-old-70",
   "qid": "Q104905136",
   "collection": "Hilma af Klint Foundation"
  },
@@ -188,6 +199,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123538239",
+  "license_basis": "PD-old",
   "qid": "Q123538239",
   "collection": "Glenstone"
  },
@@ -204,6 +216,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124038989",
+  "license_basis": "PD-old",
   "qid": "Q124038989",
   "collection": "Glenstone"
  },
@@ -221,6 +234,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104904691",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q104904691",
   "collection": "Maritime Museum"
  },
@@ -238,6 +252,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104904758",
   "genre": "Portrait",
+  "license_basis": "PD",
   "qid": "Q104904758",
   "collection": "Maritime Museum"
  }

@@ -12,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q140309309",
+  "license_basis": "PD-old-100",
   "qid": "Q140309309",
   "collection": ""
  },
@@ -29,6 +30,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q135116631",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q135116631",
   "collection": "Tokyo Fuji Art Museum"
  },
@@ -45,6 +47,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Study of an Old Man with Ivy Wreath, 1888-1890.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -61,6 +64,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 069.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -77,6 +81,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q107534335",
+  "license_basis": "PD-old-100",
   "qid": "Q107534335",
   "collection": "Vienna Museum"
  },
@@ -93,6 +98,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140307935",
+  "license_basis": "PD-old",
   "qid": "Q140307935",
   "collection": "Leopold Museum"
  },
@@ -110,6 +116,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28005437",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q28005437",
   "collection": "Belvedere"
  },
@@ -126,6 +133,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28009588",
+  "license_basis": "PD-old-100",
   "qid": "Q28009588",
   "collection": "Belvedere"
  },
@@ -142,6 +150,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 037.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -159,6 +168,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27998620",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q27998620",
   "collection": "Belvedere"
  },
@@ -175,6 +185,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q138306737",
+  "license_basis": "PD-Art",
   "qid": "Q138306737",
   "collection": ""
  },
@@ -191,6 +202,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Gemalter Kompositionsentwurf zur Medizin.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -207,6 +219,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107534436",
+  "license_basis": "PD-old-100",
   "qid": "Q107534436",
   "collection": "Vienna Museum"
  },
@@ -223,6 +236,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 072.JPG",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -240,6 +254,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q111602702",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q111602702",
   "collection": "MAK – Museum of Applied Arts"
  },
@@ -256,6 +271,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138306754",
+  "license_basis": "PD-Art",
   "qid": "Q138306754",
   "collection": "Vienna Museum"
  },
@@ -273,6 +289,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q107645867",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q107645867",
   "collection": "Tyrolean State Museum"
  },
@@ -289,6 +306,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140367679",
+  "license_basis": "CC0",
   "qid": "Q140367679",
   "collection": "Wadsworth Atheneum Museum of Art"
  },
@@ -306,6 +324,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124294477",
   "genre": "Portrait",
+  "license_basis": "PD",
   "qid": "Q124294477",
   "collection": "Belvedere"
  },
@@ -323,6 +342,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28015490",
   "genre": "Portrait",
+  "license_basis": "PD-old-70",
   "qid": "Q28015490",
   "collection": "Belvedere"
  },
@@ -340,6 +360,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138306746",
   "genre": "Portrait",
+  "license_basis": "PD-Art",
   "qid": "Q138306746",
   "collection": "Vienna Museum"
  },
@@ -356,6 +377,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797758",
+  "license_basis": "PD-old-100",
   "qid": "Q28797758",
   "collection": "Leopold Museum"
  },
@@ -372,6 +394,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Der Hofschauspieler josef Lewinsky als Carlos in „Clavigo“.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -389,6 +412,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28006469",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28006469",
   "collection": "Belvedere"
  },
@@ -405,6 +429,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q55408969",
+  "license_basis": "PD-old-100",
   "qid": "Q55408969",
   "collection": "Kunsthistorisches Museum"
  },
@@ -421,6 +446,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138306724",
+  "license_basis": "PD-Art",
   "qid": "Q138306724",
   "collection": "Vienna Museum"
  },
@@ -437,6 +463,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29920763",
+  "license_basis": "PD-old",
   "qid": "Q29920763",
   "collection": "Bavarian State Painting Collections"
  },
@@ -453,6 +480,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Liebe - 1895.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -469,6 +497,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Allegorie der Skulptur - 1896.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -486,6 +515,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797757",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28797757",
   "collection": "Leopold Museum"
  },
@@ -502,6 +532,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107598562",
+  "license_basis": "PD-old-100",
   "qid": "Q107598562",
   "collection": ""
  },
@@ -518,6 +549,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28004404",
+  "license_basis": "PD-old-100",
   "qid": "Q28004404",
   "collection": "Belvedere"
  },
@@ -535,6 +567,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685951",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q18685951",
   "collection": "Albertina"
  },
@@ -551,6 +584,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q55175328",
+  "license_basis": "PD-old-100",
   "qid": "Q55175328",
   "collection": "Vienna Museum"
  },
@@ -567,6 +601,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Philosophie - 1898-1907.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -583,6 +618,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Erstes Ausstellungsplakat der Wiener Secession (zensierte Version).jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -599,6 +635,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28006328",
+  "license_basis": "PD-old-100",
   "qid": "Q28006328",
   "collection": "Belvedere"
  },
@@ -615,6 +652,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Fischblut2.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -631,6 +669,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28015560",
+  "license_basis": "PD-old-100",
   "qid": "Q28015560",
   "collection": "Belvedere"
  },
@@ -647,6 +686,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114573173",
+  "license_basis": "PD-Art",
   "qid": "Q114573173",
   "collection": ""
  },
@@ -664,6 +704,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138306782",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q138306782",
   "collection": "Kunstmuseum Bern"
  },
@@ -681,6 +722,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q114437668",
   "genre": "Portrait",
+  "license_basis": "PD-Art",
   "qid": "Q114437668",
   "collection": "Belvedere"
  },
@@ -698,6 +740,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q107540938",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q107540938",
   "collection": ""
  },
@@ -714,6 +757,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q62067118",
+  "license_basis": "PD-old-100",
   "qid": "Q62067118",
   "collection": "Vienna Museum"
  },
@@ -731,6 +775,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28002801",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28002801",
   "collection": "Belvedere"
  },
@@ -747,6 +792,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Bildnis Sonja Knips.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -763,6 +809,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140268755",
+  "license_basis": "PD-old-100",
   "qid": "Q140268755",
   "collection": ""
  },
@@ -780,6 +827,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912822",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912822",
   "collection": "Leopold Museum"
  },
@@ -796,6 +844,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 033.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -813,6 +862,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3879244",
   "genre": "Nude",
+  "license_basis": "PD-old",
   "qid": "Q3879244",
   "collection": "Austrian Theatre Museum"
  },
@@ -829,6 +879,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Nuda Veritas - 1899.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -845,6 +896,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28009398",
+  "license_basis": "PD-old-100",
   "qid": "Q28009398",
   "collection": "Belvedere"
  },
@@ -862,6 +914,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q6058798",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q6058798",
   "collection": "Vienna Museum"
  },
@@ -878,6 +931,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q103717707",
+  "license_basis": "PD-old-100",
   "qid": "Q103717707",
   "collection": ""
  },
@@ -894,6 +948,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 057.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -911,6 +966,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912226",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19912226",
   "collection": "Metropolitan Museum of Art"
  },
@@ -927,6 +983,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114046497",
+  "license_basis": "PD-old",
   "qid": "Q114046497",
   "collection": "Bank Austria Kunstforum Wien"
  },
@@ -943,6 +1000,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 066.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -959,8 +1017,26 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1393851",
+  "license_basis": "PD-old",
   "qid": "Q1393851",
   "collection": ""
+ },
+ {
+  "title": "Akt siedzącej kobiety",
+  "artist": "Gustav Klimt",
+  "year": "1900",
+  "medium": "Drawing",
+  "gallery": "National Museum in Warsaw",
+  "country": "Austria",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Klimt_Female_nude_sitting.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Klimt_Female_nude_sitting.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": true,
+  "source_key": "wikidata:Q28940163",
+  "license_basis": "PD-old-100",
+  "qid": "Q28940163",
+  "collection": "National Museum in Warsaw"
  },
  {
   "title": "Alter Mann auf dem Totenbett",
@@ -975,6 +1051,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Alter Mann auf dem Totenbett.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -992,6 +1069,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113951917",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q113951917",
   "collection": "Belvedere"
  },
@@ -1009,6 +1087,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18685952",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18685952",
   "collection": "Albertina"
  },
@@ -1026,6 +1105,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136067268",
   "genre": "Animal",
+  "license_basis": "PD-Art",
   "qid": "Q136067268",
   "collection": "Lentos Art Museum"
  },
@@ -1043,6 +1123,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912809",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912809",
   "collection": "Leopold Museum"
  },
@@ -1060,24 +1141,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138306827",
   "genre": "Portrait",
+  "license_basis": "PD-old-80",
   "qid": "Q138306827",
   "collection": ""
- },
- {
-  "title": "Q28940163",
-  "artist": "Gustav Klimt",
-  "year": "1900",
-  "medium": "Drawing",
-  "gallery": "National Museum in Warsaw",
-  "country": "Austria",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Klimt_Female_nude_sitting.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Klimt_Female_nude_sitting.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": true,
-  "source_key": "wikidata:Q28940163",
-  "qid": "Q28940163",
-  "collection": "National Museum in Warsaw"
  },
  {
   "title": "Sitzend von vorne mit ausgestrecktem linken Arm, das Kinn aufgestützt",
@@ -1093,6 +1159,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136713983",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q136713983",
   "collection": ""
  },
@@ -1110,6 +1177,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136714002",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q136714002",
   "collection": ""
  },
@@ -1126,6 +1194,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1679069",
+  "license_basis": "PD-old-100",
   "qid": "Q1679069",
   "collection": "Stoclet Palace"
  },
@@ -1143,6 +1212,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136001220",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q136001220",
   "collection": "Neue Galerie"
  },
@@ -1160,6 +1230,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q19912507",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q19912507",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1176,6 +1247,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427061",
+  "license_basis": "PD-old-100",
   "qid": "Q58427061",
   "collection": "Belvedere"
  },
@@ -1192,6 +1264,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427078",
+  "license_basis": "PD-old-100",
   "qid": "Q58427078",
   "collection": "Belvedere"
  },
@@ -1208,6 +1281,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427095",
+  "license_basis": "PD-old-100",
   "qid": "Q58427095",
   "collection": "Belvedere"
  },
@@ -1224,6 +1298,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427112",
+  "license_basis": "PD-old-100",
   "qid": "Q58427112",
   "collection": "Belvedere"
  },
@@ -1240,6 +1315,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q58427131",
+  "license_basis": "PD-old-100",
   "qid": "Q58427131",
   "collection": "Belvedere"
  },
@@ -1256,6 +1332,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427154",
+  "license_basis": "PD-old",
   "qid": "Q58427154",
   "collection": "Belvedere"
  },
@@ -1272,6 +1349,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427233",
+  "license_basis": "PD-old-100",
   "qid": "Q58427233",
   "collection": "Belvedere"
  },
@@ -1288,6 +1366,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q58427217",
+  "license_basis": "PD-old-100",
   "qid": "Q58427217",
   "collection": "Belvedere"
  },
@@ -1304,6 +1383,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912830",
+  "license_basis": "PD-old-100",
   "qid": "Q19912830",
   "collection": "Kunsthaus Zug"
  },
@@ -1320,6 +1400,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685953",
+  "license_basis": "PD-old-100",
   "qid": "Q18685953",
   "collection": "Albertina"
  },
@@ -1337,6 +1418,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q118946966",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q118946966",
   "collection": ""
  },
@@ -1354,6 +1436,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2324643",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2324643",
   "collection": "Belvedere"
  },
@@ -1370,6 +1453,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 039.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1386,6 +1470,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Musik - 1901.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1402,6 +1487,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140309012",
+  "license_basis": "PD-old",
   "qid": "Q140309012",
   "collection": ""
  },
@@ -1419,6 +1505,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113925572",
   "genre": "Landscape",
+  "license_basis": "PD-old-70",
   "qid": "Q113925572",
   "collection": ""
  },
@@ -1435,6 +1522,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q64572788",
+  "license_basis": "CC0",
   "qid": "Q64572788",
   "collection": "National Gallery of Art"
  },
@@ -1451,6 +1539,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q684689",
+  "license_basis": "PD-old-100",
   "qid": "Q684689",
   "collection": "Belvedere"
  },
@@ -1467,6 +1556,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Medizin 1901-1907.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1483,6 +1573,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 008.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -1499,6 +1590,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Chor der Paradiesengel.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1515,6 +1607,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Der wohlgerüstete Starke.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1531,6 +1624,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Die Gorgonen.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1547,6 +1641,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "commons:Klimt - Die Gorgonen und Typhoeus.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1563,6 +1658,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Die Künste.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1579,6 +1675,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Die Leiden der schwachen Menscheit.jpeg",
+  "license_basis": "PD",
   "qid": "",
   "collection": ""
  },
@@ -1595,6 +1692,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "commons:Klimt - Die Leiden der schwachen Menschen.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1611,6 +1709,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Die Schwebenden - Die Sehnsucht nach dem Glück.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1627,6 +1726,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Die feindlichen Gewalten - Unkeuscheit, Wollust, Unmäßigkeit.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1643,6 +1743,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Diesen Kuss der ganzen Welt.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1659,6 +1760,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104120179",
+  "license_basis": "PD-old",
   "qid": "Q104120179",
   "collection": "Kunstmuseum Solothurn"
  },
@@ -1675,6 +1777,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Gorgonen3.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1691,6 +1794,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "commons:Klimt - Nagender Kummer2.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1707,6 +1811,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Nuda veritas.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1723,6 +1828,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Poesie.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1740,6 +1846,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q102320121",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q102320121",
   "collection": "Vienna Museum"
  },
@@ -1757,6 +1864,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q140249798",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q140249798",
   "collection": ""
  },
@@ -1773,6 +1881,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Beethovenfries -Sehnsucht nach Glück.jpg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1790,6 +1899,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19483805",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q19483805",
   "collection": "Belvedere"
  },
@@ -1806,6 +1916,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912807",
+  "license_basis": "PD-old-100",
   "qid": "Q19912807",
   "collection": "Leopold Museum"
  },
@@ -1822,6 +1933,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140268074",
+  "license_basis": "PD-old-100",
   "qid": "Q140268074",
   "collection": ""
  },
@@ -1838,6 +1950,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q113637987",
+  "license_basis": "PD-old-100",
   "qid": "Q113637987",
   "collection": "Belvedere"
  },
@@ -1854,6 +1967,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 006.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -1870,6 +1984,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138193371",
+  "license_basis": "PD-Art",
   "qid": "Q138193371",
   "collection": ""
  },
@@ -1886,6 +2001,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140368038",
+  "license_basis": "PD-old-100",
   "qid": "Q140368038",
   "collection": "unknown"
  },
@@ -1903,6 +2019,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q4311873",
   "genre": "Nude",
+  "license_basis": "PD-old",
   "qid": "Q4311873",
   "collection": "National Gallery of Canada"
  },
@@ -1919,6 +2036,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140248069",
+  "license_basis": "PD-old-70",
   "qid": "Q140248069",
   "collection": ""
  },
@@ -1936,6 +2054,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136001590",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q136001590",
   "collection": "Neue Galerie"
  },
@@ -1952,6 +2071,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q16917809",
+  "license_basis": "PD-old-100",
   "qid": "Q16917809",
   "collection": "Busch–Reisinger Museum"
  },
@@ -1968,6 +2088,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131117586",
+  "license_basis": "PD-old-100",
   "qid": "Q131117586",
   "collection": "Aichi Prefectural Museum of Art"
  },
@@ -1984,6 +2105,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Jurisprudenz 1903-1907.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -2000,6 +2122,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912509",
+  "license_basis": "PD-old-100",
   "qid": "Q19912509",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2017,6 +2140,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q26713913",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q26713913",
   "collection": "National Gallery"
  },
@@ -2034,6 +2158,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q84628758",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q84628758",
   "collection": ""
  },
@@ -2050,6 +2175,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Wasserschlangen I (Freundinnen).jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -2066,6 +2192,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912834",
+  "license_basis": "PD-old",
   "qid": "Q19912834",
   "collection": ""
  },
@@ -2082,6 +2209,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 055.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2099,6 +2227,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17495516",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q17495516",
   "collection": ""
  },
@@ -2115,6 +2244,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107273681",
+  "license_basis": "PD-old",
   "qid": "Q107273681",
   "collection": "MAK – Museum of Applied Arts"
  },
@@ -2132,6 +2262,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3829156",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3829156",
   "collection": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma"
  },
@@ -2148,6 +2279,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 029.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2164,6 +2296,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 030.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2180,6 +2313,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 031.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2197,6 +2331,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912813",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912813",
   "collection": "Belvedere"
  },
@@ -2214,6 +2349,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28001663",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28001663",
   "collection": "Belvedere"
  },
@@ -2230,6 +2366,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 052.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2246,6 +2383,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2551417",
+  "license_basis": "PD-Art",
   "qid": "Q2551417",
   "collection": "Belvedere"
  },
@@ -2262,6 +2400,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 046.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2279,6 +2418,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q1445107",
   "genre": "Nude",
+  "license_basis": "PD-Art",
   "qid": "Q1445107",
   "collection": "Leopold Museum"
  },
@@ -2295,6 +2435,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107540284",
+  "license_basis": "PD-old-100",
   "qid": "Q107540284",
   "collection": "Belvedere"
  },
@@ -2311,6 +2452,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3818154",
+  "license_basis": "PD-old-100",
   "qid": "Q3818154",
   "collection": "MAK – Museum of Applied Arts"
  },
@@ -2328,6 +2470,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883512",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q19883512",
   "collection": "Museum of Modern Art"
  },
@@ -2344,6 +2487,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 043.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2360,6 +2504,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912816",
+  "license_basis": "PD-old",
   "qid": "Q19912816",
   "collection": "Carnegie Museum of Art"
  },
@@ -2377,6 +2522,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912819",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912819",
   "collection": "Belvedere"
  },
@@ -2394,6 +2540,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q354396",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q354396",
   "collection": "Neue Galerie"
  },
@@ -2410,6 +2557,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28015487",
+  "license_basis": "PD-old-100",
   "qid": "Q28015487",
   "collection": "Belvedere"
  },
@@ -2427,6 +2575,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q698487",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q698487",
   "collection": "Belvedere"
  },
@@ -2443,6 +2592,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "commons:Klimt - Danae - 1907-08.jpeg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2459,6 +2609,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 017.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2475,6 +2626,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912832",
+  "license_basis": "PD-old-100",
   "qid": "Q19912832",
   "collection": ""
  },
@@ -2491,6 +2643,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt - Studie zum Gemälde Judith II - ca1908.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -2507,6 +2660,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107619978",
+  "license_basis": "PD-old-100",
   "qid": "Q107619978",
   "collection": "National Gallery Prague"
  },
@@ -2523,6 +2677,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 041.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2539,6 +2694,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 007.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2555,6 +2711,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140308606",
+  "license_basis": "PD-old-100",
   "qid": "Q140308606",
   "collection": ""
  },
@@ -2571,6 +2728,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 009.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2587,6 +2745,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28015592",
+  "license_basis": "PD-old-100",
   "qid": "Q28015592",
   "collection": "Belvedere"
  },
@@ -2604,6 +2763,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q121841008",
   "genre": "Landscape",
+  "license_basis": "PD-old-70",
   "qid": "Q121841008",
   "collection": "Neue Galerie"
  },
@@ -2620,6 +2780,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64572789",
+  "license_basis": "CC0",
   "qid": "Q64572789",
   "collection": "National Gallery of Art"
  },
@@ -2636,6 +2797,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883563",
+  "license_basis": "PD-old-100",
   "qid": "Q19883563",
   "collection": "Museum of Modern Art"
  },
@@ -2652,6 +2814,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17029800",
+  "license_basis": "PD-old",
   "qid": "Q17029800",
   "collection": "MAK – Museum of Applied Arts"
  },
@@ -2668,6 +2831,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 018.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2684,6 +2848,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28002664",
+  "license_basis": "PD-old-100",
   "qid": "Q28002664",
   "collection": "Belvedere"
  },
@@ -2700,6 +2865,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140308590",
+  "license_basis": "PD-old-100",
   "qid": "Q140308590",
   "collection": ""
  },
@@ -2717,6 +2883,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17428114",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q17428114",
   "collection": ""
  },
@@ -2733,6 +2900,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17001535",
+  "license_basis": "PD-old-100",
   "qid": "Q17001535",
   "collection": "Leopold Museum"
  },
@@ -2749,6 +2917,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:KLimt - Litzlberg am Attersee.jpeg",
+  "license_basis": "PD",
   "qid": "",
   "collection": ""
  },
@@ -2766,6 +2935,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q123688448",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q123688448",
   "collection": "Moritzburg Art Museum"
  },
@@ -2783,6 +2953,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q140249762",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q140249762",
   "collection": ""
  },
@@ -2799,6 +2970,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64572787",
+  "license_basis": "CC0",
   "qid": "Q64572787",
   "collection": "National Gallery of Art"
  },
@@ -2815,6 +2987,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107274102",
+  "license_basis": "PD-old",
   "qid": "Q107274102",
   "collection": ""
  },
@@ -2831,6 +3004,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 065.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -2847,6 +3021,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64572791",
+  "license_basis": "CC0",
   "qid": "Q64572791",
   "collection": "National Gallery of Art"
  },
@@ -2864,6 +3039,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113997319",
   "genre": "Portrait",
+  "license_basis": "PD-Art",
   "qid": "Q113997319",
   "collection": "Neue Galerie"
  },
@@ -2881,6 +3057,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q107271350",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q107271350",
   "collection": ""
  },
@@ -2897,6 +3074,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912812",
+  "license_basis": "PD-old-100",
   "qid": "Q19912812",
   "collection": ""
  },
@@ -2913,6 +3091,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107273139",
+  "license_basis": "PD-old-100",
   "qid": "Q107273139",
   "collection": "MAK – Museum of Applied Arts"
  },
@@ -2929,6 +3108,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q132485856",
+  "license_basis": "CC0",
   "qid": "Q132485856",
   "collection": ""
  },
@@ -2945,6 +3125,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912820",
+  "license_basis": "PD-old",
   "qid": "Q19912820",
   "collection": "Belvedere"
  },
@@ -2962,6 +3143,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4681871",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q4681871",
   "collection": ""
  },
@@ -2978,6 +3160,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q5995008",
+  "license_basis": "PD-old-100",
   "qid": "Q5995008",
   "collection": ""
  },
@@ -2992,9 +3175,10 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Allee_zum_Schloss_Kammer_-_2892_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q19912810",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912810",
   "collection": "Belvedere"
  },
@@ -3011,6 +3195,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 011.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -3027,6 +3212,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 050.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -3044,6 +3230,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912225",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19912225",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3060,6 +3247,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q113241820",
+  "license_basis": "PD-old-100",
   "qid": "Q113241820",
   "collection": "Leopold Museum"
  },
@@ -3077,6 +3265,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130214318",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q130214318",
   "collection": ""
  },
@@ -3093,6 +3282,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Allee vor Schloss Kammer.jpeg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -3110,6 +3300,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113939857",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q113939857",
   "collection": ""
  },
@@ -3127,6 +3318,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912828",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912828",
   "collection": "Kunsthaus Zug"
  },
@@ -3144,6 +3336,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912818",
   "genre": "Landscape",
+  "license_basis": "PD-Art",
   "qid": "Q19912818",
   "collection": ""
  },
@@ -3161,6 +3354,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q24860753",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q24860753",
   "collection": "Toyota Municipal Museum of Art"
  },
@@ -3178,6 +3372,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q5967091",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q5967091",
   "collection": "National Gallery Prague"
  },
@@ -3194,6 +3389,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q19483466",
+  "license_basis": "PD-old-100",
   "qid": "Q19483466",
   "collection": ""
  },
@@ -3210,6 +3406,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912824",
+  "license_basis": "PD-old",
   "qid": "Q19912824",
   "collection": "Belvedere"
  },
@@ -3226,6 +3423,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q121817342",
+  "license_basis": "PD-old-70",
   "qid": "Q121817342",
   "collection": "Neue Galerie"
  },
@@ -3243,6 +3441,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3256843",
   "genre": "Cityscape",
+  "license_basis": "PD-old-100",
   "qid": "Q3256843",
   "collection": ""
  },
@@ -3260,6 +3459,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136433749",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q136433749",
   "collection": ""
  },
@@ -3276,6 +3476,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 048.jpg",
+  "license_basis": "PD",
   "qid": "",
   "collection": ""
  },
@@ -3293,6 +3494,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130165341",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q130165341",
   "collection": ""
  },
@@ -3309,6 +3511,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104128492",
+  "license_basis": "PD-Art",
   "qid": "Q104128492",
   "collection": "Louis Vuitton Foundation"
  },
@@ -3325,6 +3528,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111821770",
+  "license_basis": "PD-Art",
   "qid": "Q111821770",
   "collection": ""
  },
@@ -3341,6 +3545,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64572790",
+  "license_basis": "CC0",
   "qid": "Q64572790",
   "collection": "National Gallery of Art"
  },
@@ -3358,6 +3563,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q136714049",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q136714049",
   "collection": ""
  },
@@ -3374,6 +3580,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 051.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -3391,6 +3598,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912826",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q19912826",
   "collection": "Kunsthaus Zug"
  },
@@ -3407,6 +3615,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60629195",
+  "license_basis": "PD-old-100",
   "qid": "Q60629195",
   "collection": ""
  },
@@ -3424,6 +3633,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q114349270",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q114349270",
   "collection": ""
  },
@@ -3441,6 +3651,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q114031277",
   "genre": "Landscape",
+  "license_basis": "PD-old",
   "qid": "Q114031277",
   "collection": "Leopold Museum"
  },
@@ -3458,6 +3669,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q98955374",
   "genre": "Portrait",
+  "license_basis": "PD-Art",
   "qid": "Q98955374",
   "collection": "Tel Aviv Museum of Art"
  },
@@ -3475,6 +3687,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28442857",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28442857",
   "collection": "Galleria d'arte moderna Ricci Oddi"
  },
@@ -3492,6 +3705,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113909235",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q113909235",
   "collection": ""
  },
@@ -3508,6 +3722,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q131980434",
+  "license_basis": "PD-old-100",
   "qid": "Q131980434",
   "collection": ""
  },
@@ -3524,6 +3739,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140367941",
+  "license_basis": "PD-old-100",
   "qid": "Q140367941",
   "collection": "anonymous"
  },
@@ -3541,6 +3757,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q140338978",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q140338978",
   "collection": "unknown"
  },
@@ -3557,6 +3774,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q125457479",
+  "license_basis": "PD-Art",
   "qid": "Q125457479",
   "collection": ""
  },
@@ -3573,6 +3791,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 061.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -3590,6 +3809,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28002799",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q28002799",
   "collection": "Belvedere"
  },
@@ -3607,6 +3827,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17635088",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17635088",
   "collection": "National Gallery of Art"
  },
@@ -3623,6 +3844,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138192294",
+  "license_basis": "PD-Art",
   "qid": "Q138192294",
   "collection": ""
  },
@@ -3639,6 +3861,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q107538925",
+  "license_basis": "PD-old-100",
   "qid": "Q107538925",
   "collection": "Lentos Art Museum"
  },
@@ -3656,6 +3879,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28002620",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28002620",
   "collection": "Belvedere"
  },
@@ -3673,6 +3897,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28007512",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28007512",
   "collection": "Belvedere"
  },
@@ -3690,6 +3915,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124356656",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q124356656",
   "collection": ""
  },
@@ -3707,6 +3933,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28004609",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28004609",
   "collection": "Belvedere"
  },
@@ -3724,6 +3951,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104061291",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q104061291",
   "collection": ""
  },
@@ -3740,6 +3968,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28009030",
+  "license_basis": "PD-old-100",
   "qid": "Q28009030",
   "collection": "Belvedere"
  },
@@ -3756,6 +3985,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106522623",
+  "license_basis": "PD-old-100",
   "qid": "Q106522623",
   "collection": ""
  },
@@ -3772,6 +4002,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 001.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -3788,6 +4019,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 070.JPG",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -3804,6 +4036,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 002.jpg",
+  "license_basis": "PD-Art",
   "qid": "",
   "collection": ""
  },
@@ -3820,6 +4053,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Gustav Klimt 056.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -3836,6 +4070,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18020558",
+  "license_basis": "PD-old-100",
   "qid": "Q18020558",
   "collection": "Kunsthistorisches Museum"
  },
@@ -3852,6 +4087,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Medizin.jpg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -3868,6 +4104,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Klimt - Musik.jpg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -3884,6 +4121,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133255218",
+  "license_basis": "PD-old-100",
   "qid": "Q133255218",
   "collection": "Laure Denier Collection"
  }

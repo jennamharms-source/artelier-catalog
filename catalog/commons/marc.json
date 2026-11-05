@@ -12,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30074458",
+  "license_basis": "PD-old-100",
   "qid": "Q30074458",
   "collection": "Bavarian State Painting Collections"
  },
@@ -28,6 +29,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086946",
+  "license_basis": "PD-old-100",
   "qid": "Q52086946",
   "collection": "Bavarian State Painting Collections"
  },
@@ -45,6 +47,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q101627746",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q101627746",
   "collection": "Lenbachhaus"
  },
@@ -62,6 +65,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q101627755",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q101627755",
   "collection": "Lenbachhaus"
  },
@@ -78,6 +82,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29903337",
+  "license_basis": "PD-old-100",
   "qid": "Q29903337",
   "collection": "Bavarian State Painting Collections"
  },
@@ -94,6 +99,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087035",
+  "license_basis": "PD-old-100",
   "qid": "Q52087035",
   "collection": ""
  },
@@ -110,6 +116,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086996",
+  "license_basis": "PD-old-100",
   "qid": "Q52086996",
   "collection": ""
  },
@@ -126,6 +133,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086994",
+  "license_basis": "PD-old-100",
   "qid": "Q52086994",
   "collection": "Lenbachhaus"
  },
@@ -143,6 +151,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086920",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q52086920",
   "collection": "Institut Mathildenhöhe"
  },
@@ -159,6 +168,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104525700",
+  "license_basis": "PD-old-100",
   "qid": "Q104525700",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -175,6 +185,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30074473",
+  "license_basis": "PD-old-100",
   "qid": "Q30074473",
   "collection": "Bavarian State Painting Collections"
  },
@@ -191,6 +202,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29919632",
+  "license_basis": "PD-old-100",
   "qid": "Q29919632",
   "collection": "Bavarian State Painting Collections"
  },
@@ -207,6 +219,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30071497",
+  "license_basis": "PD-old-100",
   "qid": "Q30071497",
   "collection": "Bavarian State Painting Collections"
  },
@@ -223,6 +236,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086913",
+  "license_basis": "PD-old-100",
   "qid": "Q52086913",
   "collection": ""
  },
@@ -239,6 +253,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086936",
+  "license_basis": "PD-old-100",
   "qid": "Q52086936",
   "collection": "Staatliche Graphische Sammlung München"
  },
@@ -255,6 +270,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30076072",
+  "license_basis": "PD-old-100",
   "qid": "Q30076072",
   "collection": "Bavarian State Painting Collections"
  },
@@ -271,6 +287,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29932753",
+  "license_basis": "PD-old-100",
   "qid": "Q29932753",
   "collection": "Bavarian State Painting Collections"
  },
@@ -288,6 +305,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086856",
   "genre": "Genre scene",
+  "license_basis": "CC0",
   "qid": "Q52086856",
   "collection": "Germanisches Nationalmuseum"
  },
@@ -304,6 +322,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30078847",
+  "license_basis": "PD-old-100",
   "qid": "Q30078847",
   "collection": "Bavarian State Painting Collections"
  },
@@ -320,6 +339,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104156160",
+  "license_basis": "PD-old-100",
   "qid": "Q104156160",
   "collection": "Schlossmuseum Murnau"
  },
@@ -336,6 +356,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30071492",
+  "license_basis": "PD-old-100",
   "qid": "Q30071492",
   "collection": "Bavarian State Painting Collections"
  },
@@ -352,6 +373,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30078712",
+  "license_basis": "PD-old-100",
   "qid": "Q30078712",
   "collection": "Bavarian State Painting Collections"
  },
@@ -368,6 +390,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29899552",
+  "license_basis": "PD-old-100",
   "qid": "Q29899552",
   "collection": "Bavarian State Painting Collections"
  },
@@ -384,6 +407,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30073976",
+  "license_basis": "PD-old-100",
   "qid": "Q30073976",
   "collection": "Bavarian State Painting Collections"
  },
@@ -400,6 +424,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30073913",
+  "license_basis": "PD-old-100",
   "qid": "Q30073913",
   "collection": "Bavarian State Painting Collections"
  },
@@ -416,6 +441,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30075682",
+  "license_basis": "PD-old-100",
   "qid": "Q30075682",
   "collection": "Bavarian State Painting Collections"
  },
@@ -432,6 +458,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87356988",
+  "license_basis": "PD-old",
   "qid": "Q87356988",
   "collection": ""
  },
@@ -448,6 +475,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87188918",
+  "license_basis": "PD-old-100",
   "qid": "Q87188918",
   "collection": "Hamburger Kunsthalle"
  },
@@ -464,6 +492,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87457164",
+  "license_basis": "PD-old-100",
   "qid": "Q87457164",
   "collection": ""
  },
@@ -480,6 +509,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Franz Marc - Frau im Wind am Meer - 14972 - Bavarian State Painting Collections.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -496,6 +526,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29932720",
+  "license_basis": "PD-old-100",
   "qid": "Q29932720",
   "collection": "Bavarian State Painting Collections"
  },
@@ -512,6 +543,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87407255",
+  "license_basis": "PD-old-100",
   "qid": "Q87407255",
   "collection": ""
  },
@@ -528,6 +560,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87411574",
+  "license_basis": "PD-old-100",
   "qid": "Q87411574",
   "collection": "Kunsthalle Mannheim"
  },
@@ -544,6 +577,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30075679",
+  "license_basis": "PD-old-100",
   "qid": "Q30075679",
   "collection": "Bavarian State Painting Collections"
  },
@@ -560,6 +594,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q87411822",
+  "license_basis": "PD-old-100",
   "qid": "Q87411822",
   "collection": ""
  },
@@ -576,6 +611,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87722559",
+  "license_basis": "PD-old-100",
   "qid": "Q87722559",
   "collection": ""
  },
@@ -592,6 +628,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q101938232",
+  "license_basis": "PD-old-100",
   "qid": "Q101938232",
   "collection": ""
  },
@@ -608,6 +645,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87401583",
+  "license_basis": "PD-old-100",
   "qid": "Q87401583",
   "collection": "Lenbachhaus"
  },
@@ -624,6 +662,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086991",
+  "license_basis": "PD-old-100",
   "qid": "Q52086991",
   "collection": "Museum Ludwig"
  },
@@ -640,6 +679,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87457165",
+  "license_basis": "PD-old-100",
   "qid": "Q87457165",
   "collection": ""
  },
@@ -656,6 +696,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87400378",
+  "license_basis": "PD-old-100",
   "qid": "Q87400378",
   "collection": "Lenbachhaus"
  },
@@ -672,6 +713,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87358857",
+  "license_basis": "PD-old-100",
   "qid": "Q87358857",
   "collection": ""
  },
@@ -688,6 +730,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87411850",
+  "license_basis": "PD-old-100",
   "qid": "Q87411850",
   "collection": ""
  },
@@ -705,6 +748,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q107450098",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q107450098",
   "collection": "Neue Nationalgalerie"
  },
@@ -721,6 +765,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083911",
+  "license_basis": "PD-old-100",
   "qid": "Q52083911",
   "collection": ""
  },
@@ -737,6 +782,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083872",
+  "license_basis": "PD-old-100",
   "qid": "Q52083872",
   "collection": "Lenbachhaus"
  },
@@ -753,6 +799,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30080077",
+  "license_basis": "PD-Art",
   "qid": "Q30080077",
   "collection": "Bavarian State Painting Collections"
  },
@@ -769,6 +816,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086919",
+  "license_basis": "PD-old-100",
   "qid": "Q52086919",
   "collection": ""
  },
@@ -785,6 +833,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086871",
+  "license_basis": "PD-old-100",
   "qid": "Q52086871",
   "collection": ""
  },
@@ -801,6 +850,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083874",
+  "license_basis": "PD-old-100",
   "qid": "Q52083874",
   "collection": "Lenbachhaus"
  },
@@ -817,6 +867,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87344423",
+  "license_basis": "PD-old",
   "qid": "Q87344423",
   "collection": ""
  },
@@ -833,6 +884,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20191319",
+  "license_basis": "PD-old-100",
   "qid": "Q20191319",
   "collection": "National Gallery of Art"
  },
@@ -849,6 +901,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086923",
+  "license_basis": "PD-old-100",
   "qid": "Q52086923",
   "collection": ""
  },
@@ -865,6 +918,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083917",
+  "license_basis": "PD-old",
   "qid": "Q52083917",
   "collection": "Lenbachhaus"
  },
@@ -881,6 +935,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104525485",
+  "license_basis": "PD-old-100",
   "qid": "Q104525485",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -897,6 +952,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087052",
+  "license_basis": "PD-old-100",
   "qid": "Q52087052",
   "collection": "Kunstmuseum Mülheim an der Ruhr"
  },
@@ -913,6 +969,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46224272",
+  "license_basis": "PD-old-100",
   "qid": "Q46224272",
   "collection": "Lenbachhaus"
  },
@@ -929,6 +986,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q86508079",
+  "license_basis": "PD-old-100",
   "qid": "Q86508079",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -946,6 +1004,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q102078509",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q102078509",
   "collection": ""
  },
@@ -962,6 +1021,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086892",
+  "license_basis": "PD-old-100",
   "qid": "Q52086892",
   "collection": "Liege Fine Arts Museum"
  },
@@ -979,6 +1039,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q52086843",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q52086843",
   "collection": ""
  },
@@ -995,6 +1056,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Marc-horse in a landscape.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1011,6 +1073,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086930",
+  "license_basis": "PD-old",
   "qid": "Q52086930",
   "collection": ""
  },
@@ -1025,8 +1088,9 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Franz_Marc_Reitergruppe_mit_Akt_1910.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q134005731",
+  "license_basis": "PD-old-100",
   "qid": "Q134005731",
   "collection": ""
  },
@@ -1043,6 +1107,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87359656",
+  "license_basis": "PD-old-100",
   "qid": "Q87359656",
   "collection": "Lenbachhaus"
  },
@@ -1060,6 +1125,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q87737794",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q87737794",
   "collection": ""
  },
@@ -1076,6 +1142,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912453",
+  "license_basis": "PD-old-100",
   "qid": "Q19912453",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1092,6 +1159,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87737815",
+  "license_basis": "PD-old-100",
   "qid": "Q87737815",
   "collection": ""
  },
@@ -1108,6 +1176,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086850",
+  "license_basis": "PD-old-100",
   "qid": "Q52086850",
   "collection": "Norton Simon Museum"
  },
@@ -1125,6 +1194,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086838",
   "genre": "Landscape",
+  "license_basis": "PD-old-70",
   "qid": "Q52086838",
   "collection": "Museum Folkwang"
  },
@@ -1142,6 +1212,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q46152272",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q46152272",
   "collection": "Lenbachhaus"
  },
@@ -1158,6 +1229,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Marc-monkey frieze.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1174,6 +1246,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087038",
+  "license_basis": "PD-old-100",
   "qid": "Q52087038",
   "collection": "Albertina"
  },
@@ -1191,6 +1264,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2592400",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q2592400",
   "collection": "Lenbachhaus"
  },
@@ -1207,6 +1281,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086906",
+  "license_basis": "PD-old",
   "qid": "Q52086906",
   "collection": "Kunstmuseum Bern"
  },
@@ -1223,6 +1298,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086949",
+  "license_basis": "PD-old",
   "qid": "Q52086949",
   "collection": ""
  },
@@ -1239,6 +1315,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46137347",
+  "license_basis": "PD-old-100",
   "qid": "Q46137347",
   "collection": "Lenbachhaus"
  },
@@ -1255,6 +1332,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087023",
+  "license_basis": "PD-old-100",
   "qid": "Q52087023",
   "collection": ""
  },
@@ -1271,6 +1349,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086859",
+  "license_basis": "PD-old-100",
   "qid": "Q52086859",
   "collection": "Moritzburg"
  },
@@ -1288,6 +1367,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46937777",
   "genre": "Animal",
+  "license_basis": "PD",
   "qid": "Q46937777",
   "collection": "Städel Museum"
  },
@@ -1304,6 +1384,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086927",
+  "license_basis": "PD-old-100",
   "qid": "Q52086927",
   "collection": "Franz Marc Museum"
  },
@@ -1321,6 +1402,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4016290",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q4016290",
   "collection": "Von der Heydt Museum"
  },
@@ -1337,6 +1419,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086826",
+  "license_basis": "PD-old-100",
   "qid": "Q52086826",
   "collection": "Busch–Reisinger Museum"
  },
@@ -1353,6 +1436,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30071366",
+  "license_basis": "PD",
   "qid": "Q30071366",
   "collection": "Franz Marc Museum"
  },
@@ -1369,6 +1453,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q15428759",
+  "license_basis": "PD-US-expired",
   "qid": "Q15428759",
   "collection": ""
  },
@@ -1385,6 +1470,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q101867057",
+  "license_basis": "PD-old-100",
   "qid": "Q101867057",
   "collection": "Franz Marc Museum"
  },
@@ -1401,6 +1487,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:1911 Marc Liegender Hund im Schnee anagoria.JPG",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1417,6 +1504,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086894",
+  "license_basis": "PD-old-100",
   "qid": "Q52086894",
   "collection": "Hamburger Kunsthalle"
  },
@@ -1433,6 +1521,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46939331",
+  "license_basis": "PD-old-100",
   "qid": "Q46939331",
   "collection": "San Francisco Museum of Modern Art"
  },
@@ -1450,6 +1539,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28839413",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q28839413",
   "collection": "Museum Kunstpalast"
  },
@@ -1467,6 +1557,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083876",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q52083876",
   "collection": "Lenbachhaus"
  },
@@ -1483,6 +1574,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086916",
+  "license_basis": "PD-old-100",
   "qid": "Q52086916",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -1499,6 +1591,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086988",
+  "license_basis": "PD-old",
   "qid": "Q52086988",
   "collection": "Albertina"
  },
@@ -1516,6 +1609,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46268886",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q46268886",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -1533,6 +1627,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q15461864",
   "genre": "Animal",
+  "license_basis": "PD-Art",
   "qid": "Q15461864",
   "collection": "Walker Art Center"
  },
@@ -1549,6 +1644,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Grazing Horses IV, Three Red Horses, Franz Marc, 1911.jpg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -1565,6 +1661,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882757",
+  "license_basis": "PD-old-100",
   "qid": "Q19882757",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1582,6 +1679,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1218349",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q1218349",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1599,6 +1697,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q19882760",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q19882760",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1615,6 +1714,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87723104",
+  "license_basis": "PD-old-100",
   "qid": "Q87723104",
   "collection": ""
  },
@@ -1631,6 +1731,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65020031",
+  "license_basis": "CC0",
   "qid": "Q65020031",
   "collection": "Lenbachhaus"
  },
@@ -1647,6 +1748,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Marc Franz Blaues-Pferdchen Saarlandmuseum 1912.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -1663,6 +1765,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q24057840",
+  "license_basis": "PD-old-100",
   "qid": "Q24057840",
   "collection": "Stedelijk Museum Amsterdam"
  },
@@ -1680,6 +1783,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q22570092",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q22570092",
   "collection": "Saarland Museum"
  },
@@ -1696,6 +1800,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912449",
+  "license_basis": "PD-old-100",
   "qid": "Q19912449",
   "collection": "Lenbachhaus"
  },
@@ -1712,6 +1817,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2658275",
+  "license_basis": "PD-old-100",
   "qid": "Q2658275",
   "collection": "Lenbachhaus"
  },
@@ -1728,6 +1834,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086939",
+  "license_basis": "PD-old-100",
   "qid": "Q52086939",
   "collection": ""
  },
@@ -1744,6 +1851,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46160923",
+  "license_basis": "PD-old-100",
   "qid": "Q46160923",
   "collection": "Lenbachhaus"
  },
@@ -1760,6 +1868,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46158163",
+  "license_basis": "PD-old-100",
   "qid": "Q46158163",
   "collection": "Lenbachhaus"
  },
@@ -1776,6 +1885,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140057759",
+  "license_basis": "PD-old-100",
   "qid": "Q140057759",
   "collection": "\"degenerate art\" collection"
  },
@@ -1792,6 +1902,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086896",
+  "license_basis": "PD-old",
   "qid": "Q52086896",
   "collection": "Albertina"
  },
@@ -1808,6 +1919,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083913",
+  "license_basis": "PD-old-100",
   "qid": "Q52083913",
   "collection": "Franz Marc Museum"
  },
@@ -1824,6 +1936,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912460",
+  "license_basis": "PD-old-100",
   "qid": "Q19912460",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -1840,6 +1953,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87723086",
+  "license_basis": "PD-old-100",
   "qid": "Q87723086",
   "collection": ""
  },
@@ -1856,6 +1970,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086842",
+  "license_basis": "PD-old-100",
   "qid": "Q52086842",
   "collection": "Sprengel Museum"
  },
@@ -1872,6 +1987,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46159302",
+  "license_basis": "PD-old-100",
   "qid": "Q46159302",
   "collection": "Lenbachhaus"
  },
@@ -1888,6 +2004,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29906504",
+  "license_basis": "PD-old-100",
   "qid": "Q29906504",
   "collection": "Bavarian State Painting Collections"
  },
@@ -1904,6 +2021,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912448",
+  "license_basis": "PD-old-100",
   "qid": "Q19912448",
   "collection": "National Gallery of Art"
  },
@@ -1920,6 +2038,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87206208",
+  "license_basis": "PD-old-100",
   "qid": "Q87206208",
   "collection": "Lenbachhaus"
  },
@@ -1936,6 +2055,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086953",
+  "license_basis": "PD-old-100",
   "qid": "Q52086953",
   "collection": "Westphalian State Museum of Art and Cultural History"
  },
@@ -1952,6 +2072,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87434490",
+  "license_basis": "PD-old-100",
   "qid": "Q87434490",
   "collection": ""
  },
@@ -1968,6 +2089,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76438984",
+  "license_basis": "CC0",
   "qid": "Q76438984",
   "collection": "Lenbachhaus"
  },
@@ -1985,6 +2107,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q30071845",
   "genre": "Animal",
+  "license_basis": "PD-Art",
   "qid": "Q30071845",
   "collection": "\"degenerate art\" collection"
  },
@@ -2001,6 +2124,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46156131",
+  "license_basis": "PD-old-100",
   "qid": "Q46156131",
   "collection": "Lenbachhaus"
  },
@@ -2017,6 +2141,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086943",
+  "license_basis": "PD-old-100",
   "qid": "Q52086943",
   "collection": "Pushkin Museum of Fine Arts"
  },
@@ -2033,6 +2158,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Marc-Reh im Klostergarten PA291054.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2049,6 +2175,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119172814",
+  "license_basis": "PD-old-100",
   "qid": "Q119172814",
   "collection": "Leicester Museum & Art Gallery"
  },
@@ -2065,6 +2192,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087026",
+  "license_basis": "PD-Art",
   "qid": "Q52087026",
   "collection": "Saarland Museum"
  },
@@ -2081,6 +2209,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912476",
+  "license_basis": "CC0",
   "qid": "Q19912476",
   "collection": "Lenbachhaus"
  },
@@ -2097,6 +2226,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87359646",
+  "license_basis": "PD-old-100",
   "qid": "Q87359646",
   "collection": "Lenbachhaus"
  },
@@ -2113,6 +2243,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086884",
+  "license_basis": "PD-old",
   "qid": "Q52086884",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -2129,6 +2260,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685517",
+  "license_basis": "PD-old",
   "qid": "Q18685517",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -2146,6 +2278,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46148221",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q46148221",
   "collection": "Lenbachhaus"
  },
@@ -2163,6 +2296,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086999",
   "genre": "Animal",
+  "license_basis": "PD-old",
   "qid": "Q52086999",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -2179,6 +2313,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87339936",
+  "license_basis": "PD-old",
   "qid": "Q87339936",
   "collection": "Lenbachhaus"
  },
@@ -2195,6 +2330,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083912",
+  "license_basis": "PD-old-100",
   "qid": "Q52083912",
   "collection": "Moritzburg"
  },
@@ -2212,6 +2348,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087001",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q52087001",
   "collection": ""
  },
@@ -2228,6 +2365,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087047",
+  "license_basis": "PD-old-100",
   "qid": "Q52087047",
   "collection": "Kunsthalle Mannheim"
  },
@@ -2244,6 +2382,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912467",
+  "license_basis": "PD-old-100",
   "qid": "Q19912467",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2261,6 +2400,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2358487",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q2358487",
   "collection": "Lenbachhaus"
  },
@@ -2277,6 +2417,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29897849",
+  "license_basis": "PD-old",
   "qid": "Q29897849",
   "collection": "Cleveland Museum of Art"
  },
@@ -2293,6 +2434,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912474",
+  "license_basis": "PD-old-100",
   "qid": "Q19912474",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2309,6 +2451,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87338961",
+  "license_basis": "PD-old",
   "qid": "Q87338961",
   "collection": "Lenbachhaus"
  },
@@ -2326,6 +2469,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q87656622",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q87656622",
   "collection": ""
  },
@@ -2342,6 +2486,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083915",
+  "license_basis": "PD-old",
   "qid": "Q52083915",
   "collection": "Kunstmuseum Basel"
  },
@@ -2358,6 +2503,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912480",
+  "license_basis": "PD-old-100",
   "qid": "Q19912480",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2374,6 +2520,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87795909",
+  "license_basis": "PD-old-100",
   "qid": "Q87795909",
   "collection": ""
  },
@@ -2390,6 +2537,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Franz Marc-Two Cats,Blue and Yellow(Zwei Katzen, blau und gelb) (1912).jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2406,6 +2554,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87835572",
+  "license_basis": "PD-old-100",
   "qid": "Q87835572",
   "collection": ""
  },
@@ -2423,6 +2572,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q87775439",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q87775439",
   "collection": ""
  },
@@ -2439,6 +2589,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87249255",
+  "license_basis": "PD-old-100",
   "qid": "Q87249255",
   "collection": "Lenbachhaus"
  },
@@ -2455,6 +2606,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30071156",
+  "license_basis": "PD-old-100",
   "qid": "Q30071156",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2471,6 +2623,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29903378",
+  "license_basis": "PD-old-100",
   "qid": "Q29903378",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2487,6 +2640,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29903383",
+  "license_basis": "PD-old-100",
   "qid": "Q29903383",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2503,6 +2657,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29951928",
+  "license_basis": "PD-old-100",
   "qid": "Q29951928",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2519,6 +2674,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912471",
+  "license_basis": "PD-old-100",
   "qid": "Q19912471",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2535,6 +2691,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086873",
+  "license_basis": "PD-old-100",
   "qid": "Q52086873",
   "collection": ""
  },
@@ -2551,6 +2708,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30078883",
+  "license_basis": "PD-old-100",
   "qid": "Q30078883",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2567,6 +2725,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086877",
+  "license_basis": "PD-old-100",
   "qid": "Q52086877",
   "collection": "Museum Ludwig"
  },
@@ -2583,6 +2742,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30076895",
+  "license_basis": "PD-old-100",
   "qid": "Q30076895",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2600,6 +2760,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q30073261",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q30073261",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2616,6 +2777,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29914765",
+  "license_basis": "PD-old-100",
   "qid": "Q29914765",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2632,6 +2794,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30074146",
+  "license_basis": "PD-old-100",
   "qid": "Q30074146",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2648,6 +2811,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Franz Marc - Das arme Land Tirol - 14996 - Bavarian State Painting Collections.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2664,6 +2828,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086875",
+  "license_basis": "PD-old",
   "qid": "Q52086875",
   "collection": "Kunsthalle Bremen"
  },
@@ -2680,6 +2845,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q23939735",
+  "license_basis": "PD-old-100",
   "qid": "Q23939735",
   "collection": "The Phillips Collection"
  },
@@ -2696,6 +2862,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30072608",
+  "license_basis": "PD-old-100",
   "qid": "Q30072608",
   "collection": "\"degenerate art\" collection"
  },
@@ -2712,6 +2879,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30074028",
+  "license_basis": "PD-old-100",
   "qid": "Q30074028",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2728,6 +2896,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30072614",
+  "license_basis": "PD-old-100",
   "qid": "Q30072614",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2744,6 +2913,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30074059",
+  "license_basis": "PD-old-100",
   "qid": "Q30074059",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2760,6 +2930,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30077218",
+  "license_basis": "PD-old-100",
   "qid": "Q30077218",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2776,6 +2947,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Franz Marc - Die Wölfe (Balkankrieg), 1913.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2792,6 +2964,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086836",
+  "license_basis": "PD-old-100",
   "qid": "Q52086836",
   "collection": "Kunstmuseum Bern"
  },
@@ -2809,6 +2982,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912469",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q19912469",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -2825,6 +2999,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Franz Marc - Drei Katzen groß.jpg",
+  "license_basis": "PD-old-100",
   "qid": "",
   "collection": ""
  },
@@ -2841,6 +3016,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087017",
+  "license_basis": "PD-Art",
   "qid": "Q52087017",
   "collection": ""
  },
@@ -2857,6 +3033,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087005",
+  "license_basis": "PD-old-100",
   "qid": "Q52087005",
   "collection": ""
  },
@@ -2873,6 +3050,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086985",
+  "license_basis": "PD-old-100",
   "qid": "Q52086985",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -2889,6 +3067,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77591685",
+  "license_basis": "PD-old-100",
   "qid": "Q77591685",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -2905,6 +3084,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30073140",
+  "license_basis": "PD-old-100",
   "qid": "Q30073140",
   "collection": "Bavarian State Painting Collections"
  },
@@ -2921,6 +3101,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087039",
+  "license_basis": "PD-old",
   "qid": "Q52087039",
   "collection": ""
  },
@@ -2937,6 +3118,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087030",
+  "license_basis": "PD-old-100",
   "qid": "Q52087030",
   "collection": "Lenbachhaus"
  },
@@ -2953,6 +3135,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086889",
+  "license_basis": "PD-old-100",
   "qid": "Q52086889",
   "collection": "Fondazione Marianne Werefkin"
  },
@@ -2969,6 +3152,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087020",
+  "license_basis": "PD-old-100",
   "qid": "Q52087020",
   "collection": ""
  },
@@ -2985,6 +3169,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086966",
+  "license_basis": "PD-old",
   "qid": "Q52086966",
   "collection": ""
  },
@@ -3001,6 +3186,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87285406",
+  "license_basis": "PD-old-100",
   "qid": "Q87285406",
   "collection": "Lenbachhaus"
  },
@@ -3017,6 +3203,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30074455",
+  "license_basis": "PD-old-100",
   "qid": "Q30074455",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3033,6 +3220,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912445",
+  "license_basis": "PD-old-100",
   "qid": "Q19912445",
   "collection": "Lenbachhaus"
  },
@@ -3049,6 +3237,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29920644",
+  "license_basis": "PD-old-100",
   "qid": "Q29920644",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3066,6 +3255,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086899",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q52086899",
   "collection": "Saint Louis Art Museum"
  },
@@ -3083,6 +3273,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086891",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q52086891",
   "collection": ""
  },
@@ -3100,6 +3291,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086882",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q52086882",
   "collection": "Lenbachhaus"
  },
@@ -3116,6 +3308,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87738394",
+  "license_basis": "PD-old-100",
   "qid": "Q87738394",
   "collection": ""
  },
@@ -3132,6 +3325,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912462",
+  "license_basis": "PD-old-100",
   "qid": "Q19912462",
   "collection": "Lenbachhaus"
  },
@@ -3148,6 +3342,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086841",
+  "license_basis": "PD-old",
   "qid": "Q52086841",
   "collection": "Museum Folkwang"
  },
@@ -3164,6 +3359,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083877",
+  "license_basis": "PD-old-100",
   "qid": "Q52083877",
   "collection": "Lenbachhaus"
  },
@@ -3180,6 +3376,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086922",
+  "license_basis": "PD-old-100",
   "qid": "Q52086922",
   "collection": ""
  },
@@ -3196,6 +3393,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30077516",
+  "license_basis": "PD-old-100",
   "qid": "Q30077516",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3212,6 +3410,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30073364",
+  "license_basis": "PD-old-100",
   "qid": "Q30073364",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3228,6 +3427,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087032",
+  "license_basis": "PD-old-100",
   "qid": "Q52087032",
   "collection": ""
  },
@@ -3244,6 +3444,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912455",
+  "license_basis": "PD-old-100",
   "qid": "Q19912455",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3260,6 +3461,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87249279",
+  "license_basis": "PD-old-100",
   "qid": "Q87249279",
   "collection": "Lenbachhaus"
  },
@@ -3276,6 +3478,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086974",
+  "license_basis": "PD-old",
   "qid": "Q52086974",
   "collection": ""
  },
@@ -3292,6 +3495,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87249522",
+  "license_basis": "PD-old-100",
   "qid": "Q87249522",
   "collection": "Lenbachhaus"
  },
@@ -3308,6 +3512,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086958",
+  "license_basis": "PD-old-100",
   "qid": "Q52086958",
   "collection": "Milwaukee Art Museum"
  },
@@ -3324,6 +3529,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87249310",
+  "license_basis": "PD-old-100",
   "qid": "Q87249310",
   "collection": "Lenbachhaus"
  },
@@ -3341,6 +3547,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q87749975",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q87749975",
   "collection": ""
  },
@@ -3357,6 +3564,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87283939",
+  "license_basis": "PD-old-100",
   "qid": "Q87283939",
   "collection": "Lenbachhaus"
  },
@@ -3373,6 +3581,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912485",
+  "license_basis": "PD-old-100",
   "qid": "Q19912485",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3389,6 +3598,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882762",
+  "license_basis": "PD-old-100",
   "qid": "Q19882762",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3405,6 +3615,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "commons:Marc - Stallungen.jpg",
+  "license_basis": "PD-old",
   "qid": "",
   "collection": ""
  },
@@ -3421,6 +3632,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268112",
+  "license_basis": "PD-old-100",
   "qid": "Q20268112",
   "collection": "Art Institute of Chicago"
  },
@@ -3438,6 +3650,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28839414",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q28839414",
   "collection": "Museum Kunstpalast"
  },
@@ -3454,6 +3667,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087037",
+  "license_basis": "PD-old-100",
   "qid": "Q52087037",
   "collection": "Saint Louis Art Museum"
  },
@@ -3470,6 +3684,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87343801",
+  "license_basis": "PD-old",
   "qid": "Q87343801",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3486,6 +3701,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19924989",
+  "license_basis": "PD-old-100",
   "qid": "Q19924989",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -3502,6 +3718,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882763",
+  "license_basis": "PD-old-100",
   "qid": "Q19882763",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3518,6 +3735,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30077336",
+  "license_basis": "PD-old-100",
   "qid": "Q30077336",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3534,6 +3752,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086833",
+  "license_basis": "PD-old-100",
   "qid": "Q52086833",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -3550,6 +3769,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086925",
+  "license_basis": "PD-old-100",
   "qid": "Q52086925",
   "collection": "Kunsthalle Emden"
  },
@@ -3566,6 +3786,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q2432407",
+  "license_basis": "PD-old-100",
   "qid": "Q2432407",
   "collection": "Kunstmuseum Basel"
  },
@@ -3582,6 +3803,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30078688",
+  "license_basis": "PD-old-100",
   "qid": "Q30078688",
   "collection": "\"degenerate art\" collection"
  },
@@ -3598,6 +3820,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087044",
+  "license_basis": "PD-old-100",
   "qid": "Q52087044",
   "collection": ""
  },
@@ -3614,6 +3837,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87325015",
+  "license_basis": "PD-old",
   "qid": "Q87325015",
   "collection": ""
  },
@@ -3630,6 +3854,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52083919",
+  "license_basis": "PD-old-100",
   "qid": "Q52083919",
   "collection": "Kunstsammlung Nordrhein-Westfalen"
  },
@@ -3647,6 +3872,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q87348534",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q87348534",
   "collection": ""
  },
@@ -3663,6 +3889,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087059",
+  "license_basis": "PD-old",
   "qid": "Q52087059",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -3679,6 +3906,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086978",
+  "license_basis": "PD-old-100",
   "qid": "Q52086978",
   "collection": "Staatliche Graphische Sammlung München"
  },
@@ -3695,6 +3923,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912482",
+  "license_basis": "PD-old-100",
   "qid": "Q19912482",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3711,6 +3940,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912457",
+  "license_basis": "PD-old-100",
   "qid": "Q19912457",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3727,6 +3957,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087050",
+  "license_basis": "PD-old-100",
   "qid": "Q52087050",
   "collection": "Lenbachhaus"
  },
@@ -3743,6 +3974,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131585435",
+  "license_basis": "PD-old-100",
   "qid": "Q131585435",
   "collection": "Kunsthaus Zürich"
  },
@@ -3759,6 +3991,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086902",
+  "license_basis": "PD-old-100",
   "qid": "Q52086902",
   "collection": "\"degenerate art\" collection"
  },
@@ -3775,6 +4008,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883665",
+  "license_basis": "PD-old-100",
   "qid": "Q19883665",
   "collection": "Museum of Modern Art"
  },
@@ -3791,6 +4025,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87247898",
+  "license_basis": "PD-old-100",
   "qid": "Q87247898",
   "collection": "Lenbachhaus"
  },
@@ -3807,6 +4042,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30077082",
+  "license_basis": "PD-old-100",
   "qid": "Q30077082",
   "collection": "Bavarian State Painting Collections"
  },
@@ -3823,6 +4059,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87249491",
+  "license_basis": "PD-old-100",
   "qid": "Q87249491",
   "collection": "Lenbachhaus"
  },
@@ -3839,6 +4076,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87249469",
+  "license_basis": "PD-old-100",
   "qid": "Q87249469",
   "collection": "Lenbachhaus"
  },
@@ -3855,6 +4093,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1197647",
+  "license_basis": "PD-old-100",
   "qid": "Q1197647",
   "collection": "\"degenerate art\" collection"
  },
@@ -3871,6 +4110,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87723143",
+  "license_basis": "PD-old-100",
   "qid": "Q87723143",
   "collection": ""
  },
@@ -3888,6 +4128,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46940211",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q46940211",
   "collection": "Detroit Institute of Arts"
  },
@@ -3904,6 +4145,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46223210",
+  "license_basis": "PD-old-100",
   "qid": "Q46223210",
   "collection": "\"degenerate art\" collection"
  },
@@ -3920,6 +4162,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19882764",
+  "license_basis": "PD-old-100",
   "qid": "Q19882764",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -3936,6 +4179,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087056",
+  "license_basis": "PD-old-100",
   "qid": "Q52087056",
   "collection": "Kunstmuseum Basel"
  },
@@ -3952,6 +4196,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086969",
+  "license_basis": "CC0",
   "qid": "Q52086969",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3968,6 +4213,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087054",
+  "license_basis": "PD-Art",
   "qid": "Q52087054",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -3984,6 +4230,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104523555",
+  "license_basis": "PD-old-100",
   "qid": "Q104523555",
   "collection": "Staatliche Kunsthalle Karlsruhe"
  },
@@ -4000,6 +4247,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30079025",
+  "license_basis": "PD-old-100",
   "qid": "Q30079025",
   "collection": "Bavarian State Painting Collections"
  },
@@ -4016,6 +4264,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086981",
+  "license_basis": "PD-old",
   "qid": "Q52086981",
   "collection": "Museum of Modern Art"
  },
@@ -4033,6 +4282,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52087041",
   "genre": "Landscape",
+  "license_basis": "PD-old-100",
   "qid": "Q52087041",
   "collection": ""
  },
@@ -4049,6 +4299,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131587083",
+  "license_basis": "PD-old-100",
   "qid": "Q131587083",
   "collection": "Kunsthaus Zürich"
  },
@@ -4065,6 +4316,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87482962",
+  "license_basis": "PD-old-100",
   "qid": "Q87482962",
   "collection": "Museum Folkwang"
  },
@@ -4082,6 +4334,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086847",
   "genre": "Abstract",
+  "license_basis": "PD-Art",
   "qid": "Q52086847",
   "collection": "Sprengel Museum"
  },
@@ -4099,6 +4352,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q52086912",
   "genre": "Abstract",
+  "license_basis": "PD-Art",
   "qid": "Q52086912",
   "collection": "Osthaus-Museum Hagen"
  },
@@ -4116,6 +4370,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q87919473",
   "genre": "Abstract",
+  "license_basis": "PD-old-100",
   "qid": "Q87919473",
   "collection": ""
  },
@@ -4132,6 +4387,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30077222",
+  "license_basis": "PD-old-100",
   "qid": "Q30077222",
   "collection": "Bavarian State Painting Collections"
  },
@@ -4148,6 +4404,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912465",
+  "license_basis": "PD-old-100",
   "qid": "Q19912465",
   "collection": "Solomon R. Guggenheim Museum"
  },
@@ -4164,6 +4421,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76438985",
+  "license_basis": "CC0",
   "qid": "Q76438985",
   "collection": "National Gallery of Art"
  },
@@ -4180,6 +4438,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30079741",
+  "license_basis": "PD-old-100",
   "qid": "Q30079741",
   "collection": "Bavarian State Painting Collections"
  },
@@ -4196,6 +4455,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87576295",
+  "license_basis": "PD-old-100",
   "qid": "Q87576295",
   "collection": "Staatliche Graphische Sammlung München"
  },
@@ -4212,6 +4472,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87576285",
+  "license_basis": "PD-old-100",
   "qid": "Q87576285",
   "collection": "Staatliche Graphische Sammlung München"
  },
@@ -4228,6 +4489,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87576282",
+  "license_basis": "PD-old-100",
   "qid": "Q87576282",
   "collection": "Staatliche Graphische Sammlung München"
  },
@@ -4244,6 +4506,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87574057",
+  "license_basis": "PD-old-100",
   "qid": "Q87574057",
   "collection": "Staatliche Graphische Sammlung München"
  },
@@ -4260,6 +4523,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87190490",
+  "license_basis": "PD-old-100",
   "qid": "Q87190490",
   "collection": ""
  },
@@ -4276,11 +4540,12 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87576283",
+  "license_basis": "PD-old-100",
   "qid": "Q87576283",
   "collection": "Staatliche Graphische Sammlung München"
  },
  {
-  "title": "Q136788668",
+  "title": "Cats, Red and White",
   "artist": "Franz Marc",
   "year": "",
   "medium": "Painting",
@@ -4292,6 +4557,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q136788668",
+  "license_basis": "PD-old",
   "qid": "Q136788668",
   "collection": ""
  },
@@ -4308,6 +4574,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q87208025",
+  "license_basis": "PD-old",
   "qid": "Q87208025",
   "collection": ""
  }

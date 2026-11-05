@@ -192,6 +192,23 @@
   "collection": "Museum of Modern Art"
  },
  {
+  "title": "Portrait of the Composer Arthur Löwenstein",
+  "artist": "Egon Schiele",
+  "year": "1909",
+  "medium": "Drawing",
+  "gallery": "",
+  "country": "Austria",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schiele_-_Portr%C3%A4t_des_Komponisten_Athur_L%C3%B6wenstein_-_1909.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Schiele_-_Portr%C3%A4t_des_Komponisten_Athur_L%C3%B6wenstein_-_1909.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q141850478",
+  "license_basis": "PD-old-100",
+  "qid": "Q141850478",
+  "collection": ""
+ },
+ {
   "title": "Dead Mother I",
   "artist": "Egon Schiele",
   "year": "1910",
@@ -1089,6 +1106,24 @@
   "license_basis": "PD-old-100",
   "qid": "Q111801245",
   "collection": "\"degenerate art\" collection"
+ },
+ {
+  "title": "Fishing boat in Trst",
+  "artist": "Egon Schiele",
+  "year": "1912",
+  "medium": "Drawing",
+  "gallery": "Albertina",
+  "country": "Austria",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Egon_Schiele_-_Triestiner_Fischerboot_-_1912.jpeg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_Triestiner_Fischerboot_-_1912.jpeg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q141681115",
+  "genre": "Marine",
+  "license_basis": "PD-old-100",
+  "qid": "Q141681115",
+  "collection": "Albertina"
  },
  {
   "title": "I Will Gladly Endure for Art and My Loved Ones",

@@ -12,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133310593",
+  "license_basis": "PD-old-100",
   "qid": "Q133310593",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -28,6 +29,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188841",
+  "license_basis": "PD-old-100",
   "qid": "Q20188841",
   "collection": "National Gallery of Art"
  },
@@ -44,6 +46,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118216726",
+  "license_basis": "PD-old-100",
   "qid": "Q118216726",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -60,6 +63,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181440",
+  "license_basis": "PD-old-100",
   "qid": "Q118181440",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -76,6 +80,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118179913",
+  "license_basis": "PD-old-100",
   "qid": "Q118179913",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -92,6 +97,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118130341",
+  "license_basis": "PD-old-100",
   "qid": "Q118130341",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -108,6 +114,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64573658",
+  "license_basis": "CC0",
   "qid": "Q64573658",
   "collection": "National Gallery of Art"
  },
@@ -125,6 +132,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3612977",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3612977",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -141,6 +149,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116143443",
+  "license_basis": "PD-old-100",
   "qid": "Q116143443",
   "collection": "Wallraf–Richartz Museum"
  },
@@ -157,6 +166,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181444",
+  "license_basis": "PD-old-100",
   "qid": "Q118181444",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -173,6 +183,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118193109",
+  "license_basis": "PD-old-100",
   "qid": "Q118193109",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -189,6 +200,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118179860",
+  "license_basis": "PD-old-100",
   "qid": "Q118179860",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -205,6 +217,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118233851",
+  "license_basis": "PD-old-100",
   "qid": "Q118233851",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -221,6 +234,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118234642",
+  "license_basis": "PD-old-100",
   "qid": "Q118234642",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -237,6 +251,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118217626",
+  "license_basis": "PD-old-100",
   "qid": "Q118217626",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -253,6 +268,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118216671",
+  "license_basis": "PD-old-100",
   "qid": "Q118216671",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -269,6 +285,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118234308",
+  "license_basis": "PD-old-100",
   "qid": "Q118234308",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -286,6 +303,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q79149980",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q79149980",
   "collection": "Dallas Museum of Art"
  },
@@ -302,6 +320,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q49869714",
+  "license_basis": "PD-old-100",
   "qid": "Q49869714",
   "collection": "São Paulo Museum of Art"
  },
@@ -318,6 +337,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118255473",
+  "license_basis": "PD-old-100",
   "qid": "Q118255473",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -334,6 +354,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118215907",
+  "license_basis": "PD-old-100",
   "qid": "Q118215907",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -350,6 +371,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q23939279",
+  "license_basis": "PD-1996",
   "qid": "Q23939279",
   "collection": "The Phillips Collection"
  },
@@ -366,6 +388,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188872",
+  "license_basis": "PD-old-100",
   "qid": "Q20188872",
   "collection": "National Gallery of Art"
  },
@@ -383,6 +406,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28769270",
   "genre": "Animal",
+  "license_basis": "PD-old-100",
   "qid": "Q28769270",
   "collection": "Hammer Museum"
  },
@@ -399,6 +423,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118179816",
+  "license_basis": "PD-old-100",
   "qid": "Q118179816",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -416,6 +441,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17429571",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q17429571",
   "collection": ""
  },
@@ -432,6 +458,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181394",
+  "license_basis": "PD-old-100",
   "qid": "Q118181394",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -448,6 +475,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118216596",
+  "license_basis": "PD-old-100",
   "qid": "Q118216596",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -464,6 +492,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108756931",
+  "license_basis": "PD-old-100",
   "qid": "Q108756931",
   "collection": "Nationalmuseum"
  },
@@ -480,6 +509,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64573652",
+  "license_basis": "CC0",
   "qid": "Q64573652",
   "collection": "National Gallery of Art"
  },
@@ -496,6 +526,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118234296",
+  "license_basis": "PD-old-100",
   "qid": "Q118234296",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -512,6 +543,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188878",
+  "license_basis": "PD-old-100",
   "qid": "Q20188878",
   "collection": "National Gallery of Art"
  },
@@ -528,6 +560,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q70781254",
+  "license_basis": "CC0",
   "qid": "Q70781254",
   "collection": "Fogg Museum"
  },
@@ -544,6 +577,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685998",
+  "license_basis": "PD-old-100",
   "qid": "Q18685998",
   "collection": "Albertina"
  },
@@ -561,6 +595,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181428",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q118181428",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -577,6 +612,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123929801",
+  "license_basis": "PD-old-100",
   "qid": "Q123929801",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -593,6 +629,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118218332",
+  "license_basis": "PD-old-100",
   "qid": "Q118218332",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -609,6 +646,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181396",
+  "license_basis": "PD-old-100",
   "qid": "Q118181396",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -625,6 +663,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118218152",
+  "license_basis": "PD-old-100",
   "qid": "Q118218152",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -641,6 +680,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79173305",
+  "license_basis": "PD-old-100",
   "qid": "Q79173305",
   "collection": "Dallas Museum of Art"
  },
@@ -655,8 +695,9 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:(Albi)_C%C3%A9leyran,_une_avenue_-_Toulouse-Lautrec_1882_MTL.71.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q118193078",
+  "license_basis": "PD-old-100",
   "qid": "Q118193078",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -673,6 +714,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30063927",
+  "license_basis": "PD-old-100",
   "qid": "Q30063927",
   "collection": "Bavarian State Painting Collections"
  },
@@ -689,6 +731,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118218173",
+  "license_basis": "PD-old-100",
   "qid": "Q118218173",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -706,6 +749,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q118179905",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q118179905",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -723,6 +767,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3794238",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3794238",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -740,6 +785,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q83507869",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q83507869",
   "collection": "Collection Bemberg"
  },
@@ -757,6 +803,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q118179803",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q118179803",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -773,6 +820,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118218323",
+  "license_basis": "PD-old-100",
   "qid": "Q118218323",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -789,6 +837,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q96465034",
+  "license_basis": "PD-old",
   "qid": "Q96465034",
   "collection": "The Philip and Janice Levin Foundation"
  },
@@ -806,6 +855,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q110914645",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q110914645",
   "collection": ""
  },
@@ -823,6 +873,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3630732",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3630732",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -839,6 +890,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118218268",
+  "license_basis": "PD-old-100",
   "qid": "Q118218268",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -855,6 +907,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118189982",
+  "license_basis": "PD-old-100",
   "qid": "Q118189982",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -871,6 +924,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q21712319",
+  "license_basis": "PD-old-100",
   "qid": "Q21712319",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -887,6 +941,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118193043",
+  "license_basis": "PD-old-100",
   "qid": "Q118193043",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -903,6 +958,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118216429",
+  "license_basis": "PD-old-100",
   "qid": "Q118216429",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -920,6 +976,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q118179809",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q118179809",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -937,6 +994,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181420",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q118181420",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -954,6 +1012,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q125054934",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q125054934",
   "collection": ""
  },
@@ -970,6 +1029,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111078492",
+  "license_basis": "PD-old-100",
   "qid": "Q111078492",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -987,6 +1047,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131460279",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q131460279",
   "collection": "Musée des Beaux-Arts de Bordeaux"
  },
@@ -1003,6 +1064,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118234497",
+  "license_basis": "PD-old-100",
   "qid": "Q118234497",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -1020,6 +1082,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3821901",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3821901",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -1037,6 +1100,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124260245",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q124260245",
   "collection": "musée d'Art moderne de Fontevraud"
  },
@@ -1054,8 +1118,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104774030",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q104774030",
   "collection": "Clark Art Institute"
+ },
+ {
+  "title": "Dancer Seated on a Pink Divan",
+  "artist": "Henri de Toulouse-Lautrec",
+  "year": "1884",
+  "medium": "Painting",
+  "gallery": "Dixon Gallery and Gardens",
+  "country": "France",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec_-_Dancer_Seated_on_a_Pink_Divan%2C_1884.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Toulouse-Lautrec_-_Dancer_Seated_on_a_Pink_Divan,_1884.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q74454150",
+  "license_basis": "PD-old",
+  "qid": "Q74454150",
+  "collection": "Dixon Gallery and Gardens"
  },
  {
   "title": "La grosse Maria, Vénus de Montmartre",
@@ -1071,6 +1153,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q124377812",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q124377812",
   "collection": "Von der Heydt Museum"
  },
@@ -1087,6 +1170,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111194000",
+  "license_basis": "PD-old-100",
   "qid": "Q111194000",
   "collection": "Fondation Custodia"
  },
@@ -1103,6 +1187,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q32032740",
+  "license_basis": "CC0",
   "qid": "Q32032740",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -1119,6 +1204,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20265550",
+  "license_basis": "PD-old-100",
   "qid": "Q20265550",
   "collection": "Art Institute of Chicago"
  },
@@ -1135,6 +1221,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189748",
+  "license_basis": "CC0",
   "qid": "Q20189748",
   "collection": "National Gallery of Art"
  },
@@ -1152,6 +1239,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q72936918",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q72936918",
   "collection": "Palais des Beaux-Arts de Lille"
  },
@@ -1169,6 +1257,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q27954929",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q27954929",
   "collection": "National Museum of Fine Arts, Argentina"
  },
@@ -1186,6 +1275,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q76424088",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q76424088",
   "collection": "Ny Carlsberg Glyptotek"
  },
@@ -1203,6 +1293,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q66155658",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q66155658",
   "collection": "Princeton Art Museum"
  },
@@ -1220,6 +1311,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3937771",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3937771",
   "collection": "Tate"
  },
@@ -1236,6 +1328,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28130952",
+  "license_basis": "PD-old-100",
   "qid": "Q28130952",
   "collection": "Barnes Foundation"
  },
@@ -1252,6 +1345,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108333700",
+  "license_basis": "PD-old-100",
   "qid": "Q108333700",
   "collection": "Banco de la República"
  },
@@ -1268,6 +1362,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75132939",
+  "license_basis": "PD-old-100",
   "qid": "Q75132939",
   "collection": "Thiel Gallery"
  },
@@ -1285,6 +1380,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q50113232",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q50113232",
   "collection": "Alte Nationalgalerie"
  },
@@ -1301,6 +1397,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223641",
+  "license_basis": "PD-old-100",
   "qid": "Q64223641",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -1318,6 +1415,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20265504",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20265504",
   "collection": "Art Institute of Chicago"
  },
@@ -1335,6 +1433,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912536",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19912536",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1351,6 +1450,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124365387",
+  "license_basis": "PD",
   "qid": "Q124365387",
   "collection": "Norton Simon Museum"
  },
@@ -1367,11 +1467,12 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685997",
+  "license_basis": "PD-old-100",
   "qid": "Q18685997",
   "collection": "Artizon Museum"
  },
  {
-  "title": "Portrait of Vincent van Gogh (1887)",
+  "title": "Portrait of Vincent van Gogh",
   "artist": "Henri de Toulouse-Lautrec",
   "year": "1887",
   "medium": "Painting",
@@ -1384,6 +1485,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q56239082",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q56239082",
   "collection": "Van Gogh Museum"
  },
@@ -1400,6 +1502,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124365388",
+  "license_basis": "PD-old-100",
   "qid": "Q124365388",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -1416,6 +1519,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q86856772",
+  "license_basis": "CC0",
   "qid": "Q86856772",
   "collection": "San Diego Museum of Art"
  },
@@ -1432,6 +1536,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104774079",
+  "license_basis": "PD-old-100",
   "qid": "Q104774079",
   "collection": "Clark Art Institute"
  },
@@ -1448,6 +1553,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19833780",
+  "license_basis": "PD-old-100",
   "qid": "Q19833780",
   "collection": "Van Gogh Museum"
  },
@@ -1465,6 +1571,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189929",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20189929",
   "collection": "National Gallery of Art"
  },
@@ -1481,6 +1588,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131324797",
+  "license_basis": "PD-old-100",
   "qid": "Q131324797",
   "collection": ""
  },
@@ -1497,6 +1605,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20540063",
+  "license_basis": "PD-old-100",
   "qid": "Q20540063",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -1514,6 +1623,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3607561",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3607561",
   "collection": "Art Institute of Chicago"
  },
@@ -1531,6 +1641,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17582535",
   "genre": "Genre scene",
+  "license_basis": "PD",
   "qid": "Q17582535",
   "collection": "Musée des Augustins"
  },
@@ -1548,6 +1659,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883427",
   "genre": "Portrait",
+  "license_basis": "PD-old-70",
   "qid": "Q19883427",
   "collection": "Museum of Modern Art"
  },
@@ -1565,6 +1677,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17582533",
   "genre": "Portrait",
+  "license_basis": "PD",
   "qid": "Q17582533",
   "collection": "Musée des Augustins"
  },
@@ -1581,6 +1694,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q130617759",
+  "license_basis": "PD",
   "qid": "Q130617759",
   "collection": ""
  },
@@ -1597,6 +1711,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60780947",
+  "license_basis": "CC0",
   "qid": "Q60780947",
   "collection": "Cleveland Museum of Art"
  },
@@ -1613,6 +1728,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q66606236",
+  "license_basis": "PD-old-100",
   "qid": "Q66606236",
   "collection": "Nahmad Collection"
  },
@@ -1629,6 +1745,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q70579557",
+  "license_basis": "PD-old-100",
   "qid": "Q70579557",
   "collection": "Tehran Museum of Contemporary Art"
  },
@@ -1646,6 +1763,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q55349132",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q55349132",
   "collection": "Kunsthalle Bremen"
  },
@@ -1663,6 +1781,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17027477",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17027477",
   "collection": "Musée d'Orsay"
  },
@@ -1679,6 +1798,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q5967779",
+  "license_basis": "PD-old-100",
   "qid": "Q5967779",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -1695,6 +1815,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124981934",
+  "license_basis": "PD-old",
   "qid": "Q124981934",
   "collection": ""
  },
@@ -1712,6 +1833,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115158609",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q115158609",
   "collection": "Paul G. Allen Collection"
  },
@@ -1729,6 +1851,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q6022118",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q6022118",
   "collection": "São Paulo Museum of Art"
  },
@@ -1745,11 +1868,12 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268479",
+  "license_basis": "PD-old-100",
   "qid": "Q20268479",
   "collection": "Art Institute of Chicago"
  },
  {
-  "title": "Q141168834",
+  "title": "Souvenir de l'Exposition Universelle une femme arabe, lot-3884359, Dortu D3097",
   "artist": "Henri de Toulouse-Lautrec",
   "year": "1889",
   "medium": "Drawing",
@@ -1761,6 +1885,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q141168834",
+  "license_basis": "PD-old-100",
   "qid": "Q141168834",
   "collection": ""
  },
@@ -1778,6 +1903,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q12899487",
   "genre": "Portrait",
+  "license_basis": "PD-US-expired",
   "qid": "Q12899487",
   "collection": "Fogg Museum"
  },
@@ -1794,6 +1920,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20185576",
+  "license_basis": "PD-old-100",
   "qid": "Q20185576",
   "collection": "J. Paul Getty Museum"
  },
@@ -1810,6 +1937,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118255553",
+  "license_basis": "PD-old-100",
   "qid": "Q118255553",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -1826,6 +1954,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q32201097",
+  "license_basis": "PD-old-100",
   "qid": "Q32201097",
   "collection": "Hermitage Museum"
  },
@@ -1843,6 +1972,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3824633",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3824633",
   "collection": "Musée d'Orsay"
  },
@@ -1860,6 +1990,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3633443",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3633443",
   "collection": "Philadelphia Museum of Art"
  },
@@ -1876,6 +2007,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118502267",
+  "license_basis": "PD-old-100",
   "qid": "Q118502267",
   "collection": ""
  },
@@ -1892,6 +2024,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133691470",
+  "license_basis": "PD-old-100",
   "qid": "Q133691470",
   "collection": "Wallraf–Richartz Museum"
  },
@@ -1909,6 +2042,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17505777",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17505777",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -1925,6 +2059,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133691957",
+  "license_basis": "PD-old-100",
   "qid": "Q133691957",
   "collection": "Wallraf–Richartz Museum"
  },
@@ -1941,6 +2076,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q94178501",
+  "license_basis": "PD-old-100",
   "qid": "Q94178501",
   "collection": "Hamburger Kunsthalle"
  },
@@ -1958,6 +2094,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912009",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19912009",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1974,6 +2111,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912231",
+  "license_basis": "CC0",
   "qid": "Q19912231",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1990,6 +2128,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19913077",
+  "license_basis": "CC0",
   "qid": "Q19913077",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2006,6 +2145,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124282667",
+  "license_basis": "PD-old",
   "qid": "Q124282667",
   "collection": "Gabriele and Werner Merzbacher Collection"
  },
@@ -2023,6 +2163,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3602924",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q3602924",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -2039,8 +2180,26 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104774084",
+  "license_basis": "PD-old-100",
   "qid": "Q104774084",
   "collection": "Clark Art Institute"
+ },
+ {
+  "title": "En observation - M.Fabre, Officier de reserve",
+  "artist": "Henri de Toulouse-Lautrec",
+  "year": "1891",
+  "medium": "Painting",
+  "gallery": "National Museum of Fine Arts, Argentina",
+  "country": "France",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec_-_En_observation%2C_1901.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Toulouse-Lautrec_-_En_observation,_1901.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q27954931",
+  "license_basis": "PD-old-100",
+  "qid": "Q27954931",
+  "collection": "National Museum of Fine Arts, Argentina"
  },
  {
   "title": "Fille à la Fourrure",
@@ -2055,6 +2214,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q109408055",
+  "license_basis": "PD",
   "qid": "Q109408055",
   "collection": ""
  },
@@ -2071,6 +2231,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q21712034",
+  "license_basis": "PD-old-100",
   "qid": "Q21712034",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -2085,8 +2246,9 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Henri_de_Toulouse-Lautrec_-_Georges-Henri_Manuel_-_105_-_Foundation_E.G._B%C3%BChrle_Collection.jpg",
   "attribution": "Wikimedia Commons",
   "license": "Public domain",
-  "is_age_restricted": true,
+  "is_age_restricted": false,
   "source_key": "wikidata:Q131585825",
+  "license_basis": "PD-old-100",
   "qid": "Q131585825",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -2104,6 +2266,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104773687",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q104773687",
   "collection": "Clark Art Institute"
  },
@@ -2121,6 +2284,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17491841",
   "genre": "Portrait",
+  "license_basis": "PD-Art",
   "qid": "Q17491841",
   "collection": "Musée d'Orsay"
  },
@@ -2137,6 +2301,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q91350267",
+  "license_basis": "PD-old-100",
   "qid": "Q91350267",
   "collection": "Ashmolean Museum"
  },
@@ -2154,6 +2319,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190260",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20190260",
   "collection": "National Gallery of Art"
  },
@@ -2170,6 +2336,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17026577",
+  "license_basis": "PD-Art",
   "qid": "Q17026577",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2187,24 +2354,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19858658",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q19858658",
   "collection": "Brooklyn Museum"
- },
- {
-  "title": "Q27954931",
-  "artist": "Henri de Toulouse-Lautrec",
-  "year": "1891",
-  "medium": "Painting",
-  "gallery": "National Museum of Fine Arts, Argentina",
-  "country": "France",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec_-_En_observation%2C_1901.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Toulouse-Lautrec_-_En_observation,_1901.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q27954931",
-  "qid": "Q27954931",
-  "collection": "National Museum of Fine Arts, Argentina"
  },
  {
   "title": "Woman seated in a Garden",
@@ -2219,6 +2371,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q26517145",
+  "license_basis": "PD-old-100",
   "qid": "Q26517145",
   "collection": "National Gallery"
  },
@@ -2235,6 +2388,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190306",
+  "license_basis": "PD-old-100",
   "qid": "Q20190306",
   "collection": "National Gallery of Art"
  },
@@ -2252,6 +2406,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3622664",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3622664",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -2269,6 +2424,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3607521",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3607521",
   "collection": "Art Institute of Chicago"
  },
@@ -2285,6 +2441,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356446",
+  "license_basis": "CC0",
   "qid": "Q65356446",
   "collection": "National Gallery of Art"
  },
@@ -2302,6 +2459,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q5831987",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q5831987",
   "collection": "National Gallery Prague"
  },
@@ -2318,6 +2476,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q90020452",
+  "license_basis": "PD-old",
   "qid": "Q90020452",
   "collection": ""
  },
@@ -2335,6 +2494,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17491427",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q17491427",
   "collection": "Musée d'Orsay"
  },
@@ -2351,6 +2511,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685995",
+  "license_basis": "PD-old-100",
   "qid": "Q18685995",
   "collection": "Philadelphia Museum of Art"
  },
@@ -2368,6 +2529,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19913268",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19913268",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2384,6 +2546,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110805652",
+  "license_basis": "PD-old-100",
   "qid": "Q110805652",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -2400,6 +2563,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28495679",
+  "license_basis": "PD-old-100",
   "qid": "Q28495679",
   "collection": ""
  },
@@ -2416,6 +2580,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64573653",
+  "license_basis": "CC0",
   "qid": "Q64573653",
   "collection": "National Gallery of Art"
  },
@@ -2433,6 +2598,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q87367872",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q87367872",
   "collection": "Wadsworth Atheneum Museum of Art"
  },
@@ -2449,6 +2615,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q119527552",
+  "license_basis": "PD-old-100",
   "qid": "Q119527552",
   "collection": "Courtauld Gallery"
  },
@@ -2466,6 +2633,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q88311896",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q88311896",
   "collection": "Courtauld Institute of Art"
  },
@@ -2483,6 +2651,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17491728",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q17491728",
   "collection": "Musée d'Orsay"
  },
@@ -2499,6 +2668,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64573654",
+  "license_basis": "CC0",
   "qid": "Q64573654",
   "collection": "National Gallery of Art"
  },
@@ -2516,6 +2686,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q12015473",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q12015473",
   "collection": "Musée d'Orsay"
  },
@@ -2533,6 +2704,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190332",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q20190332",
   "collection": "National Gallery of Art"
  },
@@ -2549,6 +2721,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64573655",
+  "license_basis": "CC0",
   "qid": "Q64573655",
   "collection": "National Gallery of Art"
  },
@@ -2565,6 +2738,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19905264",
+  "license_basis": "CC0",
   "qid": "Q19905264",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2582,6 +2756,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28497105",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q28497105",
   "collection": ""
  },
@@ -2598,6 +2773,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073115",
+  "license_basis": "CC0",
   "qid": "Q65073115",
   "collection": "National Gallery of Art"
  },
@@ -2614,6 +2790,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508772",
+  "license_basis": "CC0",
   "qid": "Q65508772",
   "collection": "National Gallery of Art"
  },
@@ -2630,6 +2807,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073087",
+  "license_basis": "CC0",
   "qid": "Q65073087",
   "collection": "National Gallery of Art"
  },
@@ -2646,6 +2824,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508771",
+  "license_basis": "CC0",
   "qid": "Q65508771",
   "collection": "National Gallery of Art"
  },
@@ -2662,6 +2841,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073118",
+  "license_basis": "CC0",
   "qid": "Q65073118",
   "collection": "National Gallery of Art"
  },
@@ -2678,6 +2858,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073051",
+  "license_basis": "CC0",
   "qid": "Q65073051",
   "collection": "National Gallery of Art"
  },
@@ -2694,6 +2875,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356582",
+  "license_basis": "CC0",
   "qid": "Q65356582",
   "collection": "National Gallery of Art"
  },
@@ -2710,6 +2892,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508769",
+  "license_basis": "CC0",
   "qid": "Q65508769",
   "collection": "National Gallery of Art"
  },
@@ -2726,6 +2909,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356556",
+  "license_basis": "CC0",
   "qid": "Q65356556",
   "collection": "National Gallery of Art"
  },
@@ -2742,6 +2926,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073084",
+  "license_basis": "CC0",
   "qid": "Q65073084",
   "collection": "National Gallery of Art"
  },
@@ -2758,6 +2943,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223642",
+  "license_basis": "PD-old-100",
   "qid": "Q64223642",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -2774,6 +2960,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356485",
+  "license_basis": "CC0",
   "qid": "Q65356485",
   "collection": "National Gallery of Art"
  },
@@ -2790,6 +2977,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18758800",
+  "license_basis": "PD-old-100",
   "qid": "Q18758800",
   "collection": ""
  },
@@ -2806,6 +2994,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356578",
+  "license_basis": "CC0",
   "qid": "Q65356578",
   "collection": "National Gallery of Art"
  },
@@ -2822,6 +3011,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356580",
+  "license_basis": "CC0",
   "qid": "Q65356580",
   "collection": "National Gallery of Art"
  },
@@ -2838,6 +3028,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073119",
+  "license_basis": "CC0",
   "qid": "Q65073119",
   "collection": "National Gallery of Art"
  },
@@ -2854,6 +3045,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508770",
+  "license_basis": "CC0",
   "qid": "Q65508770",
   "collection": "National Gallery of Art"
  },
@@ -2870,6 +3062,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073108",
+  "license_basis": "CC0",
   "qid": "Q65073108",
   "collection": "National Gallery of Art"
  },
@@ -2886,6 +3079,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356558",
+  "license_basis": "CC0",
   "qid": "Q65356558",
   "collection": "National Gallery of Art"
  },
@@ -2902,6 +3096,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64573656",
+  "license_basis": "CC0",
   "qid": "Q64573656",
   "collection": "National Gallery of Art"
  },
@@ -2918,6 +3113,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356581",
+  "license_basis": "CC0",
   "qid": "Q65356581",
   "collection": "National Gallery of Art"
  },
@@ -2934,6 +3130,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356488",
+  "license_basis": "CC0",
   "qid": "Q65356488",
   "collection": "National Gallery of Art"
  },
@@ -2950,6 +3147,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356490",
+  "license_basis": "CC0",
   "qid": "Q65356490",
   "collection": "National Gallery of Art"
  },
@@ -2966,6 +3164,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356499",
+  "license_basis": "CC0",
   "qid": "Q65356499",
   "collection": "National Gallery of Art"
  },
@@ -2982,6 +3181,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073089",
+  "license_basis": "CC0",
   "qid": "Q65073089",
   "collection": "British Museum"
  },
@@ -2998,6 +3198,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356423",
+  "license_basis": "CC0",
   "qid": "Q65356423",
   "collection": "National Gallery of Art"
  },
@@ -3014,6 +3215,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356522",
+  "license_basis": "CC0",
   "qid": "Q65356522",
   "collection": "National Gallery of Art"
  },
@@ -3030,6 +3232,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356524",
+  "license_basis": "CC0",
   "qid": "Q65356524",
   "collection": "National Gallery of Art"
  },
@@ -3046,6 +3249,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356356",
+  "license_basis": "CC0",
   "qid": "Q65356356",
   "collection": "National Gallery of Art"
  },
@@ -3062,6 +3266,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356358",
+  "license_basis": "CC0",
   "qid": "Q65356358",
   "collection": "National Gallery of Art"
  },
@@ -3078,6 +3283,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356486",
+  "license_basis": "CC0",
   "qid": "Q65356486",
   "collection": "National Gallery of Art"
  },
@@ -3094,6 +3300,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356483",
+  "license_basis": "CC0",
   "qid": "Q65356483",
   "collection": "National Gallery of Art"
  },
@@ -3110,6 +3317,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q66363195",
+  "license_basis": "PD-old-100",
   "qid": "Q66363195",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -3126,6 +3334,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073112",
+  "license_basis": "CC0",
   "qid": "Q65073112",
   "collection": "National Gallery of Art"
  },
@@ -3142,6 +3351,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073106",
+  "license_basis": "CC0",
   "qid": "Q65073106",
   "collection": "National Gallery of Art"
  },
@@ -3158,6 +3368,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19859014",
+  "license_basis": "PD-old-100",
   "qid": "Q19859014",
   "collection": "Brooklyn Museum"
  },
@@ -3174,6 +3385,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60781238",
+  "license_basis": "CC0",
   "qid": "Q60781238",
   "collection": "Cleveland Museum of Art"
  },
@@ -3190,6 +3402,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073150",
+  "license_basis": "CC0",
   "qid": "Q65073150",
   "collection": "National Gallery of Art"
  },
@@ -3206,6 +3419,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356549",
+  "license_basis": "CC0",
   "qid": "Q65356549",
   "collection": "National Gallery of Art"
  },
@@ -3222,6 +3436,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356565",
+  "license_basis": "CC0",
   "qid": "Q65356565",
   "collection": "National Gallery of Art"
  },
@@ -3238,6 +3453,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q80085172",
+  "license_basis": "PD-old-70",
   "qid": "Q80085172",
   "collection": "Cleveland Museum of Art"
  },
@@ -3255,6 +3471,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q132192811",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q132192811",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -3271,6 +3488,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073121",
+  "license_basis": "CC0",
   "qid": "Q65073121",
   "collection": "National Gallery of Art"
  },
@@ -3287,6 +3505,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508780",
+  "license_basis": "CC0",
   "qid": "Q65508780",
   "collection": "National Gallery of Art"
  },
@@ -3304,6 +3523,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q76424087",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q76424087",
   "collection": "Ny Carlsberg Glyptotek"
  },
@@ -3321,6 +3541,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q110683487",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q110683487",
   "collection": "Aberdeen Archives, Gallery and Museums collections"
  },
@@ -3337,6 +3558,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356544",
+  "license_basis": "CC0",
   "qid": "Q65356544",
   "collection": "National Gallery of Art"
  },
@@ -3353,6 +3575,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356510",
+  "license_basis": "CC0",
   "qid": "Q65356510",
   "collection": "National Gallery of Art"
  },
@@ -3369,6 +3592,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356512",
+  "license_basis": "CC0",
   "qid": "Q65356512",
   "collection": "National Gallery of Art"
  },
@@ -3385,6 +3609,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356531",
+  "license_basis": "CC0",
   "qid": "Q65356531",
   "collection": "National Gallery of Art"
  },
@@ -3401,6 +3626,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356481",
+  "license_basis": "CC0",
   "qid": "Q65356481",
   "collection": "National Gallery of Art"
  },
@@ -3417,6 +3643,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356478",
+  "license_basis": "CC0",
   "qid": "Q65356478",
   "collection": "National Gallery of Art"
  },
@@ -3433,6 +3660,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356546",
+  "license_basis": "CC0",
   "qid": "Q65356546",
   "collection": "National Gallery of Art"
  },
@@ -3449,6 +3677,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356548",
+  "license_basis": "CC0",
   "qid": "Q65356548",
   "collection": "National Gallery of Art"
  },
@@ -3465,6 +3694,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356453",
+  "license_basis": "CC0",
   "qid": "Q65356453",
   "collection": "National Gallery of Art"
  },
@@ -3481,6 +3711,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356455",
+  "license_basis": "CC0",
   "qid": "Q65356455",
   "collection": "National Gallery of Art"
  },
@@ -3497,6 +3728,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356461",
+  "license_basis": "CC0",
   "qid": "Q65356461",
   "collection": "National Gallery of Art"
  },
@@ -3513,6 +3745,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356476",
+  "license_basis": "CC0",
   "qid": "Q65356476",
   "collection": "National Gallery of Art"
  },
@@ -3530,6 +3763,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q124365389",
   "genre": "Portrait",
+  "license_basis": "PD",
   "qid": "Q124365389",
   "collection": "Norton Simon Museum"
  },
@@ -3546,6 +3780,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395733",
+  "license_basis": "CC0",
   "qid": "Q75395733",
   "collection": "National Gallery of Art"
  },
@@ -3562,6 +3797,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356551",
+  "license_basis": "CC0",
   "qid": "Q65356551",
   "collection": "National Gallery of Art"
  },
@@ -3578,6 +3814,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356554",
+  "license_basis": "CC0",
   "qid": "Q65356554",
   "collection": "National Gallery of Art"
  },
@@ -3594,6 +3831,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356517",
+  "license_basis": "CC0",
   "qid": "Q65356517",
   "collection": "National Gallery of Art"
  },
@@ -3610,6 +3848,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356520",
+  "license_basis": "CC0",
   "qid": "Q65356520",
   "collection": "National Gallery of Art"
  },
@@ -3626,6 +3865,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356781",
+  "license_basis": "CC0",
   "qid": "Q65356781",
   "collection": "National Gallery of Art"
  },
@@ -3642,6 +3882,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356431",
+  "license_basis": "CC0",
   "qid": "Q65356431",
   "collection": "National Gallery of Art"
  },
@@ -3658,6 +3899,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356513",
+  "license_basis": "CC0",
   "qid": "Q65356513",
   "collection": "National Gallery of Art"
  },
@@ -3674,6 +3916,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356515",
+  "license_basis": "CC0",
   "qid": "Q65356515",
   "collection": "National Gallery of Art"
  },
@@ -3690,6 +3933,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q21712355",
+  "license_basis": "PD-old-100",
   "qid": "Q21712355",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -3706,6 +3950,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073111",
+  "license_basis": "CC0",
   "qid": "Q65073111",
   "collection": "National Gallery of Art"
  },
@@ -3722,6 +3967,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356599",
+  "license_basis": "CC0",
   "qid": "Q65356599",
   "collection": "National Gallery of Art"
  },
@@ -3738,6 +3984,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356609",
+  "license_basis": "CC0",
   "qid": "Q65356609",
   "collection": "National Gallery of Art"
  },
@@ -3754,6 +4001,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342265",
+  "license_basis": "CC0",
   "qid": "Q76342265",
   "collection": "National Gallery of Art"
  },
@@ -3770,6 +4018,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190403",
+  "license_basis": "PD-old-100",
   "qid": "Q20190403",
   "collection": "National Gallery of Art"
  },
@@ -3786,6 +4035,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356593",
+  "license_basis": "CC0",
   "qid": "Q65356593",
   "collection": "National Gallery of Art"
  },
@@ -3802,6 +4052,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74070810",
+  "license_basis": "CC0",
   "qid": "Q74070810",
   "collection": "National Gallery of Art"
  },
@@ -3818,6 +4069,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356584",
+  "license_basis": "CC0",
   "qid": "Q65356584",
   "collection": "National Gallery of Art"
  },
@@ -3834,6 +4086,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356583",
+  "license_basis": "CC0",
   "qid": "Q65356583",
   "collection": "National Gallery of Art"
  },
@@ -3850,6 +4103,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356591",
+  "license_basis": "CC0",
   "qid": "Q65356591",
   "collection": "National Gallery of Art"
  },
@@ -3866,6 +4120,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356592",
+  "license_basis": "CC0",
   "qid": "Q65356592",
   "collection": "National Gallery of Art"
  },
@@ -3882,6 +4137,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073058",
+  "license_basis": "CC0",
   "qid": "Q65073058",
   "collection": "National Gallery of Art"
  },
@@ -3898,6 +4154,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106261985",
+  "license_basis": "PD",
   "qid": "Q106261985",
   "collection": "Tehran Museum of Contemporary Art"
  },
@@ -3914,6 +4171,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356594",
+  "license_basis": "CC0",
   "qid": "Q65356594",
   "collection": "National Gallery of Art"
  },
@@ -3930,6 +4188,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q135726151",
+  "license_basis": "PD-old-100",
   "qid": "Q135726151",
   "collection": "Staatsgalerie Stuttgart"
  },
@@ -3946,6 +4205,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q110804403",
+  "license_basis": "PD-old-100",
   "qid": "Q110804403",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -3963,6 +4223,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q121434609",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q121434609",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -3980,6 +4241,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q17491481",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q17491481",
   "collection": "Musée d'Orsay"
  },
@@ -3996,6 +4258,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28001998",
+  "license_basis": "PD-old-100",
   "qid": "Q28001998",
   "collection": "Belvedere"
  },
@@ -4012,6 +4275,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356607",
+  "license_basis": "CC0",
   "qid": "Q65356607",
   "collection": "National Gallery of Art"
  },
@@ -4028,6 +4292,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356588",
+  "license_basis": "CC0",
   "qid": "Q65356588",
   "collection": "National Gallery of Art"
  },
@@ -4045,6 +4310,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3607539",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3607539",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -4061,6 +4327,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073080",
+  "license_basis": "CC0",
   "qid": "Q65073080",
   "collection": "National Gallery of Art"
  },
@@ -4077,6 +4344,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q16038592",
+  "license_basis": "PD-old",
   "qid": "Q16038592",
   "collection": "Collection Yves Saint Laurent et Pierre Bergé"
  },
@@ -4093,6 +4361,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356596",
+  "license_basis": "CC0",
   "qid": "Q65356596",
   "collection": "National Gallery of Art"
  },
@@ -4109,6 +4378,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356608",
+  "license_basis": "CC0",
   "qid": "Q65356608",
   "collection": "National Gallery of Art"
  },
@@ -4126,6 +4396,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q132193067",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q132193067",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -4142,6 +4413,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395703",
+  "license_basis": "CC0",
   "qid": "Q75395703",
   "collection": "National Gallery of Art"
  },
@@ -4158,6 +4430,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073146",
+  "license_basis": "CC0",
   "qid": "Q65073146",
   "collection": "National Gallery of Art"
  },
@@ -4174,6 +4447,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356585",
+  "license_basis": "CC0",
   "qid": "Q65356585",
   "collection": "National Gallery of Art"
  },
@@ -4190,6 +4464,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356587",
+  "license_basis": "CC0",
   "qid": "Q65356587",
   "collection": "National Gallery of Art"
  },
@@ -4206,6 +4481,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073049",
+  "license_basis": "CC0",
   "qid": "Q65073049",
   "collection": "National Gallery of Art"
  },
@@ -4223,6 +4499,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q20190438",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q20190438",
   "collection": "National Gallery of Art"
  },
@@ -4239,6 +4516,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110786354",
+  "license_basis": "PD-old-100",
   "qid": "Q110786354",
   "collection": "Nationalmuseum"
  },
@@ -4255,6 +4533,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28769257",
+  "license_basis": "PD-old-100",
   "qid": "Q28769257",
   "collection": "Hammer Museum"
  },
@@ -4271,6 +4550,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356597",
+  "license_basis": "CC0",
   "qid": "Q65356597",
   "collection": "National Gallery of Art"
  },
@@ -4287,6 +4567,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356598",
+  "license_basis": "CC0",
   "qid": "Q65356598",
   "collection": "National Gallery of Art"
  },
@@ -4303,6 +4584,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28797767",
+  "license_basis": "PD-old-100",
   "qid": "Q28797767",
   "collection": "Hungarian National Gallery"
  },
@@ -4319,6 +4601,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356606",
+  "license_basis": "CC0",
   "qid": "Q65356606",
   "collection": "National Gallery of Art"
  },
@@ -4335,6 +4618,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q19905335",
+  "license_basis": "PD-old-100",
   "qid": "Q19905335",
   "collection": "Metropolitan Museum of Art"
  },
@@ -4352,6 +4636,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28541116",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q28541116",
   "collection": "National Gallery"
  },
@@ -4368,6 +4653,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110805694",
+  "license_basis": "PD-old-100",
   "qid": "Q110805694",
   "collection": ""
  },
@@ -4384,6 +4670,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356349",
+  "license_basis": "CC0",
   "qid": "Q65356349",
   "collection": "National Gallery of Art"
  },
@@ -4400,6 +4687,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356600",
+  "license_basis": "CC0",
   "qid": "Q65356600",
   "collection": "National Gallery of Art"
  },
@@ -4416,6 +4704,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356604",
+  "license_basis": "CC0",
   "qid": "Q65356604",
   "collection": "National Gallery of Art"
  },
@@ -4432,6 +4721,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356610",
+  "license_basis": "CC0",
   "qid": "Q65356610",
   "collection": "National Gallery of Art"
  },
@@ -4448,6 +4738,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342197",
+  "license_basis": "CC0",
   "qid": "Q76342197",
   "collection": "National Gallery of Art"
  },
@@ -4464,6 +4755,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342202",
+  "license_basis": "CC0",
   "qid": "Q76342202",
   "collection": "National Gallery of Art"
  },
@@ -4480,6 +4772,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342204",
+  "license_basis": "CC0",
   "qid": "Q76342204",
   "collection": "National Gallery of Art"
  },
@@ -4496,6 +4789,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342212",
+  "license_basis": "CC0",
   "qid": "Q76342212",
   "collection": "National Gallery of Art"
  },
@@ -4512,6 +4806,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342214",
+  "license_basis": "CC0",
   "qid": "Q76342214",
   "collection": "National Gallery of Art"
  },
@@ -4528,6 +4823,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342219",
+  "license_basis": "CC0",
   "qid": "Q76342219",
   "collection": "National Gallery of Art"
  },
@@ -4544,6 +4840,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342221",
+  "license_basis": "CC0",
   "qid": "Q76342221",
   "collection": "National Gallery of Art"
  },
@@ -4560,6 +4857,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342225",
+  "license_basis": "CC0",
   "qid": "Q76342225",
   "collection": "National Gallery of Art"
  },
@@ -4576,6 +4874,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342228",
+  "license_basis": "CC0",
   "qid": "Q76342228",
   "collection": "National Gallery of Art"
  },
@@ -4592,6 +4891,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342233",
+  "license_basis": "CC0",
   "qid": "Q76342233",
   "collection": "National Gallery of Art"
  },
@@ -4608,6 +4908,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342236",
+  "license_basis": "CC0",
   "qid": "Q76342236",
   "collection": "National Gallery of Art"
  },
@@ -4624,6 +4925,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342239",
+  "license_basis": "CC0",
   "qid": "Q76342239",
   "collection": "National Gallery of Art"
  },
@@ -4640,6 +4942,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342251",
+  "license_basis": "CC0",
   "qid": "Q76342251",
   "collection": "National Gallery of Art"
  },
@@ -4656,6 +4959,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342255",
+  "license_basis": "CC0",
   "qid": "Q76342255",
   "collection": "National Gallery of Art"
  },
@@ -4672,6 +4976,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342258",
+  "license_basis": "CC0",
   "qid": "Q76342258",
   "collection": "National Gallery of Art"
  },
@@ -4688,6 +4993,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342261",
+  "license_basis": "CC0",
   "qid": "Q76342261",
   "collection": "National Gallery of Art"
  },
@@ -4704,6 +5010,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356668",
+  "license_basis": "CC0",
   "qid": "Q65356668",
   "collection": "National Gallery of Art"
  },
@@ -4720,6 +5027,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356652",
+  "license_basis": "CC0",
   "qid": "Q65356652",
   "collection": "National Gallery of Art"
  },
@@ -4736,6 +5044,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356653",
+  "license_basis": "CC0",
   "qid": "Q65356653",
   "collection": "National Gallery of Art"
  },
@@ -4752,6 +5061,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356420",
+  "license_basis": "CC0",
   "qid": "Q65356420",
   "collection": "National Gallery of Art"
  },
@@ -4768,6 +5078,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356621",
+  "license_basis": "CC0",
   "qid": "Q65356621",
   "collection": "National Gallery of Art"
  },
@@ -4784,6 +5095,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356622",
+  "license_basis": "CC0",
   "qid": "Q65356622",
   "collection": "National Gallery of Art"
  },
@@ -4800,6 +5112,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073148",
+  "license_basis": "CC0",
   "qid": "Q65073148",
   "collection": "National Gallery of Art"
  },
@@ -4816,6 +5129,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110684767",
+  "license_basis": "PD-old-70",
   "qid": "Q110684767",
   "collection": "Aberdeen Archives, Gallery and Museums collections"
  },
@@ -4832,6 +5146,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356654",
+  "license_basis": "CC0",
   "qid": "Q65356654",
   "collection": "National Gallery of Art"
  },
@@ -4848,6 +5163,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356632",
+  "license_basis": "CC0",
   "qid": "Q65356632",
   "collection": "National Gallery of Art"
  },
@@ -4864,6 +5180,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356662",
+  "license_basis": "CC0",
   "qid": "Q65356662",
   "collection": "National Gallery of Art"
  },
@@ -4880,6 +5197,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356667",
+  "license_basis": "CC0",
   "qid": "Q65356667",
   "collection": "National Gallery of Art"
  },
@@ -4896,6 +5214,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356611",
+  "license_basis": "CC0",
   "qid": "Q65356611",
   "collection": "National Gallery of Art"
  },
@@ -4912,6 +5231,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356763",
+  "license_basis": "CC0",
   "qid": "Q65356763",
   "collection": "National Gallery of Art"
  },
@@ -4928,6 +5248,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356768",
+  "license_basis": "CC0",
   "qid": "Q65356768",
   "collection": "National Gallery of Art"
  },
@@ -4944,6 +5265,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356762",
+  "license_basis": "CC0",
   "qid": "Q65356762",
   "collection": "National Gallery of Art"
  },
@@ -4960,6 +5282,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395699",
+  "license_basis": "CC0",
   "qid": "Q75395699",
   "collection": "National Gallery of Art"
  },
@@ -4976,6 +5299,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356660",
+  "license_basis": "CC0",
   "qid": "Q65356660",
   "collection": "National Gallery of Art"
  },
@@ -4992,6 +5316,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342188",
+  "license_basis": "CC0",
   "qid": "Q76342188",
   "collection": "National Gallery of Art"
  },
@@ -5009,6 +5334,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64491271",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q64491271",
   "collection": "Musée d'Orsay"
  },
@@ -5025,6 +5351,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q109578125",
+  "license_basis": "PD-old-100",
   "qid": "Q109578125",
   "collection": "Cox Collection"
  },
@@ -5042,6 +5369,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64491272",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q64491272",
   "collection": "Musée d'Orsay"
  },
@@ -5058,6 +5386,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073153",
+  "license_basis": "CC0",
   "qid": "Q65073153",
   "collection": "National Gallery of Art"
  },
@@ -5074,6 +5403,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356671",
+  "license_basis": "CC0",
   "qid": "Q65356671",
   "collection": "National Gallery of Art"
  },
@@ -5090,6 +5420,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395697",
+  "license_basis": "CC0",
   "qid": "Q75395697",
   "collection": "National Gallery of Art"
  },
@@ -5106,6 +5437,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75396683",
+  "license_basis": "CC0",
   "qid": "Q75396683",
   "collection": "National Gallery of Art"
  },
@@ -5122,6 +5454,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356656",
+  "license_basis": "CC0",
   "qid": "Q65356656",
   "collection": "National Gallery of Art"
  },
@@ -5138,6 +5471,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356661",
+  "license_basis": "CC0",
   "qid": "Q65356661",
   "collection": "National Gallery of Art"
  },
@@ -5154,6 +5488,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073048",
+  "license_basis": "CC0",
   "qid": "Q65073048",
   "collection": "National Gallery of Art"
  },
@@ -5170,6 +5505,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356624",
+  "license_basis": "CC0",
   "qid": "Q65356624",
   "collection": "National Gallery of Art"
  },
@@ -5186,6 +5522,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356626",
+  "license_basis": "CC0",
   "qid": "Q65356626",
   "collection": "National Gallery of Art"
  },
@@ -5202,6 +5539,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356628",
+  "license_basis": "CC0",
   "qid": "Q65356628",
   "collection": "National Gallery of Art"
  },
@@ -5218,6 +5556,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356629",
+  "license_basis": "CC0",
   "qid": "Q65356629",
   "collection": "National Gallery of Art"
  },
@@ -5234,6 +5573,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356627",
+  "license_basis": "CC0",
   "qid": "Q65356627",
   "collection": "National Gallery of Art"
  },
@@ -5250,6 +5590,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110804601",
+  "license_basis": "PD-old-100",
   "qid": "Q110804601",
   "collection": ""
  },
@@ -5266,6 +5607,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356769",
+  "license_basis": "CC0",
   "qid": "Q65356769",
   "collection": "National Gallery of Art"
  },
@@ -5282,6 +5624,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356770",
+  "license_basis": "CC0",
   "qid": "Q65356770",
   "collection": "National Gallery of Art"
  },
@@ -5298,6 +5641,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356666",
+  "license_basis": "CC0",
   "qid": "Q65356666",
   "collection": "National Gallery of Art"
  },
@@ -5314,6 +5658,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356659",
+  "license_basis": "CC0",
   "qid": "Q65356659",
   "collection": "National Gallery of Art"
  },
@@ -5330,6 +5675,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356670",
+  "license_basis": "CC0",
   "qid": "Q65356670",
   "collection": "National Gallery of Art"
  },
@@ -5346,6 +5692,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356644",
+  "license_basis": "CC0",
   "qid": "Q65356644",
   "collection": "National Gallery of Art"
  },
@@ -5362,6 +5709,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356646",
+  "license_basis": "CC0",
   "qid": "Q65356646",
   "collection": "National Gallery of Art"
  },
@@ -5378,6 +5726,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356643",
+  "license_basis": "CC0",
   "qid": "Q65356643",
   "collection": "National Gallery of Art"
  },
@@ -5394,6 +5743,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19912870",
+  "license_basis": "CC0",
   "qid": "Q19912870",
   "collection": "Metropolitan Museum of Art"
  },
@@ -5411,6 +5761,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190499",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q20190499",
   "collection": "National Gallery of Art"
  },
@@ -5427,6 +5778,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q23499306",
+  "license_basis": "PD-old-100",
   "qid": "Q23499306",
   "collection": "Museu Nacional d'Art de Catalunya"
  },
@@ -5443,6 +5795,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60780795",
+  "license_basis": "CC0",
   "qid": "Q60780795",
   "collection": "Cleveland Museum of Art"
  },
@@ -5459,6 +5812,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110684768",
+  "license_basis": "PD-old-70",
   "qid": "Q110684768",
   "collection": "Aberdeen Archives, Gallery and Museums collections"
  },
@@ -5475,6 +5829,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356636",
+  "license_basis": "CC0",
   "qid": "Q65356636",
   "collection": "National Gallery of Art"
  },
@@ -5491,6 +5846,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356640",
+  "license_basis": "CC0",
   "qid": "Q65356640",
   "collection": "National Gallery of Art"
  },
@@ -5507,6 +5863,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356333",
+  "license_basis": "CC0",
   "qid": "Q65356333",
   "collection": "National Gallery of Art"
  },
@@ -5523,6 +5880,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356642",
+  "license_basis": "CC0",
   "qid": "Q65356642",
   "collection": "National Gallery of Art"
  },
@@ -5539,6 +5897,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356641",
+  "license_basis": "CC0",
   "qid": "Q65356641",
   "collection": "National Gallery of Art"
  },
@@ -5555,6 +5914,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356623",
+  "license_basis": "CC0",
   "qid": "Q65356623",
   "collection": "National Gallery of Art"
  },
@@ -5571,6 +5931,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356351",
+  "license_basis": "CC0",
   "qid": "Q65356351",
   "collection": "National Gallery of Art"
  },
@@ -5587,6 +5948,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356635",
+  "license_basis": "CC0",
   "qid": "Q65356635",
   "collection": "National Gallery of Art"
  },
@@ -5603,6 +5965,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356617",
+  "license_basis": "CC0",
   "qid": "Q65356617",
   "collection": "National Gallery of Art"
  },
@@ -5619,6 +5982,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q80023503",
+  "license_basis": "CC0",
   "qid": "Q80023503",
   "collection": "Cleveland Museum of Art"
  },
@@ -5635,6 +5999,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356613",
+  "license_basis": "CC0",
   "qid": "Q65356613",
   "collection": "National Gallery of Art"
  },
@@ -5651,6 +6016,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356663",
+  "license_basis": "CC0",
   "qid": "Q65356663",
   "collection": "National Gallery of Art"
  },
@@ -5667,6 +6033,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356775",
+  "license_basis": "CC0",
   "qid": "Q65356775",
   "collection": "National Gallery of Art"
  },
@@ -5683,6 +6050,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073076",
+  "license_basis": "CC0",
   "qid": "Q65073076",
   "collection": "National Gallery of Art"
  },
@@ -5699,6 +6067,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356754",
+  "license_basis": "CC0",
   "qid": "Q65356754",
   "collection": "National Gallery of Art"
  },
@@ -5715,6 +6084,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356776",
+  "license_basis": "CC0",
   "qid": "Q65356776",
   "collection": "National Gallery of Art"
  },
@@ -5731,6 +6101,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356777",
+  "license_basis": "CC0",
   "qid": "Q65356777",
   "collection": "National Gallery of Art"
  },
@@ -5747,6 +6118,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18191111",
+  "license_basis": "PD-old-100",
   "qid": "Q18191111",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -5763,6 +6135,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q91932382",
+  "license_basis": "PD-Art",
   "qid": "Q91932382",
   "collection": "Museum collection Am Römerholz"
  },
@@ -5780,6 +6153,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q951954",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q951954",
   "collection": "Musée d'Orsay"
  },
@@ -5797,6 +6171,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18685999",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q18685999",
   "collection": "Staatliche Kunstsammlungen Dresden"
  },
@@ -5813,6 +6188,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356634",
+  "license_basis": "CC0",
   "qid": "Q65356634",
   "collection": "National Gallery of Art"
  },
@@ -5829,6 +6205,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356360",
+  "license_basis": "CC0",
   "qid": "Q65356360",
   "collection": "National Gallery of Art"
  },
@@ -5845,6 +6222,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356433",
+  "license_basis": "CC0",
   "qid": "Q65356433",
   "collection": "National Gallery of Art"
  },
@@ -5861,6 +6239,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123338444",
+  "license_basis": "PD-old-100",
   "qid": "Q123338444",
   "collection": "Musée d'Orsay"
  },
@@ -5877,6 +6256,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356690",
+  "license_basis": "CC0",
   "qid": "Q65356690",
   "collection": "National Gallery of Art"
  },
@@ -5893,6 +6273,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356692",
+  "license_basis": "CC0",
   "qid": "Q65356692",
   "collection": "National Gallery of Art"
  },
@@ -5909,6 +6290,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356410",
+  "license_basis": "CC0",
   "qid": "Q65356410",
   "collection": "National Gallery of Art"
  },
@@ -5925,6 +6307,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356714",
+  "license_basis": "CC0",
   "qid": "Q65356714",
   "collection": "National Gallery of Art"
  },
@@ -5941,6 +6324,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073054",
+  "license_basis": "CC0",
   "qid": "Q65073054",
   "collection": "National Gallery of Art"
  },
@@ -5957,6 +6341,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356796",
+  "license_basis": "CC0",
   "qid": "Q65356796",
   "collection": "National Gallery of Art"
  },
@@ -5973,6 +6358,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356715",
+  "license_basis": "CC0",
   "qid": "Q65356715",
   "collection": "National Gallery of Art"
  },
@@ -5989,6 +6375,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356705",
+  "license_basis": "CC0",
   "qid": "Q65356705",
   "collection": "National Gallery of Art"
  },
@@ -6005,6 +6392,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356707",
+  "license_basis": "CC0",
   "qid": "Q65356707",
   "collection": "National Gallery of Art"
  },
@@ -6021,6 +6409,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356676",
+  "license_basis": "CC0",
   "qid": "Q65356676",
   "collection": "National Gallery of Art"
  },
@@ -6037,6 +6426,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356679",
+  "license_basis": "CC0",
   "qid": "Q65356679",
   "collection": "National Gallery of Art"
  },
@@ -6053,6 +6443,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356680",
+  "license_basis": "CC0",
   "qid": "Q65356680",
   "collection": "National Gallery of Art"
  },
@@ -6069,6 +6460,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17354350",
+  "license_basis": "PD",
   "qid": "Q17354350",
   "collection": "Musée des Augustins"
  },
@@ -6085,6 +6477,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356681",
+  "license_basis": "CC0",
   "qid": "Q65356681",
   "collection": "National Gallery of Art"
  },
@@ -6101,6 +6494,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356682",
+  "license_basis": "CC0",
   "qid": "Q65356682",
   "collection": "National Gallery of Art"
  },
@@ -6117,6 +6511,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356717",
+  "license_basis": "CC0",
   "qid": "Q65356717",
   "collection": "National Gallery of Art"
  },
@@ -6133,6 +6528,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356435",
+  "license_basis": "CC0",
   "qid": "Q65356435",
   "collection": "National Gallery of Art"
  },
@@ -6149,6 +6545,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356703",
+  "license_basis": "CC0",
   "qid": "Q65356703",
   "collection": "National Gallery of Art"
  },
@@ -6165,6 +6562,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356704",
+  "license_basis": "CC0",
   "qid": "Q65356704",
   "collection": "National Gallery of Art"
  },
@@ -6181,6 +6579,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356699",
+  "license_basis": "CC0",
   "qid": "Q65356699",
   "collection": "National Gallery of Art"
  },
@@ -6197,6 +6596,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356700",
+  "license_basis": "CC0",
   "qid": "Q65356700",
   "collection": "National Gallery of Art"
  },
@@ -6213,6 +6613,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508762",
+  "license_basis": "CC0",
   "qid": "Q65508762",
   "collection": "National Gallery of Art"
  },
@@ -6229,6 +6630,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356719",
+  "license_basis": "CC0",
   "qid": "Q65356719",
   "collection": "National Gallery of Art"
  },
@@ -6245,6 +6647,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356757",
+  "license_basis": "CC0",
   "qid": "Q65356757",
   "collection": "National Gallery of Art"
  },
@@ -6261,6 +6664,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356684",
+  "license_basis": "CC0",
   "qid": "Q65356684",
   "collection": "National Gallery of Art"
  },
@@ -6277,6 +6681,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356686",
+  "license_basis": "CC0",
   "qid": "Q65356686",
   "collection": "National Gallery of Art"
  },
@@ -6293,6 +6698,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356695",
+  "license_basis": "CC0",
   "qid": "Q65356695",
   "collection": "National Gallery of Art"
  },
@@ -6309,6 +6715,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356696",
+  "license_basis": "CC0",
   "qid": "Q65356696",
   "collection": "National Gallery of Art"
  },
@@ -6325,6 +6732,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356725",
+  "license_basis": "CC0",
   "qid": "Q65356725",
   "collection": "National Gallery of Art"
  },
@@ -6341,6 +6749,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356709",
+  "license_basis": "CC0",
   "qid": "Q65356709",
   "collection": "National Gallery of Art"
  },
@@ -6357,6 +6766,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356687",
+  "license_basis": "CC0",
   "qid": "Q65356687",
   "collection": "National Gallery of Art"
  },
@@ -6373,6 +6783,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356689",
+  "license_basis": "CC0",
   "qid": "Q65356689",
   "collection": "National Gallery of Art"
  },
@@ -6389,6 +6800,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190555",
+  "license_basis": "PD-old-100",
   "qid": "Q20190555",
   "collection": "National Gallery of Art"
  },
@@ -6405,6 +6817,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356697",
+  "license_basis": "CC0",
   "qid": "Q65356697",
   "collection": "National Gallery of Art"
  },
@@ -6421,6 +6834,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356718",
+  "license_basis": "CC0",
   "qid": "Q65356718",
   "collection": "National Gallery of Art"
  },
@@ -6437,6 +6851,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356728",
+  "license_basis": "CC0",
   "qid": "Q65356728",
   "collection": "National Gallery of Art"
  },
@@ -6453,6 +6868,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395730",
+  "license_basis": "CC0",
   "qid": "Q75395730",
   "collection": "National Gallery of Art"
  },
@@ -6469,6 +6885,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356437",
+  "license_basis": "CC0",
   "qid": "Q65356437",
   "collection": "National Gallery of Art"
  },
@@ -6485,6 +6902,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356673",
+  "license_basis": "CC0",
   "qid": "Q65356673",
   "collection": "National Gallery of Art"
  },
@@ -6501,6 +6919,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356674",
+  "license_basis": "CC0",
   "qid": "Q65356674",
   "collection": "National Gallery of Art"
  },
@@ -6517,6 +6936,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74888183",
+  "license_basis": "CC0",
   "qid": "Q74888183",
   "collection": "National Gallery of Art"
  },
@@ -6533,6 +6953,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74070812",
+  "license_basis": "CC0",
   "qid": "Q74070812",
   "collection": "National Gallery of Art"
  },
@@ -6549,6 +6970,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74070814",
+  "license_basis": "CC0",
   "qid": "Q74070814",
   "collection": "National Gallery of Art"
  },
@@ -6565,6 +6987,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356439",
+  "license_basis": "CC0",
   "qid": "Q65356439",
   "collection": "National Gallery of Art"
  },
@@ -6581,6 +7004,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356720",
+  "license_basis": "CC0",
   "qid": "Q65356720",
   "collection": "National Gallery of Art"
  },
@@ -6597,6 +7021,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356675",
+  "license_basis": "CC0",
   "qid": "Q65356675",
   "collection": "National Gallery of Art"
  },
@@ -6613,6 +7038,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356710",
+  "license_basis": "CC0",
   "qid": "Q65356710",
   "collection": "National Gallery of Art"
  },
@@ -6629,6 +7055,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356713",
+  "license_basis": "CC0",
   "qid": "Q65356713",
   "collection": "National Gallery of Art"
  },
@@ -6645,6 +7072,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073078",
+  "license_basis": "CC0",
   "qid": "Q65073078",
   "collection": "National Gallery of Art"
  },
@@ -6661,6 +7089,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356758",
+  "license_basis": "CC0",
   "qid": "Q65356758",
   "collection": "National Gallery of Art"
  },
@@ -6677,6 +7106,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508764",
+  "license_basis": "CC0",
   "qid": "Q65508764",
   "collection": "National Gallery of Art"
  },
@@ -6693,6 +7123,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073072",
+  "license_basis": "CC0",
   "qid": "Q65073072",
   "collection": "National Gallery of Art"
  },
@@ -6709,6 +7140,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508766",
+  "license_basis": "CC0",
   "qid": "Q65508766",
   "collection": "National Gallery of Art"
  },
@@ -6725,6 +7157,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508767",
+  "license_basis": "CC0",
   "qid": "Q65508767",
   "collection": "National Gallery of Art"
  },
@@ -6741,6 +7174,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073032",
+  "license_basis": "CC0",
   "qid": "Q65073032",
   "collection": "National Gallery of Art"
  },
@@ -6757,6 +7191,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508779",
+  "license_basis": "CC0",
   "qid": "Q65508779",
   "collection": "National Gallery of Art"
  },
@@ -6773,6 +7208,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508768",
+  "license_basis": "CC0",
   "qid": "Q65508768",
   "collection": "National Gallery of Art"
  },
@@ -6789,6 +7225,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073059",
+  "license_basis": "CC0",
   "qid": "Q65073059",
   "collection": "National Gallery of Art"
  },
@@ -6805,6 +7242,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073074",
+  "license_basis": "CC0",
   "qid": "Q65073074",
   "collection": "National Gallery of Art"
  },
@@ -6821,6 +7259,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508763",
+  "license_basis": "CC0",
   "qid": "Q65508763",
   "collection": "National Gallery of Art"
  },
@@ -6837,6 +7276,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356693",
+  "license_basis": "CC0",
   "qid": "Q65356693",
   "collection": "National Gallery of Art"
  },
@@ -6853,6 +7293,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356734",
+  "license_basis": "CC0",
   "qid": "Q65356734",
   "collection": "National Gallery of Art"
  },
@@ -6869,6 +7310,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395759",
+  "license_basis": "CC0",
   "qid": "Q75395759",
   "collection": "National Gallery of Art"
  },
@@ -6885,6 +7327,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356795",
+  "license_basis": "CC0",
   "qid": "Q65356795",
   "collection": "National Gallery of Art"
  },
@@ -6901,6 +7344,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75125264",
+  "license_basis": "CC0",
   "qid": "Q75125264",
   "collection": "National Gallery of Art"
  },
@@ -6917,6 +7361,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356738",
+  "license_basis": "CC0",
   "qid": "Q65356738",
   "collection": "National Gallery of Art"
  },
@@ -6933,6 +7378,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356729",
+  "license_basis": "CC0",
   "qid": "Q65356729",
   "collection": "National Gallery of Art"
  },
@@ -6949,6 +7395,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q30063144",
+  "license_basis": "PD-old-100",
   "qid": "Q30063144",
   "collection": "Bavarian State Painting Collections"
  },
@@ -6965,6 +7412,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356731",
+  "license_basis": "CC0",
   "qid": "Q65356731",
   "collection": "National Gallery of Art"
  },
@@ -6981,6 +7429,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110765129",
+  "license_basis": "PD-old-100",
   "qid": "Q110765129",
   "collection": "Nationalmuseum"
  },
@@ -6997,6 +7446,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395763",
+  "license_basis": "CC0",
   "qid": "Q75395763",
   "collection": "National Gallery of Art"
  },
@@ -7013,6 +7463,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19883454",
+  "license_basis": "PD-old-70",
   "qid": "Q19883454",
   "collection": "Museum of Modern Art"
  },
@@ -7030,6 +7481,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q114985752",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q114985752",
   "collection": "Kunstmuseum Bern"
  },
@@ -7046,6 +7498,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395084",
+  "license_basis": "CC0",
   "qid": "Q75395084",
   "collection": "National Gallery of Art"
  },
@@ -7062,6 +7515,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395737",
+  "license_basis": "CC0",
   "qid": "Q75395737",
   "collection": "National Gallery of Art"
  },
@@ -7078,6 +7532,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q28130963",
+  "license_basis": "PD-old-100",
   "qid": "Q28130963",
   "collection": "Barnes Foundation"
  },
@@ -7094,6 +7549,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356730",
+  "license_basis": "CC0",
   "qid": "Q65356730",
   "collection": "National Gallery of Art"
  },
@@ -7110,6 +7566,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356401",
+  "license_basis": "CC0",
   "qid": "Q65356401",
   "collection": "National Gallery of Art"
  },
@@ -7126,6 +7583,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356353",
+  "license_basis": "CC0",
   "qid": "Q65356353",
   "collection": "National Gallery of Art"
  },
@@ -7142,6 +7600,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356732",
+  "license_basis": "CC0",
   "qid": "Q65356732",
   "collection": "National Gallery of Art"
  },
@@ -7159,6 +7618,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q86856743",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q86856743",
   "collection": "San Diego Museum of Art"
  },
@@ -7175,6 +7635,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395768",
+  "license_basis": "CC0",
   "qid": "Q75395768",
   "collection": "National Gallery of Art"
  },
@@ -7191,6 +7652,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356735",
+  "license_basis": "CC0",
   "qid": "Q65356735",
   "collection": "National Gallery of Art"
  },
@@ -7207,6 +7669,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073123",
+  "license_basis": "CC0",
   "qid": "Q65073123",
   "collection": "National Gallery of Art"
  },
@@ -7224,6 +7687,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20540061",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q20540061",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -7240,6 +7704,7 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q19912242",
+  "license_basis": "CC0",
   "qid": "Q19912242",
   "collection": "Metropolitan Museum of Art"
  },
@@ -7256,6 +7721,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356397",
+  "license_basis": "CC0",
   "qid": "Q65356397",
   "collection": "National Gallery of Art"
  },
@@ -7272,6 +7738,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q76342192",
+  "license_basis": "CC0",
   "qid": "Q76342192",
   "collection": "National Gallery of Art"
  },
@@ -7288,6 +7755,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073056",
+  "license_basis": "CC0",
   "qid": "Q65073056",
   "collection": "National Gallery of Art"
  },
@@ -7304,6 +7772,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28039617",
+  "license_basis": "PD-old-100",
   "qid": "Q28039617",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -7320,6 +7789,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131584729",
+  "license_basis": "PD-old-100",
   "qid": "Q131584729",
   "collection": "Kunsthaus Zürich"
  },
@@ -7336,6 +7806,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356399",
+  "license_basis": "CC0",
   "qid": "Q65356399",
   "collection": "National Gallery of Art"
  },
@@ -7352,6 +7823,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508775",
+  "license_basis": "CC0",
   "qid": "Q65508775",
   "collection": "National Gallery of Art"
  },
@@ -7368,6 +7840,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356740",
+  "license_basis": "CC0",
   "qid": "Q65356740",
   "collection": "National Gallery of Art"
  },
@@ -7384,6 +7857,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356783",
+  "license_basis": "CC0",
   "qid": "Q65356783",
   "collection": "National Gallery of Art"
  },
@@ -7400,6 +7874,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65569214",
+  "license_basis": "CC0",
   "qid": "Q65569214",
   "collection": "National Gallery of Art"
  },
@@ -7416,6 +7891,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65569216",
+  "license_basis": "CC0",
   "qid": "Q65569216",
   "collection": "National Gallery of Art"
  },
@@ -7432,6 +7908,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356362",
+  "license_basis": "CC0",
   "qid": "Q65356362",
   "collection": "National Gallery of Art"
  },
@@ -7448,6 +7925,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65569218",
+  "license_basis": "CC0",
   "qid": "Q65569218",
   "collection": "National Gallery of Art"
  },
@@ -7464,6 +7942,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q140479742",
+  "license_basis": "PD-old-100",
   "qid": "Q140479742",
   "collection": ""
  },
@@ -7480,6 +7959,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356741",
+  "license_basis": "CC0",
   "qid": "Q65356741",
   "collection": "National Gallery of Art"
  },
@@ -7496,6 +7976,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356395",
+  "license_basis": "CC0",
   "qid": "Q65356395",
   "collection": "National Gallery of Art"
  },
@@ -7512,6 +7993,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356785",
+  "license_basis": "CC0",
   "qid": "Q65356785",
   "collection": "National Gallery of Art"
  },
@@ -7528,6 +8010,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356363",
+  "license_basis": "CC0",
   "qid": "Q65356363",
   "collection": "National Gallery of Art"
  },
@@ -7544,6 +8027,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65569219",
+  "license_basis": "CC0",
   "qid": "Q65569219",
   "collection": "National Gallery of Art"
  },
@@ -7560,6 +8044,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073045",
+  "license_basis": "CC0",
   "qid": "Q65073045",
   "collection": "National Gallery of Art"
  },
@@ -7576,6 +8061,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356788",
+  "license_basis": "CC0",
   "qid": "Q65356788",
   "collection": "National Gallery of Art"
  },
@@ -7592,6 +8078,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356388",
+  "license_basis": "CC0",
   "qid": "Q65356388",
   "collection": "National Gallery of Art"
  },
@@ -7608,6 +8095,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508776",
+  "license_basis": "CC0",
   "qid": "Q65508776",
   "collection": "National Gallery of Art"
  },
@@ -7624,6 +8112,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114711493",
+  "license_basis": "PD-old-100",
   "qid": "Q114711493",
   "collection": "Ann & Gordon Getty Collection"
  },
@@ -7640,6 +8129,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356355",
+  "license_basis": "CC0",
   "qid": "Q65356355",
   "collection": "National Gallery of Art"
  },
@@ -7656,6 +8146,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356394",
+  "license_basis": "CC0",
   "qid": "Q65356394",
   "collection": "National Gallery of Art"
  },
@@ -7672,6 +8163,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508778",
+  "license_basis": "CC0",
   "qid": "Q65508778",
   "collection": "National Gallery of Art"
  },
@@ -7688,6 +8180,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356379",
+  "license_basis": "CC0",
   "qid": "Q65356379",
   "collection": "National Gallery of Art"
  },
@@ -7704,6 +8197,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356390",
+  "license_basis": "CC0",
   "qid": "Q65356390",
   "collection": "National Gallery of Art"
  },
@@ -7720,6 +8214,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508777",
+  "license_basis": "CC0",
   "qid": "Q65508777",
   "collection": "National Gallery of Art"
  },
@@ -7736,6 +8231,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356790",
+  "license_basis": "CC0",
   "qid": "Q65356790",
   "collection": "National Gallery of Art"
  },
@@ -7752,6 +8248,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q75395771",
+  "license_basis": "CC0",
   "qid": "Q75395771",
   "collection": "National Gallery of Art"
  },
@@ -7768,6 +8265,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356789",
+  "license_basis": "CC0",
   "qid": "Q65356789",
   "collection": "National Gallery of Art"
  },
@@ -7784,6 +8282,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356782",
+  "license_basis": "CC0",
   "qid": "Q65356782",
   "collection": "National Gallery of Art"
  },
@@ -7800,6 +8299,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356742",
+  "license_basis": "CC0",
   "qid": "Q65356742",
   "collection": "National Gallery of Art"
  },
@@ -7816,6 +8316,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356392",
+  "license_basis": "CC0",
   "qid": "Q65356392",
   "collection": "National Gallery of Art"
  },
@@ -7832,6 +8333,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65508774",
+  "license_basis": "CC0",
   "qid": "Q65508774",
   "collection": "National Gallery of Art"
  },
@@ -7848,6 +8350,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356787",
+  "license_basis": "CC0",
   "qid": "Q65356787",
   "collection": "National Gallery of Art"
  },
@@ -7864,6 +8367,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110684769",
+  "license_basis": "PD-old-70",
   "qid": "Q110684769",
   "collection": "Aberdeen Archives, Gallery and Museums collections"
  },
@@ -7880,6 +8384,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20187893",
+  "license_basis": "CC0",
   "qid": "Q20187893",
   "collection": "Metropolitan Museum of Art"
  },
@@ -7897,6 +8402,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3945755",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q3945755",
   "collection": "Courtauld Gallery"
  },
@@ -7913,6 +8419,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65073052",
+  "license_basis": "CC0",
   "qid": "Q65073052",
   "collection": "National Gallery of Art"
  },
@@ -7929,6 +8436,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356791",
+  "license_basis": "CC0",
   "qid": "Q65356791",
   "collection": "National Gallery of Art"
  },
@@ -7946,6 +8454,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19913096",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19913096",
   "collection": "Metropolitan Museum of Art"
  },
@@ -7962,6 +8471,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356748",
+  "license_basis": "CC0",
   "qid": "Q65356748",
   "collection": "National Gallery of Art"
  },
@@ -7978,6 +8488,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28551260",
+  "license_basis": "PD-old-100",
   "qid": "Q28551260",
   "collection": "Tate"
  },
@@ -7994,6 +8505,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356743",
+  "license_basis": "CC0",
   "qid": "Q65356743",
   "collection": "National Gallery of Art"
  },
@@ -8010,6 +8522,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356745",
+  "license_basis": "CC0",
   "qid": "Q65356745",
   "collection": "National Gallery of Art"
  },
@@ -8026,6 +8539,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356746",
+  "license_basis": "CC0",
   "qid": "Q65356746",
   "collection": "National Gallery of Art"
  },
@@ -8042,6 +8556,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q4212198",
+  "license_basis": "PD-old-100",
   "qid": "Q4212198",
   "collection": "Nationalmuseum"
  },
@@ -8058,6 +8573,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356747",
+  "license_basis": "CC0",
   "qid": "Q65356747",
   "collection": "National Gallery of Art"
  },
@@ -8074,6 +8590,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29916008",
+  "license_basis": "PD-old-100",
   "qid": "Q29916008",
   "collection": "Bavarian State Painting Collections"
  },
@@ -8091,6 +8608,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q96098659",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q96098659",
   "collection": "Minnesota Marine Art Museum"
  },
@@ -8107,6 +8625,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28802860",
+  "license_basis": "PD-old-100",
   "qid": "Q28802860",
   "collection": "Ohara Museum of Art"
  },
@@ -8124,6 +8643,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q123338341",
   "genre": "Portrait",
+  "license_basis": "PD-Art",
   "qid": "Q123338341",
   "collection": "Musée d'Orsay"
  },
@@ -8140,6 +8660,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64223623",
+  "license_basis": "PD-old-100",
   "qid": "Q64223623",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -8156,6 +8677,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356751",
+  "license_basis": "CC0",
   "qid": "Q65356751",
   "collection": "National Gallery of Art"
  },
@@ -8172,6 +8694,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20881967",
+  "license_basis": "PD-old-100",
   "qid": "Q20881967",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -8188,6 +8711,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18030970",
+  "license_basis": "PD-old-100",
   "qid": "Q18030970",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -8204,6 +8728,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110602589",
+  "license_basis": "PD-old-100",
   "qid": "Q110602589",
   "collection": ""
  },
@@ -8220,6 +8745,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q113137653",
+  "license_basis": "PD-old-100",
   "qid": "Q113137653",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -8236,6 +8762,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q66153955",
+  "license_basis": "CC0",
   "qid": "Q66153955",
   "collection": "Henry and Rose Pearlman collection"
  },
@@ -8252,6 +8779,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q49869220",
+  "license_basis": "PD-old-100",
   "qid": "Q49869220",
   "collection": "São Paulo Museum of Art"
  },
@@ -8269,6 +8797,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104444032",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q104444032",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -8286,6 +8815,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q133977310",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q133977310",
   "collection": "Toyama Prefectural Museum of Art and Design"
  },
@@ -8302,6 +8832,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77470058",
+  "license_basis": "PD-old-100",
   "qid": "Q77470058",
   "collection": "Buffalo AKG Art Museum"
  },
@@ -8318,6 +8849,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q110802518",
+  "license_basis": "PD-old-100",
   "qid": "Q110802518",
   "collection": "Nationalmuseum"
  },
@@ -8334,6 +8866,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356759",
+  "license_basis": "CC0",
   "qid": "Q65356759",
   "collection": "National Gallery of Art"
  },
@@ -8350,6 +8883,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q135550604",
+  "license_basis": "PD-old-100",
   "qid": "Q135550604",
   "collection": ""
  },
@@ -8366,6 +8900,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17582536",
+  "license_basis": "PD",
   "qid": "Q17582536",
   "collection": "Musée des Augustins"
  },
@@ -8383,6 +8918,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28094192",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q28094192",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -8399,6 +8935,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105417781",
+  "license_basis": "PD-old-100",
   "qid": "Q105417781",
   "collection": ""
  },
@@ -8415,6 +8952,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105417787",
+  "license_basis": "PD-old-100",
   "qid": "Q105417787",
   "collection": ""
  },
@@ -8431,6 +8969,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105534215",
+  "license_basis": "PD-old-100",
   "qid": "Q105534215",
   "collection": ""
  },
@@ -8447,6 +8986,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356441",
+  "license_basis": "CC0",
   "qid": "Q65356441",
   "collection": "National Gallery of Art"
  },
@@ -8463,6 +9003,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356773",
+  "license_basis": "CC0",
   "qid": "Q65356773",
   "collection": "National Gallery of Art"
  },
@@ -8479,6 +9020,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118234572",
+  "license_basis": "PD-old-100",
   "qid": "Q118234572",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -8495,6 +9037,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108756933",
+  "license_basis": "PD-old-100",
   "qid": "Q108756933",
   "collection": "Nationalmuseum"
  },
@@ -8511,6 +9054,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q118181450",
+  "license_basis": "PD-old-100",
   "qid": "Q118181450",
   "collection": "Musée Toulouse-Lautrec"
  },
@@ -8527,6 +9071,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19838028",
+  "license_basis": "PD-old-100",
   "qid": "Q19838028",
   "collection": "Van Gogh Museum"
  },
@@ -8544,6 +9089,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q50811560",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q50811560",
   "collection": "Fitzwilliam Museum"
  },
@@ -8560,6 +9106,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356771",
+  "license_basis": "CC0",
   "qid": "Q65356771",
   "collection": "National Gallery of Art"
  },
@@ -8576,6 +9123,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356772",
+  "license_basis": "CC0",
   "qid": "Q65356772",
   "collection": "National Gallery of Art"
  },
@@ -8592,6 +9140,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65356761",
+  "license_basis": "CC0",
   "qid": "Q65356761",
   "collection": "National Gallery of Art"
  }

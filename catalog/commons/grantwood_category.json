@@ -154,5 +154,83 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Calendulas.jpg",
   "title": "Calendulas",
   "year": "1929"
+ },
+ {
+  "artist": "Grant Wood",
+  "attribution": "Wikimedia Commons",
+  "country": "United States",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant_Wood_Plaid_Sweater_1931_Stanley.jpg?width=1200",
+  "is_age_restricted": false,
+  "license": "Public domain",
+  "medium": "Painting",
+  "source_key": "commons:Grant Wood Plaid Sweater 1931 Stanley.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Grant_Wood_Plaid_Sweater_1931_Stanley.jpg",
+  "title": "Plaid Sweater",
+  "year": "1931"
+ },
+ {
+  "artist": "Grant Wood",
+  "attribution": "Wikimedia Commons",
+  "country": "United States",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant_Wood.jpg?width=1200",
+  "is_age_restricted": false,
+  "license": "Public domain",
+  "medium": "Painting",
+  "source_key": "commons:Grant Wood.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Grant_Wood.jpg",
+  "title": "Self-Portrait",
+  "year": "1932"
+ },
+ {
+  "artist": "Grant Wood",
+  "attribution": "Wikimedia Commons",
+  "country": "United States",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Nan%2C_by_Grant_Wood.jpg?width=1200",
+  "is_age_restricted": false,
+  "license": "Public domain",
+  "medium": "Painting",
+  "source_key": "commons:Portrait of Nan, by Grant Wood.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Nan,_by_Grant_Wood.jpg",
+  "title": "Portrait of Nan",
+  "year": "1933"
+ },
+ {
+  "artist": "Grant Wood",
+  "attribution": "Wikimedia Commons",
+  "country": "United States",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant_Wood_-_Dinner_for_Threshers.jpg?width=1200",
+  "is_age_restricted": false,
+  "license": "Public domain",
+  "medium": "Painting",
+  "source_key": "commons:Grant Wood - Dinner for Threshers.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Dinner_for_Threshers.jpg",
+  "title": "Dinner for Threshers",
+  "year": "1934"
+ },
+ {
+  "artist": "Grant Wood",
+  "attribution": "Wikimedia Commons",
+  "country": "United States",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Sentimental_Ballad%27_by_Grant_Wood%2C_1940.jpg?width=1200",
+  "is_age_restricted": false,
+  "license": "Public domain",
+  "medium": "Painting",
+  "source_key": "commons:'Sentimental Ballad' by Grant Wood, 1940.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%27Sentimental_Ballad%27_by_Grant_Wood,_1940.jpg",
+  "title": "Sentimental Ballad",
+  "year": "1940"
+ },
+ {
+  "artist": "Grant Wood",
+  "attribution": "Wikimedia Commons",
+  "country": "United States",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant_Wood%2C_%22The_American_Golfer%22_2014_33v1.jpg?width=1200",
+  "is_age_restricted": false,
+  "license": "CC0",
+  "medium": "Painting",
+  "source_key": "commons:Grant Wood, \"The American Golfer\" 2014 33v1.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Grant_Wood,_%22The_American_Golfer%22_2014_33v1.jpg",
+  "title": "The American Golfer",
+  "year": "1940"
  }
 ]

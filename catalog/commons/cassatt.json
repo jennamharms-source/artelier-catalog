@@ -13,6 +13,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67563889",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q67563889",
   "collection": "Dayton Art Institute"
  },
@@ -29,6 +30,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20268831",
+  "license_basis": "PD-old",
   "qid": "Q20268831",
   "collection": "Art Institute of Chicago"
  },
@@ -45,6 +47,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q104773595",
+  "license_basis": "PD-old",
   "qid": "Q104773595",
   "collection": "Clark Art Institute"
  },
@@ -62,6 +65,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808585",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q20808585",
   "collection": "Philadelphia Museum of Art"
  },
@@ -79,6 +83,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q134591226",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q134591226",
   "collection": "The Bennett Collection"
  },
@@ -95,6 +100,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20539870",
+  "license_basis": "PD-old",
   "qid": "Q20539870",
   "collection": "Smithsonian American Art Museum"
  },
@@ -111,6 +117,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20774722",
+  "license_basis": "PD-old",
   "qid": "Q20774722",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -128,6 +135,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q134576486",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q134576486",
   "collection": ""
  },
@@ -145,6 +153,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104445703",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q104445703",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -162,6 +171,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19924628",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q19924628",
   "collection": "Metropolitan Museum of Art"
  },
@@ -179,6 +189,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q46630198",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q46630198",
   "collection": "National Gallery of Art"
  },
@@ -195,6 +206,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20774726",
+  "license_basis": "PD-old",
   "qid": "Q20774726",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -211,6 +223,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106874603",
+  "license_basis": "PD-old",
   "qid": "Q106874603",
   "collection": "Fogg Museum"
  },
@@ -228,6 +241,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q75868733",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q75868733",
   "collection": "North Carolina Museum of Art"
  },
@@ -244,6 +258,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q103946454",
+  "license_basis": "PD-old",
   "qid": "Q103946454",
   "collection": "Crystal Bridges Museum of American Art"
  },
@@ -260,6 +275,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28037114",
+  "license_basis": "PD-old",
   "qid": "Q28037114",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -276,6 +292,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q14915747",
+  "license_basis": "PD-old",
   "qid": "Q14915747",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -293,6 +310,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3640080",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q3640080",
   "collection": "National Gallery of Art"
  },
@@ -310,6 +328,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3822819",
   "genre": "Portrait",
+  "license_basis": "PD-US",
   "qid": "Q3822819",
   "collection": ""
  },
@@ -326,6 +345,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3766193",
+  "license_basis": "PD-old",
   "qid": "Q3766193",
   "collection": "National Gallery of Art"
  },
@@ -342,6 +362,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138001881",
+  "license_basis": "PD-old",
   "qid": "Q138001881",
   "collection": ""
  },
@@ -358,6 +379,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q23008922",
+  "license_basis": "PD-old",
   "qid": "Q23008922",
   "collection": ""
  },
@@ -374,6 +396,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20270963",
+  "license_basis": "PD-old",
   "qid": "Q20270963",
   "collection": "Art Institute of Chicago"
  },
@@ -391,6 +414,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18822396",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q18822396",
   "collection": "Musée des Beaux-Arts de Bordeaux"
  },
@@ -408,6 +432,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q123781302",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q123781302",
   "collection": "Collection Bemberg"
  },
@@ -425,6 +450,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q79289695",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q79289695",
   "collection": "Gilcrease Museum"
  },
@@ -441,6 +467,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081071",
+  "license_basis": "CC0",
   "qid": "Q65081071",
   "collection": "National Gallery of Art"
  },
@@ -457,6 +484,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65575002",
+  "license_basis": "CC0",
   "qid": "Q65575002",
   "collection": "National Gallery of Art"
  },
@@ -474,6 +502,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q15130000",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q15130000",
   "collection": "Philadelphia Museum of Art"
  },
@@ -490,6 +519,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20881318",
+  "license_basis": "PD-old",
   "qid": "Q20881318",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -507,6 +537,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64572506",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q64572506",
   "collection": "Detroit Institute of Arts"
  },
@@ -524,6 +555,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q81726378",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q81726378",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -540,6 +572,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138008942",
+  "license_basis": "PD-old",
   "qid": "Q138008942",
   "collection": ""
  },
@@ -557,6 +590,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3796141",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q3796141",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -574,6 +608,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17491792",
   "genre": "Figure",
+  "license_basis": "PD-old",
   "qid": "Q17491792",
   "collection": "Musée d'Orsay"
  },
@@ -590,6 +625,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081012",
+  "license_basis": "CC0",
   "qid": "Q65081012",
   "collection": "National Gallery of Art"
  },
@@ -606,6 +642,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081025",
+  "license_basis": "CC0",
   "qid": "Q65081025",
   "collection": "National Gallery of Art"
  },
@@ -622,6 +659,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607623",
+  "license_basis": "CC0",
   "qid": "Q64607623",
   "collection": "National Gallery of Art"
  },
@@ -638,6 +676,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607625",
+  "license_basis": "CC0",
   "qid": "Q64607625",
   "collection": "National Gallery of Art"
  },
@@ -654,6 +693,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081066",
+  "license_basis": "CC0",
   "qid": "Q65081066",
   "collection": "National Gallery of Art"
  },
@@ -671,6 +711,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17008188",
   "genre": "Still life",
+  "license_basis": "PD-old",
   "qid": "Q17008188",
   "collection": "Metropolitan Museum of Art"
  },
@@ -688,6 +729,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20170951",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q20170951",
   "collection": "Metropolitan Museum of Art"
  },
@@ -705,6 +747,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28796404",
   "genre": "Self-portrait",
+  "license_basis": "PD-old",
   "qid": "Q28796404",
   "collection": "National Portrait Gallery"
  },
@@ -721,6 +764,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q12859910",
+  "license_basis": "PD-old",
   "qid": "Q12859910",
   "collection": "Metropolitan Museum of Art"
  },
@@ -738,6 +782,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20188845",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q20188845",
   "collection": "National Gallery of Art"
  },
@@ -754,6 +799,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688169",
+  "license_basis": "PD-old",
   "qid": "Q18688169",
   "collection": "Philadelphia Museum of Art"
  },
@@ -770,6 +816,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081067",
+  "license_basis": "CC0",
   "qid": "Q65081067",
   "collection": "National Gallery of Art"
  },
@@ -786,6 +833,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q67609616",
+  "license_basis": "PD-old",
   "qid": "Q67609616",
   "collection": "Museum Langmatt Sidney and Jenny Brown Foundation"
  },
@@ -802,6 +850,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60762397",
+  "license_basis": "CC0",
   "qid": "Q60762397",
   "collection": "Cleveland Museum of Art"
  },
@@ -819,6 +868,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q106769546",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q106769546",
   "collection": "Princeton Art Museum"
  },
@@ -835,6 +885,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138302110",
+  "license_basis": "PD-old",
   "qid": "Q138302110",
   "collection": "Flint Institute of Arts"
  },
@@ -851,6 +902,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28042441",
+  "license_basis": "PD-old",
   "qid": "Q28042441",
   "collection": "Museum of Fine Arts, Houston"
  },
@@ -867,6 +919,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116783653",
+  "license_basis": "PD-old",
   "qid": "Q116783653",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -883,6 +936,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60753980",
+  "license_basis": "CC0",
   "qid": "Q60753980",
   "collection": "Cleveland Museum of Art"
  },
@@ -899,6 +953,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081075",
+  "license_basis": "CC0",
   "qid": "Q65081075",
   "collection": "National Gallery of Art"
  },
@@ -915,6 +970,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081073",
+  "license_basis": "CC0",
   "qid": "Q65081073",
   "collection": "National Gallery of Art"
  },
@@ -931,6 +987,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081033",
+  "license_basis": "CC0",
   "qid": "Q65081033",
   "collection": "National Gallery of Art"
  },
@@ -948,6 +1005,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q98150654",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q98150654",
   "collection": "Birmingham Museums Trust"
  },
@@ -965,6 +1023,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q130520930",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q130520930",
   "collection": "Mougins Museum of Classical Art"
  },
@@ -981,6 +1040,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607627",
+  "license_basis": "CC0",
   "qid": "Q64607627",
   "collection": "National Gallery of Art"
  },
@@ -997,6 +1057,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607631",
+  "license_basis": "CC0",
   "qid": "Q64607631",
   "collection": "National Gallery of Art"
  },
@@ -1013,6 +1074,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607678",
+  "license_basis": "CC0",
   "qid": "Q64607678",
   "collection": "Ailsa Mellon Bruce Collection"
  },
@@ -1029,6 +1091,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081086",
+  "license_basis": "CC0",
   "qid": "Q65081086",
   "collection": "National Gallery of Art"
  },
@@ -1045,6 +1108,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607659",
+  "license_basis": "CC0",
   "qid": "Q64607659",
   "collection": "National Gallery of Art"
  },
@@ -1061,6 +1125,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607673",
+  "license_basis": "CC0",
   "qid": "Q64607673",
   "collection": "National Gallery of Art"
  },
@@ -1078,6 +1143,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189683",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q20189683",
   "collection": "National Gallery of Art"
  },
@@ -1095,6 +1161,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19925426",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19925426",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1112,6 +1179,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20808586",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q20808586",
   "collection": "Philadelphia Museum of Art"
  },
@@ -1128,6 +1196,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79868521",
+  "license_basis": "PD-old",
   "qid": "Q79868521",
   "collection": "Shelburne Museum"
  },
@@ -1145,6 +1214,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189677",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q20189677",
   "collection": "Corcoran Gallery of Art"
  },
@@ -1162,6 +1232,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189811",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q20189811",
   "collection": "National Gallery of Art"
  },
@@ -1179,6 +1250,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3633620",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q3633620",
   "collection": "National Gallery of Art"
  },
@@ -1195,6 +1267,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q114711507",
+  "license_basis": "PD-old-70",
   "qid": "Q114711507",
   "collection": "Ann & Gordon Getty Collection"
  },
@@ -1212,6 +1285,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20189881",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q20189881",
   "collection": "National Gallery of Art"
  },
@@ -1229,6 +1303,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q18519125",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q18519125",
   "collection": "Birmingham Museum of Art"
  },
@@ -1245,6 +1320,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65362400",
+  "license_basis": "CC0",
   "qid": "Q65362400",
   "collection": "National Gallery of Art"
  },
@@ -1262,6 +1338,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q86382242",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q86382242",
   "collection": "Seattle Art Museum"
  },
@@ -1278,6 +1355,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081041",
+  "license_basis": "CC0",
   "qid": "Q65081041",
   "collection": "National Gallery of Art"
  },
@@ -1294,6 +1372,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081081",
+  "license_basis": "CC0",
   "qid": "Q65081081",
   "collection": "National Gallery of Art"
  },
@@ -1310,6 +1389,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081085",
+  "license_basis": "CC0",
   "qid": "Q65081085",
   "collection": "National Gallery of Art"
  },
@@ -1326,6 +1406,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q46952136",
+  "license_basis": "PD-old",
   "qid": "Q46952136",
   "collection": "Cincinnati Art Museum"
  },
@@ -1343,6 +1424,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q17003464",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q17003464",
   "collection": "Cooper Hewitt, Smithsonian Design Museum"
  },
@@ -1359,6 +1441,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081027",
+  "license_basis": "CC0",
   "qid": "Q65081027",
   "collection": "National Gallery of Art"
  },
@@ -1375,6 +1458,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081029",
+  "license_basis": "CC0",
   "qid": "Q65081029",
   "collection": "National Gallery of Art"
  },
@@ -1391,6 +1475,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20198230",
+  "license_basis": "PD-old",
   "qid": "Q20198230",
   "collection": "Fine Arts Museums of San Francisco"
  },
@@ -1407,6 +1492,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081038",
+  "license_basis": "CC0",
   "qid": "Q65081038",
   "collection": "National Gallery of Art"
  },
@@ -1423,6 +1509,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960336",
+  "license_basis": "CC0",
   "qid": "Q64960336",
   "collection": "National Gallery of Art"
  },
@@ -1439,6 +1526,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960337",
+  "license_basis": "CC0",
   "qid": "Q64960337",
   "collection": "National Gallery of Art"
  },
@@ -1455,6 +1543,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960339",
+  "license_basis": "CC0",
   "qid": "Q64960339",
   "collection": "National Gallery of Art"
  },
@@ -1471,6 +1560,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081005",
+  "license_basis": "CC0",
   "qid": "Q65081005",
   "collection": "National Gallery of Art"
  },
@@ -1487,6 +1577,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081007",
+  "license_basis": "CC0",
   "qid": "Q65081007",
   "collection": "National Gallery of Art"
  },
@@ -1503,6 +1594,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511212",
+  "license_basis": "CC0",
   "qid": "Q65511212",
   "collection": "National Gallery of Art"
  },
@@ -1519,6 +1611,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74882453",
+  "license_basis": "CC0",
   "qid": "Q74882453",
   "collection": "National Gallery of Art"
  },
@@ -1535,6 +1628,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q84263726",
+  "license_basis": "CC0",
   "qid": "Q84263726",
   "collection": "Portland Museum of Art"
  },
@@ -1551,6 +1645,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960351",
+  "license_basis": "CC0",
   "qid": "Q64960351",
   "collection": "National Gallery of Art"
  },
@@ -1567,6 +1662,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960353",
+  "license_basis": "CC0",
   "qid": "Q64960353",
   "collection": "National Gallery of Art"
  },
@@ -1583,6 +1679,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960375",
+  "license_basis": "CC0",
   "qid": "Q64960375",
   "collection": "National Gallery of Art"
  },
@@ -1599,6 +1696,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081062",
+  "license_basis": "CC0",
   "qid": "Q65081062",
   "collection": "National Gallery of Art"
  },
@@ -1615,6 +1713,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511206",
+  "license_basis": "CC0",
   "qid": "Q65511206",
   "collection": "National Gallery of Art"
  },
@@ -1631,6 +1730,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960371",
+  "license_basis": "CC0",
   "qid": "Q64960371",
   "collection": "National Gallery of Art"
  },
@@ -1647,6 +1747,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081035",
+  "license_basis": "CC0",
   "qid": "Q65081035",
   "collection": "National Gallery of Art"
  },
@@ -1663,6 +1764,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511211",
+  "license_basis": "CC0",
   "qid": "Q65511211",
   "collection": "National Gallery of Art"
  },
@@ -1679,6 +1781,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138001916",
+  "license_basis": "PD-old",
   "qid": "Q138001916",
   "collection": "Wichita Art Museum"
  },
@@ -1695,6 +1798,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960350",
+  "license_basis": "CC0",
   "qid": "Q64960350",
   "collection": "National Gallery of Art"
  },
@@ -1711,6 +1815,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960367",
+  "license_basis": "CC0",
   "qid": "Q64960367",
   "collection": "National Gallery of Art"
  },
@@ -1727,6 +1832,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511210",
+  "license_basis": "CC0",
   "qid": "Q65511210",
   "collection": "National Gallery of Art"
  },
@@ -1743,6 +1849,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960385",
+  "license_basis": "CC0",
   "qid": "Q64960385",
   "collection": "National Gallery of Art"
  },
@@ -1759,6 +1866,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65575000",
+  "license_basis": "CC0",
   "qid": "Q65575000",
   "collection": "National Gallery of Art"
  },
@@ -1775,6 +1883,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960324",
+  "license_basis": "CC0",
   "qid": "Q64960324",
   "collection": "National Gallery of Art"
  },
@@ -1791,6 +1900,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960325",
+  "license_basis": "CC0",
   "qid": "Q64960325",
   "collection": "National Gallery of Art"
  },
@@ -1807,6 +1917,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960326",
+  "license_basis": "CC0",
   "qid": "Q64960326",
   "collection": "National Gallery of Art"
  },
@@ -1823,6 +1934,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960329",
+  "license_basis": "CC0",
   "qid": "Q64960329",
   "collection": "National Gallery of Art"
  },
@@ -1839,6 +1951,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960331",
+  "license_basis": "CC0",
   "qid": "Q64960331",
   "collection": "National Gallery of Art"
  },
@@ -1855,6 +1968,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960333",
+  "license_basis": "CC0",
   "qid": "Q64960333",
   "collection": "National Gallery of Art"
  },
@@ -1871,6 +1985,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960335",
+  "license_basis": "CC0",
   "qid": "Q64960335",
   "collection": "National Gallery of Art"
  },
@@ -1887,6 +2002,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960370",
+  "license_basis": "CC0",
   "qid": "Q64960370",
   "collection": "National Gallery of Art"
  },
@@ -1903,6 +2019,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511204",
+  "license_basis": "CC0",
   "qid": "Q65511204",
   "collection": "National Gallery of Art"
  },
@@ -1919,6 +2036,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607643",
+  "license_basis": "CC0",
   "qid": "Q64607643",
   "collection": "National Gallery of Art"
  },
@@ -1935,6 +2053,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607645",
+  "license_basis": "CC0",
   "qid": "Q64607645",
   "collection": "National Gallery of Art"
  },
@@ -1951,6 +2070,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607682",
+  "license_basis": "CC0",
   "qid": "Q64607682",
   "collection": "National Gallery of Art"
  },
@@ -1967,6 +2087,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q84267914",
+  "license_basis": "PD-old",
   "qid": "Q84267914",
   "collection": "Honolulu Museum of Art"
  },
@@ -1983,6 +2104,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960340",
+  "license_basis": "CC0",
   "qid": "Q64960340",
   "collection": "National Gallery of Art"
  },
@@ -1999,6 +2121,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960365",
+  "license_basis": "CC0",
   "qid": "Q64960365",
   "collection": "National Gallery of Art"
  },
@@ -2015,6 +2138,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081004",
+  "license_basis": "CC0",
   "qid": "Q65081004",
   "collection": "National Gallery of Art"
  },
@@ -2031,6 +2155,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511213",
+  "license_basis": "CC0",
   "qid": "Q65511213",
   "collection": "National Gallery of Art"
  },
@@ -2047,6 +2172,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081010",
+  "license_basis": "CC0",
   "qid": "Q65081010",
   "collection": "National Gallery of Art"
  },
@@ -2063,6 +2189,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081093",
+  "license_basis": "CC0",
   "qid": "Q65081093",
   "collection": "National Gallery of Art"
  },
@@ -2079,6 +2206,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511208",
+  "license_basis": "CC0",
   "qid": "Q65511208",
   "collection": "National Gallery of Art"
  },
@@ -2095,6 +2223,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74882460",
+  "license_basis": "CC0",
   "qid": "Q74882460",
   "collection": "National Gallery of Art"
  },
@@ -2111,6 +2240,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607655",
+  "license_basis": "CC0",
   "qid": "Q64607655",
   "collection": "National Gallery of Art"
  },
@@ -2127,6 +2257,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607657",
+  "license_basis": "CC0",
   "qid": "Q64607657",
   "collection": "National Gallery of Art"
  },
@@ -2143,6 +2274,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960372",
+  "license_basis": "CC0",
   "qid": "Q64960372",
   "collection": "National Gallery of Art"
  },
@@ -2159,6 +2291,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081030",
+  "license_basis": "CC0",
   "qid": "Q65081030",
   "collection": "National Gallery of Art"
  },
@@ -2175,6 +2308,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511205",
+  "license_basis": "CC0",
   "qid": "Q65511205",
   "collection": "National Gallery of Art"
  },
@@ -2191,6 +2325,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960374",
+  "license_basis": "CC0",
   "qid": "Q64960374",
   "collection": "National Gallery of Art"
  },
@@ -2207,6 +2342,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65362417",
+  "license_basis": "CC0",
   "qid": "Q65362417",
   "collection": "National Gallery of Art"
  },
@@ -2223,6 +2359,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511207",
+  "license_basis": "CC0",
   "qid": "Q65511207",
   "collection": "National Gallery of Art"
  },
@@ -2239,6 +2376,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77008383",
+  "license_basis": "CC0",
   "qid": "Q77008383",
   "collection": "National Gallery of Art"
  },
@@ -2255,6 +2393,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3713900",
+  "license_basis": "PD-old-70",
   "qid": "Q3713900",
   "collection": "Brooklyn Museum"
  },
@@ -2271,6 +2410,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081057",
+  "license_basis": "CC0",
   "qid": "Q65081057",
   "collection": "National Gallery of Art"
  },
@@ -2287,6 +2427,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081059",
+  "license_basis": "CC0",
   "qid": "Q65081059",
   "collection": "National Gallery of Art"
  },
@@ -2303,6 +2444,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081090",
+  "license_basis": "CC0",
   "qid": "Q65081090",
   "collection": "National Gallery of Art"
  },
@@ -2319,6 +2461,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65511209",
+  "license_basis": "CC0",
   "qid": "Q65511209",
   "collection": "National Gallery of Art"
  },
@@ -2335,6 +2478,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q74882456",
+  "license_basis": "CC0",
   "qid": "Q74882456",
   "collection": "National Gallery of Art"
  },
@@ -2351,6 +2495,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29384752",
+  "license_basis": "CC0",
   "qid": "Q29384752",
   "collection": "Metropolitan Museum of Art"
  },
@@ -2367,6 +2512,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q137698002",
+  "license_basis": "PD-old",
   "qid": "Q137698002",
   "collection": "New Britain Museum of American Art"
  },
@@ -2383,6 +2529,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607651",
+  "license_basis": "CC0",
   "qid": "Q64607651",
   "collection": "National Gallery of Art"
  },
@@ -2399,6 +2546,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960323",
+  "license_basis": "CC0",
   "qid": "Q64960323",
   "collection": "National Gallery of Art"
  },
@@ -2415,6 +2563,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960377",
+  "license_basis": "CC0",
   "qid": "Q64960377",
   "collection": "National Gallery of Art"
  },
@@ -2431,6 +2580,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960320",
+  "license_basis": "CC0",
   "qid": "Q64960320",
   "collection": "National Gallery of Art"
  },
@@ -2447,6 +2597,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607647",
+  "license_basis": "CC0",
   "qid": "Q64607647",
   "collection": "National Gallery of Art"
  },
@@ -2463,6 +2614,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607653",
+  "license_basis": "CC0",
   "qid": "Q64607653",
   "collection": "National Gallery of Art"
  },
@@ -2479,6 +2631,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960321",
+  "license_basis": "CC0",
   "qid": "Q64960321",
   "collection": "National Gallery of Art"
  },
@@ -2496,6 +2649,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190284",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q20190284",
   "collection": "National Gallery of Art"
  },
@@ -2513,6 +2667,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q42877953",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q42877953",
   "collection": "Carnegie Museum of Art"
  },
@@ -2529,6 +2684,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q73190644",
+  "license_basis": "PD-US-expired",
   "qid": "Q73190644",
   "collection": "Chrysler Museum of Art"
  },
@@ -2546,6 +2702,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64698634",
   "genre": "Genre scene",
+  "license_basis": "PD-old-70",
   "qid": "Q64698634",
   "collection": ""
  },
@@ -2563,6 +2720,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q30150281",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q30150281",
   "collection": "Virginia Museum of Fine Arts"
  },
@@ -2579,6 +2737,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960355",
+  "license_basis": "CC0",
   "qid": "Q64960355",
   "collection": "National Gallery of Art"
  },
@@ -2595,6 +2754,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960357",
+  "license_basis": "CC0",
   "qid": "Q64960357",
   "collection": "National Gallery of Art"
  },
@@ -2611,6 +2771,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960360",
+  "license_basis": "CC0",
   "qid": "Q64960360",
   "collection": "National Gallery of Art"
  },
@@ -2627,6 +2788,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960362",
+  "license_basis": "CC0",
   "qid": "Q64960362",
   "collection": "National Gallery of Art"
  },
@@ -2643,6 +2805,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131585919",
+  "license_basis": "PD-old",
   "qid": "Q131585919",
   "collection": "Foundation E.G. Bührle Collection"
  },
@@ -2659,6 +2822,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65362432",
+  "license_basis": "CC0",
   "qid": "Q65362432",
   "collection": "National Gallery of Art"
  },
@@ -2676,6 +2840,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q15876324",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q15876324",
   "collection": "National Gallery of Art"
  },
@@ -2693,6 +2858,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3172226",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q3172226",
   "collection": "Art Institute of Chicago"
  },
@@ -2710,6 +2876,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q141645840",
   "genre": "Figure",
+  "license_basis": "PD-old",
   "qid": "Q141645840",
   "collection": "Musée d'Orsay"
  },
@@ -2726,6 +2893,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960341",
+  "license_basis": "CC0",
   "qid": "Q64960341",
   "collection": "National Gallery of Art"
  },
@@ -2742,6 +2910,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960343",
+  "license_basis": "CC0",
   "qid": "Q64960343",
   "collection": "National Gallery of Art"
  },
@@ -2758,6 +2927,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960345",
+  "license_basis": "CC0",
   "qid": "Q64960345",
   "collection": "National Gallery of Art"
  },
@@ -2774,6 +2944,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960347",
+  "license_basis": "CC0",
   "qid": "Q64960347",
   "collection": "National Gallery of Art"
  },
@@ -2790,6 +2961,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960349",
+  "license_basis": "CC0",
   "qid": "Q64960349",
   "collection": "National Gallery of Art"
  },
@@ -2806,6 +2978,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65081036",
+  "license_basis": "CC0",
   "qid": "Q65081036",
   "collection": "National Gallery of Art"
  },
@@ -2822,6 +2995,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65362405",
+  "license_basis": "CC0",
   "qid": "Q65362405",
   "collection": "National Gallery of Art"
  },
@@ -2838,6 +3012,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138009138",
+  "license_basis": "PD-old",
   "qid": "Q138009138",
   "collection": ""
  },
@@ -2855,6 +3030,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q56243397",
   "genre": "Genre scene",
+  "license_basis": "PD-old-70",
   "qid": "Q56243397",
   "collection": "Hammer Museum"
  },
@@ -2871,6 +3047,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138007638",
+  "license_basis": "PD-old",
   "qid": "Q138007638",
   "collection": "Shelburne Museum"
  },
@@ -2888,6 +3065,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20774737",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q20774737",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -2905,6 +3083,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115898808",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q115898808",
   "collection": "Shelburne Museum"
  },
@@ -2921,6 +3100,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19968756",
+  "license_basis": "PD-old",
   "qid": "Q19968756",
   "collection": ""
  },
@@ -2937,6 +3117,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65362414",
+  "license_basis": "CC0",
   "qid": "Q65362414",
   "collection": "National Gallery of Art"
  },
@@ -2953,6 +3134,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q113957838",
+  "license_basis": "PD-old",
   "qid": "Q113957838",
   "collection": "The Huntington Library, Art Museum, and Botanical Gardens"
  },
@@ -2969,6 +3151,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106874695",
+  "license_basis": "PD-US-unpublished",
   "qid": "Q106874695",
   "collection": "Bowdoin College Museum of Art"
  },
@@ -2985,6 +3168,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64575102",
+  "license_basis": "PD-old-100",
   "qid": "Q64575102",
   "collection": "Detroit Institute of Arts"
  },
@@ -3001,6 +3185,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116783531",
+  "license_basis": "PD-old-70",
   "qid": "Q116783531",
   "collection": "Clark Art Institute"
  },
@@ -3018,6 +3203,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q137392550",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q137392550",
   "collection": ""
  },
@@ -3034,6 +3220,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19930620",
+  "license_basis": "CC0",
   "qid": "Q19930620",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3050,6 +3237,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q20170935",
+  "license_basis": "PD-old",
   "qid": "Q20170935",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3067,6 +3255,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19925616",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q19925616",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3083,6 +3272,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q138008938",
+  "license_basis": "PD-old",
   "qid": "Q138008938",
   "collection": ""
  },
@@ -3100,6 +3290,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q19930489",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q19930489",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3116,6 +3307,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19924621",
+  "license_basis": "CC0",
   "qid": "Q19924621",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3132,6 +3324,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q23009144",
+  "license_basis": "PD-old",
   "qid": "Q23009144",
   "collection": ""
  },
@@ -3149,6 +3342,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131460416",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q131460416",
   "collection": "Musée des Beaux-Arts de Bordeaux"
  },
@@ -3165,6 +3359,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q84729430",
+  "license_basis": "PD-old",
   "qid": "Q84729430",
   "collection": "Hill-Stead Museum"
  },
@@ -3182,6 +3377,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q116213364",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q116213364",
   "collection": "Fondation Corboud"
  },
@@ -3199,6 +3395,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20486529",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q20486529",
   "collection": "Smithsonian American Art Museum"
  },
@@ -3215,6 +3412,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607676",
+  "license_basis": "CC0",
   "qid": "Q64607676",
   "collection": "National Gallery of Art"
  },
@@ -3231,6 +3429,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q65362402",
+  "license_basis": "CC0",
   "qid": "Q65362402",
   "collection": "National Gallery of Art"
  },
@@ -3247,6 +3446,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q135114097",
+  "license_basis": "PD-old",
   "qid": "Q135114097",
   "collection": "Brooklyn Museum"
  },
@@ -3263,6 +3463,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20774729",
+  "license_basis": "PD-old",
   "qid": "Q20774729",
   "collection": "Museum of Fine Arts Boston"
  },
@@ -3279,6 +3480,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607684",
+  "license_basis": "CC0",
   "qid": "Q64607684",
   "collection": "National Gallery of Art"
  },
@@ -3295,6 +3497,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960388",
+  "license_basis": "CC0",
   "qid": "Q64960388",
   "collection": "National Gallery of Art"
  },
@@ -3312,6 +3515,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q38366524",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q38366524",
   "collection": "Worcester Art Museum"
  },
@@ -3328,6 +3532,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960381",
+  "license_basis": "CC0",
   "qid": "Q64960381",
   "collection": "National Gallery of Art"
  },
@@ -3344,6 +3549,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607686",
+  "license_basis": "CC0",
   "qid": "Q64607686",
   "collection": "National Gallery of Art"
  },
@@ -3361,6 +3567,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20486515",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q20486515",
   "collection": "Smithsonian American Art Museum"
  },
@@ -3377,6 +3584,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960383",
+  "license_basis": "CC0",
   "qid": "Q64960383",
   "collection": "National Gallery of Art"
  },
@@ -3393,6 +3601,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64576143",
+  "license_basis": "PD-old-100",
   "qid": "Q64576143",
   "collection": "Detroit Institute of Arts"
  },
@@ -3409,6 +3618,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64960319",
+  "license_basis": "CC0",
   "qid": "Q64960319",
   "collection": "National Gallery of Art"
  },
@@ -3425,6 +3635,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q77011698",
+  "license_basis": "CC0",
   "qid": "Q77011698",
   "collection": "National Gallery of Art"
  },
@@ -3441,6 +3652,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64512835",
+  "license_basis": "PD-old",
   "qid": "Q64512835",
   "collection": "Rhode Island School of Design Museum"
  },
@@ -3458,6 +3670,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q86856808",
   "genre": "Portrait",
+  "license_basis": "CC0",
   "qid": "Q86856808",
   "collection": "San Diego Museum of Art"
  },
@@ -3474,6 +3687,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116783543",
+  "license_basis": "PD",
   "qid": "Q116783543",
   "collection": "Clark Art Institute"
  },
@@ -3490,6 +3704,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q103299160",
+  "license_basis": "PD-old-100",
   "qid": "Q103299160",
   "collection": "Vanderbilt Museum of Art"
  },
@@ -3506,6 +3721,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q103307889",
+  "license_basis": "PD-old-100",
   "qid": "Q103307889",
   "collection": "Vanderbilt Museum of Art"
  },
@@ -3522,6 +3738,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q64607680",
+  "license_basis": "CC0",
   "qid": "Q64607680",
   "collection": "National Gallery of Art"
  },
@@ -3539,6 +3756,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q77730440",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q77730440",
   "collection": "Kasser Mochary Art Foundation"
  },
@@ -3556,6 +3774,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q115612269",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q115612269",
   "collection": "Speed Art Museum"
  },
@@ -3573,6 +3792,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q20190957",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q20190957",
   "collection": "National Gallery of Art"
  },
@@ -3590,6 +3810,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113957839",
   "genre": "Portrait",
+  "license_basis": "PD-old-70",
   "qid": "Q113957839",
   "collection": "The Huntington Library, Art Museum, and Botanical Gardens"
  },
@@ -3606,6 +3827,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q82119515",
+  "license_basis": "PD-old",
   "qid": "Q82119515",
   "collection": "New Orleans Museum of Art"
  },
@@ -3623,6 +3845,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138007627",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q138007627",
   "collection": "Lucas Museum of Narrative Art"
  },
@@ -3639,6 +3862,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111046644",
+  "license_basis": "PD-old",
   "qid": "Q111046644",
   "collection": ""
  },
@@ -3655,6 +3879,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19925483",
+  "license_basis": "CC0",
   "qid": "Q19925483",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3672,6 +3897,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q113957840",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q113957840",
   "collection": "The Huntington Library, Art Museum, and Botanical Gardens"
  },
@@ -3688,6 +3914,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q133854180",
+  "license_basis": "PD-old",
   "qid": "Q133854180",
   "collection": "Tel Aviv Museum of Art"
  },
@@ -3704,6 +3931,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19924732",
+  "license_basis": "CC0",
   "qid": "Q19924732",
   "collection": "Metropolitan Museum of Art"
  },
@@ -3721,6 +3949,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q66821483",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q66821483",
   "collection": ""
  },
@@ -3737,6 +3966,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q123516740",
+  "license_basis": "PD-old",
   "qid": "Q123516740",
   "collection": ""
  },
@@ -3754,6 +3984,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64698699",
   "genre": "Portrait",
+  "license_basis": "PD-old-70",
   "qid": "Q64698699",
   "collection": ""
  },
@@ -3770,6 +4001,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138302104",
+  "license_basis": "PD-old",
   "qid": "Q138302104",
   "collection": ""
  },
@@ -3786,6 +4018,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105497971",
+  "license_basis": "PD-old",
   "qid": "Q105497971",
   "collection": ""
  },
@@ -3803,6 +4036,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q104445859",
   "genre": "Genre scene",
+  "license_basis": "PD-old",
   "qid": "Q104445859",
   "collection": "Musée des Beaux-Arts de la ville de Paris"
  },
@@ -3819,6 +4053,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138302099",
+  "license_basis": "PD-old",
   "qid": "Q138302099",
   "collection": ""
  },
@@ -3836,6 +4071,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q95911391",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q95911391",
   "collection": "Yoshino Gypsum"
  },
@@ -3852,6 +4088,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q89373229",
+  "license_basis": "PD-old-70",
   "qid": "Q89373229",
   "collection": "Memorial Art Gallery"
  },
@@ -3868,6 +4105,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60760446",
+  "license_basis": "CC0",
   "qid": "Q60760446",
   "collection": "Cleveland Museum of Art"
  },
@@ -3885,6 +4123,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q77745462",
   "genre": "Portrait",
+  "license_basis": "PD-old-70",
   "qid": "Q77745462",
   "collection": ""
  },
@@ -3901,6 +4140,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138008952",
+  "license_basis": "PD-old",
   "qid": "Q138008952",
   "collection": ""
  },
@@ -3918,6 +4158,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q138302118",
   "genre": "Portrait",
+  "license_basis": "PD-old",
   "qid": "Q138302118",
   "collection": "Shelburne Museum"
  },
@@ -3934,6 +4175,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105535863",
+  "license_basis": "PD-old",
   "qid": "Q105535863",
   "collection": ""
  },
@@ -3950,6 +4192,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60753230",
+  "license_basis": "CC0",
   "qid": "Q60753230",
   "collection": "Cleveland Museum of Art"
  },
@@ -3966,6 +4209,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q60755307",
+  "license_basis": "CC0",
   "qid": "Q60755307",
   "collection": "Cleveland Museum of Art"
  },
@@ -3982,6 +4226,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105429331",
+  "license_basis": "PD-old-70",
   "qid": "Q105429331",
   "collection": ""
  },
@@ -3998,6 +4243,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q105494137",
+  "license_basis": "PD-old",
   "qid": "Q105494137",
   "collection": ""
  },
@@ -4014,6 +4260,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q138001902",
+  "license_basis": "PD-old",
   "qid": "Q138001902",
   "collection": ""
  },
@@ -4030,6 +4277,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q71176888",
+  "license_basis": "PD-old-70",
   "qid": "Q71176888",
   "collection": "National Museum of Serbia"
  },
@@ -4046,6 +4294,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q28796904",
+  "license_basis": "PD-old",
   "qid": "Q28796904",
   "collection": "Bilbao Fine Arts Museum"
  },
@@ -4062,6 +4311,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20879243",
+  "license_basis": "PD",
   "qid": "Q20879243",
   "collection": "Los Angeles County Museum of Art"
  },
@@ -4079,6 +4329,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q28126420",
   "genre": "Nude",
+  "license_basis": "PD-old",
   "qid": "Q28126420",
   "collection": "Barnes Foundation"
  }

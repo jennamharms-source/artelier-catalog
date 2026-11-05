@@ -1,5 +1,41 @@
 [
  {
+  "title": "Bacchus",
+  "artist": "Caravaggio",
+  "year": "1590",
+  "medium": "Painting",
+  "gallery": "Uffizi Gallery",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baco%2C_por_CaravaggioFXD.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Baco,_por_CaravaggioFXD.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q2011510",
+  "genre": "Mythological",
+  "license_basis": "PD-old",
+  "qid": "Q2011510",
+  "collection": "Uffizi Gallery"
+ },
+ {
+  "title": "Medusa",
+  "artist": "Caravaggio",
+  "year": "1590",
+  "medium": "Painting",
+  "gallery": "Uffizi Gallery",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_-_Medusa_-_Google_Art_Project.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q2293905",
+  "genre": "Mythological",
+  "license_basis": "PD-old-100",
+  "qid": "Q2293905",
+  "collection": "Uffizi Gallery"
+ },
+ {
   "title": "Sacrifice of Isaac",
   "artist": "Caravaggio",
   "year": "1590",
@@ -13,6 +49,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3226847",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3226847",
   "collection": "Barbara Piasecka Johnson Collection"
  },
@@ -30,6 +67,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2395137",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2395137",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -47,6 +85,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q30095295",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q30095295",
   "collection": "Bavarian State Painting Collections"
  },
@@ -64,6 +103,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2574120",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2574120",
   "collection": "Royal Collection"
  },
@@ -80,6 +120,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q102641148",
+  "license_basis": "PD-old-100",
   "qid": "Q102641148",
   "collection": "Fondazione Roberto Longhi"
  },
@@ -97,6 +138,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2732274",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2732274",
   "collection": "Galleria Doria Pamphilj"
  },
@@ -114,6 +156,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q16596970",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q16596970",
   "collection": "Palazzo Corsini"
  },
@@ -131,6 +174,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q585437",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q585437",
   "collection": "National Gallery"
  },
@@ -148,6 +192,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2610936",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2610936",
   "collection": "Borghese Collection"
  },
@@ -165,6 +210,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2609235",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2609235",
   "collection": "Wadsworth Atheneum Museum of Art"
  },
@@ -182,6 +228,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q16534183",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q16534183",
   "collection": "Capitoline Museums"
  },
@@ -199,6 +246,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2610675",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q2610675",
   "collection": "Department of Paintings of the Louvre"
  },
@@ -216,6 +264,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2007260",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q2007260",
   "collection": ""
  },
@@ -233,6 +282,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2293936",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2293936",
   "collection": "Galleria Borghese"
  },
@@ -249,6 +299,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17992160",
+  "license_basis": "PD-old-100",
   "qid": "Q17992160",
   "collection": "Ashmolean Museum"
  },
@@ -265,6 +316,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q55647084",
+  "license_basis": "PD-old",
   "qid": "Q55647084",
   "collection": "Hermitage Museum"
  },
@@ -282,6 +334,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q655705",
   "genre": "Self-portrait",
+  "license_basis": "CC0",
   "qid": "Q655705",
   "collection": "Metropolitan Museum of Art"
  },
@@ -299,6 +352,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q663133",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q663133",
   "collection": "Kimbell Art Museum"
  },
@@ -315,6 +369,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q55647114",
+  "license_basis": "PD-old-100",
   "qid": "Q55647114",
   "collection": ""
  },
@@ -332,25 +387,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q131543672",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q131543672",
   "collection": "Fondazione Roberto Longhi"
- },
- {
-  "title": "Medusa",
-  "artist": "Caravaggio",
-  "year": "1597",
-  "medium": "Painting",
-  "gallery": "Uffizi Gallery",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_-_Medusa_-_Google_Art_Project.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q2293905",
-  "genre": "Mythological",
-  "qid": "Q2293905",
-  "collection": "Uffizi Gallery"
  },
  {
   "title": "Rest on the Flight into Egypt",
@@ -366,25 +405,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q745098",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q745098",
   "collection": "Galleria Doria Pamphilj"
- },
- {
-  "title": "Bacchus",
-  "artist": "Caravaggio",
-  "year": "1598",
-  "medium": "Painting",
-  "gallery": "Uffizi Gallery",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baco%2C_por_Caravaggio.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Baco,_por_Caravaggio.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q2011510",
-  "genre": "Mythological",
-  "qid": "Q2011510",
-  "collection": "Uffizi Gallery"
  },
  {
   "title": "Christ at the Column",
@@ -400,6 +423,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3697589",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3697589",
   "collection": ""
  },
@@ -417,6 +441,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2734679",
   "genre": "Religious",
+  "license_basis": "PD-old-70",
   "qid": "Q2734679",
   "collection": "Detroit Institute of Arts"
  },
@@ -434,6 +459,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2627034",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2627034",
   "collection": "Thyssen-Bornemisza Museum"
  },
@@ -451,6 +477,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3463868",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q3463868",
   "collection": "Museo Catedralicio"
  },
@@ -468,6 +495,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1122537",
   "genre": "Mythological",
+  "license_basis": "PD-old",
   "qid": "Q1122537",
   "collection": "Villa Ludovisi"
  },
@@ -485,6 +513,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2270291",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q2270291",
   "collection": "Pinacoteca Ambrosiana"
  },
@@ -502,6 +531,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2273517",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2273517",
   "collection": "Santa Maria del Popolo"
  },
@@ -519,6 +549,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q685916",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q685916",
   "collection": "Santa Maria del Popolo"
  },
@@ -536,6 +567,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2270955",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2270955",
   "collection": "Museo del Prado"
  },
@@ -553,6 +585,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q746716",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q746716",
   "collection": "Galleria Nazionale d'Arte Antica"
  },
@@ -570,6 +603,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1433194",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1433194",
   "collection": ""
  },
@@ -587,8 +621,27 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q945164",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q945164",
   "collection": "Department of Paintings of the Louvre"
+ },
+ {
+  "title": "Sacrifice of Isaac",
+  "artist": "Caravaggio",
+  "year": "1600",
+  "medium": "Painting",
+  "gallery": "Uffizi Gallery",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice_of_Isaac-Caravaggio_%28Uffizi%29.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sacrifice_of_Isaac-Caravaggio_(Uffizi).jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q2284829",
+  "genre": "Religious",
+  "license_basis": "PD-old-100",
+  "qid": "Q2284829",
+  "collection": "Uffizi Gallery"
  },
  {
   "title": "Saint Jerome penitent",
@@ -604,6 +657,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q626791",
   "genre": "Religious",
+  "license_basis": "CC0",
   "qid": "Q626791",
   "collection": "Museum of Montserrat"
  },
@@ -621,6 +675,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1448203",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1448203",
   "collection": "Erba-Odescalchi"
  },
@@ -638,6 +693,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1213151",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1213151",
   "collection": "Pinacoteca Vaticana"
  },
@@ -655,6 +711,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3212682",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3212682",
   "collection": "Metropolitan Museum of Art"
  },
@@ -672,6 +729,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2338417",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2338417",
   "collection": ""
  },
@@ -689,6 +747,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q25796776",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q25796776",
   "collection": "Odesa Museum of Western and Eastern Art"
  },
@@ -706,6 +765,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2626595",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2626595",
   "collection": "Pio Monte della Misericordia"
  },
@@ -723,6 +783,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q474024",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q474024",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -740,6 +801,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q67204634",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q67204634",
   "collection": ""
  },
@@ -757,6 +819,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3337119",
   "genre": "Still life",
+  "license_basis": "PD-old-100",
   "qid": "Q3337119",
   "collection": ""
  },
@@ -774,6 +837,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q318947",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q318947",
   "collection": "National Gallery"
  },
@@ -791,6 +855,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2419166",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2419166",
   "collection": "Sanssouci Picture Gallery"
  },
@@ -808,6 +873,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q577248",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q577248",
   "collection": "Contarelli Chapel"
  },
@@ -825,6 +891,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1117094",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1117094",
   "collection": "Kunsthistorisches Museum"
  },
@@ -842,6 +909,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2337873",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2337873",
   "collection": "San Luigi dei Francesi"
  },
@@ -859,6 +927,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q541376",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q541376",
   "collection": "National Gallery of Ireland"
  },
@@ -876,6 +945,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3223625",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3223625",
   "collection": "Capitoline Museums"
  },
@@ -893,25 +963,9 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q597114",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q597114",
   "collection": "Department of Paintings of the Louvre"
- },
- {
-  "title": "Sacrifice of Isaac",
-  "artist": "Caravaggio",
-  "year": "1603",
-  "medium": "Painting",
-  "gallery": "Uffizi Gallery",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice_of_Isaac-Caravaggio_%28Uffizi%29.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Sacrifice_of_Isaac-Caravaggio_(Uffizi).jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q2284829",
-  "genre": "Religious",
-  "qid": "Q2284829",
-  "collection": "Uffizi Gallery"
  },
  {
   "title": "Christ on the Mount of Olives",
@@ -927,6 +981,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q976354",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q976354",
   "collection": "Gemäldegalerie Berlin"
  },
@@ -944,6 +999,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1460179",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1460179",
   "collection": "Royal Collection"
  },
@@ -961,6 +1017,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3463869",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3463869",
   "collection": "Galleria Nazionale d'Arte Antica"
  },
@@ -978,6 +1035,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1448701",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1448701",
   "collection": "Palazzo degli Alberti"
  },
@@ -995,6 +1053,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2627056",
   "genre": "Self-portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q2627056",
   "collection": "Borghese Collection"
  },
@@ -1012,6 +1071,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2325834",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2325834",
   "collection": "Palazzo Bianco"
  },
@@ -1029,6 +1089,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2715302",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2715302",
   "collection": "Galleria Borghese"
  },
@@ -1046,6 +1107,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2713203",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2713203",
   "collection": "Basilica of Saint Augustine in Campo Marzio"
  },
@@ -1063,6 +1125,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1460271",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q1460271",
   "collection": "Borghese Collection"
  },
@@ -1080,6 +1143,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3463877",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3463877",
   "collection": "The Nelson-Atkins Museum of Art"
  },
@@ -1097,6 +1161,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q931837",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q931837",
   "collection": "Musée des Beaux-Arts de Rouen"
  },
@@ -1114,6 +1179,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3292135",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3292135",
   "collection": ""
  },
@@ -1131,6 +1197,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2275353",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2275353",
   "collection": "Galleria Nazionale d'Arte Antica"
  },
@@ -1148,6 +1215,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2275371",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2275371",
   "collection": "Museo Civico Ala Ponzone"
  },
@@ -1165,6 +1233,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2715177",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2715177",
   "collection": "Borghese Collection"
  },
@@ -1182,6 +1251,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2097931",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2097931",
   "collection": "Pinacoteca di Brera"
  },
@@ -1199,6 +1269,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2721037",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2721037",
   "collection": "Kunsthistorisches Museum"
  },
@@ -1216,6 +1287,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q125869859",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q125869859",
   "collection": "Museo del Prado"
  },
@@ -1233,6 +1305,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q64869205",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q64869205",
   "collection": ""
  },
@@ -1250,6 +1323,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q698228",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q698228",
   "collection": "Kunsthistorisches Museum"
  },
@@ -1267,6 +1341,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1113749",
   "genre": "Portrait",
+  "license_basis": "PD-old-100",
   "qid": "Q1113749",
   "collection": "Galleria Palatina"
  },
@@ -1284,6 +1359,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q510799",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q510799",
   "collection": "Heritage Malta"
  },
@@ -1301,6 +1377,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2318325",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2318325",
   "collection": "National Gallery"
  },
@@ -1318,6 +1395,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3221991",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3221991",
   "collection": "Cleveland Museum of Art"
  },
@@ -1335,6 +1413,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2264942",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2264942",
   "collection": "Museo di Capodimonte"
  },
@@ -1352,6 +1431,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2429754",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q2429754",
   "collection": "Galleria Palatina"
  },
@@ -1369,6 +1449,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2727560",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q2727560",
   "collection": "St. John's Co-Cathedral"
  },
@@ -1386,6 +1467,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1132479",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1132479",
   "collection": "Santa Lucia al Sepolcro sanctuary"
  },
@@ -1403,6 +1485,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3202347",
   "genre": "Genre scene",
+  "license_basis": "PD-old-100",
   "qid": "Q3202347",
   "collection": "Galleria Palatina"
  },
@@ -1420,6 +1503,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2327715",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2327715",
   "collection": "Regional museum of Messina"
  },
@@ -1437,6 +1521,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1448728",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1448728",
   "collection": "Museum of Fine Arts of Nancy"
  },
@@ -1454,6 +1539,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2318957",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2318957",
   "collection": "Royal Collections Gallery"
  },
@@ -1471,6 +1557,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q969377",
   "genre": "Religious",
+  "license_basis": "CC0",
   "qid": "Q969377",
   "collection": "San Luigi dei Francesi"
  },
@@ -1488,6 +1575,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2277635",
   "genre": "Religious",
+  "license_basis": "PD-Art",
   "qid": "Q2277635",
   "collection": "Regional museum of Messina"
  },
@@ -1505,6 +1593,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q9015206",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q9015206",
   "collection": "Borghese Collection"
  },
@@ -1522,6 +1611,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q9015209",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q9015209",
   "collection": ""
  },
@@ -1539,6 +1629,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3463878",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q3463878",
   "collection": ""
  },
@@ -1556,6 +1647,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2270778",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2270778",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1573,6 +1665,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1132486",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1132486",
   "collection": "Gallerie d'Italia"
  },
@@ -1589,6 +1682,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q106492784",
+  "license_basis": "PD-old",
   "qid": "Q106492784",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1606,6 +1700,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q28108359",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q28108359",
   "collection": "Cultural Heritage Agency of the Netherlands Art Collection"
  },
@@ -1622,6 +1717,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q131627548",
+  "license_basis": "PD-old-100",
   "qid": "Q131627548",
   "collection": "Badminton House"
  },
@@ -1638,6 +1734,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q79035845",
+  "license_basis": "PD-old-100",
   "qid": "Q79035845",
   "collection": "Worcester Art Museum"
  }

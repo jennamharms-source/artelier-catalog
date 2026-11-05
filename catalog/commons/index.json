@@ -1,10 +1,24 @@
 {
- "generated": "2026-10-08T20:10Z",
+ "generated": "2026-11-05T07:09Z",
  "artists": [
+  {
+   "file": "becker.json",
+   "artist": "Paula Modersohn-Becker",
+   "works": 117,
+   "sensitive": 10,
+   "with_genre": 51
+  },
+  {
+   "file": "bellotto.json",
+   "artist": "Bernardo Bellotto",
+   "works": 212,
+   "sensitive": 0,
+   "with_genre": 84
+  },
   {
    "file": "blanchard.json",
    "artist": "Maria Blanchard",
-   "works": 8,
+   "works": 9,
    "sensitive": 0,
    "with_genre": 2
   },
@@ -14,6 +28,13 @@
    "works": 10,
    "sensitive": 1,
    "with_genre": 0
+  },
+  {
+   "file": "boznanska.json",
+   "artist": "Olga Boznańska",
+   "works": 153,
+   "sensitive": 0,
+   "with_genre": 106
   },
   {
    "file": "canaletto.json",
@@ -40,7 +61,7 @@
    "file": "cezanne.json",
    "artist": "Paul Cézanne",
    "works": 780,
-   "sensitive": 91,
+   "sensitive": 88,
    "with_genre": 587
   },
   {
@@ -61,7 +82,7 @@
    "file": "elgreco.json",
    "artist": "El Greco",
    "works": 488,
-   "sensitive": 3,
+   "sensitive": 2,
    "with_genre": 476
   },
   {
@@ -76,7 +97,14 @@
    "artist": "Paul Gauguin",
    "works": 723,
    "sensitive": 56,
-   "with_genre": 226
+   "with_genre": 227
+  },
+  {
+   "file": "gentileschi.json",
+   "artist": "Artemisia Gentileschi",
+   "works": 145,
+   "sensitive": 18,
+   "with_genre": 116
   },
   {
    "file": "grantwood.json",
@@ -88,7 +116,7 @@
   {
    "file": "grantwood_category.json",
    "artist": "Grant Wood",
-   "works": 12,
+   "works": 18,
    "sensitive": 0,
    "with_genre": 0
   },
@@ -98,6 +126,13 @@
    "works": 36,
    "sensitive": 0,
    "with_genre": 14
+  },
+  {
+   "file": "juandezurbaran.json",
+   "artist": "Juan de Zurbarán",
+   "works": 5,
+   "sensitive": 0,
+   "with_genre": 5
   },
   {
    "file": "kandinsky.json",
@@ -117,7 +152,7 @@
    "file": "klimt.json",
    "artist": "Gustav Klimt",
    "works": 238,
-   "sensitive": 22,
+   "sensitive": 21,
    "with_genre": 80
   },
   {
@@ -130,14 +165,14 @@
   {
    "file": "lautrec.json",
    "artist": "Henri de Toulouse-Lautrec",
-   "works": 532,
-   "sensitive": 15,
+   "works": 533,
+   "sensitive": 13,
    "with_genre": 84
   },
   {
    "file": "leger.json",
    "artist": "Fernand Léger",
-   "works": 345,
+   "works": 346,
    "sensitive": 6,
    "with_genre": 247
   },
@@ -151,15 +186,15 @@
   {
    "file": "manet.json",
    "artist": "Édouard Manet",
-   "works": 430,
-   "sensitive": 13,
-   "with_genre": 224
+   "works": 429,
+   "sensitive": 10,
+   "with_genre": 223
   },
   {
    "file": "marc.json",
    "artist": "Franz Marc",
    "works": 267,
-   "sensitive": 8,
+   "sensitive": 7,
    "with_genre": 40
   },
   {
@@ -179,44 +214,65 @@
   {
    "file": "monet.json",
    "artist": "Claude Monet",
-   "works": 1263,
-   "sensitive": 2,
-   "with_genre": 322
+   "works": 1267,
+   "sensitive": 1,
+   "with_genre": 325
+  },
+  {
+   "file": "north.json",
+   "artist": "Marianne North",
+   "works": 1037,
+   "sensitive": 0,
+   "with_genre": 116
   },
   {
    "file": "raphael.json",
    "artist": "Raphael",
-   "works": 252,
-   "sensitive": 12,
+   "works": 254,
+   "sensitive": 13,
    "with_genre": 193
   },
   {
    "file": "rembrandt.json",
    "artist": "Rembrandt",
-   "works": 1172,
+   "works": 1173,
    "sensitive": 20,
-   "with_genre": 687
+   "with_genre": 688
   },
   {
    "file": "renoir.json",
    "artist": "Pierre-Auguste Renoir",
-   "works": 1793,
-   "sensitive": 208,
-   "with_genre": 534
+   "works": 1950,
+   "sensitive": 226,
+   "with_genre": 548
   },
   {
    "file": "rousseau.json",
    "artist": "Henri Rousseau",
-   "works": 131,
-   "sensitive": 6,
-   "with_genre": 94
+   "works": 132,
+   "sensitive": 5,
+   "with_genre": 95
+  },
+  {
+   "file": "rowlandson.json",
+   "artist": "Thomas Rowlandson",
+   "works": 1635,
+   "sensitive": 18,
+   "with_genre": 69
   },
   {
    "file": "schiele.json",
    "artist": "Egon Schiele",
-   "works": 158,
+   "works": 160,
    "sensitive": 41,
-   "with_genre": 84
+   "with_genre": 85
+  },
+  {
+   "file": "schjerfbeck.json",
+   "artist": "Helene Schjerfbeck",
+   "works": 97,
+   "sensitive": 1,
+   "with_genre": 32
   },
   {
    "file": "stieglitz_category.json",
@@ -226,19 +282,33 @@
    "with_genre": 0
   },
   {
+   "file": "thaulow.json",
+   "artist": "Frits Thaulow",
+   "works": 107,
+   "sensitive": 0,
+   "with_genre": 48
+  },
+  {
    "file": "turner.json",
    "artist": "J.M.W. Turner",
    "works": 1011,
-   "sensitive": 8,
+   "sensitive": 7,
    "with_genre": 172
   },
   {
    "file": "vangogh.json",
    "artist": "Vincent van Gogh",
    "works": 1055,
-   "sensitive": 35,
-   "with_genre": 632
+   "sensitive": 13,
+   "with_genre": 631
+  },
+  {
+   "file": "walcott.json",
+   "artist": "Mary Vaux Walcott",
+   "works": 783,
+   "sensitive": 1,
+   "with_genre": 0
   }
  ],
- "total": 15407
+ "total": 19873
 }

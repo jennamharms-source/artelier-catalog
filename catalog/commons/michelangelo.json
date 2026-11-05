@@ -1,21 +1,5 @@
 [
  {
-  "title": "Saint Peter",
-  "artist": "Michelangelo",
-  "year": "1488",
-  "medium": "Drawing",
-  "gallery": "Staatliche Graphische Sammlung München",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%2C_drawing_from_the_tribute_money_by_masaccio_%28munich_Kupferstichkabinett%29.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Michelangelo,_drawing_from_the_tribute_money_by_masaccio_(munich_Kupferstichkabinett).jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q3947814",
-  "qid": "Q3947814",
-  "collection": "Staatliche Graphische Sammlung München"
- },
- {
   "title": "Étude de deux figures d'après Giotto",
   "artist": "Michelangelo",
   "year": "1491",
@@ -28,6 +12,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139827210",
+  "license_basis": "PD-old-100",
   "qid": "Q139827210",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -44,6 +29,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688189",
+  "license_basis": "PD-old-100",
   "qid": "Q18688189",
   "collection": "Albertina"
  },
@@ -61,6 +47,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2626926",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q2626926",
   "collection": ""
  },
@@ -78,8 +65,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1684762",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1684762",
   "collection": "Borghese Collection"
+ },
+ {
+  "title": "Johannesknabe",
+  "artist": "Michelangelo",
+  "year": "1495",
+  "medium": "Sculpture",
+  "gallery": "",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baccio_bandinelli%2C_san_giovanni_battista%2C_forse_copia_da_michelangelo%2C_louvre2.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Baccio_bandinelli,_san_giovanni_battista,_forse_copia_da_michelangelo,_louvre2.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3947286",
+  "license_basis": "PD-old-70",
+  "qid": "Q3947286",
+  "collection": ""
  },
  {
   "title": "Saint John the Baptist of Úbeda",
@@ -94,23 +99,8 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q20018302",
+  "license_basis": "PD",
   "qid": "Q20018302",
-  "collection": ""
- },
- {
-  "title": "San Giovannino",
-  "artist": "Michelangelo",
-  "year": "1495",
-  "medium": "Sculpture",
-  "gallery": "",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baccio_bandinelli%2C_san_giovanni_battista%2C_forse_copia_da_michelangelo%2C_louvre2.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Baccio_bandinelli,_san_giovanni_battista,_forse_copia_da_michelangelo,_louvre2.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": false,
-  "source_key": "wikidata:Q3947286",
-  "qid": "Q3947286",
   "collection": ""
  },
  {
@@ -127,6 +117,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2625967",
   "genre": "Nude",
+  "license_basis": "PD-old-70",
   "qid": "Q2625967",
   "collection": ""
  },
@@ -144,6 +135,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q1144620",
   "genre": "Nude",
+  "license_basis": "PD",
   "qid": "Q1144620",
   "collection": "Bargello National Museum"
  },
@@ -161,8 +153,26 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1473546",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1473546",
   "collection": "Uffizi Gallery"
+ },
+ {
+  "title": "Saint Peter",
+  "artist": "Michelangelo",
+  "year": "1500",
+  "medium": "Drawing",
+  "gallery": "Staatliche Graphische Sammlung München",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%2C_drawing_from_the_tribute_money_by_masaccio_%28munich_Kupferstichkabinett%29.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Michelangelo,_drawing_from_the_tribute_money_by_masaccio_(munich_Kupferstichkabinett).jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": false,
+  "source_key": "wikidata:Q3947814",
+  "license_basis": "PD-old-100",
+  "qid": "Q3947814",
+  "collection": "Staatliche Graphische Sammlung München"
  },
  {
   "title": "Studies of a Horse with Two Nude Riders and a Male Torso",
@@ -177,6 +187,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q19969176",
+  "license_basis": "PD-old-100",
   "qid": "Q19969176",
   "collection": "Museum Boijmans Van Beuningen"
  },
@@ -193,25 +204,9 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q19969179",
+  "license_basis": "PD-old-100",
   "qid": "Q19969179",
   "collection": "Museum Boijmans Van Beuningen"
- },
- {
-  "title": "Study of a Kneeling Nude Girl for The Entombment",
-  "artist": "Michelangelo",
-  "year": "1500",
-  "medium": "Drawing",
-  "gallery": "Department of Prints and Drawings of the Louvre",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Study_of_a_Kneeling_Nude_Girl_for_The_Entombment.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Study_of_a_Kneeling_Nude_Girl_for_The_Entombment.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": true,
-  "source_key": "wikidata:Q7628419",
-  "genre": "Nude",
-  "qid": "Q7628419",
-  "collection": "Department of Prints and Drawings of the Louvre"
  },
  {
   "title": "The Entombment",
@@ -227,6 +222,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q1213160",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1213160",
   "collection": "National Gallery"
  },
@@ -243,6 +239,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q3703163",
+  "license_basis": "PD-old-70",
   "qid": "Q3703163",
   "collection": ""
  },
@@ -259,6 +256,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q1774735",
+  "license_basis": "PD",
   "qid": "Q1774735",
   "collection": "Siena Cathedral"
  },
@@ -276,6 +274,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q21151813",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q21151813",
   "collection": "Albertina"
  },
@@ -293,6 +292,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688188",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688188",
   "collection": "Albertina"
  },
@@ -309,6 +309,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139822864",
+  "license_basis": "PD-old-100",
   "qid": "Q139822864",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -325,6 +326,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q18688187",
+  "license_basis": "PD-old-100",
   "qid": "Q18688187",
   "collection": "Kupferstichkabinett Berlin"
  },
@@ -342,6 +344,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3604444",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3604444",
   "collection": "Vatican Museums"
  },
@@ -358,6 +361,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3840677",
+  "license_basis": "PD-old-100",
   "qid": "Q3840677",
   "collection": "Vatican Museums"
  },
@@ -375,6 +379,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3631556",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3631556",
   "collection": "Vatican Museums"
  },
@@ -392,6 +397,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3482971",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3482971",
   "collection": "Vatican Museums"
  },
@@ -409,6 +415,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3721239",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3721239",
   "collection": "Vatican Museums"
  },
@@ -426,6 +433,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3960006",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3960006",
   "collection": "Vatican Museums"
  },
@@ -442,6 +450,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3736321",
+  "license_basis": "PD-old-100",
   "qid": "Q3736321",
   "collection": "Vatican Museums"
  },
@@ -459,6 +468,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3761951",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3761951",
   "collection": "Vatican Museums"
  },
@@ -476,6 +486,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3765998",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3765998",
   "collection": "Vatican Museums"
  },
@@ -493,6 +504,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3769181",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3769181",
   "collection": "Vatican Museums"
  },
@@ -509,6 +521,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3701849",
+  "license_basis": "PD-old",
   "qid": "Q3701849",
   "collection": "Vatican Museums"
  },
@@ -525,6 +538,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3802366",
+  "license_basis": "PD-old-100",
   "qid": "Q3802366",
   "collection": "Vatican Museums"
  },
@@ -542,6 +556,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3760996",
   "genre": "Religious",
+  "license_basis": "PD-Art",
   "qid": "Q3760996",
   "collection": "Vatican Museums"
  },
@@ -558,6 +573,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3765046",
+  "license_basis": "PD-old-100",
   "qid": "Q3765046",
   "collection": "Vatican Museums"
  },
@@ -574,6 +590,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3765109",
+  "license_basis": "PD-old-100",
   "qid": "Q3765109",
   "collection": "Vatican Museums"
  },
@@ -591,6 +608,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4023582",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4023582",
   "collection": "Vatican Museums"
  },
@@ -608,6 +626,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009315",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4009315",
   "collection": "Sistine Chapel"
  },
@@ -625,6 +644,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009323",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4009323",
   "collection": "Sistine Chapel"
  },
@@ -642,6 +662,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3717841",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q3717841",
   "collection": "Sistine Chapel"
  },
@@ -659,6 +680,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3944655",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3944655",
   "collection": "Sistine Chapel"
  },
@@ -676,6 +698,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3887821",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3887821",
   "collection": "Vatican Museums"
  },
@@ -693,6 +716,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4024821",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4024821",
   "collection": "Vatican Museums"
  },
@@ -710,6 +734,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3707697",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3707697",
   "collection": "Sistine Chapel"
  },
@@ -727,6 +752,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3703646",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3703646",
   "collection": "Vatican Museums"
  },
@@ -743,6 +769,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q116621556",
+  "license_basis": "PD-old-100",
   "qid": "Q116621556",
   "collection": "Sistine Chapel"
  },
@@ -760,6 +787,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688191",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688191",
   "collection": "Albertina"
  },
@@ -776,6 +804,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q111822152",
+  "license_basis": "PD-old",
   "qid": "Q111822152",
   "collection": ""
  },
@@ -793,6 +822,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009316",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4009316",
   "collection": "Sistine Chapel"
  },
@@ -810,6 +840,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009320",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4009320",
   "collection": "Sistine Chapel"
  },
@@ -827,6 +858,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3898510",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3898510",
   "collection": "Vatican Museums"
  },
@@ -844,6 +876,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3614330",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3614330",
   "collection": "Vatican Museums"
  },
@@ -861,6 +894,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009319",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q4009319",
   "collection": "Sistine Chapel"
  },
@@ -877,6 +911,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3624750",
+  "license_basis": "PD-old-100",
   "qid": "Q3624750",
   "collection": "Vatican Museums"
  },
@@ -893,6 +928,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009317",
+  "license_basis": "PD-old-100",
   "qid": "Q4009317",
   "collection": "Sistine Chapel"
  },
@@ -910,6 +946,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3960003",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3960003",
   "collection": "Vatican Museums"
  },
@@ -927,6 +964,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3792087",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3792087",
   "collection": "Vatican Museums"
  },
@@ -944,6 +982,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3869770",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3869770",
   "collection": "Vatican Museums"
  },
@@ -961,6 +1000,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3736323",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3736323",
   "collection": "Sistine Chapel"
  },
@@ -978,6 +1018,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3945680",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3945680",
   "collection": "Vatican Museums"
  },
@@ -995,6 +1036,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3960012",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3960012",
   "collection": "Vatican Museums"
  },
@@ -1012,6 +1054,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3939302",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3939302",
   "collection": "Vatican Museums"
  },
@@ -1028,6 +1071,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29384857",
+  "license_basis": "CC0",
   "qid": "Q29384857",
   "collection": "Metropolitan Museum of Art"
  },
@@ -1044,6 +1088,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q114315545",
+  "license_basis": "PD-old-100",
   "qid": "Q114315545",
   "collection": "Teylers Museum"
  },
@@ -1060,6 +1105,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009321",
+  "license_basis": "PD-old-100",
   "qid": "Q4009321",
   "collection": "Sistine Chapel"
  },
@@ -1076,6 +1122,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q4009322",
+  "license_basis": "PD-old-100",
   "qid": "Q4009322",
   "collection": "Sistine Chapel"
  },
@@ -1093,6 +1140,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3957934",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3957934",
   "collection": "Sistine Chapel"
  },
@@ -1110,6 +1158,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q500242",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q500242",
   "collection": "Vatican Museums"
  },
@@ -1127,6 +1176,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3696835",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3696835",
   "collection": "Vatican Museums"
  },
@@ -1144,6 +1194,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3696827",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3696827",
   "collection": "Sistine Chapel"
  },
@@ -1161,6 +1212,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3925593",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3925593",
   "collection": "Sistine Chapel"
  },
@@ -1178,6 +1230,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3955632",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3955632",
   "collection": "Sistine Chapel"
  },
@@ -1195,6 +1248,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3960008",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3960008",
   "collection": "Vatican Museums"
  },
@@ -1212,6 +1266,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3955636",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3955636",
   "collection": "Vatican Museums"
  },
@@ -1229,6 +1284,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q83862",
   "genre": "Nude",
+  "license_basis": "CC0",
   "qid": "Q83862",
   "collection": "Department of Sculptures of the Louvre"
  },
@@ -1245,6 +1301,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3911405",
+  "license_basis": "CC0",
   "qid": "Q3911405",
   "collection": "Department of Sculptures of the Louvre"
  },
@@ -1261,6 +1318,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q139823803",
+  "license_basis": "PD-old-100",
   "qid": "Q139823803",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1277,6 +1335,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139823823",
+  "license_basis": "PD-old-100",
   "qid": "Q139823823",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1293,6 +1352,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3992615",
+  "license_basis": "CC0",
   "qid": "Q3992615",
   "collection": ""
  },
@@ -1310,6 +1370,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3842489",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q3842489",
   "collection": "Casa Buonarroti"
  },
@@ -1326,6 +1387,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q115687045",
+  "license_basis": "CC0",
   "qid": "Q115687045",
   "collection": "Jean van Caloen Foundation"
  },
@@ -1342,6 +1404,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q93264994",
+  "license_basis": "PD-old-100",
   "qid": "Q93264994",
   "collection": "Palais des Beaux-Arts de Lille"
  },
@@ -1358,6 +1421,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q124348413",
+  "license_basis": "CC0",
   "qid": "Q124348413",
   "collection": "Medici Chapels"
  },
@@ -1375,6 +1439,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q2154351",
   "genre": "Nude",
+  "license_basis": "PD-1996",
   "qid": "Q2154351",
   "collection": "Bargello National Museum"
  },
@@ -1392,6 +1457,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3057930",
   "genre": "Nude",
+  "license_basis": "PD",
   "qid": "Q3057930",
   "collection": "Galleria dell'Accademia"
  },
@@ -1408,6 +1474,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3057936",
+  "license_basis": "PD",
   "qid": "Q3057936",
   "collection": "Galleria dell'Accademia"
  },
@@ -1424,6 +1491,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q768337",
+  "license_basis": "PD",
   "qid": "Q768337",
   "collection": "Galleria dell'Accademia"
  },
@@ -1441,6 +1509,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688192",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688192",
   "collection": "Albertina"
  },
@@ -1458,6 +1527,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3829347",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3829347",
   "collection": "Alfonso I d'Este"
  },
@@ -1475,6 +1545,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q18688190",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q18688190",
   "collection": "Albertina"
  },
@@ -1491,6 +1562,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3177994",
+  "license_basis": "PD",
   "qid": "Q3177994",
   "collection": "Galleria dell'Accademia"
  },
@@ -1508,6 +1580,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q3877894",
   "genre": "Religious",
+  "license_basis": "PD-Art",
   "qid": "Q3877894",
   "collection": ""
  },
@@ -1524,6 +1597,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q17025697",
+  "license_basis": "PD-old-100",
   "qid": "Q17025697",
   "collection": "Royal Collection"
  },
@@ -1541,6 +1615,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3649506",
   "genre": "Mythological",
+  "license_basis": "PD-old-100",
   "qid": "Q3649506",
   "collection": "British Museum"
  },
@@ -1557,24 +1632,9 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q29524825",
+  "license_basis": "PD",
   "qid": "Q29524825",
   "collection": "National Museum in Warsaw"
- },
- {
-  "title": "Pietà for Vittoria Colonna",
-  "artist": "Michelangelo",
-  "year": "1538",
-  "medium": "Drawing",
-  "gallery": "Isabella Stewart Gardner Museum",
-  "country": "Italy",
-  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%C3%A0_per_Vittoria_Colonna.jpg?width=1200",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Piet%C3%A0_per_Vittoria_Colonna.jpg",
-  "attribution": "Wikimedia Commons",
-  "license": "Public domain",
-  "is_age_restricted": true,
-  "source_key": "wikidata:Q3904414",
-  "qid": "Q3904414",
-  "collection": "Isabella Stewart Gardner Museum"
  },
  {
   "title": "The Holy Family with Saint John the Baptist",
@@ -1590,6 +1650,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q1213320",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q1213320",
   "collection": "Ashmolean Museum"
  },
@@ -1606,6 +1667,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q2236899",
+  "license_basis": "PD-old-100",
   "qid": "Q2236899",
   "collection": "Holkham Hall"
  },
@@ -1623,6 +1685,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2432043",
   "genre": "Religious",
+  "license_basis": "PD-old",
   "qid": "Q2432043",
   "collection": "Cappella Paolina"
  },
@@ -1640,6 +1703,7 @@
   "is_age_restricted": true,
   "source_key": "wikidata:Q3698232",
   "genre": "Nude",
+  "license_basis": "PD-old-100",
   "qid": "Q3698232",
   "collection": "British Museum"
  },
@@ -1657,6 +1721,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q116947968",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q116947968",
   "collection": ""
  },
@@ -1674,11 +1739,12 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q108507820",
   "genre": "Allegory",
+  "license_basis": "PD-old-100",
   "qid": "Q108507820",
   "collection": "Condé Museum"
  },
  {
-  "title": "Bozzetto per un crocifisso",
+  "title": "Entwurf eines Kruzifixes",
   "artist": "Michelangelo",
   "year": "1562",
   "medium": "Sculpture",
@@ -1690,6 +1756,7 @@
   "license": "CC0",
   "is_age_restricted": false,
   "source_key": "wikidata:Q3643325",
+  "license_basis": "CC0",
   "qid": "Q3643325",
   "collection": "Casa Buonarroti"
  },
@@ -1706,6 +1773,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q113841409",
+  "license_basis": "PD-old-100",
   "qid": "Q113841409",
   "collection": ""
  },
@@ -1722,6 +1790,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139807742",
+  "license_basis": "PD-old-70",
   "qid": "Q139807742",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1738,6 +1807,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q139822870",
+  "license_basis": "PD-old-70",
   "qid": "Q139822870",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1754,6 +1824,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q108749481",
+  "license_basis": "PD-old-100",
   "qid": "Q108749481",
   "collection": "Nationalmuseum"
  },
@@ -1770,6 +1841,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q139823751",
+  "license_basis": "PD-old-70",
   "qid": "Q139823751",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1786,8 +1858,26 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q660876",
+  "license_basis": "PD-1996",
   "qid": "Q660876",
   "collection": ""
+ },
+ {
+  "title": "Pietà for Vittoria Colonna",
+  "artist": "Michelangelo",
+  "year": "",
+  "medium": "Drawing",
+  "gallery": "Isabella Stewart Gardner Museum",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%C3%A0_per_Vittoria_Colonna.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Piet%C3%A0_per_Vittoria_Colonna.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": true,
+  "source_key": "wikidata:Q3904414",
+  "license_basis": "PD-old-100",
+  "qid": "Q3904414",
+  "collection": "Isabella Stewart Gardner Museum"
  },
  {
   "title": "Study for the Nude Youth over the Prophet Daniel (recto)",
@@ -1802,8 +1892,27 @@
   "license": "CC0",
   "is_age_restricted": true,
   "source_key": "wikidata:Q60757233",
+  "license_basis": "CC0",
   "qid": "Q60757233",
   "collection": "Cleveland Museum of Art"
+ },
+ {
+  "title": "Study of a Kneeling Nude Girl for The Entombment",
+  "artist": "Michelangelo",
+  "year": "",
+  "medium": "Drawing",
+  "gallery": "Department of Prints and Drawings of the Louvre",
+  "country": "Italy",
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Study_of_a_Kneeling_Nude_Girl_for_The_Entombment.jpg?width=1200",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Study_of_a_Kneeling_Nude_Girl_for_The_Entombment.jpg",
+  "attribution": "Wikimedia Commons",
+  "license": "Public domain",
+  "is_age_restricted": true,
+  "source_key": "wikidata:Q7628419",
+  "genre": "Nude",
+  "license_basis": "PD-old-100",
+  "qid": "Q7628419",
+  "collection": "Department of Prints and Drawings of the Louvre"
  },
  {
   "title": "The Last Judgment",
@@ -1819,6 +1928,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q567861",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q567861",
   "collection": "Sistine Chapel"
  },
@@ -1836,6 +1946,7 @@
   "is_age_restricted": false,
   "source_key": "wikidata:Q2327759",
   "genre": "Religious",
+  "license_basis": "PD-old-100",
   "qid": "Q2327759",
   "collection": "Kimbell Art Museum"
  },
@@ -1852,6 +1963,7 @@
   "license": "Public domain",
   "is_age_restricted": false,
   "source_key": "wikidata:Q139822761",
+  "license_basis": "PD-old-70",
   "qid": "Q139822761",
   "collection": "Department of Prints and Drawings of the Louvre"
  },
@@ -1868,6 +1980,7 @@
   "license": "Public domain",
   "is_age_restricted": true,
   "source_key": "wikidata:Q139822978",
+  "license_basis": "PD-old-70",
   "qid": "Q139822978",
   "collection": "Department of Prints and Drawings of the Louvre"
  }

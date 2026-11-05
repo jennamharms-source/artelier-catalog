@@ -824,7 +824,7 @@
   "artist": "Jacques-Louis David",
   "year": "1781",
   "medium": "Painting",
-  "gallery": "Musée Ingres Bourdelle",
+  "gallery": "Museum Ingres Bourdelle",
   "country": "France",
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e_Ingres-Bourdelle_-_B%C3%A9lisaire_reconnu_par_un_soldat_-_Jacques-Louis_David_-_Joconde06070000088.jpg?width=1200",
   "source_url": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Ingres-Bourdelle_-_B%C3%A9lisaire_reconnu_par_un_soldat_-_Jacques-Louis_David_-_Joconde06070000088.jpg",
@@ -834,7 +834,7 @@
   "source_key": "wikidata:Q112056866",
   "license_basis": "PD-old-100",
   "qid": "Q112056866",
-  "collection": "Musée Ingres Bourdelle"
+  "collection": "Museum Ingres Bourdelle"
  },
  {
   "title": "Andromache Mourning Hector",
@@ -2309,7 +2309,7 @@
   "collection": "Fondation Dosne-Thiers"
  },
  {
-  "title": "The Coronation of Gabo Napoleon",
+  "title": "The Coronation of Napoleon",
   "artist": "Jacques-Louis David",
   "year": "1807",
   "medium": "Painting",
