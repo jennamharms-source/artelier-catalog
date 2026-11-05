@@ -135,5 +135,48 @@
   "nationality": "German Empire",
   "art_movement": "Expressionism",
   "description": "German expressionist painter (1876–1907)"
+ },
+ {
+  "shard": "gould-0000",
+  "artist": "Elizabeth Gould",
+  "qid": "Q253875",
+  "added": "2026-11-05",
+  "birth_year": 1804,
+  "death_year": 1841,
+  "nationality": "United Kingdom of Great Britain and Ireland",
+  "description": "English artist, illustrator and lithographer (1804-1841)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Gould.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Elizabeth_Gould.jpg",
+   "image_license": "public_domain",
+   "image_credit": "unknown (This image is from an oil portrait by an unknown artist, painted after Elizabeth’s death in 1841)"
+  }
+ },
+ {
+  "shard": "wyspianski-0000",
+  "artist": "Stanisław Wyspiański",
+  "qid": "Q312627",
+  "added": "2026-11-05",
+  "birth_year": 1869,
+  "death_year": 1907,
+  "nationality": "Kingdom of Galicia and Lodomeria",
+  "art_movement": "Young Poland",
+  "description": "Polish playwright, painter and poet (1869–1907)"
+ },
+ {
+  "shard": "callot-0000",
+  "artist": "Jacques Callot",
+  "qid": "Q460124",
+  "added": "2026-11-05",
+  "birth_year": 1592,
+  "death_year": 1635,
+  "nationality": "Duchy of Lorraine",
+  "description": "Flemish-French engraver (c.1592–1635)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Callot.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Jacques_Callot.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Ignazio Enrico Hugford, after Antoon van Dyck (1599–1641), painter of the original"
+  }
  }
 ]

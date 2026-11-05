@@ -66,7 +66,11 @@
     "print": 20,
     "drawing": 1950,
     "total": 2328
-   }
+   },
+   "artelier_works": 1,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 2235,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q920924",
@@ -183,7 +187,9 @@
     "print": 62,
     "drawing": 33,
     "total": 1395
-   }
+   },
+   "artelier_works": 60,
+   "artelier_checked": "2026-11-05"
   },
   {
    "qid": "Q460124",
@@ -199,7 +205,11 @@
     "print": 1364,
     "drawing": 15,
     "total": 1388
-   }
+   },
+   "artelier_works": 1,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 1388,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q160422",
@@ -275,7 +285,9 @@
     "print": 673,
     "drawing": 37,
     "total": 1082
-   }
+   },
+   "artelier_works": 40,
+   "artelier_checked": "2026-11-05"
   },
   {
    "qid": "Q148475",
@@ -294,7 +306,9 @@
     "print": 68,
     "drawing": 10,
     "total": 1076
-   }
+   },
+   "artelier_works": 70,
+   "artelier_checked": "2026-11-05"
   },
   {
    "qid": "Q271648",
@@ -332,7 +346,9 @@
     "print": 76,
     "drawing": 9,
     "total": 1018
-   }
+   },
+   "artelier_works": 40,
+   "artelier_checked": "2026-11-05"
   },
   {
    "qid": "Q335022",
@@ -622,7 +638,11 @@
     "print": 5,
     "drawing": 2,
     "total": 698
-   }
+   },
+   "artelier_works": 8,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 517,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q212600",
@@ -16131,7 +16151,11 @@
     "print": 0,
     "drawing": 0,
     "total": 78
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 78,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q18508680",
@@ -16517,7 +16541,11 @@
     "print": 0,
     "drawing": 0,
     "total": 77
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 77,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q2185186",
@@ -16977,7 +17005,11 @@
     "print": 0,
     "drawing": 1,
     "total": 76
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 76,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q447682",
@@ -19362,7 +19394,11 @@
     "print": 0,
     "drawing": 1,
     "total": 68
-   }
+   },
+   "artelier_works": 6,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 66,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q367970",
@@ -23139,7 +23175,11 @@
     "print": 0,
     "drawing": 0,
     "total": 59
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-05",
+   "commons_clean": 36,
+   "commons_checked": "2026-11-05"
   },
   {
    "qid": "Q2860099",
