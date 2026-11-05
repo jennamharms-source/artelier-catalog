@@ -1,0 +1,14 @@
+[
+ {
+  "shard": "frick-0000",
+  "museum": "The Frick Collection",
+  "gallery": "The Frick Collection",
+  "added": "2026-11-05"
+ },
+ {
+  "shard": "dulwich-0000",
+  "museum": "Dulwich Picture Gallery",
+  "gallery": "Dulwich Picture Gallery",
+  "added": "2026-11-05"
+ }
+]
