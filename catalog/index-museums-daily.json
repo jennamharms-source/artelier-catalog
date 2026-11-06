@@ -22,5 +22,23 @@
     "museum": "Ashmolean Museum",
     "gallery": "Ashmolean Museum",
     "added": "2026-11-06"
+  },
+  {
+    "shard": "louvre-0000",
+    "museum": "Louvre Museum",
+    "gallery": "Louvre Museum",
+    "added": "2026-11-06"
+  },
+  {
+    "shard": "tate-0000",
+    "museum": "Tate",
+    "gallery": "Tate Britain",
+    "added": "2026-11-06"
+  },
+  {
+    "shard": "vatican-0000",
+    "museum": "Vatican Museums",
+    "gallery": "Vatican Museums",
+    "added": "2026-11-06"
   }
 ]

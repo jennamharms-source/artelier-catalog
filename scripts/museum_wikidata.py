@@ -8,16 +8,32 @@
 # usage: museum_wikidata.py <museum QID> <slug> "<gallery name as Artelier spells it>" [--types painting,watercolor,pastel] [--inv REGEX]
 #   --inv: keep only works whose inventory number (P217) matches, e.g. '^NG' for the National Gallery, whose Wikidata
 #          collection still lists ~1,500 works transferred to Tate (inventory N0…) without an end date.
+#   --loc: a work whose location (P276) is another museum (a long-term loan, e.g. Louvre paintings in Lyon) gets that
+#          museum as its gallery: the Artelier spelling from LOC_NAMES, else its English label. Rooms, storage and
+#          wartime depots count as the museum itself.
+#   --tate: Tate's collection is one Wikidata collection; a work goes to "Tate Britain" or "Tate Modern" by its P276,
+#          else Tate's own split: British artists -> Tate Britain, other artists' works from 1900 on -> Tate Modern.
+# Titles come from the work's title (P1476) in English, then the English label, then the title or label in the work's
+# own language (English labels are sometimes cut short, e.g. Dulwich's "Susanna and the Elder").
+# Anonymous works with a qualified credit (anonymous, after Rubens) are credited "After Peter Paul Rubens" and the
+# like, not "Unknown artist"; works whose named creator is qualified are still left out as copies/attributions.
 import json, re, sys, time, collections, urllib.request, urllib.parse
 
 ROOT = __file__.rsplit('/scripts/', 1)[0]
 UA = {'User-Agent': 'ArtelierCatalogBot/1.0 (artelier@artelierapp.co)', 'Accept': 'application/sparql-results+json'}
-TYPES = {'painting': 'Q3305213', 'watercolor': 'Q18761202', 'pastel': 'Q12043905', 'panel painting': 'Q15711026'}
-MEDIUM = {'Q3305213': 'Painting', 'Q15711026': 'Painting', 'Q18761202': 'Watercolor', 'Q12043905': 'Pastel'}
+TYPES = {'painting': 'Q3305213', 'watercolor': 'Q18761202', 'pastel': 'Q12043905', 'panel painting': 'Q15711026', 'fresco': 'Q134194'}
+MEDIUM = {'Q3305213': 'Painting', 'Q15711026': 'Painting', 'Q18761202': 'Watercolor', 'Q12043905': 'Pastel', 'Q134194': 'Fresco'}
 ANON = {'Q4233718'}
 TITLE_LANGS = ['en', 'fr', 'mul', 'de', 'it', 'es', 'nl', 'ru', 'pl', 'sv', 'da', 'nb', 'fi', 'pt', 'ca', 'cs']   # English first, else the work's own language                                       # "anonymous"
 # creator qualifiers that make the work not simply by that artist
 COPY_QUAL = {'P1773', 'P1774', 'P1775', 'P1776', 'P1777', 'P1780', 'P1877', 'P1778'}  # attributed, workshop, follower, circle, manner, school, after, forgery
+QUAL_NAME = {'P1773': 'Attributed to', 'P1774': 'Workshop of', 'P1775': 'Follower of', 'P1776': 'Circle of', 'P1777': 'Manner of',
+             'P1780': 'School of', 'P1877': 'After'}
+LOC_NAMES = {'Musée du Petit Palais': 'Petit Palais', 'Petit Palais': 'Petit Palais', 'National Gallery': 'National Gallery',
+             'National Portrait Gallery': 'National Portrait Gallery', "Musée d'Orsay": "Musée d'Orsay", 'Tate Britain': 'Tate Britain',
+             'Tate Modern': 'Tate Modern', 'Louvre Museum': 'Louvre Museum', 'Museo del Prado': 'Prado Museum',
+             'Museum of Fine Arts, Boston': 'Museum of Fine Arts, Boston'}
+LOC_HOME = re.compile(r'\b(room|storage|salle|piazzetta|aile|wing|galerie|grande galerie|pavillon|collecting point|führermuseum|depot|united states|reserve)\b', re.I)
 NATURE_BAD = {'Q230768', 'Q18603603', 'Q56644435', 'Q5727902', 'Q100349848'}  # attribution, hypothetically, probably, circa-attr, disputed
 NUDEQ = {'Q40446', 'Q10791', 'Q114548070', 'Q9103'}
 NUDE_CAT = ('nude', 'naked', 'odalisque', 'bathers', 'erotic')
@@ -88,6 +104,13 @@ def main():
             W[qid(b, 'item')].setdefault('labels', {})[b['l']['xml:lang']] = b['l']['value']
         for b in sparql('SELECT ?item ?v ?p WHERE { VALUES ?item { %s } ?item p:P571/psv:P571 ?n . ?n wikibase:timeValue ?v ; wikibase:timePrecision ?p }' % vals):
             W[qid(b, 'item')].setdefault('dates', []).append((b['v']['value'], b['p']['value']))
+        for b in sparql('SELECT ?item ?t WHERE { VALUES ?item { %s } ?item wdt:P1476 ?t }' % vals):
+            W[qid(b, 'item')].setdefault('titles', {}).setdefault(b['t'].get('xml:lang', 'und'), b['t']['value'])
+        for b in sparql('SELECT ?item ?l ?ll ?lt WHERE { VALUES ?item { %s } ?item wdt:P276 ?l . OPTIONAL { ?l rdfs:label ?ll FILTER(LANG(?ll)="en") } '
+                        'OPTIONAL { ?l wdt:P31 ?lt } }' % vals):
+            loc = W[qid(b, 'item')].setdefault('locs', {}).setdefault(qid(b, 'l') if '/entity/' in b['l']['value'] else 'GENID', dict(name=None, types=set()))
+            if 'll' in b: loc['name'] = b['ll']['value']
+            if 'lt' in b: loc['types'].add(qid(b, 'lt'))
         for b in sparql('SELECT ?item ?c ?q ?qv WHERE { VALUES ?item { %s } ?item p:P170 ?s . ?s ps:P170 ?c . OPTIONAL { ?s ?q ?qv . '
                         'FILTER(STRSTARTS(STR(?q), "http://www.wikidata.org/prop/qualifier/")) } }' % vals):
             w = W[qid(b, 'item')]; c = b['c']['value'].rsplit('/', 1)[1] if '/entity/' in b['c']['value'] else 'GENID'
@@ -95,13 +118,16 @@ def main():
             if 'q' in b:
                 p = b['q']['value'].rsplit('/', 1)[1]
                 if p in COPY_QUAL: cr.add('copy')
+                if p in QUAL_NAME and 'qv' in b and '/entity/Q' in b['qv']['value'] and (c in ANON or c == 'GENID'):
+                    w.setdefault('qual', set()).add((p, b['qv']['value'].rsplit('/', 1)[1]))
                 if p == 'P5102' and 'qv' in b and b['qv']['value'].rsplit('/', 1)[1] in NATURE_BAD: cr.add('attributed')
         for b in sparql('SELECT DISTINCT ?item ?g WHERE { VALUES ?item { %s } { ?item wdt:P136 ?g } UNION { ?item wdt:P180 ?g } }' % vals):
             W[qid(b, 'item')].setdefault('gd', set()).add(qid(b, 'g'))
         for b in sparql('SELECT ?item ?inv WHERE { VALUES ?item { %s } ?item wdt:P217 ?inv }' % vals):
             W[qid(b, 'item')].setdefault('inv', set()).add(b['inv']['value'])
         print('  details', min(i + 250, len(items)), '/', len(items), flush=True)
-    people = sorted({c for w in W.values() for c in w.get('creators', {}) if c not in ('GENID',) and c not in ANON})
+    people = sorted({c for w in W.values() for c in w.get('creators', {}) if c not in ('GENID',) and c not in ANON} |
+                    {v for w in W.values() for _, v in w.get('qual', ())})
     P = {c: {} for c in people}
     for i in range(0, len(people), 250):
         vals = ' '.join('wd:' + q for q in people[i:i + 250])
@@ -133,15 +159,18 @@ def main():
             else: break
         time.sleep(0.3)
         if i % 1000 == 0: print('  commons', i, '/', len(files), flush=True)
-    out, why = [], collections.Counter()
+    out, why, gal = [], collections.Counter(), collections.Counter()
     for q in items:
         w = W[q]; labs = w.get('labels', {})
-        tlang = next((l for l in TITLE_LANGS if labs.get(l, '').strip() and not re.fullmatch(r'Q\d+', labs[l].strip())), None)
+        tit = {l: v for l, v in w.get('titles', {}).items() if v.strip()}
+        cands = [(tit, 'en'), (labs, 'en')] + [(d, l) for l in TITLE_LANGS[1:] for d in (tit, labs)]
+        src, tlang = next(((d, l) for d, l in cands if d.get(l, '').strip() and not re.fullmatch(r'Q\d+', d[l].strip())), (None, None))
         if not tlang: why['no title'] += 1; continue
-        t = labs[tlang].strip()
+        t = src[tlang].strip()
         cr = w.get('creators', {})
         real = {c: f for c, f in cr.items() if c not in ANON and c != 'GENID'}
         if any(f for f in real.values()): why['attributed / workshop / follower'] += 1; continue
+        if real and any(f for c, f in cr.items() if c in ANON or c == 'GENID'): why['attributed / workshop / follower'] += 1; continue   # "X" plus "workshop of X"
         if len(real) > 1: why['several artists'] += 1; continue
         if COPY_T.search(t): why['copy (title)'] += 1; continue
         if real and next(iter(real)) == 'Q5593' and any(year_of(v) > 1923 for v, _ in w.get('dates', [])): why['Picasso after 1923 (owner rule)'] += 1; continue
@@ -151,6 +180,9 @@ def main():
             artist, death, country = p['name'], p.get('death'), COUNTRY.get(p.get('country'), p.get('country') or '')
         else:
             artist, death, country = 'Unknown artist', None, ''
+            qs = sorted(w.get('qual', ()))
+            if len(qs) == 1 and P.get(qs[0][1], {}).get('name') and 'Q5' in P[qs[0][1]].get('p31', set()):
+                artist = QUAL_NAME[qs[0][0]] + ' ' + P[qs[0][1]]['name']
         good = sorted(f for f in w['imgs'] if OK.get((C.get(f) or {}).get('lic')) and not re.match(r'after ', f, re.I) and not COPY_T.search(f))
         if not good: why['no PD/CC0 file'] += 1; continue
         f = good[0]; cats = C[f]['cats']
@@ -165,7 +197,14 @@ def main():
         if not lb: lb = 'CC0' if lic == 'CC0' else 'PD'
         nude = bool(NUDEQ & w.get('gd', set())) or any(n in x.lower() for x in cats for n in NUDE_CAT) or bool(NUDE_W.search(t))
         u = urllib.parse.quote(f.replace(' ', '_'))
-        r = dict(title=t.rstrip('.').strip(), artist=artist, year=year, medium=MEDIUM.get(sorted(w['types'])[0], 'Painting'), gallery=gname,
+        g = gname
+        away = sorted(v['name'] for v in w.get('locs', {}).values() if v['name'] and not LOC_HOME.search(v['name']) and v['name'] not in ('Tate', gname))
+        if '--loc' in sys.argv and len(away) == 1: g = LOC_NAMES.get(away[0], away[0])
+        if '--tate' in sys.argv:
+            here = sorted(v['name'] for v in w.get('locs', {}).values() if v['name'] in ('Tate Britain', 'Tate Modern'))
+            ys = [year_of(v) for v, _ in w.get('dates', [])]
+            g = here[0] if here else LOC_NAMES.get(away[0], away[0]) if len(away) == 1 else 'Tate Britain' if country == 'United Kingdom' or not ys or min(ys) < 1900 else 'Tate Modern'
+        r = dict(title=t.rstrip('.').strip(), artist=artist, year=year, medium=MEDIUM.get(sorted(w['types'])[0], 'Painting'), gallery=g,
                  image_url='https://commons.wikimedia.org/wiki/Special:FilePath/%s?width=1200' % u, source_url='https://commons.wikimedia.org/wiki/File:%s' % u,
                  source_key='wikidata:' + q, same_as=['commons:' + f], is_age_restricted=nude, license=lic, license_basis=lb, attribution='Wikimedia Commons',
                  country=country, title_language='und' if tlang == 'mul' else tlang)
@@ -175,7 +214,7 @@ def main():
             if not ok: why['inventory number is not this museum\'s'] += 1; continue
             w['inv'] = ok
         if w.get('inv'): r['inventory_number'] = sorted(w['inv'])[0]
-        out.append(r)
+        out.append(r); gal[g] += 1
     # unique titles per artist (the importer dedupes on normalized title|artist): add year, then inventory number
     key = lambda r: (re.sub(r'[^a-z0-9]+', ' ', r['title'].lower()).strip(), r['artist'])
     for add in ('year', 'inventory_number'):
@@ -191,7 +230,7 @@ def main():
     out.sort(key=lambda r: (r['artist'], r['year'] or '9999', r['title']))
     json.dump(out, open('%s/catalog/%s-0000.json' % (ROOT, slug), 'w'), ensure_ascii=False, indent=1)
     print(json.dumps(dict(shard=slug + '-0000', works=len(out), artists=len({r['artist'] for r in out}), unknown_artist=sum(r['artist'] == 'Unknown artist' for r in out),
-                          nudes=sum(r['is_age_restricted'] for r in out), left_out=dict(why)), ensure_ascii=False))
+                          nudes=sum(r['is_age_restricted'] for r in out), left_out=dict(why), galleries=dict(gal.most_common(25))), ensure_ascii=False))
 
 
 if __name__ == '__main__':
