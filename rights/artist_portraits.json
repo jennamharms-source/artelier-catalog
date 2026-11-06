@@ -6891,6 +6891,12 @@
   "image_license": "public_domain",
   "image_credit": "Cornelis Troost"
  },
+ "Q263025": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrett_av_Harriet_Backer_%281845-1932%29_%289390378423%29.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrett_av_Harriet_Backer_%281845-1932%29_%289390378423%29.jpg",
+  "image_license": "public_domain",
+  "image_credit": "National Library of Norway"
+ },
  "Q2632216": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/S_Pulzone_Autorretrato_b_1574.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:S_Pulzone_Autorretrato_b_1574.jpg",
@@ -11348,6 +11354,12 @@
   "image_license": "cc_by_sa",
   "image_credit": "Lothar Wolleh",
   "image_license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "Q455133": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Fisk_-_George_Catlin_-_Google_Art_Project.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:William_Fisk_-_George_Catlin_-_Google_Art_Project.jpg",
+  "image_license": "public_domain",
+  "image_credit": "William Fisk"
  },
  "Q455712": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Beccafumi_064.jpg?width=500",

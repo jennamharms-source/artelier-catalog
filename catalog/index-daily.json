@@ -178,5 +178,49 @@
    "image_license": "public_domain",
    "image_credit": "Ignazio Enrico Hugford, after Antoon van Dyck (1599–1641), painter of the original"
   }
+ },
+ {
+  "shard": "beale-0000",
+  "artist": "Mary Beale",
+  "qid": "Q2347846",
+  "added": "2026-11-06",
+  "birth_year": 1633,
+  "death_year": 1699,
+  "nationality": "United Kingdom",
+  "art_movement": "Baroque",
+  "description": "English painter (1633–1699)"
+ },
+ {
+  "shard": "catlin-0000",
+  "artist": "George Catlin",
+  "qid": "Q455133",
+  "added": "2026-11-06",
+  "birth_year": 1796,
+  "death_year": 1872,
+  "nationality": "United States",
+  "art_movement": "realism",
+  "description": "American painter (1796-1872)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Fisk_-_George_Catlin_-_Google_Art_Project.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:William_Fisk_-_George_Catlin_-_Google_Art_Project.jpg",
+   "image_license": "public_domain",
+   "image_credit": "William Fisk"
+  }
+ },
+ {
+  "shard": "backer-0000",
+  "artist": "Harriet Backer",
+  "qid": "Q263025",
+  "added": "2026-11-06",
+  "birth_year": 1845,
+  "death_year": 1932,
+  "nationality": "Norway",
+  "description": "Norwegian painter (1845-1932)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrett_av_Harriet_Backer_%281845-1932%29_%289390378423%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrett_av_Harriet_Backer_%281845-1932%29_%289390378423%29.jpg",
+   "image_license": "public_domain",
+   "image_credit": "National Library of Norway"
+  }
  }
 ]
