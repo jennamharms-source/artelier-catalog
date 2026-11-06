@@ -1,14 +1,26 @@
 [
- {
-  "shard": "frick-0000",
-  "museum": "The Frick Collection",
-  "gallery": "The Frick Collection",
-  "added": "2026-11-05"
- },
- {
-  "shard": "dulwich-0000",
-  "museum": "Dulwich Picture Gallery",
-  "gallery": "Dulwich Picture Gallery",
-  "added": "2026-11-05"
- }
+  {
+    "shard": "frick-0000",
+    "museum": "The Frick Collection",
+    "gallery": "The Frick Collection",
+    "added": "2026-11-05"
+  },
+  {
+    "shard": "dulwich-0000",
+    "museum": "Dulwich Picture Gallery",
+    "gallery": "Dulwich Picture Gallery",
+    "added": "2026-11-05"
+  },
+  {
+    "shard": "brooklyn-0000",
+    "museum": "Brooklyn Museum",
+    "gallery": "Brooklyn Museum",
+    "added": "2026-11-06"
+  },
+  {
+    "shard": "ashmolean-0000",
+    "museum": "Ashmolean Museum",
+    "gallery": "Ashmolean Museum",
+    "added": "2026-11-06"
+  }
 ]
