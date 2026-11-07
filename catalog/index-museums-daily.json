@@ -52,5 +52,11 @@
   "museum": "Kunsthistorisches Museum",
   "gallery": "Kunsthistorisches Museum",
   "added": "2026-11-07"
+ },
+ {
+  "shard": "npmtaipei-0000",
+  "museum": "National Palace Museum",
+  "gallery": "National Palace Museum",
+  "added": "2026-11-07"
  }
 ]

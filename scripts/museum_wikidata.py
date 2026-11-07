@@ -17,14 +17,14 @@
 # own language (English labels are sometimes cut short, e.g. Dulwich's "Susanna and the Elder").
 # Anonymous works with a qualified credit (anonymous, after Rubens) are credited "After Peter Paul Rubens" and the
 # like, not "Unknown artist"; works whose named creator is qualified are still left out as copies/attributions.
-import json, re, sys, time, collections, urllib.request, urllib.parse
+import json, re, sys, time, collections, unicodedata, urllib.request, urllib.parse
 
 ROOT = __file__.rsplit('/scripts/', 1)[0]
 UA = {'User-Agent': 'ArtelierCatalogBot/1.0 (artelier@artelierapp.co)', 'Accept': 'application/sparql-results+json'}
 TYPES = {'painting': 'Q3305213', 'watercolor': 'Q18761202', 'pastel': 'Q12043905', 'panel painting': 'Q15711026', 'fresco': 'Q134194'}
 MEDIUM = {'Q3305213': 'Painting', 'Q15711026': 'Painting', 'Q18761202': 'Watercolor', 'Q12043905': 'Pastel', 'Q134194': 'Fresco'}
 ANON = {'Q4233718'}
-TITLE_LANGS = ['en', 'fr', 'mul', 'de', 'it', 'es', 'nl', 'ru', 'pl', 'sv', 'da', 'nb', 'fi', 'pt', 'ca', 'cs']   # English first, else the work's own language                                       # "anonymous"
+TITLE_LANGS = ['en', 'fr', 'mul', 'de', 'it', 'es', 'nl', 'ru', 'pl', 'sv', 'da', 'nb', 'fi', 'pt', 'ca', 'cs', 'zh-hant', 'zh', 'zh-hans', 'ja', 'ko']   # English first, else the work's own language                                       # "anonymous"
 # creator qualifiers that make the work not simply by that artist
 COPY_QUAL = {'P1773', 'P1774', 'P1775', 'P1776', 'P1777', 'P1780', 'P1877', 'P1778'}  # attributed, workshop, follower, circle, manner, school, after, forgery
 QUAL_NAME = {'P1773': 'Attributed to', 'P1774': 'Workshop of', 'P1775': 'Follower of', 'P1776': 'Circle of', 'P1777': 'Manner of',
@@ -216,7 +216,8 @@ def main():
         if w.get('inv'): r['inventory_number'] = sorted(w['inv'])[0]
         out.append(r); gal[g] += 1
     # unique titles per artist (the importer dedupes on normalized title|artist): add year, then inventory number
-    key = lambda r: (re.sub(r'[^a-z0-9]+', ' ', r['title'].lower()).strip(), r['artist'])
+    # same rule as the app importer's normalize(): case and accents ignored, punctuation ignored, any script kept (CJK titles)
+    key = lambda r: (re.sub(r'[\W_]+', ' ', ''.join(ch for ch in unicodedata.normalize('NFD', r['title'].lower()) if not unicodedata.combining(ch))).strip(), r['artist'])
     for add in ('year', 'inventory_number'):
         c = collections.Counter(key(r) for r in out)
         for r in out:
