@@ -1,44 +1,56 @@
 [
-  {
-    "shard": "frick-0000",
-    "museum": "The Frick Collection",
-    "gallery": "The Frick Collection",
-    "added": "2026-11-05"
-  },
-  {
-    "shard": "dulwich-0000",
-    "museum": "Dulwich Picture Gallery",
-    "gallery": "Dulwich Picture Gallery",
-    "added": "2026-11-05"
-  },
-  {
-    "shard": "brooklyn-0000",
-    "museum": "Brooklyn Museum",
-    "gallery": "Brooklyn Museum",
-    "added": "2026-11-06"
-  },
-  {
-    "shard": "ashmolean-0000",
-    "museum": "Ashmolean Museum",
-    "gallery": "Ashmolean Museum",
-    "added": "2026-11-06"
-  },
-  {
-    "shard": "louvre-0000",
-    "museum": "Louvre Museum",
-    "gallery": "Louvre Museum",
-    "added": "2026-11-06"
-  },
-  {
-    "shard": "tate-0000",
-    "museum": "Tate",
-    "gallery": "Tate Britain",
-    "added": "2026-11-06"
-  },
-  {
-    "shard": "vatican-0000",
-    "museum": "Vatican Museums",
-    "gallery": "Vatican Museums",
-    "added": "2026-11-06"
-  }
+ {
+  "shard": "frick-0000",
+  "museum": "The Frick Collection",
+  "gallery": "The Frick Collection",
+  "added": "2026-11-05"
+ },
+ {
+  "shard": "dulwich-0000",
+  "museum": "Dulwich Picture Gallery",
+  "gallery": "Dulwich Picture Gallery",
+  "added": "2026-11-05"
+ },
+ {
+  "shard": "brooklyn-0000",
+  "museum": "Brooklyn Museum",
+  "gallery": "Brooklyn Museum",
+  "added": "2026-11-06"
+ },
+ {
+  "shard": "ashmolean-0000",
+  "museum": "Ashmolean Museum",
+  "gallery": "Ashmolean Museum",
+  "added": "2026-11-06"
+ },
+ {
+  "shard": "louvre-0000",
+  "museum": "Louvre Museum",
+  "gallery": "Louvre Museum",
+  "added": "2026-11-06"
+ },
+ {
+  "shard": "tate-0000",
+  "museum": "Tate",
+  "gallery": "Tate Britain",
+  "added": "2026-11-06"
+ },
+ {
+  "shard": "vatican-0000",
+  "museum": "Vatican Museums",
+  "gallery": "Vatican Museums",
+  "added": "2026-11-06"
+ },
+ {
+  "shard": "uffizi-0000",
+  "museum": "Uffizi Gallery",
+  "gallery": "Uffizi Gallery",
+  "added": "2026-11-07"
+ },
+ {
+  "shard": "khm-0000",
+  "museum": "Kunsthistorisches Museum",
+  "gallery": "Kunsthistorisches Museum",
+  "added": "2026-11-07"
+ }
 ]
