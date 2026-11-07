@@ -6,9 +6,9 @@
 import json,re,html,urllib.request,urllib.error,urllib.parse,hashlib,sys,time,difflib,os
 from urllib.parse import quote,unquote
 UA={'User-Agent':'ArtelierCatalogBot/1.0 (artelier@artelierapp.co)','Accept':'application/sparql-results+json'}
-def get(u):
+def get(u,data=None):  # data: POST form fields (long title lists hit HTTP 414 as GET)
     for t in range(6):
-        try: return json.load(urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=180))
+        try: return json.load(urllib.request.urlopen(urllib.request.Request(u,data=urllib.parse.urlencode(data).encode() if data else None,headers=UA),timeout=180))
         except urllib.error.HTTPError as e: last=e; time.sleep(65 if e.code==429 else 4*(t+1))  # 429: Wikidata rate limit
         except Exception as e: last=e; time.sleep(4*(t+1))
     raise last
@@ -47,7 +47,7 @@ files=sorted({f for it in items for f in it['images']}|{g['file'] for g in gal})
 for i in range(0,len(files),50):
     batch=['File:'+f for f in files[i:i+50]]; cont={}
     while True:
-        r=get('https://commons.wikimedia.org/w/api.php?'+urllib.parse.urlencode(dict(action='query',titles='|'.join(batch),prop='categories|imageinfo',iiprop='extmetadata|size|url',iiextmetadatafilter='LicenseShortName|DateTimeOriginal',cllimit=500,format='json',**cont)))
+        r=get('https://commons.wikimedia.org/w/api.php',dict(action='query',titles='|'.join(batch),prop='categories|imageinfo',iiprop='extmetadata|size|url',iiextmetadatafilter='LicenseShortName|DateTimeOriginal',cllimit=500,format='json',**cont))
         for p in r['query']['pages'].values():
             c=meta.setdefault(p['title'][5:],dict(cats=[],lic=None,w=None,h=None,page=None,date=''))
             c['cats']+=[x['title'][9:] for x in p.get('categories',[])]

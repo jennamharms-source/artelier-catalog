@@ -222,5 +222,217 @@
    "image_license": "public_domain",
    "image_credit": "National Library of Norway"
   }
+ },
+ {
+  "shard": "fontana-0000",
+  "artist": "Lavinia Fontana",
+  "qid": "Q236050",
+  "added": "2026-11-07",
+  "birth_year": 1552,
+  "death_year": 1614,
+  "nationality": "Italy",
+  "art_movement": "Mannerism",
+  "description": "Italian painter (1552–1614)"
+ },
+ {
+  "shard": "sirani-0000",
+  "artist": "Elisabetta Sirani",
+  "qid": "Q271475",
+  "added": "2026-11-07",
+  "birth_year": 1638,
+  "death_year": 1665,
+  "art_movement": "Baroque",
+  "description": "Italian painter (1638-1665)"
+ },
+ {
+  "shard": "peeters-0000",
+  "artist": "Clara Peeters",
+  "qid": "Q265398",
+  "added": "2026-11-07",
+  "birth_year": 1587,
+  "death_year": 1657,
+  "nationality": "Habsburg Netherlands",
+  "art_movement": "Flemish Baroque painting",
+  "description": "Flemish painter (1594-1657)"
+ },
+ {
+  "shard": "leyster-0000",
+  "artist": "Judith Leyster",
+  "qid": "Q232423",
+  "added": "2026-11-07",
+  "birth_year": 1609,
+  "death_year": 1660,
+  "nationality": "Dutch Republic",
+  "art_movement": "Caravaggisti",
+  "description": "Dutch Golden Age painter (1609-1660)"
+ },
+ {
+  "shard": "pasch-0000",
+  "artist": "Ulrika Pasch",
+  "qid": "Q276459",
+  "added": "2026-11-07",
+  "birth_year": 1734,
+  "death_year": 1796,
+  "nationality": "Sweden",
+  "art_movement": "Rococo",
+  "description": "Swedish painter (1735–1796)"
+ },
+ {
+  "shard": "gerard-0000",
+  "artist": "Marguerite Gérard",
+  "qid": "Q271484",
+  "added": "2026-11-07",
+  "birth_year": 1761,
+  "death_year": 1837,
+  "nationality": "France",
+  "description": "French painter and engraver (1761–1837)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dumont_-_Marguerite_G%C3%A9rard.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Dumont_-_Marguerite_G%C3%A9rard.jpg",
+   "image_license": "public_domain",
+   "image_credit": "François Dumont"
+  }
+ },
+ {
+  "shard": "lescot-0000",
+  "artist": "Hortense Haudebourt-Lescot",
+  "qid": "Q1396313",
+  "added": "2026-11-07",
+  "birth_year": 1784,
+  "death_year": 1845,
+  "nationality": "France",
+  "description": "French painter (1784-1845)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hortense_Haudebourt-Lescot.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Hortense_Haudebourt-Lescot.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Hortense Haudebourt-Lescot"
+  }
+ },
+ {
+  "shard": "carpenter-0000",
+  "artist": "Margaret Sarah Carpenter",
+  "qid": "Q3290472",
+  "added": "2026-11-07",
+  "birth_year": 1793,
+  "death_year": 1872,
+  "nationality": "Kingdom of Great Britain",
+  "description": "English portrait painter (1793–1872)"
+ },
+ {
+  "shard": "schwarz-0000",
+  "artist": "Julie Wilhelmine Hagen-Schwarz",
+  "qid": "Q544622",
+  "added": "2026-11-07",
+  "birth_year": 1824,
+  "death_year": 1902,
+  "nationality": "Russian Empire",
+  "description": "Baltic German painter (1824-1902)"
+ },
+ {
+  "shard": "knip-0000",
+  "artist": "Henriëtte Ronner-Knip",
+  "qid": "Q454470",
+  "added": "2026-11-07",
+  "birth_year": 1821,
+  "death_year": 1909,
+  "nationality": "Kingdom of the Netherlands",
+  "description": "Dutch-Belgian painter (1821–1909)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Henri%C3%ABtte_Ronner-Knip.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Henri%C3%ABtte_Ronner-Knip.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Unknown author"
+  }
+ },
+ {
+  "shard": "wynne-0000",
+  "artist": "Frances Elizabeth Wynne",
+  "qid": "Q22962608",
+  "added": "2026-11-07",
+  "birth_year": 1836,
+  "death_year": 1907,
+  "nationality": "United Kingdom of Great Britain and Ireland",
+  "description": "Amateur Welsh artist (1836–1907)"
+ },
+ {
+  "shard": "bowes-0000",
+  "artist": "Joséphine Bowes",
+  "qid": "Q21464923",
+  "added": "2026-11-07",
+  "birth_year": 1825,
+  "death_year": 1874,
+  "nationality": "France",
+  "description": "artist, actress, pioneer, philanthropist, collector (1825–1874)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9phine_Bowes_%281825%E2%80%931874%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9phine_Bowes_%281825%E2%80%931874%29.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Louis William Desanges"
+  }
+ },
+ {
+  "shard": "barney-0000",
+  "artist": "Alice Pike Barney",
+  "qid": "Q437143",
+  "added": "2026-11-07",
+  "birth_year": 1857,
+  "death_year": 1931,
+  "nationality": "United States",
+  "description": "American painter (1857-1931)"
+ },
+ {
+  "shard": "schwartze-0000",
+  "artist": "Thérèse Schwartze",
+  "qid": "Q457001",
+  "added": "2026-11-07",
+  "birth_year": 1851,
+  "death_year": 1918,
+  "nationality": "Kingdom of the Netherlands",
+  "description": "Dutch painter (1851-1918)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret_-_Therese_Schwartze_-_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen_-_1.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Zelfportret_-_Therese_Schwartze_-_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen_-_1.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Thérèse Schwartze"
+  }
+ },
+ {
+  "shard": "orpen-0000",
+  "artist": "Rebecca Dulcibella Orpen",
+  "qid": "Q21465886",
+  "added": "2026-11-07",
+  "birth_year": 1830,
+  "death_year": 1923,
+  "nationality": "United Kingdom",
+  "description": "English artist (1830–1923)"
+ },
+ {
+  "shard": "gambogi-0000",
+  "artist": "Elin Danielson-Gambogi",
+  "qid": "Q1827236",
+  "added": "2026-11-07",
+  "birth_year": 1861,
+  "death_year": 1919,
+  "nationality": "Finland",
+  "art_movement": "realism",
+  "description": "Finland Swedish painter (1861–1919)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elin_Danielson-Gambogi_%281861-1919%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Elin_Danielson-Gambogi_%281861-1919%29.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Ateljé Uno Rosendahl / Museiverket."
+  }
+ },
+ {
+  "shard": "werefkin-0000",
+  "artist": "Marianne von Werefkin",
+  "qid": "Q464016",
+  "added": "2026-11-07",
+  "birth_year": 1860,
+  "death_year": 1938,
+  "nationality": "Russian Empire",
+  "art_movement": "Symbolism",
+  "description": "Russian-German-Swiss expressionist painter (1860–1938)"
  }
 ]

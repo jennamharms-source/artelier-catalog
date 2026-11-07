@@ -2103,6 +2103,12 @@
   "image_license": "public_domain",
   "image_credit": "Unknown photographer"
  },
+ "Q1396313": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hortense_Haudebourt-Lescot.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Hortense_Haudebourt-Lescot.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Hortense Haudebourt-Lescot"
+ },
  "Q1398812": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter_Runeberg_by_Berndtson.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Walter_Runeberg_by_Berndtson.jpg",
@@ -3781,6 +3787,12 @@
   "image_license": "public_domain",
   "image_credit": "Antonio Visentini"
  },
+ "Q1827236": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elin_Danielson-Gambogi_%281861-1919%29.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Elin_Danielson-Gambogi_%281861-1919%29.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Ateljé Uno Rosendahl / Museiverket."
+ },
  "Q182791": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste_Carpeaux_self-portrait_-_Fontaine_2000_p25.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Carpeaux_self-portrait_-_Fontaine_2000_p25.jpg",
@@ -5423,6 +5435,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Hodler_-_Selbstbildnis_mit_Stehkragen_-_1879.jpeg",
   "image_license": "public_domain",
   "image_credit": "Ferdinand Hodler"
+ },
+ "Q21464923": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9phine_Bowes_%281825%E2%80%931874%29.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9phine_Bowes_%281825%E2%80%931874%29.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Louis William Desanges"
  },
  "Q214666": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on_Bakst%2C_Self-Portrait%2C_1906%2C_Tretyakov_Gallery_9077.jpg?width=500",

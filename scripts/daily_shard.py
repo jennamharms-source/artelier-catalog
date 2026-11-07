@@ -30,7 +30,7 @@ QUEUE = os.path.join(ROOT, 'catalog', 'index-daily.json')
 PORTRAITS = os.path.join(ROOT, 'rights', 'artist_portraits.json')
 LOCK = os.path.join(ROOT, '.git', 'daily-artists.lock')          # inside .git: can never be committed
 UA = {'User-Agent': 'ArtelierCatalogBot/1.0 (artelier@artelierapp.co)', 'Accept': 'application/sparql-results+json'}
-PER_DAY = 3
+PER_DAY = int(os.environ.get("ARTELIER_PER_DAY", "3"))   # owner can raise it for one day (2026-11-07: "do all the women")
 OK = {'Public domain': 'Public domain', 'CC0': 'CC0', 'PDM-owner': 'Public domain', 'No restrictions': 'Public domain'}
 BANNED = re.compile(r'wikiart\.org|base44|harvard\.edu|supabase|cloudinary', re.I)
 GENERIC_COPY = (r'kopie nach|copy after|copy of|workshop of|studio of|circle of|follower of|imitator of|manner of|style of|'
@@ -151,6 +151,17 @@ def gallery_index(path):
     return dict(by_name=by_name, by_base=by_base, exact=exact)
 
 
+CITY_SAME = {'city of westminster': 'london', 'city of london': 'london', 'westminster': 'london', 'kensington': 'london',
+             'manhattan': 'new york', 'new york city': 'new york', 'washington': 'washington d c', 'washington dc': 'washington d c',
+             'district of columbia': 'washington d c', 'paris 1er arrondissement': 'paris', '1st arrondissement of paris': 'paris',
+             '7th arrondissement of paris': 'paris'}
+
+
+def city_key(c):
+    k = hkey(c)
+    return CITY_SAME.get(k, k)
+
+
 def map_holder(h, idx):
     """The Artelier Gallery row for a holder, or None. Never guesses between two rows."""
     if not idx or not idx['exact']: return None
@@ -158,8 +169,9 @@ def map_holder(h, idx):
     for k in keys:
         if k in HOLDER_ALIASES and HOLDER_ALIASES[k] in idx['exact']:
             return idx['exact'][HOLDER_ALIASES[k]]
-    for k in keys:
-        rows = idx['by_name'].get(k, [])
+    same_city = lambda g: not (h.get('city') and g.get('city')) or city_key(g['city']) == city_key(h['city'])
+    for k in keys:                                          # a name match in another city is a different place: Sweden's portrait
+        rows = [g for g in idx['by_name'].get(k, []) if same_city(g)]   # gallery ("National Portrait Gallery"), Amsterdam's "Jewish Museum", NG Prague
         if len(rows) == 1: return rows[0]
     for k in keys:                                          # "Name - City": the base name plus the holder's city
         rows = [g for g in idx['by_base'].get(k, []) if h.get('city') and hkey(g.get('city')) == hkey(h['city'])]
