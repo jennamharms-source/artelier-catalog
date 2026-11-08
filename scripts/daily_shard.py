@@ -113,6 +113,7 @@ CITY_TYPES = {'Q515', 'Q1549591', 'Q5119', 'Q1637706', 'Q200250', 'Q1093829', 'Q
               'Q856076', 'Q7930989', 'Q1763214', 'Q15127012', 'Q1906268', 'Q2264924', 'Q1187811', 'Q1115575', 'Q532'}
 # Wikidata names (normalized) that Artelier spells differently beyond case, accents, "the" and "&"
 HOLDER_ALIASES = {
+    'musee du petit palais': 'Petit Palais', 'musee national d art moderne': 'Maison Pompidou', 'musee d art moderne de paris': "Musée d'Art Moderne de Paris",
     'louvre': 'Louvre Museum', 'musee du louvre': 'Louvre Museum', 'louvre museum': 'Louvre Museum',
     'museo del prado': 'Prado Museum', 'museo nacional del prado': 'Prado Museum', 'prado museum': 'Prado Museum',
     'national gallery london': 'National Gallery', 'national gallery': 'National Gallery',

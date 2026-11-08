@@ -482,5 +482,84 @@
    "image_license": "public_domain",
    "image_credit": "Hendrik Goltzius"
   }
+ },
+ {
+  "shard": "kauffmann-0000",
+  "artist": "Angelica Kauffmann",
+  "qid": "Q123098",
+  "added": "2026-11-08",
+  "birth_year": 1741,
+  "death_year": 1807,
+  "nationality": "Switzerland",
+  "art_movement": "Neoclassicism",
+  "description": "Swiss artist (1741–1807)"
+ },
+ {
+  "shard": "bonheur-0000",
+  "artist": "Rosa Bonheur",
+  "qid": "Q241732",
+  "added": "2026-11-08",
+  "birth_year": 1822,
+  "death_year": 1899,
+  "nationality": "France",
+  "art_movement": "French Realism",
+  "description": "French artist (1822-1899)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9_Adolphe-Eug%C3%A8ne_Disd%C3%A9ri_%28French_-_%28Rosa_Bonheur%29_-_Google_Art_Project.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Adolphe-Eug%C3%A8ne_Disd%C3%A9ri_%28French_-_%28Rosa_Bonheur%29_-_Google_Art_Project.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Eugène Disdéri"
+  }
+ },
+ {
+  "shard": "brun-0000",
+  "artist": "Élisabeth Louise Vigée Le Brun",
+  "qid": "Q213163",
+  "added": "2026-11-08",
+  "birth_year": 1755,
+  "death_year": 1842,
+  "nationality": "France",
+  "art_movement": "Rococo",
+  "description": "French portrait painter (1755–1842)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89lisabeth_Vig%C3%A9e-Lebrun_-_selfportrait_%28Kimbell_Art_Museum%2C_1781-2%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:%C3%89lisabeth_Vig%C3%A9e-Lebrun_-_selfportrait_%28Kimbell_Art_Museum%2C_1781-2%29.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Élisabeth Louise Vigée Le Brun"
+  }
+ },
+ {
+  "shard": "ancher-0000",
+  "artist": "Anna Ancher",
+  "qid": "Q253446",
+  "added": "2026-11-08",
+  "birth_year": 1859,
+  "death_year": 1935,
+  "nationality": "Kingdom of Denmark",
+  "art_movement": "Impressionism",
+  "description": "Danish impressionist painter (1859-1935)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Ancher_Royal_Library_of_Denmark1.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Anna_Ancher_Royal_Library_of_Denmark1.jpg",
+   "image_license": "public_domain",
+   "image_credit": "The Royal Library, Denmark"
+  }
+ },
+ {
+  "shard": "valadon-0000",
+  "artist": "Suzanne Valadon",
+  "qid": "Q156889",
+  "added": "2026-11-08",
+  "birth_year": 1865,
+  "death_year": 1938,
+  "nationality": "France",
+  "art_movement": "Symbolism",
+  "description": "French painter (1865—1938)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzanne_Valadon._Portrait_au_chapeau%2C_photographie%2C_vers_1885._Ville_de_Paris_Biblioth%C3%A8que_Marguerite_Durand_%28BMD%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Suzanne_Valadon._Portrait_au_chapeau%2C_photographie%2C_vers_1885._Ville_de_Paris_Biblioth%C3%A8que_Marguerite_Durand_%28BMD%29.jpg",
+   "image_license": "cc0",
+   "image_credit": "Unknown author"
+  }
  }
 ]
