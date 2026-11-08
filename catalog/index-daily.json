@@ -434,5 +434,53 @@
   "nationality": "Russian Empire",
   "art_movement": "Symbolism",
   "description": "Russian-German-Swiss expressionist painter (1860–1938)"
+ },
+ {
+  "shard": "boberg-0000",
+  "artist": "Anna Boberg",
+  "qid": "Q4939691",
+  "added": "2026-11-08",
+  "birth_year": 1864,
+  "death_year": 1935,
+  "nationality": "Sweden",
+  "description": "Notable Swedish impressionist painter (1864-1935)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Boberg_1910.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Anna_Boberg_1910.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Unknown author"
+  }
+ },
+ {
+  "shard": "havell-0000",
+  "artist": "Robert Havell",
+  "qid": "Q2157495",
+  "added": "2026-11-08",
+  "birth_year": 1793,
+  "death_year": 1878,
+  "nationality": "Kingdom of Great Britain",
+  "description": "principal engraver of Audubon's Birds of America (1793-1878)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Robert_Havell_Junior_1845.png?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Robert_Havell_Junior_1845.png",
+   "image_license": "public_domain",
+   "image_credit": "George Alfred Williams"
+  }
+ },
+ {
+  "shard": "galle-0000",
+  "artist": "Philip Galle",
+  "qid": "Q1379395",
+  "added": "2026-11-08",
+  "birth_year": 1537,
+  "death_year": 1612,
+  "nationality": "Dutch Republic",
+  "description": "Dutch engraver and publisher (1537–1612)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Philips_Galle_002.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Philips_Galle_002.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Hendrik Goltzius"
+  }
  }
 ]
