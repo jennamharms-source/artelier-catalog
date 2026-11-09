@@ -82,5 +82,17 @@
   "museum": "Gemäldegalerie Berlin",
   "gallery": "Gemäldegalerie Berlin",
   "added": "2026-11-08"
+ },
+ {
+  "shard": "ateneum-0000",
+  "museum": "Finnish National Gallery (Ateneum, Sinebrychoff)",
+  "gallery": "Finnish National Gallery",
+  "added": "2026-11-09"
+ },
+ {
+  "shard": "nasjonalmuseet-0000",
+  "museum": "Nasjonalmuseet (National Museum of Norway)",
+  "gallery": "Nasjonalmuseet",
+  "added": "2026-11-09"
  }
 ]
