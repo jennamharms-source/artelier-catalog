@@ -3757,6 +3757,12 @@
   "image_license": "public_domain",
   "image_credit": "Willem de Zwart"
  },
+ "Q181568": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky_-_Self-portrait_1874.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Self-portrait_1874.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Ivan Aivazovsky"
+ },
  "Q18206992": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sears_Gallagher.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Sears_Gallagher.jpg",
@@ -5477,6 +5483,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Thomas_H_Nast.jpg",
   "image_license": "public_domain",
   "image_credit": "Napoleon Sarony"
+ },
+ "Q21499503": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carla_Witte.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Carla_Witte.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Unknown author"
  },
  "Q215045": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lovis_Corinth_Portrait_Charlotte_Berend.jpg?width=500",

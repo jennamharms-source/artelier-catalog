@@ -605,5 +605,53 @@
    "image_license": "public_domain",
    "image_credit": "Wenceslaus Hollar"
   }
+ },
+ {
+  "shard": "witte-0000",
+  "artist": "Carla Witte",
+  "qid": "Q21499503",
+  "added": "2026-11-10",
+  "birth_year": 1889,
+  "death_year": 1943,
+  "nationality": "German Reich",
+  "description": "Uruguayan-German professor and artist (1889-1943)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carla_Witte.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Carla_Witte.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Unknown author"
+  }
+ },
+ {
+  "shard": "bartolozzi-0000",
+  "artist": "Francesco Bartolozzi",
+  "qid": "Q734889",
+  "added": "2026-11-10",
+  "birth_year": 1728,
+  "death_year": 1815,
+  "description": "Italian artist (1725 - 1815)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joshua_Reynolds_%281723-1792%29_-_Francesco_Bartolozzi_%281727%E2%80%931815%29_-_872094_-_National_Trust.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Joshua_Reynolds_%281723-1792%29_-_Francesco_Bartolozzi_%281727%E2%80%931815%29_-_872094_-_National_Trust.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Joshua Reynolds"
+  }
+ },
+ {
+  "shard": "aivazovsky-0000",
+  "artist": "Ivan Aivazovsky",
+  "qid": "Q181568",
+  "added": "2026-11-10",
+  "birth_year": 1817,
+  "death_year": 1900,
+  "nationality": "Russian Empire",
+  "art_movement": "Romanticism",
+  "description": "Russian marine painter (1817–1900)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky_-_Self-portrait_1874.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Self-portrait_1874.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Ivan Aivazovsky"
+  }
  }
 ]
