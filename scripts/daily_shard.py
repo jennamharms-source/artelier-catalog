@@ -124,6 +124,7 @@ HOLDER_ALIASES = {
     'huntington library': 'The Huntington Library, Art Museum, and Botanical Gardens',
     'national gallery of art washington': 'National Gallery of Art', 'national gallery of art': 'National Gallery of Art',
     'metropolitan museum of art': 'The Metropolitan Museum of Art', 'met': 'The Metropolitan Museum of Art',
+    'department of sculptures of the louvre': 'Louvre Museum', 'rosenwald collection': 'National Gallery of Art',
 }
 
 

@@ -653,5 +653,47 @@
    "image_license": "public_domain",
    "image_credit": "Ivan Aivazovsky"
   }
+ },
+ {
+  "shard": "lage-0000",
+  "artist": "Maria Pardos Ferreira Lage",
+  "qid": "Q59276379",
+  "added": "2026-11-12",
+  "birth_year": 1866,
+  "death_year": 1928,
+  "nationality": "Brazil",
+  "description": "Brazilian painter"
+ },
+ {
+  "shard": "pellegrini-0000",
+  "artist": "Carlo Pellegrini",
+  "qid": "Q935877",
+  "added": "2026-11-12",
+  "birth_year": 1839,
+  "death_year": 1889,
+  "nationality": "Kingdom of Italy",
+  "description": "Italian caricaturist (1839-1889)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Ape%22_%28BM_1983%2CU.2891%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:%22Ape%22_%28BM_1983%2CU.2891%29.jpg",
+   "image_license": "public_domain",
+   "image_credit": "https://www.britishmuseum.org/collection/object/P_1983-U-2891"
+  }
+ },
+ {
+  "shard": "sergel-0000",
+  "artist": "Johan Tobias Sergel",
+  "qid": "Q924618",
+  "added": "2026-11-12",
+  "birth_year": 1740,
+  "death_year": 1814,
+  "nationality": "Sweden",
+  "description": "Swedish sculptor (1740-1814)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan_Tobias_Sergel.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Johan_Tobias_Sergel.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Litho by Alexander Clemens Wetterling (1796-1858) from an original picture by Elias Martin Elias Martin (1739-1818)."
+  }
  }
 ]
