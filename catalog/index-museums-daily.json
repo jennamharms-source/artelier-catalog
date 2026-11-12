@@ -94,5 +94,17 @@
   "museum": "Nasjonalmuseet (National Museum of Norway)",
   "gallery": "Nasjonalmuseet",
   "added": "2026-11-09"
+ },
+ {
+  "shard": "lyon-0000",
+  "museum": "Musée des Beaux-Arts de Lyon",
+  "gallery": "Museum of Fine Arts of Lyon",
+  "added": "2026-11-12"
+ },
+ {
+  "shard": "staedel-0000",
+  "museum": "Städel Museum",
+  "gallery": "Städel Museum",
+  "added": "2026-11-12"
  }
 ]
