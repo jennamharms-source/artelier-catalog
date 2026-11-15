@@ -106,5 +106,53 @@
   "museum": "Städel Museum",
   "gallery": "Städel Museum",
   "added": "2026-11-12"
+ },
+ {
+  "shard": "mauritshuis-0000",
+  "museum": "Mauritshuis",
+  "gallery": "Mauritshuis",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "budapest-0000",
+  "museum": "Museum of Fine Arts, Budapest",
+  "gallery": "Museum of Fine Arts, Budapest",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "tretyakov-0000",
+  "museum": "Tretyakov Gallery",
+  "gallery": "Tretyakov Gallery",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "kmska-0000",
+  "museum": "Royal Museum of Fine Arts Antwerp",
+  "gallery": "Royal Museum of Fine Arts Antwerp",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "mfaboston-0000",
+  "museum": "Museum of Fine Arts, Boston",
+  "gallery": "Museum of Fine Arts, Boston",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "scotland-0000",
+  "museum": "National Galleries of Scotland",
+  "gallery": "National Galleries of Scotland",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "warsaw-0000",
+  "museum": "National Museum in Warsaw",
+  "gallery": "National Museum in Warsaw",
+  "added": "2026-11-15"
+ },
+ {
+  "shard": "bstgs-0000",
+  "museum": "Bavarian State Painting Collections",
+  "gallery": "Bavarian State Painting Collections",
+  "added": "2026-11-15"
  }
 ]
