@@ -695,5 +695,167 @@
    "image_license": "public_domain",
    "image_credit": "Litho by Alexander Clemens Wetterling (1796-1858) from an original picture by Elias Martin Elias Martin (1739-1818)."
   }
+ },
+ {
+  "shard": "ward-0000",
+  "artist": "Leslie Ward",
+  "qid": "Q920924",
+  "added": "2026-11-15",
+  "birth_year": 1851,
+  "death_year": 1922,
+  "nationality": "United Kingdom of Great Britain and Ireland",
+  "description": "British cartoonist (1851-1922)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Leslie_Ward.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Leslie_Ward.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Carl Vandyk"
+  }
+ },
+ {
+  "shard": "bella-0000",
+  "artist": "Stefano della Bella",
+  "qid": "Q921242",
+  "added": "2026-11-15",
+  "birth_year": 1610,
+  "death_year": 1664,
+  "nationality": "Grand Duchy of Tuscany",
+  "art_movement": "Baroque",
+  "description": "engraver, printmaker (1610-1664)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolci_Stefano_Della_Bella.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Dolci_Stefano_Della_Bella.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Carlo Dolci"
+  }
+ },
+ {
+  "shard": "florian-0000",
+  "artist": "Olga Wisinger-Florian",
+  "qid": "Q275513",
+  "added": "2026-11-15",
+  "birth_year": 1844,
+  "death_year": 1926,
+  "nationality": "Austrian Empire",
+  "art_movement": "Impressionism",
+  "description": "Austrian painter (1844-1926)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OlgaWisinger-Florian.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:OlgaWisinger-Florian.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Albert Mayer (1844–1926)"
+  }
+ },
+ {
+  "shard": "malczewski-0000",
+  "artist": "Jacek Malczewski",
+  "qid": "Q448189",
+  "added": "2026-11-15",
+  "birth_year": 1854,
+  "death_year": 1929,
+  "nationality": "Poland",
+  "art_movement": "Symbolism",
+  "description": "Polish painter (1854–1929)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacek_Malczewski_-_Autoportret_1908.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Jacek_Malczewski_-_Autoportret_1908.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Jacek Malczewski"
+  }
+ },
+ {
+  "shard": "keyser-0000",
+  "artist": "Ragnhild Keyser",
+  "qid": "Q11996965",
+  "added": "2026-11-15",
+  "birth_year": 1889,
+  "death_year": 1943,
+  "nationality": "Norway",
+  "description": "Norwegian painter (1889-1943)"
+ },
+ {
+  "shard": "ciaglinski-0000",
+  "artist": "Jan Ciągliński",
+  "qid": "Q1671969",
+  "added": "2026-11-15",
+  "birth_year": 1858,
+  "death_year": 1913,
+  "nationality": "Russian Empire",
+  "art_movement": "Symbolism",
+  "description": "Polish painter (1858-1913)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Ci%C4%85gli%C5%84ski_1910.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Jan_Ci%C4%85gli%C5%84ski_1910.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Unknown photographer"
+  }
+ },
+ {
+  "shard": "beaux-0000",
+  "artist": "Cecilia Beaux",
+  "qid": "Q466677",
+  "added": "2026-11-15",
+  "birth_year": 1855,
+  "death_year": 1942,
+  "nationality": "United States",
+  "art_movement": "American realism",
+  "description": "American artist (1855-1942)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cecilia_Beaux.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Cecilia_Beaux.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Unknown author"
+  }
+ },
+ {
+  "shard": "debret-0000",
+  "artist": "Jean-Baptiste Debret",
+  "qid": "Q281998",
+  "added": "2026-11-15",
+  "birth_year": 1768,
+  "death_year": 1848,
+  "nationality": "France",
+  "art_movement": "Neoclassicism",
+  "description": "French painter (1768–1848)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeanbaptistedebret.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Jeanbaptistedebret.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Jean-Baptiste Debret"
+  }
+ },
+ {
+  "shard": "guiard-0000",
+  "artist": "Adélaïde Labille-Guiard",
+  "qid": "Q235647",
+  "added": "2026-11-15",
+  "birth_year": 1749,
+  "death_year": 1803,
+  "nationality": "France",
+  "art_movement": "Rococo",
+  "description": "French painter and miniaturist (1749–1803)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ad%C3%A9la%C3%AFde_Labille-Guiard_-_Self-Portrait_with_Two_Pupils_-_The_Metropolitan_Museum_of_Art.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Ad%C3%A9la%C3%AFde_Labille-Guiard_-_Self-Portrait_with_Two_Pupils_-_The_Metropolitan_Museum_of_Art.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Adélaïde Labille-Guiard"
+  }
+ },
+ {
+  "shard": "hill-0000",
+  "artist": "Caroline Emily Gray Hill",
+  "qid": "Q12411128",
+  "added": "2026-11-15",
+  "birth_year": 1843,
+  "death_year": 1924,
+  "nationality": "United Kingdom",
+  "art_movement": "Orientalism",
+  "description": "British artist and photographer (1843–1924)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Hill_%28E.R._Hughes%29.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:Caroline_Hill_%28E.R._Hughes%29.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Edward Robert Hughes"
+  }
  }
 ]

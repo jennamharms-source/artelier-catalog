@@ -53,7 +53,7 @@ for i in range(0,len(files),50):
             c['cats']+=[x['title'][9:] for x in p.get('categories',[])]
             ii=(p.get('imageinfo') or [None])[0]
             if ii:
-                mm=ii.get('extmetadata',{})
+                mm=ii.get('extmetadata') if isinstance(ii.get('extmetadata'),dict) else {}   # empty metadata comes back as []
                 c.update(lic=mm.get('LicenseShortName',{}).get('value'),w=ii.get('width'),h=ii.get('height'),page=ii.get('descriptionurl'),date=re.sub('<[^>]+>','',mm.get('DateTimeOriginal',{}).get('value',''))[:40])
         if 'continue' in r: cont=dict(r['continue'])
         else: break

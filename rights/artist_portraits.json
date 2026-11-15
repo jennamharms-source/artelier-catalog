@@ -1323,6 +1323,12 @@
   "image_license": "public_domain",
   "image_credit": "Kubota Beisen"
  },
+ "Q12411128": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Hill_%28E.R._Hughes%29.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Caroline_Hill_%28E.R._Hughes%29.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Edward Robert Hughes"
+ },
  "Q1246260": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorothea_Rockburne_c.2003.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Dorothea_Rockburne_c.2003.jpg",
@@ -3152,6 +3158,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:George_bellows.jpg",
   "image_license": "public_domain",
   "image_credit": "by Peter A. Juley & Son"
+ },
+ "Q1671969": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Ci%C4%85gli%C5%84ski_1910.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Jan_Ci%C4%85gli%C5%84ski_1910.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Unknown photographer"
  },
  "Q167220": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Speckaert_-_Portrait_of_Cornelis_Cort.jpg?width=500",
@@ -7338,6 +7350,12 @@
   "image_license": "public_domain",
   "image_credit": "Joaquín Curtoys de Anduaga"
  },
+ "Q275513": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OlgaWisinger-Florian.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:OlgaWisinger-Florian.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Albert Mayer (1844–1926)"
+ },
  "Q275610": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agnes-Martin.jpg?width=500",
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Agnes-Martin.jpg",
@@ -7490,6 +7508,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Mo%C3%AFse_Kisling.jpg",
   "image_license": "public_domain",
   "image_credit": "AnonymousUnknown author"
+ },
+ "Q281998": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeanbaptistedebret.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Jeanbaptistedebret.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Jean-Baptiste Debret"
  },
  "Q282043": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Breton_%28cropped%29.jpg?width=500",
@@ -11257,6 +11281,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Friedrich_August_von_Kaulbach_-_Selbstbildnis.jpg",
   "image_license": "public_domain",
   "image_credit": "Friedrich August von Kaulbach"
+ },
+ "Q448189": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacek_Malczewski_-_Autoportret_1908.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Jacek_Malczewski_-_Autoportret_1908.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Jacek Malczewski"
  },
  "Q448207": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigvard_Hansen_-_Maleren_Peder_M%C3%B8nsted_ved_staffeliet_-_1895.png?width=500",
@@ -16895,6 +16925,12 @@
   "image_source_url": "https://commons.wikimedia.org/wiki/File:Juan-sanchez-cotan-acquerello-su-carta-autore-valentin-carderera-y-solano-1796-1880-posizione-biblioteca-nacional-coleccion-madrid-spagna.jpg",
   "image_license": "public_domain",
   "image_credit": "Valentin Carderera y Solano"
+ },
+ "Q920924": {
+  "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Leslie_Ward.jpg?width=500",
+  "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Leslie_Ward.jpg",
+  "image_license": "public_domain",
+  "image_credit": "Carl Vandyk"
  },
  "Q921230": {
   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lundbye%2C_J_Th_%28self-portrait_1841%2C_Glyptoteket%29.jpg?width=500",

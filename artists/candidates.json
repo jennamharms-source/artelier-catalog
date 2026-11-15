@@ -783,7 +783,9 @@
     "print": 0,
     "drawing": 0,
     "total": 612
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q192720",
@@ -842,7 +844,9 @@
     "print": 1,
     "drawing": 3,
     "total": 591
-   }
+   },
+   "artelier_works": 12,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q924618",
@@ -900,7 +904,9 @@
     "print": 48,
     "drawing": 465,
     "total": 577
-   }
+   },
+   "artelier_works": 12,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q239394",
@@ -920,7 +926,9 @@
     "print": 44,
     "drawing": 9,
     "total": 566
-   }
+   },
+   "artelier_works": 10,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q120993",
@@ -956,7 +964,11 @@
     "print": 531,
     "drawing": 6,
     "total": 559
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-15",
+   "commons_clean": 560,
+   "commons_checked": "2026-11-15"
   },
   {
    "qid": "Q313787",
@@ -972,7 +984,11 @@
     "print": 547,
     "drawing": 0,
     "total": 547
-   }
+   },
+   "artelier_works": 0,
+   "artelier_checked": "2026-11-15",
+   "commons_clean": 547,
+   "commons_checked": "2026-11-15"
   },
   {
    "qid": "Q161336",
@@ -2219,7 +2235,9 @@
     "print": 0,
     "drawing": 18,
     "total": 327
-   }
+   },
+   "artelier_works": 14,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q538350",
@@ -2257,7 +2275,9 @@
     "print": 29,
     "drawing": 63,
     "total": 319
-   }
+   },
+   "artelier_works": 25,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q483992",
@@ -3088,7 +3108,9 @@
     "print": 0,
     "drawing": 23,
     "total": 258
-   }
+   },
+   "artelier_works": 12,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q436726",
@@ -3172,7 +3194,9 @@
     "print": 242,
     "drawing": 6,
     "total": 251
-   }
+   },
+   "artelier_works": 5,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q902649",
@@ -4862,7 +4886,9 @@
     "print": 136,
     "drawing": 2,
     "total": 188
-   }
+   },
+   "artelier_works": 11,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q874868",
@@ -4965,7 +4991,9 @@
     "print": 0,
     "drawing": 2,
     "total": 186
-   }
+   },
+   "artelier_works": 24,
+   "artelier_checked": "2026-11-15"
   },
   {
    "qid": "Q266637",

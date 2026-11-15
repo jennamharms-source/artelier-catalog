@@ -233,7 +233,9 @@ def commons_counts(qids):
             for p in r['query']['pages'].values():
                 ii = (p.get('imageinfo') or [{}])[0]
                 t = norm_map.get(p['title'], p['title'])[5:]
-                lic[t] = ii.get('extmetadata', {}).get('LicenseShortName', {}).get('value')
+                em = ii.get('extmetadata') if isinstance(ii.get('extmetadata'), dict) else {}   # empty metadata comes back as []
+                ls = em.get('LicenseShortName') if isinstance(em.get('LicenseShortName'), dict) else {}
+                lic[t] = ls.get('value')
                 lic[p['title'][5:]] = lic[t]
             time.sleep(0.5)
         copy = re.compile(r'\((after|studio of|school of|follower of|imitator of|circle of|workshop of|manner of|style of)\)|\b(nachfolger|werkstatt|kopie nach|copy after)\b', re.I)
