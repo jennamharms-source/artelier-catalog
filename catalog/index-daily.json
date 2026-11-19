@@ -857,5 +857,42 @@
    "image_license": "public_domain",
    "image_credit": "Edward Robert Hughes"
   }
+ },
+ {
+  "shard": "romany-0000",
+  "artist": "Adèle Romany",
+  "qid": "Q18560543",
+  "added": "2026-11-19",
+  "birth_year": 1769,
+  "death_year": 1846,
+  "nationality": "France",
+  "description": "French painter (1769–1846)"
+ },
+ {
+  "shard": "johngould-0000",
+  "artist": "John Gould",
+  "qid": "Q313787",
+  "added": "2026-11-19",
+  "birth_year": 1804,
+  "death_year": 1881,
+  "nationality": "United Kingdom of Great Britain and Ireland",
+  "description": "English ornithologist (1804–1881)"
+ },
+ {
+  "shard": "minne-0000",
+  "artist": "George Minne",
+  "qid": "Q559281",
+  "added": "2026-11-19",
+  "birth_year": 1866,
+  "death_year": 1941,
+  "nationality": "Belgium",
+  "art_movement": "Symbolism",
+  "description": "Belgian artist (1866–1941)",
+  "portrait": {
+   "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Minne%2C_date_unknown.jpg?width=500",
+   "image_source_url": "https://commons.wikimedia.org/wiki/File:George_Minne%2C_date_unknown.jpg",
+   "image_license": "public_domain",
+   "image_credit": "Anonymous Unknown author"
+  }
  }
 ]

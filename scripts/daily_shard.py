@@ -108,6 +108,7 @@ NOT_HOLDER_TYPES = {'Q5', 'Q768717', 'Q811683', 'Q33837', 'Q23442', 'Q6256', 'Q3
 #   private collection, proposed / never-built building, archipelago, island, country, sovereign state
 NOT_A_HOLDER = re.compile(r'private collection|privately held|private ownership|unknown|art market|auction|art dealer|'
                           r'collecting point|f\u00fchrermuseum|sonderauftrag|nepip|kress collection', re.I)   # wartime / looted-art depots are history, not holders
+UMBRELLA = re.compile(r'^(vlaamse kunstcollectie|flemish art collection)$', re.I)   # umbrella collections (MSK Ghent, KMSKA, Groeninge)
 CITY_TYPES = {'Q515', 'Q1549591', 'Q5119', 'Q1637706', 'Q200250', 'Q1093829', 'Q3957', 'Q484170', 'Q747074', 'Q2074737',
               'Q42744322', 'Q22865', 'Q15284', 'Q262166', 'Q5153359', 'Q493522', 'Q2039348', 'Q755707', 'Q127448',
               'Q856076', 'Q7930989', 'Q1763214', 'Q15127012', 'Q1906268', 'Q2264924', 'Q1187811', 'Q1115575', 'Q532'}
@@ -239,6 +240,8 @@ def pick_holder(hl, idx):
     """(gallery, city, country, mapped, holder) for one work, or None. A holder Artelier has a Gallery page for wins
     (its location first, then its collection); otherwise the collection's English name, then the location's."""
     hl = sorted([h for h in hl or [] if usable(h)], key=lambda h: (not h['preferred'], h['prop'] != 'P195'))
+    if any(not UMBRELLA.search(h['label']) for h in hl):          # a consortium collection is not a place: use the museum
+        hl = [h for h in hl if not UMBRELLA.search(h['label'])]
     for prop in ('P276', 'P195'):
         for h in hl:
             g = map_holder(h, idx) if h['prop'] == prop else None
