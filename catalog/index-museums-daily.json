@@ -154,5 +154,17 @@
   "museum": "Bavarian State Painting Collections",
   "gallery": "Bavarian State Painting Collections",
   "added": "2026-11-15"
+ },
+ {
+  "shard": "dresden-0000",
+  "museum": "Gemäldegalerie Alte Meister (Dresden State Art Collections)",
+  "gallery": "Gemäldegalerie Alte Meister",
+  "added": "2026-11-19"
+ },
+ {
+  "shard": "philadelphia-0000",
+  "museum": "Philadelphia Museum of Art",
+  "gallery": "Philadelphia Museum of Art",
+  "added": "2026-11-19"
  }
 ]
